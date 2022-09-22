@@ -23,12 +23,12 @@ class PdfminerHighLevelTextExtractor(Extractor):
         if  'laparams' not in self.kwargs:
             self.kwargs.update(laparams=pdfminer.layout.LAParams())
 
-    def output_file(self, pdf_reference: str | io.BinaryIO, pdf) -> str | list[str]:
+    def output_file(self, pdf_reference: str | io.IOBase, pdf) -> str | list[str]:
         """ Returns the name(s) of output files to generate. """
         if isinstance(pdf_reference, str):
-            return os.path.splitext(pdf_reference)[0]
+            return os.path.splitext(pdf_reference)[0] + ".txt"
         else:
-            return str(uuid.uuid4())
+            return str(uuid.uuid4()) + ".txt"
 
     def extract(self, pdf):
         """ Extract content from a PDF representation. """

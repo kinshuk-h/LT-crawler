@@ -1,0 +1,762 @@
+<html>
+
+
+
+
+
+
+
+<script type="text/javascript" src="js/scw.js"></script>
+<script language="JavaScript" src="../js/ae.js"></script>
+<script language="JavaScript" src="js/ae.js"></script>
+<link rel="stylesheet" type="text/css" title="default" href="css/blue.css">
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+
+
+
+
+<head>
+    <meta name="google-site-verification" content="VxSw3EPI66UnqLOFyjQXDgmKHdmj_jzQEw-rosChdSU" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Free Text Search||JUDGMENT OF DELHI HIGH COURT||PDF FORMAT||YEARWISE LISTING</title>
+
+
+    <script>
+
+        function process() {
+            var searchedtext = ""
+            var search_text1 = document.getElementById("search1").value;
+
+            if (search_text1 != 'undefined' && search_text1 != '') {
+                searchedtext = search_text1;
+            }
+            var search_text2 = document.getElementById("search2").value;
+
+            if (search_text2 != 'undefined' && search_text2 != '') {
+                searchedtext = searchedtext + "##" + search_text2;
+            }
+            var search_text3 = document.getElementById("search3").value;
+
+            if (search_text3 != 'undefined' && search_text3 != '') {
+
+                searchedtext = searchedtext + "##" + search_text3;
+            }
+            var search_text4 = document.getElementById("search4").value;
+
+            if (search_text4 != 'undefined' && search_text4 != '') {
+                searchedtext = searchedtext + "##" + search_text4;
+            }
+
+
+
+            if (searchedtext == 'undefined' && searchedtext == '' || searchedtext.length < 5) {
+                alert("Search Text should be at least 5 Characters Long");
+                return false;
+            }
+
+
+            document.getElementById("search_name").value = searchedtext;
+
+
+            var page = 0;
+            var url = document.forms[0].action + "?disp=" + new Date().toTimeString() + "&PAGE_NO=" + page;
+            document.forms[0].action = url;
+            document.getElementById("search_button").disabled = true;
+            document.getElementById("IMGDIV").style.display = 'inline';
+            document.forms[0].submit();
+
+
+        }
+
+        function process1() {
+            var searchedtext = ""
+            var search_text1 = document.getElementById("search1").value;
+
+            if (search_text1 != 'undefined' && search_text1 != '') {
+                searchedtext = search_text1;
+            }
+            var search_text2 = document.getElementById("search2").value;
+
+            if (search_text2 != 'undefined' && search_text2 != '') {
+                searchedtext = searchedtext + "##" + search_text2;
+            }
+            var search_text3 = document.getElementById("search3").value;
+
+            if (search_text3 != 'undefined' && search_text3 != '') {
+
+                searchedtext = searchedtext + "##" + search_text3;
+            }
+            var search_text4 = document.getElementById("search4").value;
+
+            if (search_text4 != 'undefined' && search_text4 != '') {
+                searchedtext = searchedtext + "##" + search_text4;
+            }
+
+
+
+            if (searchedtext == 'undefined' && searchedtext == '' || searchedtext.length < 5) {
+                alert("Search Text should be at least 5 Characters Long");
+                return false;
+            }
+
+
+            document.getElementById("search_name").value = searchedtext;
+
+
+            var page = document.getElementById("Selected_page").value;
+            var url = document.forms[0].action + "?disp=" + new Date().toTimeString() + "&PAGE_NO=" + page;
+            document.forms[0].action = url;
+            document.getElementById("search_button").disabled = true;
+            document.getElementById("IMGDIV").style.display = 'inline';
+            document.forms[0].submit();
+
+
+        }
+        function comparedate(frmdate, todate) {
+
+            var dateTime1 = new Date(frmdate).getTime();
+
+            var dateTime2 = new Date(todate).getTime();
+            var diff = dateTime1 - dateTime2;
+            if (diff > 0) {
+                alert("From date can not be greater than To date.");
+                return false;
+            } else {
+                return true;
+            }
+
+        }
+
+
+        function fetchresult(index) {
+
+            document.getElementById("Selected_page").value = index;
+
+            process();
+        }
+
+        function setnext() {
+
+            document.getElementById("Selected_page").value = "2";
+            document.getElementById("LINKDIV").style.display = 'none';
+            document.getElementById("IMGDIV").style.display = 'inline';
+
+            process1();
+
+        }
+
+
+        function setpre() {
+
+            document.getElementById("Selected_page").value = "0";
+            document.getElementById("LINKDIV").style.display = 'none';
+            document.getElementById("IMGDIV").style.display = 'inline';
+
+            process1();
+
+        }
+
+
+        function popload(url) {
+            var url = url;
+            window.open(url, 'DHC', "resizable=1,scrollbars=1,width=800,height=600");
+        }
+
+        function setorder(orderby) {
+            //document.getElementById("orderby").value=orderby;
+
+            document.forms[0].orderby.value = orderby;
+            document.getElementById("LINKDIV").style.display = 'none';
+            document.getElementById("IMGDIV").style.display = 'inline';
+            process();
+
+        }
+    </script>
+
+    <style>
+        body {
+            font-family: "Trebuchet MS";
+            font-size: 11px;
+            color: #000000;
+            text-align: justify;
+            font-weight: bold;
+        }
+
+        .clearfix {
+            clear: both;
+            display: block;
+            position: relative;
+            width: 100%;
+        }
+
+        .clearfix:before,
+        .clearfix:after {
+            content: " ";
+            display: table;
+        }
+
+        .clearfix:after {
+            clear: both;
+        }
+
+        *,
+        *::before,
+        *::after {
+            box-sizing: border-box;
+            -ms-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            -webkit-box-sizing: border-box;
+            -o-box-sizing: border-box;
+        }
+
+        .wrapper {
+            width: 100%;
+            display: block;
+            padding: 15px;
+        }
+
+        .wrapper h3 {
+            display: block;
+            text-align: center;
+        }
+
+        .wrapper .free-text-form {
+            text-align: center;
+        }
+
+        .field-wrapper {
+            padding: 7px 0px;
+            display: block;
+            width: 100%;
+        }
+
+        .field-wrapper input[type="text"],
+        .field-wrapper label,
+        .field-wrapper img {
+            display: inline-block;
+        }
+
+        .field-wrapper label {
+            font-weight: bold;
+            font-size: 14px;
+            margin-right: 7px;
+        }
+
+        .field-wrapper input[type="text"] {
+            margin-right: 5px;
+        }
+
+        .field-wrapper img {
+            width: 25px;
+            vertical-align: middle;
+        }
+
+        .field-wrapper .ex-margin-left {
+            margin-right: 25px;
+        }
+    </style>
+</head>
+
+<body onload="renderdata();">
+    <div align="center">
+        <table>
+            <tr>
+                <td align="left" valign="top" class="logo"><img src="img/logo.jpg" alt="" width="57" height="60" /></td>
+                <td align="center" valign="top"><a href="#"><img src="img/delhihighcourt.jpg" alt="" width="700"
+                            height="60" border="0" /></a></td>
+                <td align="right" valign="top" class="icon"><span class="logo"><img src="img/logo.jpg" alt="" width="57"
+                            height="60" /></span></td>
+            </tr>
+            <tr>
+
+                <td align="right" valign="top" colspan='3'><span class="logo"><a href='launchbrowsejud.do'>Access
+                            Judgment OF DELHI HIGH COURT</a></span></td>
+            </tr>
+        </table>
+    </div>
+
+
+
+    <div id="load" align="center" style="display:none;"><img src="img/WaitingBig.gif" align="middle" border="0"
+            height="105" width="105"></div>
+
+    <form name="globalForm" method="post"
+        action="/FreeText/GetSearchResult.do;jsessionid=2FF3D009B3CFCAF7B7E3EDDB5A91AFCF">
+
+        <div class="wrapper">
+            <h3> Freetext Search in Judgments/Orders </h3>
+            <div class="free-text-form clearfix">
+                <span class="error"></span>
+
+                <div class="field-wrapper">
+                    <label>Text to be searched:</label>
+                    <input type="text" placeholder="Text Search1" id="search1" size="20" maxlength="30"
+                        value="Trade Marks" />:
+                    <input type="text" placeholder="Text Search2" id="search2" size="20" maxlength="30" value="" />:
+                    <input type="text" placeholder="Text Search3" id="search3" size="20" maxlength="30" value="" />:
+                    <input type="text" placeholder="Text Search4" id="search4" size="20" maxlength="30" value="" />
+                    <input type="hidden" name="search_name" value="Trade Marks" id="search_name">
+                    <br><br>
+                    <center>
+                        <input type="button" name="" value="Search" onclick="process();" ondblclick="process();"
+                            id="search_button">
+                    </center>
+                    <br>
+
+                </div>
+            </div>
+        </div>
+
+
+        <table class="stylenew" align="center" border="0" cellpadding="0" cellspacing="0">
+
+            <tr>
+                <td colspan="6" align="center"></td>
+            </tr>
+            <tr>
+
+        </table>
+
+
+        <table width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+
+            <tr>
+                <td colspan="6" align="center">
+                    <input type="hidden" name="Selected_page" value="1" id="Selected_page">
+                    <input type="hidden" name="total_no_page" value="23" id="total_no_page">
+                    <input type="hidden" name="orderby" value="desc" id="orderby">
+    </form>
+    <script type="text/javascript" language="JavaScript">
+  < !--
+  var focusControl = document.forms["globalForm"].elements["search_name"];
+
+        if (focusControl != null && focusControl.type != "hidden" && !focusControl.disabled && focusControl.style.display != "none") {
+            focusControl.focus();
+        }
+  // -->
+    </script>
+
+
+    <div id="IMGDIV" style="display: none;">
+
+        <img src="img/loading.gif" width="30px" height="30px" align="top">
+
+    </div>
+
+
+
+    <table width="600"
+        style=" font:'Times New Roman', Times, serif; font-size:10px; font-family:'Times New Roman', Times, serif; font-style:normal; font-weight: bold;"
+        border="0" align="left" cellpadding="0" cellspacing="0">
+
+
+        <tr>
+            <td colspan="5" align="center">
+                <h3>
+                    <em><strong>
+                            (Showing 1 to 10 records from total 1570 records )
+                        </strong></em>
+                </h3>
+            </td>
+        </tr>
+
+
+        <TR>
+            <TD align='center' colspan='5'>
+
+
+                <div id="LINKDIV">
+
+                    <span class="page_link">
+                        Previous
+                    </span>
+
+
+
+
+
+
+                    <span class="page_link">&nbsp;&nbsp;Page. No. 1&nbsp;&nbsp; </span>
+
+
+
+
+                    <span class="page_link">
+                        <a href="#" onclick="setnext();">Next</a>
+                    </span>
+
+
+                </div>
+
+            </TD>
+        </TR>
+
+
+        <tr>
+            <td width="25" align="center" class="bluebg"><strong>No.</strong></span></td>
+
+            <td width="125" align="center" class="bluebg"><strong>Case No. </strong></td>
+
+            <td width="300" align="center" class="bluebg"><strong>Title</strong></td>
+
+
+
+            <td colspan="2" align="center" class="bluebg" width="150">
+
+                <img src="img/down.png" style='border-style: none;cursor:pointer;display:block;'
+                    onClick="setorder('ASC');" onDblClick="setorder('ASC');">
+
+                <strong>Judgment/Order Date </strong>
+
+
+            </td>
+
+
+        </tr>
+
+
+
+
+
+
+        <tr bgcolor="#C8E9F9">
+
+            <td align="center" class="tabletxt" valign="top">
+                1
+            </td>
+
+            <td class="tabletxt" valign="top" align="center">SC 1533/2016</td>
+
+            <td align="center">TELEFONAKTIEBOLAGET LM ERICSSON(PUBL) VS GIONEE COMMUNICATION EQUIPMENT CO LTD &amp; ANR
+            </td>
+
+
+            <td class="tabletxt" valign="top" align="center" width="125">
+                18/08/2022
+            </td>
+
+            <td class="tabletxt" valign="top" align="center" width="50">
+
+
+                <a href='download.do?FILENAME=dhc/NAC/judgement/20-08-2022//NAC18082022SC15332016_170316.pdf&ID=2145797232_0'
+                    onclick='popload("download.do?FILENAME=dhc/NAC/judgement/20-08-2022//NAC18082022SC15332016_170316.pdf&ID=2145797232_0")'
+                    target='_blank'><img width='30' height='30' border=0 src='img/pdf.png'></a>
+
+
+
+            </td>
+
+        </tr>
+
+
+
+
+
+
+        <tr bgcolor="#FFFFFF">
+
+            <td align="center" class="tabletxt" valign="top">
+                2
+            </td>
+
+            <td class="tabletxt" valign="top" align="center">WO 101/2021</td>
+
+            <td align="center">M/S VEE EXCEL DRUGS &amp; PHARMACEUTICALS (P) LTD. VS UNION OF INDIA &amp; OTHERS</td>
+
+
+            <td class="tabletxt" valign="top" align="center" width="125">
+                18/08/2022
+            </td>
+
+            <td class="tabletxt" valign="top" align="center" width="50">
+
+
+                <a href='download.do?FILENAME=dhc/NAC/judgement/20-08-2022//NAC18082022WO1012021_170459.pdf&ID=2145797232_1'
+                    onclick='popload("download.do?FILENAME=dhc/NAC/judgement/20-08-2022//NAC18082022WO1012021_170459.pdf&ID=2145797232_1")'
+                    target='_blank'><img width='30' height='30' border=0 src='img/pdf.png'></a>
+
+
+
+            </td>
+
+        </tr>
+
+
+
+
+
+
+        <tr bgcolor="#C8E9F9">
+
+            <td align="center" class="tabletxt" valign="top">
+                3
+            </td>
+
+            <td class="tabletxt" valign="top" align="center">CAT 125/2021</td>
+
+            <td align="center">RUPTECH EDUCATIONAL INDIA VS REGISTRAR TRADE MARKS</td>
+
+
+            <td class="tabletxt" valign="top" align="center" width="125">
+                18/08/2022
+            </td>
+
+            <td class="tabletxt" valign="top" align="center" width="50">
+
+
+                <a href='download.do?FILENAME=dhc/PMS/judgement/22-08-2022//PMS18082022CAT1252021_162520.pdf&ID=2145797232_2'
+                    onclick='popload("download.do?FILENAME=dhc/PMS/judgement/22-08-2022//PMS18082022CAT1252021_162520.pdf&ID=2145797232_2")'
+                    target='_blank'><img width='30' height='30' border=0 src='img/pdf.png'></a>
+
+
+
+            </td>
+
+        </tr>
+
+
+
+
+
+
+        <tr bgcolor="#FFFFFF">
+
+            <td align="center" class="tabletxt" valign="top">
+                4
+            </td>
+
+            <td class="tabletxt" valign="top" align="center">S 250/2010</td>
+
+            <td align="center">AUSTIN NICHOLS &amp; CO INC &amp; ANR VS GWALIOR DISTILLERIES PRIVATE LTD &amp; ANR</td>
+
+
+            <td class="tabletxt" valign="top" align="center" width="125">
+                18/08/2022
+            </td>
+
+            <td class="tabletxt" valign="top" align="center" width="50">
+
+
+                <a href='download.do?FILENAME=dhc/NAC/judgement/20-08-2022//NAC18082022S2502010_170405.pdf&ID=2145797232_3'
+                    onclick='popload("download.do?FILENAME=dhc/NAC/judgement/20-08-2022//NAC18082022S2502010_170405.pdf&ID=2145797232_3")'
+                    target='_blank'><img width='30' height='30' border=0 src='img/pdf.png'></a>
+
+
+
+            </td>
+
+        </tr>
+
+
+
+
+
+
+        <tr bgcolor="#C8E9F9">
+
+            <td align="center" class="tabletxt" valign="top">
+                5
+            </td>
+
+            <td class="tabletxt" valign="top" align="center">CRLW 1376/2020</td>
+
+            <td align="center">FLIPKART INTERNET PRIVATE LTD. VS STATE OF NCT OF DELHI &amp; ANR.</td>
+
+
+            <td class="tabletxt" valign="top" align="center" width="125">
+                17/08/2022
+            </td>
+
+            <td class="tabletxt" valign="top" align="center" width="50">
+
+
+                <a href='download.do?FILENAME=dhc/AMN/judgement/17-08-2022//AMN17082022CRLW13762020_111444.pdf&ID=2145797232_4'
+                    onclick='popload("download.do?FILENAME=dhc/AMN/judgement/17-08-2022//AMN17082022CRLW13762020_111444.pdf&ID=2145797232_4")'
+                    target='_blank'><img width='30' height='30' border=0 src='img/pdf.png'></a>
+
+
+
+            </td>
+
+        </tr>
+
+
+
+
+
+
+        <tr bgcolor="#FFFFFF">
+
+            <td align="center" class="tabletxt" valign="top">
+                6
+            </td>
+
+            <td class="tabletxt" valign="top" align="center">FAOC 116/2022</td>
+
+            <td align="center">DEVARPAN FOODS PRIVATE LIMITED VS SUKHWANT SINGH &amp; ORS.</td>
+
+
+            <td class="tabletxt" valign="top" align="center" width="125">
+                17/08/2022
+            </td>
+
+            <td class="tabletxt" valign="top" align="center" width="50">
+
+
+                <a href='download.do?FILENAME=dhc/595/judgement/22-08-2022//59517082022FAOC1162022_212944.pdf&ID=2145797232_5'
+                    onclick='popload("download.do?FILENAME=dhc/595/judgement/22-08-2022//59517082022FAOC1162022_212944.pdf&ID=2145797232_5")'
+                    target='_blank'><img width='30' height='30' border=0 src='img/pdf.png'></a>
+
+
+
+            </td>
+
+        </tr>
+
+
+
+
+
+
+        <tr bgcolor="#C8E9F9">
+
+            <td align="center" class="tabletxt" valign="top">
+                7
+            </td>
+
+            <td class="tabletxt" valign="top" align="center">SC 393/2022</td>
+
+            <td align="center">METIS LEARNING SOLUTIONS PRIVATE LIMITED VS FLIPKART INDIA PRIVATE LIMITED &amp; ORS.
+            </td>
+
+
+            <td class="tabletxt" valign="top" align="center" width="125">
+                08/08/2022
+            </td>
+
+            <td class="tabletxt" valign="top" align="center" width="50">
+
+
+                <a href='download.do?FILENAME=dhc/JIS/judgement/17-08-2022//JIS08082022SC3932022_201813.pdf&ID=2145797232_6'
+                    onclick='popload("download.do?FILENAME=dhc/JIS/judgement/17-08-2022//JIS08082022SC3932022_201813.pdf&ID=2145797232_6")'
+                    target='_blank'><img width='30' height='30' border=0 src='img/pdf.png'></a>
+
+
+
+            </td>
+
+        </tr>
+
+
+
+
+
+
+        <tr bgcolor="#FFFFFF">
+
+            <td align="center" class="tabletxt" valign="top">
+                8
+            </td>
+
+            <td class="tabletxt" valign="top" align="center">CAT 146/2022</td>
+
+            <td align="center">SUN PHARMA LABORATORIES LTD. VS DABUR INDIA LTD. &amp; ANR.</td>
+
+
+            <td class="tabletxt" valign="top" align="center" width="125">
+                08/08/2022
+            </td>
+
+            <td class="tabletxt" valign="top" align="center" width="50">
+
+
+                <a href='download.do?FILENAME=dhc/PMS/judgement/16-08-2022//PMS08082022CAT1462022_152124.pdf&ID=2145797232_7'
+                    onclick='popload("download.do?FILENAME=dhc/PMS/judgement/16-08-2022//PMS08082022CAT1462022_152124.pdf&ID=2145797232_7")'
+                    target='_blank'><img width='30' height='30' border=0 src='img/pdf.png'></a>
+
+
+
+            </td>
+
+        </tr>
+
+
+
+
+
+
+        <tr bgcolor="#C8E9F9">
+
+            <td align="center" class="tabletxt" valign="top">
+                9
+            </td>
+
+            <td class="tabletxt" valign="top" align="center">FAC 169/2022</td>
+
+            <td align="center">MR LV DEGAO &amp; ORS. VS HTC CORPORATION &amp; ORS.</td>
+
+
+            <td class="tabletxt" valign="top" align="center" width="125">
+                04/08/2022
+            </td>
+
+            <td class="tabletxt" valign="top" align="center" width="50">
+
+
+                <a href='download.do?FILENAME=dhc/VIB/judgement/16-08-2022//VIB04082022FAC1692022_162902.pdf&ID=2145797232_8'
+                    onclick='popload("download.do?FILENAME=dhc/VIB/judgement/16-08-2022//VIB04082022FAC1692022_162902.pdf&ID=2145797232_8")'
+                    target='_blank'><img width='30' height='30' border=0 src='img/pdf.png'></a>
+
+
+
+            </td>
+
+        </tr>
+
+
+
+
+
+
+        <tr bgcolor="#FFFFFF">
+
+            <td align="center" class="tabletxt" valign="top">
+                10
+            </td>
+
+            <td class="tabletxt" valign="top" align="center">SC 135/2022</td>
+
+            <td align="center">DABUR INDIA LIMITED VS ASHOK KUMAR AND ORS</td>
+
+
+            <td class="tabletxt" valign="top" align="center" width="125">
+                03/08/2022
+            </td>
+
+            <td class="tabletxt" valign="top" align="center" width="50">
+
+
+                <a href='download.do?FILENAME=dhc/PMS/judgement/05-08-2022//PMS03082022SC1352022_172319.pdf&ID=2145797232_9'
+                    onclick='popload("download.do?FILENAME=dhc/PMS/judgement/05-08-2022//PMS03082022SC1352022_172319.pdf&ID=2145797232_9")'
+                    target='_blank'><img width='30' height='30' border=0 src='img/pdf.png'></a>
+
+
+
+            </td>
+
+        </tr>
+
+
+
+        </TBODY>
+    </table>
+
+
+
+</body>
+
+</html>

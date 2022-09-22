@@ -9,7 +9,7 @@ class JudgmentRetriever(abc.ABC):
     """ Abstract class to group methods related to retrieval of judgment documents from court websites. """
     @classmethod
     @abc.abstractmethod
-    def get_judgments(cls, query: str, page: int|str = 0) -> tuple[list[dict[str]], dict[str]]:
+    def get_judgments(cls, query: str, *args, **kwargs) -> tuple[list[dict[str]], dict[str]]:
         """ Abstract method to retrieve judgment details for a given search query. """
         raise NotImplementedError
 
@@ -27,7 +27,7 @@ class JudgmentRetriever(abc.ABC):
             judgments (list[dict[str]]): Judgment objects, as returned by a call to `get_judgments`
             output_dir (str, optional): Directory to save documents in. Defaults to the current working directory.
         """
-        async with aiohttp.ClientSession() as session:
+        async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
             # Get download URLs for every document:
             urls = await asyncio.gather(*(
                 cls.preprocess_document_url(judgment['document_href'], session)

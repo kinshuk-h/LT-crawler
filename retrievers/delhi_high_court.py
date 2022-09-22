@@ -16,12 +16,12 @@ class DHCJudgmentRetriever(JudgmentRetriever):
     SCRIPT_URL_REGEX     = re.compile(r"(?ui)window\.open\('([^']+)',")
 
     @classmethod
-    def get_judgments(cls, query: str, page: int | str = 0):
+    def get_judgments(cls, query: str, page: int | str = 0, *args, **kwargs):
         response = requests.post(cls.FREE_TEXT_SEARCH_URL, {
             'search_name': query, 'PAGE_NO': page
         })
         response.raise_for_status()
-        logger.debug("{} {}: HTTP {}", response.request.method or "GET", response.url, response.status_code)
+        logger.debug("%s %s: HTTP %d", response.request.method or "GET", response.url, response.status_code)
 
         judgments, metadata = [], {}
 
@@ -38,6 +38,7 @@ class DHCJudgmentRetriever(JudgmentRetriever):
                         page=int(page.find('input', id='Selected_page')['value']),
                         page_total=total // 10
                     )
+                    logger.debug("page %d: %d to %d of %d records", metadata['page'], start, end, total)
                     if start > 1:
                         metadata['page_previous'] = metadata['page']-1
                     if end < (total-10):
@@ -54,7 +55,7 @@ class DHCJudgmentRetriever(JudgmentRetriever):
         return judgments, metadata
 
     @classmethod
-    async def preprocess_document_url(cls, session: aiohttp.ClientSession, url: str) -> str:
+    async def preprocess_document_url(cls, url: str, session: aiohttp.ClientSession) -> str:
         """ Processes a judgment document URL, resolving it into the actual file URL. """
         async with session.get(url) as response:
             response.raise_for_status()

@@ -32,7 +32,7 @@ async def download_file(
     try:
         async with session.get(url) as response:
             response.raise_for_status()
-            logger.debug("GET {}: HTTP {}", str(response.url), response.status)
+            logger.debug("GET %s: HTTP %s", str(response.url), response.status)
             if "Content-Disposition" in response.headers:
                 file_name = re.findall("filename=(.+)", response.headers["Content-Disposition"])[0]
             else:
@@ -43,7 +43,7 @@ async def download_file(
             with open(file_path, 'wb') as file:
                 async for chunk in response.content.iter_chunked(n=chunk_size):
                     file.write(chunk)
-            logger.debug("Saved '{}' to '{}'", file_name, output_dir)
+            logger.debug("Saved '%s' to '%s'", file_name, output_dir)
             return file_path
     except aiohttp.ClientError as exc:
         if suppress_exc:

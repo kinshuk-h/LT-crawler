@@ -24,7 +24,7 @@ class Extractor(abc.ABC):
             path (str): Destination path to save the file.
         """
         with open(path, 'wb', encoding=None) as file:
-            file.write(content)
+            file.write(content.encode() if isinstance(content, str) else content)
 
     def extract_to_file(self, pdf_reference: str | io.BinaryIO):
         """ Extracts PDF content to a file.

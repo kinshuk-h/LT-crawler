@@ -95,7 +95,7 @@ def main():
 
         print(parser.prog, ': extracting content from downloaded judgments using ', args.extractor, ' ... ', sep='')
         for pdf_file in judgment_files:
-            extractor.extract_as_file(pdf_file)
+            extractor.extract_to_file(pdf_file)
         print('done')
     except Exception as exc:
         print('error')

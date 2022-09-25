@@ -11,6 +11,7 @@ logger.setLevel(logging.WARNING)
 
 from .base import Extractor
 from .parsr import ParsrExtractor
+from .adobe import AdobeAPIExtractor
 from .pdfminer import PdfminerHighLevelTextExtractor
 
 __version__ = "1.0.0"
@@ -19,5 +20,6 @@ __all__     = [
     "Extractor",
     "PdfminerHighLevelTextExtractor",
     "ParsrExtractor",
+    "AdobeAPIExtractor",
     "logger"
 ]

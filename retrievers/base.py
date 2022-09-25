@@ -1,3 +1,4 @@
+import os
 import abc
 import asyncio
 
@@ -40,7 +41,7 @@ class JudgmentRetriever(abc.ABC):
             ))
             # Update judgment objects with the downloaded paths, and return the paths:
             for path, judgment in zip(paths, judgments):
-                judgment['document_path'] = path
+                judgment['document_path'] = os.path.abspath(path)
             return paths
 
     @classmethod

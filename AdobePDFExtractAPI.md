@@ -29,5 +29,13 @@ Plans:
 - Page Count: 200 pages (non-scanned, textual), 100 pages (scanned, images)
 - Request Rate: 25 requests / minute
 
+### Usage with `doc_collect.py`:
+- To use the API, first download the credentials archive (ZIP) from [Adobe](https://documentcloud.adobe.com/dc-integration-creation-app-cdn/main.html?api=pdf-extract-api)
+- Extract the contents of the archive.
+- In the project root directory, create a subdirectory named `credentials`.
+- Add the following files to the subdirectory from the extracted archive directory:
+  - `pdfservices-api-credentials.json` (in `<ExtractRoot>/adobe-dc-pdf-services-sdk-extract-python-samples/`)
+  - `private.key` (in `<ExtractRoot>/`)
+
 ### References:
 - [https://developer.adobe.com/document-services/docs/overview/pdf-extract-api/howtos/extract-api](https://developer.adobe.com/document-services/docs/overview/pdf-extract-api/howtos/extract-api)

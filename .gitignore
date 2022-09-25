@@ -1,5 +1,7 @@
 *Judgments/
 .tmp*/**
+credentials/**
+PDFServicesSDKSamples/**
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

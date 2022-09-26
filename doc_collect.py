@@ -1,4 +1,3 @@
-from operator import le
 import os
 import re
 import sys
@@ -33,7 +32,7 @@ avl_retrievers = {
 avl_extractors = {
     'pdfminer_text': extractors.PdfminerHighLevelTextExtractor(),
     'parsr': extractors.ParsrExtractor(),
-    # 'parsr_extended': ,
+    'parsr_custom': None,
     'adobe_api': extractors.AdobeAPIExtractor(
         credentials_file=os.path.join(
             "credentials", "pdfservices-api-credentials.json"
@@ -45,7 +44,7 @@ def main():
     parser = argparse.ArgumentParser(
         description="Collect and extract text from judgments from SC and DHC websites"
     )
-    parser.add_argument('query', help='text to search for judgments')
+    parser.add_argument('query', help='text to search for judgments', nargs='?', default='')
     parser.add_argument('-d', '--debug', action='store_true',
                         help='enable debug logs')
     parser.add_argument('-c', '--court', default='DHC', choices=[ *avl_retrievers.keys() ],
@@ -59,12 +58,19 @@ def main():
                         default=None, nargs='?')
     parser.add_argument('--end-date', type=datetime.date.fromisoformat, help='load judgments upto this date',
                         default=None, nargs='?')
+    parser.add_argument('--parsr-config', default=None, help='path to configuration for parsr')
     parser.add_argument('-o', '--output-dir', default='Judgments', help='output directory to store judgments')
     parser.add_argument('-J', '--omit-json', action='store_false', dest='save_json',
                         help='omit saving judgment list results as JSON')
     parser.add_argument('--skip-existing', action='store_true', help='skip operations if results already exist')
 
     args = parser.parse_args()
+
+    if args.parsr_config is not None:
+        with open(args.parsr_config, 'r+', encoding='utf-8') as config:
+            avl_extractors['parsr_custom'] = extractors.ParsrExtractor(json.load(config))
+    else:
+        args.extractor.remove('parsr_custom')
 
     if not args.query and args.court != 'SC':
         print(parser.prog, ": error: query cannot be empty", sep='', file=sys.stderr, flush=True)

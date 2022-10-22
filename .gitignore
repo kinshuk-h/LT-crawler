@@ -1,4 +1,5 @@
 *Judgments/
+*.ini
 .tmp*/**
 credentials/**
 PDFServicesSDKSamples/**

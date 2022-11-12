@@ -2,7 +2,7 @@ SampleJudgments
 *.pdf
 *.ini
 .tmp*/**
-credentials/**
+docs/**
 PDFServicesSDKSamples/**
 
 # Byte-compiled / optimized / DLL files

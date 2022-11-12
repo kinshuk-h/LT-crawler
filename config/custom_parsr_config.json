@@ -1,0 +1,70 @@
+{
+        "version": 0.9,
+        "extractor": {
+            "pdf": "pdfminer",
+            "ocr": "tesseract",
+            "language": [
+                "eng"
+            ],
+            "credentials": {}
+        },
+        "cleaner": [
+            "out-of-page-removal",
+            [
+                "whitespace-removal",
+                {
+                    "minWidth": 0
+                }
+            ],
+            [
+                "redundancy-detection",
+                {
+                    "minOverlap": 0.5
+                }
+            ],
+            [
+                "header-footer-detection",
+                {
+                    "ignorePages": [],
+                    "maxMarginPercentage": 15,
+                    "similaritySizePercentage": 10
+                }
+            ],
+            [
+                "words-to-line-new",
+                {
+                    "modifyAvgWordsSpace": 0,
+                    "modifyCommonWordsSpace": 0
+                }
+            ],
+            [
+                "reading-order-detection",
+                {
+                    "minVerticalGapWidth": 5,
+                    "minColumnWidthInPagePercent": 15
+                }
+            ],
+            [
+                "lines-to-paragraph",
+                {
+                    "tolerance": 0.1
+                }
+            ],
+            "list-detection",
+            "page-number-detection",
+            "hierarchy-detection"
+        ],
+        "output": {
+            "granularity": "word",
+            "includeMarginals": false,
+            "includeDrawings": false,
+            "formats": {
+                "json": true,
+                "text": true,
+                "csv": false,
+                "markdown": false,
+                "pdf": false,
+                "simpleJson": true
+            }
+        }
+    }

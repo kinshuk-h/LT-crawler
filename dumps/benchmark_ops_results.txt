@@ -1,0 +1,23 @@
+﻿{'query': 'trade marks', 'count': 10, 'num_urls': 10}
+download_judgments_sync : 10 executions in 97.756 s
+download_judgments_sync : 9.776 s per operation
+download_judgments_async : 10 executions in 25.155 s
+download_judgments_async : 2.515 s per operation
+
+{'query': 'trade marks', 'count': 25, 'num_urls': 25}
+download_judgments_sync : 10 executions in 306.063 s
+download_judgments_sync : 30.606 s per operation
+download_judgments_async : 10 executions in 66.060 s
+download_judgments_async : 6.606 s per operation
+
+{'query': 'trade marks', 'count': 100, 'num_urls': 100}
+download_judgments_sync : 5 executions in 588.439 s
+download_judgments_sync : 117.688 s per operation
+download_judgments_async : 5 executions in 85.168 s
+download_judgments_async : 17.034 s per operation
+
+{'query': 'trade marks', 'count': 150, 'num_urls': 150}
+download_judgments_sync : 5 executions in 815.049 s
+download_judgments_sync : 163.010 s per operation
+download_judgments_async : 5 executions in 101.233 s
+download_judgments_async : 20.247 s per operation

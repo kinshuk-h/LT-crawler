@@ -1,4 +1,5 @@
-*Judgments/
+SampleJudgments
+*.pdf
 *.ini
 .tmp*/**
 credentials/**

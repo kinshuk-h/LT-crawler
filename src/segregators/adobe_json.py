@@ -20,7 +20,7 @@ class AdobeJSONSegregator(Segregator):
     def segregate(cls, data):
         try:
             elements = data['elements']
-            current_page, para_num, page_start, valid_content = 0, 1, 0, False
+            current_page, para_num, page_start, valid_content = 1, 1, 1, False
             extended_para_starter_regex = regex.compile(r"(?ui)^\p{Z}*((?:\p{N}+\p{Z}*\.)+)")
             paragraph_starter_regex = regex.compile(r"(?ui)^\p{Z}*\p{N}+\p{Z}*\.")
             header_path_regex       = regex.compile(r"(?u)\/H\d+")

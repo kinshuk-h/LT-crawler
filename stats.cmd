@@ -1,5 +1,5 @@
 @echo off
-cloc . --exclude-dir=Judgments,dumps,PDFServicesSDKSamples --exclude-ext=json,txt,md --counted=evaluated_files
+cloc . --exclude-dir=Judgments,dumps,PDFServicesSDKSamples,docs,SampleJudgments --exclude-ext=json,txt,md,csv,pdf,ini --counted=evaluated_files
 echo.
 echo Evaluated files:
 type evaluated_files

@@ -111,15 +111,21 @@ class AdobeAPIExtractor(Extractor):
             try:
                 extract_pdf_operation = ExtractPDFOperation.create_new()
                 extract_pdf_operation.set_input(pdf).set_options(self.extract_opts)
+
                 result = extract_pdf_operation.execute(self.context)
-                temp_fd, temp_path = tempfile.mkstemp(suffix=".zip")
-                with os.fdopen(temp_fd, 'wb') as zip_stream:
-                    logger.debug("downloading archive to %s", temp_path)
-                    result.write_to_stream(zip_stream)
-                    logger.debug("extracting content from archive")
-                    zip_file = zipfile.ZipFile(temp_path)
+
+                # pylint: disable-next=protected-access
+                structured_json, zip_file_path = None, result._file_path
+                if zip_file_path is None:
+                    zip_file_path = os.path.join(tempfile.gettempdir(), os.urandom(8).hex('-',2)+'.zip')
+                    result.save_as(zip_file_path)
+                logger.debug(f"extracting content from archive '{zip_file_path}'")
+                with zipfile.ZipFile(zip_file_path) as zip_file:
                     structured_json = json.loads(zip_file.read('structuredData.json'))
-                    return structured_json
+                if os.path.exists(zip_file_path):
+                    os.remove(zip_file_path)
+
+                return structured_json
             except (ServiceApiException, ServiceUsageException, SdkException):
                 logger.exception("error while extracting using the API")
                 time.sleep(5)

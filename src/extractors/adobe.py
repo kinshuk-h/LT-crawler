@@ -18,6 +18,7 @@ from adobe.pdfservices.operation.pdfops.options.extractpdf.extract_pdf_options i
 from adobe.pdfservices.operation.pdfops.options.extractpdf.extract_element_type import ExtractElementType
 from adobe.pdfservices.operation.exception.exceptions import ServiceApiException, ServiceUsageException, SdkException
 
+from ..utils import log_time
 from . import logger as root_logger
 from .base import Extractor
 
@@ -104,6 +105,7 @@ class AdobeAPIExtractor(Extractor):
             logger.debug("creating local instance from PDF stream")
             return FileRef.create_from_stream(pdf_reference, "application/pdf")
 
+    @log_time(logger)
     def extract(self, pdf):
         """ Extract content from a PDF representation. """
         attempt = 0

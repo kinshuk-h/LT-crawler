@@ -1,5 +1,7 @@
 import os
 import glob
+import timeit
+import logging
 import hashlib
 import threading
 import itertools
@@ -136,6 +138,19 @@ class FileIndexStore:
         else:
             return status
 
+def log_time(logger: logging.Logger, level = logging.INFO):
+    """ Generates a decorator that logs the execution time of a function to a given logging.Logger object. """
+    def make_time_logger(func):
+        @functools.wraps(func)
+        def call_and_log_time(*args, **kwargs):
+            tic = timeit.default_timer()
+            result = func(*args, **kwargs)
+            toc = timeit.default_timer()
+            logger.log(level, "%s(): execution completed in %.3fs", func.__name__, toc-tic)
+            return result
+        return call_and_log_time
+    return make_time_logger
+
 __version__ = "1.0.0"
 __author__  = "Kinshuk Vasisht"
 __all__     = [
@@ -143,4 +158,5 @@ __all__     = [
     "ProgressBarManager",
     "IndeterminateProgressCycle",
     "FileIndexStore",
+    "log_time"
 ]

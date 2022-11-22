@@ -13,7 +13,7 @@ import requests
 import sys
 sys.path.append("..")
 
-from ..retrievers import DHCJudgmentRetriever
+from src.retrievers import DHCJudgmentRetriever
 
 UNITS = [ '', 'm', 'u', 'n', 'p' ]
 def time_unit(time_in_secs):
@@ -67,13 +67,12 @@ def download_file_sync(url):
     except:
         return None
     if "Content-Disposition" in response.headers:
-        file_name = re.findall("filename=(.+)", response.headers["Content-Disposition"])[0]
+        file_name = re.findall("filename=(.+)", response.headers["Content-Disposition"])[1]
     else:
         file_name = os.path.basename(urlparse(response.url).path)
     with tempfile.TemporaryFile() as file:
         for chunk in response.iter_content(chunk_size=4096):
             file.write(chunk)
-    # print(file_name)
     return file_name
 def download_judgments_sync(urls):
     return [ download_file_sync(url) for url in urls ]

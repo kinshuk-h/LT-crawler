@@ -11,12 +11,11 @@ import threading
 import collections
 import concurrent.futures
 
-from src import utils, retrievers, extractors, segregators, filters
+from src import utils, retrievers, extractors, segregators, filters, handler
 
 if '-d' in sys.argv or '--debug' in sys.argv:
     logging.basicConfig(level=logging.CRITICAL)
-    retrievers.logger.setLevel(logging.DEBUG)
-    extractors.logger.setLevel(logging.DEBUG)
+    handler.setLevel(logging.DEBUG)
 
 def now(tz=None):
     """ Returns the current timestamp in ISO 8601 format as a string. """

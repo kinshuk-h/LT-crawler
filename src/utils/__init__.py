@@ -1,7 +1,11 @@
 import os
+import glob
 import hashlib
 import threading
+import itertools
+import functools
 import collections
+import concurrent.futures
 
 from .progress import ProgressBar, IndeterminateProgressCycle, ProgressBarManager
 
@@ -42,11 +46,33 @@ def file_digest(filepath, primary_chunk_only = False):
     return hash_object.digest()
 
 class FileIndexStore:
-    """ Utility class to maintain a record of existing files. """
+    """ Utility class to maintain a record of existing files by indexing using file sizes and hashes. """
 
     def __init__(self) -> None:
         self.lock = threading.Lock()
         self.data = collections.defaultdict(lambda: collections.defaultdict(dict))
+
+    def load_directory(self, directory, file_glob="*.*", callback=None):
+        """ Loads multiple files from a given directory into the index store.
+            This function may utilize multiple threads to perform I/O concurrently.
+
+        Args:
+            directory (str): The path to the directory to load from. The basename is used as the group.
+            file_glob (str, optional): Optional glob pattern to load specific files. Defaults to *.*
+            callback ((*args) -> None, optional): Optional callback to invoke upon
+                completion of every load operation. Defaults to None.
+
+        Returns:
+           list[dict] : List of file information dictionaries.
+        """
+        group = os.path.basename(directory)
+        files = glob.glob(file_glob, root_dir=directory)
+        with concurrent.futures.ThreadPoolExecutor() as executor:
+            return [ *executor.map(
+                self.load, (os.path.join(directory, file) for file in files),
+                itertools.repeat(group), itertools.repeat(None),
+                itertools.repeat(callback)
+            ) ]
 
     def load(self, filepath, group, index_info=None, callback=None):
         """ Loads a filepath into the index store, under the specified group.

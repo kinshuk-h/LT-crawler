@@ -7,7 +7,7 @@ from urllib.parse import urlparse
 import aiohttp
 import requests
 
-from src import utils, console_handler
+from src import utils
 from src.retrievers import DHCJudgmentRetriever
 from src.extractors import AdobeAPIExtractor
 

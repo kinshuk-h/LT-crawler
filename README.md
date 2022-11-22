@@ -1,16 +1,17 @@
-# LT-Crawler:
+# LT-Crawler
 
 The LT-Crawler project is developed for the task of curation of a dataset of paragraphs
 Legal Documents (Judgments) from the websites of Indian Courts.
 
-## Requirements:
+## Requirements
 
 - Python, v3.7 or newer
 - Module requirements, as given in the included `requirements.txt` file.
 
-## Structure:
+## Structure
 
 The project is organized into the following hierarchy:
+
 - `config`: Configuration and credential files for usage of proprietory APIs (such as the [Adobe API](AdobePDFExtractAPI.md)).
 - `data`: Default location for downloaded Judgments and generated JSON files.
   - `judgments`: Default location for storing downloaded judgment files
@@ -27,9 +28,10 @@ The project is organized into the following hierarchy:
   - `scripts`: Scripts for testing module functionality and benchmarking
 - `doc_collect.py`: Main script implementating the curation pipeline, utilizing the developed modules
 
-## Data Description:
+## Data Description
 
 The curated dataset, generated as a set of JSON files, comprises of the following information:
+
 - Judgment Title, usually of form `<PETITIONER> VS <RESPONDENT>`
 - Judgment Metadata: Court, Case Number, Date of Judgment, etc.
 - Link to the judgment document, available online
@@ -39,7 +41,8 @@ The curated dataset, generated as a set of JSON files, comprises of the followin
   - Reference, indicating the reference to the paragraph in the document (may not be the same as paragraph number)
   - Paragraph Content
 
-## Utilized Search Terms for Curation (suggested by Experts from the Law Faculty):
+## Utilized Search Terms for Curation (suggested by Experts from the Law Faculty)
+
 - Patents
 - Copyrights
 - Trademarks
@@ -50,24 +53,26 @@ The curated dataset, generated as a set of JSON files, comprises of the followin
 - Geographical Indications
 - Trade Secrets
 
-## Caveats:
+## Caveats
 
 - Some documents cannot be processed even by the Adobe API, so as a result the corresponding paragraph
   results in the JSON files may not be present.
 - Some extractors do not work without the specification of the required parameters
   (e.g.: `--adobe-credentials` for the `adobe_api` extractor).
 
-## Helper Scripts:
+## Helper Scripts (under `src/scripts`)
 
 - `validate_docs.py`: This script validates downloaded judgment files with reference to dataset JSON files,
                       and can redownload missing files or remove unused files.  
     Example Usage:
+
     ```powershell
     python3 src/scripts/validate_docs.py --fix-missing --remove-unused
     ```
+
 - `test_dhc_doc_urls.py`: This script demonstates the inconsistent results returned by the DHC website, by downloading 4 judgments via different URLs whose PDFs have different hashes. Post extraction, the text content of all PDFs is the same.
 
-## Examples:
+## Examples
 
 - Generate paragraphs from the results on the first 10 pages for the search term 'trade marks' over the website of the Delhi High Court, using only the Adobe API extractor, bypassing the `sent_count` filter and skipping results already generated:
 

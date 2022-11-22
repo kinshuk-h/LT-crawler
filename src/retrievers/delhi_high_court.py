@@ -7,7 +7,7 @@ import requests
 from . import logger as root_logger
 from .base import JudgmentRetriever
 
-logger = root_logger.getChild(__name__)
+logger = root_logger.getChild(__name__.rsplit('.', maxsplit=1)[-1])
 
 class DHCJudgmentRetriever(JudgmentRetriever):
     """ Aids in retrieval of judgment documents from the Delhi High Court's website. """

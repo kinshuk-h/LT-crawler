@@ -4,8 +4,8 @@ import datetime
 
 logger = logging.getLogger(__name__)
 
-handler = logging.StreamHandler()
-handler.setLevel(logging.WARNING)
+console_handler = logging.StreamHandler()
+console_handler.setLevel(logging.WARNING)
 
 LOG_DIR = os.path.join("data", "logs")
 os.makedirs(LOG_DIR, exist_ok=True)
@@ -16,12 +16,15 @@ file_handler = logging.FileHandler(
 )
 file_handler.setLevel(logging.DEBUG)
 
-logging_formatter = logging.Formatter("{asctime} │ {levelname:>8} │ {funcName}(): {message}", style = '{')
-handler.setFormatter(logging_formatter)
+simple_formatter  = logging.Formatter("<> {levelname:>8}: {funcName}(): {message}", style = '{')
+console_handler.setFormatter(simple_formatter)
+logging_formatter = logging.Formatter(
+    "{asctime} │ {levelname:>8} │ {name}.{funcName}:{lineno}: {message}", style = '{'
+)
 file_handler.setFormatter(logging_formatter)
 
 logger.setLevel(logging.DEBUG)
-logger.addHandler(handler)
+logger.addHandler(console_handler)
 logger.addHandler(file_handler)
 
 from . import utils, retrievers, extractors, segregators, filters

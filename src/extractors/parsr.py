@@ -9,7 +9,7 @@ import parsr_client as parsr
 from . import logger as root_logger
 from .base import Extractor
 
-logger = root_logger.getChild(__name__)
+logger = root_logger.getChild(__name__.rsplit('.', maxsplit=1)[-1])
 
 class ParsrExtractor(Extractor):
     """ Performs text and layout extraction from PDFs using the parsr package. """

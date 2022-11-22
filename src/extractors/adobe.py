@@ -21,7 +21,7 @@ from adobe.pdfservices.operation.exception.exceptions import ServiceApiException
 from . import logger as root_logger
 from .base import Extractor
 
-logger = root_logger.getChild(__name__)
+logger = root_logger.getChild(__name__.rsplit('.', maxsplit=1)[-1])
 
 class AdobeAPIExtractor(Extractor):
     """ Performs text and layout extraction from PDFs using the Adobe PDF Services API. """
@@ -44,12 +44,20 @@ class AdobeAPIExtractor(Extractor):
             .with_element_to_extract(ExtractElementType.TEXT).build()
         self.max_attempts = max_attempts or 3
 
-        # Initalize logging for the adobe API modules.
+        # Bind loggers from the Adobe API library with the current library.
         adobe_logger = logging.getLogger(adobe.__name__)
-        for handler in root_logger.handlers:
-            adobe_logger.addHandler(handler)
-        adobe_logger.addHandler(root_logger.handlers[0])
+        logger_ref = logger
+        while logger_ref:
+            if logger_ref.handlers:
+                for handler in logger_ref.handlers:
+                    adobe_logger.addHandler(handler)
+            logger_ref = logger_ref.parent
         adobe_logger.setLevel(logger.getEffectiveLevel())
+
+        # Register a NullHandler to prevent inconsistent logging API usage by the Adobe library.
+        logging_root_logger = logging.getLogger()
+        if len(logging_root_logger.handlers) == 0:
+            logging_root_logger.addHandler(logging.NullHandler())
 
     @staticmethod
     def save_as_text(pdf_extraction_response, output_file, format_wrt_layout=False):
@@ -89,7 +97,12 @@ class AdobeAPIExtractor(Extractor):
         return [ prefix+".json", prefix+".txt", prefix+".processed.txt" ]
 
     def load_pdf(self, pdf_reference: str | io.IOBase):
-        return FileRef.create_from_local_file(pdf_reference)
+        if isinstance(pdf_reference, str):
+            logger.debug("creating local instance from '%s'", pdf_reference)
+            return FileRef.create_from_local_file(pdf_reference)
+        else:
+            logger.debug("creating local instance from PDF stream")
+            return FileRef.create_from_stream(pdf_reference, "application/pdf")
 
     def extract(self, pdf):
         """ Extract content from a PDF representation. """

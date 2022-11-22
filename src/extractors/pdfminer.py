@@ -8,7 +8,7 @@ import pdfminer.high_level
 from . import logger as root_logger
 from .base import Extractor
 
-logger = root_logger.getChild(__name__)
+logger = root_logger.getChild(__name__.rsplit('.', maxsplit=1)[-1])
 
 class PdfminerHighLevelTextExtractor(Extractor):
     """ Performs text extraction from PDFs using pdfminer's high-level operation functions. """

@@ -5,7 +5,7 @@ import aiohttp
 
 from . import logger as root_logger
 
-logger = root_logger.getChild(__name__)
+logger = root_logger.getChild(__name__.rsplit('.', maxsplit=1)[-1])
 
 async def download_file(
     url: str, session: aiohttp.ClientSession,

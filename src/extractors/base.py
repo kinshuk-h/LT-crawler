@@ -5,7 +5,7 @@ import itertools
 
 from . import logger as root_logger
 
-logger = root_logger.getChild(__name__)
+logger = root_logger.getChild(__name__.rsplit('.', maxsplit=1)[-1])
 
 class Extractor(abc.ABC):
     """ Abstract class to represent an extractor for extracting content from PDF documents. """
@@ -59,11 +59,9 @@ class Extractor(abc.ABC):
         contents = self.extract(pdf)
         if not isinstance(contents, (list, tuple)):
             contents = [ contents ]
-        logger.info("extracting to %d file%s", len(paths), 's' if len(paths)!=1 else '')
-        for content, (base, path) in zip(itertools.cycle(contents), paths):
-            logger.debug("extracting content to %s", base)
+        for i, (content, (base, path)) in enumerate(zip(itertools.cycle(contents), paths)):
+            logger.debug("(%d/%d) extract/dump %s", i+1, len(paths), base)
             self.save_to_file(content, path)
-            logger.debug("extracted content to %s", base)
         if isinstance(pdf, io.IOBase):
             pdf.close()
         return _paths

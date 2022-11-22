@@ -2,7 +2,7 @@ import abc
 
 from . import logger as root_logger
 
-logger = root_logger.getChild(__name__)
+logger = root_logger.getChild(__name__.rsplit('.', maxsplit=1)[-1])
 
 class Segregator(abc.ABC):
     """ Abstract class to represent a segregator to yield paragraphs from processed files. """

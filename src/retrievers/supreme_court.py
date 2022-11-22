@@ -8,7 +8,7 @@ import requests
 from . import logger as root_logger
 from .base import JudgmentRetriever
 
-logger = root_logger.getChild(__name__)
+logger = root_logger.getChild(__name__.rsplit('.', maxsplit=1)[-1])
 
 COMMA_SEPARATION = regex.compile(r"(?ui)\p{Z}*,\p{Z}*")
 

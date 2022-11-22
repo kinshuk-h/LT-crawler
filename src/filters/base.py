@@ -4,7 +4,7 @@ import concurrent.futures
 
 from . import logger as root_logger
 
-logger = root_logger.getChild(__name__)
+logger = root_logger.getChild(__name__.rsplit('.', maxsplit=1)[-1])
 
 class Filter(abc.ABC):
     """ Abstract class to represent a filter for selecting paragraphs. """

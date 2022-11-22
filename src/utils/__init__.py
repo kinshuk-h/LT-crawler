@@ -3,126 +3,7 @@ import hashlib
 import threading
 import collections
 
-from math import floor
-
-class ProgressBar:
-    """ Defines a progress bar with fractional increments. """
-    states = ( ' ', '▏', '▎', '▍', '▌', '▋', '▊', '▉', '█' )
-    def __init__(self, limit = 100, size = 60):
-        self.width = len(str(limit))
-        self.length = size
-        self.limit = limit
-        self.reset()
-    def reset(self, limit = None):
-        if limit:
-            self.width = len(str(limit))
-            self.limit = limit
-        self.position = 0
-        self._completed = False
-    def set(self, position):
-        self.position = position
-        if self.position >= self.limit: self._completed = True
-    def advance(self, increment = 1):
-        if(self.position < self.limit): self.position += increment
-        else: self._completed = True
-    @property
-    def completed(self):
-        return self._completed
-    def count(self): return f"({self.position:{self.width}}/{self.limit})"
-    def __str__(self):
-        fill_length          = floor(self.length * 100 * (self.position/self.limit))
-        fill_length_fraction = fill_length % 100
-        fill_length          = fill_length // 100
-        progress     = fill_length * self.states[-1]
-        sub_progress = self.states[floor(fill_length_fraction/12.5)] if fill_length < self.length else ''
-        left         = (self.length-1-fill_length) * self.states[0]
-        return f"│{progress}{sub_progress}{left}│"
-
-class ProgressBarManager:
-    """ Manager for synchonizing multiple progress bars spawned across multiple threads. """
-    def __init__(self, size, process_manager = None) -> None:
-        if process_manager is not None:
-            self.lock = process_manager.Lock()
-        else:
-            self.lock = threading.Lock()
-        self.pbars = []
-        self.pbar_indices = []
-        self.size = size
-        self.last_updated = None
-        self.last_completed = None
-        self.active_bar_count = 0
-        self.printed_once = False
-        self.cursor_position = 0
-
-    def add(self, limit, render=False, prefix="", suffix=""):
-        with self.lock:
-            self.pbars.append(
-                ProgressBar(size=self.size, limit=limit)
-            )
-            self.pbar_indices.append(len(self.pbars)-1)
-            if render:
-                self.last_updated = None
-                self.print(prefix, suffix)
-            self.active_bar_count += 1
-            return self.pbar_indices[-1]
-
-    def update(self, index, increment=1, prefix="", suffix=""):
-        with self.lock:
-            self.advance(index, increment)
-            self.print(prefix, suffix)
-
-    def advance(self, index, increment):
-        previously_completed = self.pbars[index].completed
-        self.pbars[index].advance(increment)
-        if self.pbars[index].completed and not previously_completed:
-            self.pbar_indices.remove(index)
-            for _index in self.pbar_indices:
-                if not self.pbars[_index].completed:
-                    self.pbar_indices.insert(max(_index-1, 0), index)
-                    break
-            else:
-                self.pbar_indices.append(index)
-            self.last_completed = index
-        self.last_updated = index
-
-    def print(self, prefix = "", suffix = ""):
-        # if self.last_updated is not None:
-            # if not self.printed_once:
-            #     last_updated = self.last_updated
-            #     self.last_updated = None
-            #     if self.last_bar_count > 0:
-            #         new_bar_count, self.active_bar_count = self.active_bar_count, self.last_bar_count
-            #     self.print()
-            #     if self.last_bar_count > 0:
-            #         self.last_bar_count, self.active_bar_count = 0, new_bar_count
-            #     self.last_updated = last_updated
-        if self.cursor_position > 0:
-            print(f"\r\x1B[{self.cursor_position}A")
-            self.cursor_position = 0
-        # else:
-        #     self.printed_once = True
-        for index in self.pbar_indices:
-            if self.pbars[index].completed:
-                if self.last_completed is not None and index == self.last_completed:
-                    self.last_completed = None
-                    self.active_bar_count -= 1
-                    print('\r', prefix, self.pbars[index], suffix)
-                else:
-                    continue
-            elif self.last_updated is not None and self.last_updated != index:
-                print()
-                self.cursor_position += 1
-            else:
-                print('\r', prefix, self.pbars[index], suffix)
-                self.cursor_position += 1
-        # print("\r", self.cursor_position, end='')
-        # time.sleep(2)
-        print('\x1B[1A\r', end='')
-        # time.sleep(2)
-
-__version__ = "1.0.0"
-__author__  = "Kinshuk Vasisht"
-__all__     = [ "ProgressBar", "ProgressBarManager" ]
+from .progress import ProgressBar, IndeterminateProgressCycle, ProgressBarManager
 
 def chunk_reader(file_descriptor, chunk_size = 4096):
     """ Creates a generator over a file descriptor to read a file in chunks.
@@ -141,7 +22,7 @@ def chunk_reader(file_descriptor, chunk_size = 4096):
         yield chunk
 
 def file_digest(filepath, primary_chunk_only = False):
-    """ Returns a file digest describing the contents of the file.
+    """ Returns a file digest describing the contents of a file.
 
     Args:
         filepath (str): Path to the file to create a digest for.
@@ -165,36 +46,75 @@ class FileIndexStore:
 
     def __init__(self) -> None:
         self.lock = threading.Lock()
-        self.data = collections.defaultdict(collections.defaultdict(dict))
+        self.data = collections.defaultdict(lambda: collections.defaultdict(dict))
 
-    def load(self, filepath, group, index_info=None):
+    def load(self, filepath, group, index_info=None, callback=None):
+        """ Loads a filepath into the index store, under the specified group.
+
+        Args:
+            filepath (str): The path to the file to load.
+            group (str): The group to store the file data in.
+            index_info (dict, optional): Optional dict containing information about
+                file size and hashes. Defaults to None.
+            callback ((*args) -> None, optional): Optional callback to invoke upon completion. Defaults to None.
+
+        Returns:
+            dict: Information about the file's size and hash.
+        """
         index_info = index_info or {}
         if not index_info.get('hash', None):
             index_info['hash']    = file_digest(filepath)
         if not index_info.get('minhash', None):
             index_info['minhash'] = file_digest(filepath, primary_chunk_only=True)
         if not index_info.get('size', None):
-            index_info['size']    = os.stat().st_size
+            index_info['size']    = os.stat(filepath).st_size
 
         with self.lock:
             self.data[group]['size'   ][index_info['size'   ]] = filepath
             self.data[group]['minhash'][index_info['minhash']] = filepath
             self.data[group]['hash'   ][index_info['hash'   ]] = filepath
 
+        if callback: callback(filepath, index_info)
+
+        return index_info
+
     def has(self, filepath, group, return_info=False):
+        """ Checks if a given file is present in the index store.
+
+        Args:
+            filepath (str): Path to the file to check.
+            group (str): Group to search the file in.
+            return_info (bool, optional): If true, returns computed hash and size
+            information, useful for loading the entry into the index store. Defaults to False.
+
+        Returns:
+            [bool, (bool, dict)]: A boolean denoting file presence,
+                and an optional dictionary of file information.
+        """
         info = {
-            'size': os.stat(filepath).st_size,
+            'size': os.stat(filepath).st_size if filepath else 0,
             'minhash': None, 'hash': None
         }
 
         status = False
-        if info['size'] in self.data[group]['size']:
-            info['minhash'] = file_digest(filepath, primary_chunk_only=True)
-            if info['minhash'] in self.data[group]['minhash']:
-                info['hash'] = file_digest(filepath)
-                status = info['hash'] in self.data[group]['hash']
+        if filepath is not None:
+            if info['size'] in self.data[group]['size']:
+                info['minhash'] = file_digest(filepath, primary_chunk_only=True)
+                if info['minhash'] in self.data[group]['minhash']:
+                    info['hash'] = file_digest(filepath)
+                    status = info['hash'] in self.data[group]['hash']
+                    info['match'] = self.data[group]['hash'].get(info['hash'], None)
 
         if return_info:
             return status, info
         else:
             return status
+
+__version__ = "1.0.0"
+__author__  = "Kinshuk Vasisht"
+__all__     = [
+    "ProgressBar",
+    "ProgressBarManager",
+    "IndeterminateProgressCycle",
+    "FileIndexStore",
+]

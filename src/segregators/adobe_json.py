@@ -9,15 +9,19 @@ class AdobeJSONSegregator(Segregator):
     @classmethod
     def select(cls, files):
         for file in files:
-            if file.endswith('.json'): return file
+            if file.endswith('.json'):
+                return file
 
     @classmethod
     def load(cls, file_path):
+        if file_path is None:
+            return None
         with open(file_path, 'r', encoding='utf-8') as file:
             return json.load(file)
 
     @classmethod
     def segregate(cls, data):
+        if data is None: return
         try:
             elements = data['elements']
             current_page, para_num, page_start, valid_content = 0, 1, 0, False

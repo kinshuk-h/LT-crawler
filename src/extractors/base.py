@@ -56,15 +56,20 @@ class Extractor(abc.ABC):
             return _paths
 
         # Otherwise, extract content and save files.
+        extracted_paths = []
         contents = self.extract(pdf)
         if not isinstance(contents, (list, tuple)):
             contents = [ contents ]
         for i, (content, (base, path)) in enumerate(zip(itertools.cycle(contents), paths)):
-            logger.debug("(%d/%d) extract/dump %s", i+1, len(paths), base)
-            self.save_to_file(content, path)
+            if content is None:
+                logger.debug("(%d/%d) unable to dump to %s: null content", i+1, len(paths), base)
+            else:
+                logger.debug("(%d/%d) extract/dump %s", i+1, len(paths), base)
+                self.save_to_file(content, path)
+                extracted_paths.append(path)
         if isinstance(pdf, io.IOBase):
             pdf.close()
-        return _paths
+        return extracted_paths[0] if len(extracted_paths) == 1 else extracted_paths
 
     @abc.abstractmethod
     def output_file(self, pdf_reference: str | io.IOBase, pdf) -> str | list[str]:

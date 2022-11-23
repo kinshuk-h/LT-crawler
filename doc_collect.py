@@ -11,11 +11,10 @@ import threading
 import collections
 import concurrent.futures
 
-from src import utils, retrievers, extractors, segregators, filters, handler
+from src import utils, retrievers, extractors, segregators, filters, console_handler
 
 if '-d' in sys.argv or '--debug' in sys.argv:
-    logging.basicConfig(level=logging.CRITICAL)
-    handler.setLevel(logging.DEBUG)
+    console_handler.setLevel(logging.DEBUG)
 
 def now(tz=None):
     """ Returns the current timestamp in ISO 8601 format as a string. """
@@ -70,7 +69,45 @@ def show_progress(limit):
             print(f"\r    {constrain(file_name, width=20)}{bar} ", end='')
     return show_progress_impl
 
-def search_and_scrape(prog, args):
+def show_indeterminate_progress():
+    bar = utils.IndeterminateProgressCycle()
+    lock = threading.Lock()
+    print("  ", end='', flush=True)
+    def show_progress_impl(*_):
+        with lock:
+            bar.advance()
+            print(f"\b\b{bar} ", end='', flush=True)
+    return show_progress_impl
+
+def load_file_index(prog, args):
+    """ Pre-processing stage: Load file indexes for detecting duplicates. """
+    file_index = utils.FileIndexStore()
+    print(prog, ": building file index store ...", sep='')
+    for court in args.courts:
+        output_dir = os.path.join(args.output_dir, args.document_dir, f"{court} Judgments")
+        if os.path.exists(output_dir):
+            try:
+                print(f"  : loading hashes for {court} ... ", sep='', end = '', flush=True)
+                file_index.load_directory(output_dir, "*.pdf", show_indeterminate_progress())
+                print("\b\bdone")
+            except Exception as exc:
+                print("\b\berror")
+                print(prog, ": error: ", exc, sep='', file=sys.stderr)
+
+            for extractor in args.extractors:
+                extract_output_dir = os.path.join(output_dir, pathsafe("extracted_" + extractor))
+                if os.path.exists(output_dir):
+                    try:
+                        print(f"  : loading hashes for {extractor} ... ", sep='', end = '', flush=True)
+                        file_index.load_directory(extract_output_dir, "*.txt", show_indeterminate_progress())
+                        print("\b\bdone")
+                    except Exception as exc:
+                        print("\b\berror")
+                        print(prog, ": error: ", exc, sep='', file=sys.stderr)
+    print()
+    return file_index
+
+def search_and_scrape(prog, args, file_index):
     """ Primary pipeline phase: Search and scrape judgments based on a given
         list of court websites and search parameters. """
 
@@ -86,10 +123,10 @@ def search_and_scrape(prog, args):
 
         retriever = avl_retrievers[court]
 
-        num_pages, num_docs, current_page = 0, 0, args.page
-
         print(prog, ': searching judgments from ', court, ' ... ', sep='', flush=True)
         for query in args.queries:
+            num_pages, num_docs, current_page = 0, 0, args.page
+
             while True:
                 try:
                     search_params = { 'query': query, 'page': current_page }
@@ -124,9 +161,7 @@ def search_and_scrape(prog, args):
                             search_params['page'] = current_page
 
                         if not judgments:
-                            print('error', flush=True)
-                            print(prog, ": error: no judgments found", sep='', file=sys.stderr, flush=True)
-                            continue
+                            raise RuntimeError("no judgments found")
                         else: print('done', flush=True)
 
                         if args.limit is not None and num_docs + len(judgments) > args.limit:
@@ -137,9 +172,26 @@ def search_and_scrape(prog, args):
                         judgment_files = retriever.save_documents(
                             judgments, output_dir=output_dir, callback=show_progress(len(judgments))
                         )
-                        judgment_files = list(filter(lambda file: file is not None, judgment_files))
                         end   = timeit.default_timer()
                         print(f'done (~{end-start:.3}s)', flush=True)
+
+                        # Select only those judgments not in the file index store.
+                        court_group = f"{court} Judgments"
+                        print("  : filtering existing judgment files (based on hashes) ... ", end='')
+                        tic = timeit.default_timer()
+                        unique_judgment_files, unique_judgments = [], []
+                        for judgment, file in zip(judgments, judgment_files):
+                            status, info = file_index.has(file, court_group, return_info=True)
+                            if not status:
+                                unique_judgment_files.append(file)
+                                unique_judgments.append(judgment)
+                                file_index.load(file, court_group, index_info=info)
+                            else:
+                                os.remove(file)
+                        judgments = unique_judgments
+                        judgment_files = list(filter(lambda file: file is not None, unique_judgment_files))
+                        toc = timeit.default_timer()
+                        print(f'done (~{toc-tic:.3}s)', flush=True)
 
                     search_params.update({
                         'court'     : court,
@@ -196,7 +248,8 @@ def search_and_scrape(prog, args):
                 except Exception as exc:
                     print('error', flush=True)
                     print(prog, ": error: ", exc, sep='', file=sys.stderr, flush=True)
-                    traceback.print_exc()
+                    if args.debug:
+                        traceback.print_exc()
 
                     num_pages += 1
                     current_page += 1
@@ -265,14 +318,54 @@ def extract(prog, args, judgment_batches):
         except Exception as exc:
             print('error', flush=True)
             print(prog, ": error: ", exc, sep='', file=sys.stderr, flush=True)
-            traceback.print_exc()
+            if args.debug:
+                traceback.print_exc()
 
     print()
     return judgment_batches
 
-def process(prog, args, judgment_batches):
+def process(prog, args, judgment_batches, file_index):
     """ Tertiary pipeline phase: process extracted text content. """
-    # TODO: Implement processing over global content.
+
+    for i, batch in enumerate(judgment_batches, 1):
+
+        try:
+            print("  : refiltering existing judgment files for batch #", i," (based on hashes) ... ", end='')
+            for extractor in args.extractors:
+                unique_indexes = []
+                print("    checking extraction results for", extractor, "... ", end='', flush=True)
+                extractor_group = pathsafe(f"extracted_{extractor}")
+
+                tic = timeit.default_timer()
+                for index in batch.get('indexes', range(len(batch['judgments']))):
+                    files = batch['extractions'][extractor][index]
+                    for file in files:
+                        status, info = file_index.has(file, extractor_group, return_info=True)
+                        if status: break
+                        file_index.load(file, extractor_group, index_info=info)
+                    else:
+                        unique_indexes.append(index)
+                if len(unique_indexes) != len(batch['judgments']):
+                    batch['judgments']   = None #[  for ix, file in batch['judgments'] ]
+                    batch['extractions'] = None
+                    batch['indexes']     = unique_indexes
+                toc = timeit.default_timer()
+                print(f'done (~{toc-tic:.3}s)', flush=True)
+
+            if args.save_json and (indexes := batch.get('indexes', None) is not None):
+                with open(batch['json'], 'r+', encoding='utf-8') as file:
+                    data = json.load(file)
+                    # data['data'] = #filter
+                    file.seek(0)
+                    json.dump(data, file, ensure_ascii=False, indent=4)
+                    file.truncate()
+        except Exception as exc:
+            print('error', flush=True)
+            print(prog, ": error: ", exc, sep='', file=sys.stderr, flush=True)
+            if args.debug:
+                traceback.print_exc()
+    print()
+
     return judgment_batches
 
 def segregate_task(args):
@@ -343,10 +436,12 @@ def segregate(prog, args, judgment_batches):
                     )))
                 }
                 print()
+            filter_opts = {}
             for filter_name in args.filters:
                 print("    applying ", filter_name, " filter over paragraphs ...", sep='', flush=True)
                 _filter = avl_filters[filter_name]()
                 _filter.load_options_from_args(args)
+                filter_opts[filter_name] = _filter.options
                 with concurrent.futures.ThreadPoolExecutor() as executor:
                     manager = utils.ProgressBarManager(size=20)
                     paragraphs = {
@@ -364,6 +459,7 @@ def segregate(prog, args, judgment_batches):
                 tic = timeit.default_timer()
                 with open(batch['json'], 'r+', encoding='utf-8') as file:
                     data = json.load(file)
+                    data['meta']['filters'] = filter_opts
                     index = 0
                     for i in range(len(data['data'])):
                         if data['data'][i]['document_path'] is None: continue
@@ -380,7 +476,8 @@ def segregate(prog, args, judgment_batches):
         except Exception as exc:
             print('error', flush=True)
             print(prog, ": error: ", exc, sep='', file=sys.stderr, flush=True)
-            traceback.print_exc()
+            if args.debug:
+                traceback.print_exc()
 
     print()
     return judgment_batches
@@ -460,9 +557,10 @@ def main():
         print(parser.prog, ": error: specify at least one query", sep='', file=sys.stderr, flush=True)
         sys.exit(1)
 
-    judgment_batches = search_and_scrape(parser.prog, args)
+    file_index = load_file_index        (parser.prog, args)
+    judgment_batches = search_and_scrape(parser.prog, args, file_index)
     judgment_batches = extract          (parser.prog, args, judgment_batches)
-    judgment_batches = process          (parser.prog, args, judgment_batches)
+    judgment_batches = process          (parser.prog, args, judgment_batches, file_index)
     judgment_batches = segregate        (parser.prog, args, judgment_batches)
 
 if __name__ == "__main__":

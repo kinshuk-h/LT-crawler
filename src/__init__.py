@@ -5,7 +5,7 @@ import datetime
 logger = logging.getLogger(__name__)
 
 console_handler = logging.StreamHandler()
-console_handler.setLevel(logging.WARNING)
+console_handler.setLevel(logging.CRITICAL)
 
 LOG_DIR = os.path.join("data", "logs")
 os.makedirs(LOG_DIR, exist_ok=True)

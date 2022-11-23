@@ -9,7 +9,23 @@ import functools
 import collections
 import concurrent.futures
 
+from .. import logger as root_logger
+logger = root_logger.getChild(__name__.rsplit('.', maxsplit=1)[-1])
+
 from .progress import ProgressBar, IndeterminateProgressCycle, ProgressBarManager
+
+def log_time(logger: logging.Logger, level = logging.INFO):
+    """ Generates a decorator that logs the execution time of a function to a given logging.Logger object. """
+    def make_time_logger(func):
+        @functools.wraps(func)
+        def call_and_log_time(*args, **kwargs):
+            tic = timeit.default_timer()
+            result = func(*args, **kwargs)
+            toc = timeit.default_timer()
+            logger.log(level, "%s(): execution completed in %.3fs", func.__name__, toc-tic)
+            return result
+        return call_and_log_time
+    return make_time_logger
 
 def chunk_reader(file_descriptor, chunk_size = 4096):
     """ Creates a generator over a file descriptor to read a file in chunks.
@@ -54,6 +70,7 @@ class FileIndexStore:
         self.lock = threading.Lock()
         self.data = collections.defaultdict(lambda: collections.defaultdict(dict))
 
+    @log_time(logger)
     def load_directory(self, directory, file_glob="*.*", callback=None):
         """ Loads multiple files from a given directory into the index store.
             This function may utilize multiple threads to perform I/O concurrently.
@@ -137,19 +154,6 @@ class FileIndexStore:
             return status, info
         else:
             return status
-
-def log_time(logger: logging.Logger, level = logging.INFO):
-    """ Generates a decorator that logs the execution time of a function to a given logging.Logger object. """
-    def make_time_logger(func):
-        @functools.wraps(func)
-        def call_and_log_time(*args, **kwargs):
-            tic = timeit.default_timer()
-            result = func(*args, **kwargs)
-            toc = timeit.default_timer()
-            logger.log(level, "%s(): execution completed in %.3fs", func.__name__, toc-tic)
-            return result
-        return call_and_log_time
-    return make_time_logger
 
 __version__ = "1.0.0"
 __author__  = "Kinshuk Vasisht"

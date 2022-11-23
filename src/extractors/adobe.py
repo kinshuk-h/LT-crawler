@@ -128,11 +128,14 @@ class AdobeAPIExtractor(Extractor):
                     os.remove(zip_file_path)
 
                 return structured_json
-            except (ServiceApiException, ServiceUsageException, SdkException):
-                logger.exception("error while extracting using the API")
+            except (ServiceApiException, ServiceUsageException, SdkException) as exc:
+                logger.exception("%s error while extracting using the API", exc.__class__.__name__)
+                if isinstance(exc, ServiceApiException) and "unexpected" in exc.message.lower():
+                    return None
                 time.sleep(5)
             finally:
                 attempt += 1
+        return None
 
     def save_to_file(self, content, path: str):
         """ Saves extracted content to a file.

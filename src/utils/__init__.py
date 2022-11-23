@@ -115,9 +115,12 @@ class FileIndexStore:
             index_info['size']    = os.stat(filepath).st_size
 
         with self.lock:
-            self.data[group]['size'   ][index_info['size'   ]] = filepath
-            self.data[group]['minhash'][index_info['minhash']] = filepath
-            self.data[group]['hash'   ][index_info['hash'   ]] = filepath
+            if index_info['size'   ] not in self.data[group]['size'   ]:
+                self.data[group]['size'   ][index_info['size'   ]] = filepath
+            if index_info['minhash'] not in self.data[group]['minhash']:
+                self.data[group]['minhash'][index_info['minhash']] = filepath
+            if index_info['hash'   ] not in self.data[group]['hash'   ]:
+                self.data[group]['hash'   ][index_info['hash'   ]] = filepath
 
         if callback: callback(filepath, index_info)
 

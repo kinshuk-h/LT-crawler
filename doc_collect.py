@@ -79,13 +79,27 @@ def show_indeterminate_progress():
             print(f"\b\b{bar} ", end='', flush=True)
     return show_progress_impl
 
-def filter_by_index(values, indexes):
-    current, final_values = 0, []
-    for index, value in enumerate(values):
-        if index == indexes[current % len(indexes)]:
-            final_values.append(value)
-            current += 1
-    return final_values
+def filter_by_index(values, indexes, inverse=False):
+    """ Filters a list of values based on indices to select.
+
+    Args:
+        values (list): An iterable collection to filter.
+        indexes (Iterable): Iterable collection (sorted) of indexes to select.
+        inverse (bool, optional): If true, returns the elements whose indexes are NOT specified. Defaults to False.
+
+    Returns:
+        Generator: Generator for filtered values
+    """
+    if inverse:
+        iterator = iter(indexes)
+        current = next(iterator, None)
+        for index, value in enumerate(values):
+            if current is not None and index == current:
+                current = next(iterator, None)
+            else:
+                yield value
+    else:
+        yield from ( values[index] for index in indexes )
 
 def load_file_index(prog, args):
     """ Pre-processing stage: Load file indexes for detecting duplicates. """
@@ -335,52 +349,67 @@ def extract(prog, args, judgment_batches):
 def process(prog, args, judgment_batches, file_index):
     """ Tertiary pipeline phase: process extracted text content. """
 
+    print(prog, ": processing judgments ...", sep='')
     for i, batch in enumerate(judgment_batches, 1):
 
         try:
-            print("  : refiltering existing judgment files for batch #", i," (based on hashes) ... ", end='')
+            print("  : refiltering existing judgment files for batch #", i," (based on hashes) ... ")
             for extractor in args.extractors:
                 unique_indexes = []
                 print("    checking extraction results for", extractor, "... ", end='', flush=True)
                 extractor_group = pathsafe(f"extracted_{extractor}")
 
                 tic = timeit.default_timer()
-                for index in batch.get('indexes', range(len(batch['extractions'][extractor]))):
+                for index in batch.get('indexes', range(len(batch['judgments']))):
                     files = batch['extractions'][extractor][index]
                     for file in files:
                         status, info = file_index.has(file, extractor_group, return_info=True)
-                        if status: break
+                        # print("index", index, ":", file, "in file store?", status and info['match'] != file)
+                        if status and info['match'] != file:
+                            break
                         file_index.load(file, extractor_group, index_info=info)
                     else:
                         unique_indexes.append(index)
                 if len(unique_indexes) != len(batch.get('indexes', batch['judgments'])):
                     batch['indexes']     = unique_indexes
                 toc = timeit.default_timer()
-                print(f'done (~{toc-tic:.3}s)', flush=True)
+                print(f"done (~{toc-tic:.3}s) ({len(unique_indexes)}/{len(batch['judgments'])} unique)", flush=True)
+                # print(unique_indexes)
 
-            batch['judgments'] = filter_by_index(batch['judgments'], indexes)
-            batch['extractions'] = {
-                extractor: filter_by_index(extractions, indexes)
-                for extractor, extractions in batch['extractions'].items()
-            }
+            if (indexes := batch.get('indexes', None)) is not None:
+                # Delete files which are redundant.
+                for file in filter_by_index(batch['judgments'], indexes, inverse=True):
+                    os.remove(file)
+                for extractor, extractions in batch['extractions'].items():
+                    for files in filter_by_index(extractions, indexes, inverse=True):
+                        for file in files:
+                            os.remove(file)
 
-            if args.save_json and (indexes := batch.get('indexes', None) is not None):
-                with open(batch['json'], 'r+', encoding='utf-8') as file:
-                    data = json.load(file)
-                    index, current = 0, 0
-                    judgments = []
-                    for judgment in judgments:
-                        if judgment['document_path'] is not None:
-                            if index == indexes[current % len(indexes)]:
+                # Update entries based on unique indexes.
+                batch['judgments'] = list(filter_by_index(batch['judgments'], indexes))
+                batch['extractions'] = {
+                    extractor: list(filter_by_index(extractions, indexes))
+                    for extractor, extractions in batch['extractions'].items()
+                }
+
+                if args.save_json:
+                    print("    updating filtered results to JSON ... ", end='', flush=True)
+                    with open(batch['json'], 'r+', encoding='utf-8') as file:
+                        data = json.load(file)
+                        index, current, judgments = 0, 0, []
+                        for judgment in data['data']:
+                            if judgment['document_path'] is not None:
+                                if index == indexes[current % len(indexes)]:
+                                    judgments.append(judgment)
+                                    current += 1
+                                index += 1
+                            else:
                                 judgments.append(judgment)
-                                current += 1
-                            index += 1
-                        else:
-                            judgments.append(judgment)
-                    data['data'] = judgments
-                    file.seek(0)
-                    json.dump(data, file, ensure_ascii=False, indent=4)
-                    file.truncate()
+                        data['data'] = judgments
+                        file.seek(0)
+                        json.dump(data, file, ensure_ascii=False, indent=4)
+                        file.truncate()
+                    print("done")
         except Exception as exc:
             print('error', flush=True)
             print(prog, ": error: ", exc, sep='', file=sys.stderr, flush=True)
@@ -579,11 +608,11 @@ def main():
         print(parser.prog, ": error: specify at least one query", sep='', file=sys.stderr, flush=True)
         sys.exit(1)
 
-    file_index = load_file_index        (parser.prog, args)
+    file_index       = load_file_index  (parser.prog, args)
     judgment_batches = search_and_scrape(parser.prog, args, file_index)
     judgment_batches = extract          (parser.prog, args, judgment_batches)
     judgment_batches = process          (parser.prog, args, judgment_batches, file_index)
-    # judgment_batches = segregate        (parser.prog, args, judgment_batches)
+    judgment_batches = segregate        (parser.prog, args, judgment_batches)
 
 if __name__ == "__main__":
     main()

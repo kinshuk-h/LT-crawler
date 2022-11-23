@@ -85,15 +85,16 @@ if __name__ == "__main__":
 
     print("> Missing files:", len(non_existing))
     for path in non_existing:
-        print("  ", os.path.relpath(path, root_path), end='', flush=True)
+        print("  ", os.path.relpath(path, root_path))
     print()
 
     if args.fix_missing:
         for court, docs in non_existing_ref.items():
             print("> Downloading missing judgments from", court, ":")
             avl_retrievers[court].save_documents(
-                docs, os.path.join("data", "judgments", court), show_progress(len(docs))
+                docs, os.path.join("data", "judgments", f"{court} Judgments"), show_progress(len(docs))
             )
+            print()
             for doc in docs:
                 if doc['document_path'] is not None:
                     os.rename(doc['document_path'], doc['path'])

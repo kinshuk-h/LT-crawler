@@ -87,11 +87,26 @@ class FileIndexStore:
         group = os.path.basename(directory)
         files = glob.glob(file_glob, root_dir=directory)
         with concurrent.futures.ThreadPoolExecutor() as executor:
-            return [ *executor.map(
-                self.load, (os.path.join(directory, file) for file in files),
-                itertools.repeat(group), itertools.repeat(None),
-                itertools.repeat(callback)
+            file_index_infos = [ *executor.map(
+                self.get_indexing_info, (os.path.join(directory, file) for file in files),
             ) ]
+        for file, index_info in zip(files, file_index_infos):
+            self.load(os.path.join(directory, file), group, index_info, callback)
+
+    def get_indexing_info(self, filepath):
+        """ Computes information useful for indexing, such as byte size and hashes.
+
+        Args:
+            filepath (string): Path to the file to process.
+        """
+        index_info = {}
+        if not index_info.get('hash', None):
+            index_info['hash']    = file_digest(filepath)
+        if not index_info.get('minhash', None):
+            index_info['minhash'] = file_digest(filepath, primary_chunk_only=True)
+        if not index_info.get('size', None):
+            index_info['size']    = os.stat(filepath).st_size
+        return index_info
 
     def load(self, filepath, group, index_info=None, callback=None):
         """ Loads a filepath into the index store, under the specified group.
@@ -106,7 +121,7 @@ class FileIndexStore:
         Returns:
             dict: Information about the file's size and hash.
         """
-        index_info = index_info or {}
+        index_info = index_info or self.get_indexing_info(filepath)
         if not index_info.get('hash', None):
             index_info['hash']    = file_digest(filepath)
         if not index_info.get('minhash', None):

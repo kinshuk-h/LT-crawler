@@ -22,6 +22,13 @@
             "page_processed": 6,
             "saved_total": 60,
             "generated_at": "2022-11-12T16:06:58"
+        },
+        "filters": {
+            "sent_count": {
+                "min_sents": "2",
+                "min_words": "20",
+                "tokenizer_path": null
+            }
         }
     },
     "data": [
@@ -31,77 +38,6 @@
             "date": "02/08/2022",
             "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/JIS/judgement/26-08-2022//JIS02082022CAT852022_154741.pdf&ID=594801322_0",
             "document_path": "data\\judgments\\DHC Judgments\\594801322_0.pdf",
-            "paragraphs": {
-                "adobe_api": [
-                    {
-                        "page": 1,
-                        "paragraph_number": 1,
-                        "content": "On account of similitude of the issues raised in the two appeals as also the fact that challenge is laid to similar orders, both the appeals are  being decided together. Present appeals have been filed by the Appellant aggrieved by orders dated 16.03.2021 passed by the Senior Examiner of Trade Marks, refusing the application Nos. 3693722 and 3693719 filed by  the Appellant seeking registration of trademark and the word mark ‘KEI’ respectively in class 11, in relation to goods specified as ‘apparatus for lighting, heating, steam generating, cooking, refrigerating, dry ventilation, water supply and sanitary purposes’, under Section 11(1)(a) and (b) of Trade Marks Act, 1999 (hereinafter referred to as the ‘Act’).",
-                        "reference": "1."
-                    },
-                    {
-                        "page": 2,
-                        "paragraph_number": 2,
-                        "content": "It is the case of the Appellant that it has been carrying on an established business of manufacture and sale of wires and cables since 1968 under the well-known trademark ‘KEI’ and has, over the last five decades, acquired immense reputation ranking amongst top three cable manufacturing companies in India. Trademark ‘KEI’ is stated to have been adopted and used by the Appellant from 1968 and in 2007, it created a unique and distinct artistic logo which is extensively used and serves as an integral part of corporate identity of the Appellant.",
-                        "reference": "2."
-                    },
-                    {
-                        "page": 2,
-                        "paragraph_number": 3,
-                        "content": "It is further averred that Appellant, as early as in 1988, filed for registration of the trademark ‘KEI’ and has several registrations in its other formative logo, label, marks in various other classes. On 04.12.2017, Appellant filed trademark applications for registration in classes 7 and 11 on a ‘proposed to be used’ basis, with an intent to start business of goods in the said classes. While applications under class 7 were accepted and advertised in the Trade Marks Journal, applications under class 11 were refused.",
-                        "reference": "3."
-                    },
-                    {
-                        "page": 3,
-                        "paragraph_number": 4,
-                        "content": "Learned counsel appearing on behalf of the Appellant submits that by way of present appeals, the Appellant challenges the impugned orders since the Tribunal has erred in refusing registration overlooking the fact that the tradename/corporate name of the Appellant ‘KEI’ has been in use since 1968 i.e. much prior to the use claimed by any of the proprietors of the cited mark and has also erred in overlooking that ‘KEI’ has attained a well-known status and meets the criteria under Section 11(6) and Section 2(zg) of the Act thereby qualifying for registrations in all classes of goods, especially class 11.",
-                        "reference": "4."
-                    },
-                    {
-                        "page": 3,
-                        "paragraph_number": 5,
-                        "content": "It is, however, submitted on instructions that at this stage, the Appellant will be satisfied if the matters are remanded to the Respondent for consideration of the case of the Appellant under ‘special circumstances’ as provided under Section 12 of the Act. The submission is that the counsel for the Appellant had requested the Respondent to allow some time to file the affidavit of evidence of use, whereby Appellant would be able to prove that it is the prior user of the trademark ‘KEI’ which would entitle it for registration in terms of Section 12 of the Act which provides for registration under special circumstances and protection of vested rights. Section 12, it is argued, is by way of an exception to Section 11(1) and even if the Respondent was of the view that the instant mark is phonetically and visually similar to the cited/conflicting marks, consideration ought to have been accorded under Section 12 of the Act.",
-                        "reference": "5."
-                    },
-                    {
-                        "page": 3,
-                        "paragraph_number": 6,
-                        "content": "Learned counsel for the Appellant has also placed reliance on various judgments, more particularly of the Supreme Court in London Rubber Co.  TA/187/03/TM/DEL as well as a judgment of the Chancery Division in Holt & Coy (Leeds).",
-                        "reference": "6."
-                    },
-                    {
-                        "page": 4,
-                        "paragraph_number": 7,
-                        "content": "Mr. Harish Vaidyanathan Shankar, learned Central Government Standing Counsel appearing on behalf of the Respondent submits that the Registrar has rightly exercised the discretion and refused the registration on the ground that the mark in question is phonetically and visually similar to the conflicting marks mentioned in the search report, which were in prior use in respect of identical goods for which registration was sought by the Appellant and that it is not open to this Court in a judicial review to interfere in the discretion exercised by the Respondent. It was further submitted that the ground of Section 12 has been raised by the Appellant for the first time in the present appeals and, therefore, cannot be entertained. Since the Registrar of Trade Marks had no occasion to deal with the case of the Appellant under Section 12, no infirmity can be found with the impugned orders.",
-                        "reference": "7."
-                    },
-                    {
-                        "page": 4,
-                        "paragraph_number": 8,
-                        "content": "Learned counsel appearing on behalf of the Appellant had vehemently opposed the submission of the Respondent and submitted that it had categorically requested the Respondent to permit the Appellant to file an affidavit evidencing user so that its case could be considered under the provisions of Section 12 of the Act, however, Respondent completely overlooked the said prayer.",
-                        "reference": "8."
-                    },
-                    {
-                        "page": 4,
-                        "paragraph_number": 10,
-                        "content": "Reading of the impugned orders dated 16.03.2021 shows that the Respondent has refused registration of the mark ‘KEI’ (word and device mark) in class 11 on the ground that it is phonetically and visually similar  to prior existing registered marks, which were also in use much prior to the alleged use of the Appellant for the goods in question. According to the Respondent, allowing the registration of the Appellant’s mark would adversely affect public interest as it would lead to confusion amongst a buyer of average intelligence and imperfect recollection. Relevant part of the impugned orders is extracted hereunder:- “Instant mark is phonetically and visually similar to the conflicting marks which is mentioned in the search report and also they are well in prior use in respect of the identical goods which sought by the applicant. The applicant is the well subsequent user among the conflicting marks user period. In view of these grounds, the Tribunal has opined that the applicant has deliberately chosen the subject mark in an effort to ride upon the goodwill and reputation of the conflicting marks. Applicant has no bona fide adoption of the subject mark in respect of the applied goods. Further, the allowance of the subject mark is patently mala fide since the mark has been dishonestly adopted by the applicant hence the applicant cannot claim to be the proprietor of the subject mark under Section 18(1) of the Act. Allowance of the subject mark is adversely affecting the interest of the public, it would lead to confusion as it is more than likely, due to imperfect recollection that the average buyer may confuse the applicant’s mark as the conflicting owners products. In view of such similarities between the nature of the marks and their goods, the applicant's trade channel and counters, there exists a strong likelihood of confusions on the part of the consuming public, including an association, as they are likely to assume and confuse that the applicant’s goods are connected or otherwise associated with the conflicting marks goods, when no such connection exists. Consequently, the members of the trade would no doubt, be under the mistaken belief that the applicant’s goods originate from the conflicting marks or that they have some trade connection or affiliation thereby causing irreparable loss and damage not only to the conflicting marks trade and business but  also suiting erosion of distinctiveness hard earned by the conflicting marks.”",
-                        "reference": "10."
-                    },
-                    {
-                        "page": 6,
-                        "paragraph_number": 11,
-                        "content": "Having heard the learned counsels for the parties and having perused the provisions of Section 12 and Section 11, I find prima facie merit in the argument of learned counsel appearing on behalf of the Appellant that the Registrar ought to have at least considered if the case of the Appellant fell under ‘special circumstances’ provided under Section 12 of the Act, after permitting the Appellant to file an affidavit to show the period of prior use compared to the cited marks on the basis of the search report. Section 12 of the Act provides that in case of honest concurrent use or of other special circumstances, which in the opinion of the Registrar, make it proper so to do, he may permit registration by more than one proprietor of the trademarks which are identical or similar, whether any such trademark is already registered or not, in respect of same or similar goods and subject to such conditions that it may impose. The Act, therefore, envisages a situation where despite a trademark sought to be registered being identical or similar to a cited mark can be registered in case of honest concurrent use or any other ‘special circumstances’. The impugned orders indisputably do not reflect even a consideration of the ground taken by the Appellant under the provisions of Section 12 of the Act and therefore, in my view, learned counsel for the Appellant is right that the matters deserve to be remanded on this limited issue. Accordingly, the matters are remanded back to the Respondent to reconsider the applications of the Appellant for registration in light of Section 12 and the judgments aforementioned.",
-                        "reference": "11."
-                    }
-                ]
-            }
-        },
-        {
-            "case_number": "CAT 84/2022",
-            "title": "KEI INDUSTRIES LIMITED VS THE REGISTRAR OF TRADE MARKS",
-            "date": "02/08/2022",
-            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/JIS/judgement/26-08-2022//JIS02082022CAT842022_154627.pdf&ID=594801322_1",
-            "document_path": "data\\judgments\\DHC Judgments\\594801322_1.pdf",
             "paragraphs": {
                 "adobe_api": [
                     {

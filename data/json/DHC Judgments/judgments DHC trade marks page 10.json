@@ -22,6 +22,13 @@
             "page_processed": 10,
             "saved_total": 100,
             "generated_at": "2022-11-12T16:07:13"
+        },
+        "filters": {
+            "sent_count": {
+                "min_sents": "2",
+                "min_words": "20",
+                "tokenizer_path": null
+            }
         }
     },
     "data": [
@@ -840,95 +847,6 @@
             }
         },
         {
-            "case_number": "COT 111/2022",
-            "title": "M/S. SEMCO INFRATECH PVT. LTD. VS M/S. SIMLA CHEMICALS PVT. LTD.",
-            "date": "19/05/2022",
-            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/25-05-2022//PMS19052022COT1112022_113606.pdf&ID=1158940068_7",
-            "document_path": "data\\judgments\\DHC Judgments\\1158940068_7.pdf",
-            "paragraphs": {
-                "adobe_api": [
-                    {
-                        "page": 3,
-                        "paragraph_number": 2,
-                        "content": "The disputes in these cases relate to the trademarks SIMCO and SEMCO. Respondent No.1/Plaintiff -‘Simla Chemicals Pvt Ltd’(hereinafter “Plaintiff”) adopted the mark SIMCO in 1948 for various products falling in Class 3 and Class 5. The main Defendant/Petitioner-SEMCO Infratech Pvt Ltd’ (hereinafter “Defendant”) and related parties, adopted the mark ‘SEMCO’ in respect of machine tools, real estate, construction, etc. The Plaintiff had filed a suit seeking permanent injunction restraining infringement, as also reliefs for passing off, damages etc., being CS(COMM.) No.381/2020 titled Simla Chemicals Pvt. Ltd. v. SEMCO  Infratech Pvt. Ltd. & Anr., before the ld. District Judge, Commercial Court- 02, Shahdara, Karkardooma Courts, Delhi (hereinafter “Commercial Court”).  The prayers in the suit are as under:  “43.The plaintiff, under the above stated facts and circumstances, prays:- (a)  For a decree of permanent injunction restraining the defendants by themselves as also through their directors, proprietors, individual proprietor, partners (if any), agents, servants, assigns, representatives, successors, distributors and all others acting for and on their behalf from using, selling, exporting, offering for sale, advertising or displaying directly or indirectly or dealing in any other manner or  mode in relation to any of its business/services/goods/products under the impugned trade mark/name SEMCO or any other trade mark/ label identical with or deceptively similar to the trade mark SIMCO of the plaintiff amounting to or resulting in:- (i)  Infringement and violation of the plaintiff’s registered and well-known trademark SIMCO;  (ii)  Passing off impugned goods under the impugned trademark/name SEMCO as the goods of the plaintiff there by violating common law rights of the plaintiff in its trade mark SIMCO;  (b)  For an order for delivery up of all the defendants impugned goods and business bearing the impugned trade mark including packing material, bottles, carton boxes, carry bags, finished and unfinished goods, boxes, stickers, or any other incriminating material including display boards and sign boards and trade literature to the plaintiff for the purpose of destructions/erasure.  (c)  For an order of rendition of account of the defendants by their aforesaid impugned trade activities and a decree to the plaintiff on the amount so ascertained.  (d)  In alternative to accounts for a decree for grant of damages of Rs.3,05,000/-(Rupees three Lacs five thousand Only) from the defendants, jointly and severally to the plaintiff.  (e)  For such further order as this Hon’ble Court may deed fit and proper in the circumstances of the case and in the interest of justice.”",
-                        "reference": "2."
-                    },
-                    {
-                        "page": 4,
-                        "paragraph_number": 3,
-                        "content": "Vide order dated 20th July, 2022, the Commercial Court considered the application for interim injunction and the application for appointment of a Local Commissioner, and granted the same in favour of the Plaintiff. The relevant extract of the said order reads as under:  “32. Considering the facts and in view of  above discussion, I am of the considered view that plaintiff has make out prima facie case in its favour for granting interim injunction. Further, balance of convenience also lies in favour of the plaintiff as if defendant continues to infringe the trademark of the plaintiff, the same shall cause inconvenience to the plaintiff. The plaintiff shall also suffer from irreparable loss and injury if ex parte ad interim injunction is not granted in its favour at this stage. Accordingly exparte ad interim is hereby granted in favour of the plaintiff and against the defendants as follow:- (i)  Restraining the defendants themselves as also through through their directors, proprietors, individual proprietor, partners (if any), agents, servants, assigns, representatives, successors, distributors and all others acting for and on their behalf from using, marketing, selling, offering for sale, advertising or displaying directly or indirectly or dealing in any other manner or mode in relation to any of its business/ services/ goods/products under the impugned trade mark/name SEMCO or any other trade mark/label identical with or deceptively similar to the plaintiff's said well known trade SIMCO and from doing any act as is likely to cause confusion and deception and passing of defendant's goods and business as and for the business and goods of the plaintiff and from causing infringement and passing off and violation of the plaintiff's said trademark SIMCO.  xxx",
-                        "reference": "3."
-                    },
-                    {
-                        "page": 5,
-                        "paragraph_number": 4,
-                        "content": "Accordingly, the application of the plaintiff under Order 26 Rule 9 read with Section 151 of the CPC for appointment of  Local Commissioner is hereby allowed and directions for ex parte ad interim injunction are given in the application of the plaintiff under order 39 Rules 1 & 2 of the CPC read with section 151 CPC.”",
-                        "reference": "45."
-                    },
-                    {
-                        "page": 6,
-                        "paragraph_number": 5,
-                        "content": "Thereafter, vide order dated 11th August, 2020, it was clarified by the Commercial Court that the injunction order was applicable only qua sanitizers and not in respect of other products of Defendant No.1. The relevant portion of the said order reads as under:  “5. In the circumstances, in view of the submissions made the order dated 20.07.2020 is clarified that the injunction is qua only regarding the Sanitizer arid not in respect of the other products of defendant no. 1.”",
-                        "reference": "4."
-                    },
-                    {
-                        "page": 6,
-                        "paragraph_number": 6,
-                        "content": "During the execution of the local commission, several goods were found at the premises of Defendant No.1, which included inter alia, sanitizers, face masks, surface disinfectant sprays and hypochlorites. This seizure of products other than sanitizers was challenged by Defendant No.1 as being contrary to the clarification dated 11th August, 2020. Accordingly, the Commercial Court vide order dated 23rd September, 2020 directed release of masks seized, while holding that the release of the disinfectant sprays and hypochlorite solution seized would have to be decided along with the injunction application. In the meantime, Defendant No.1 had filed its written statement before the Commercial Court which stated that it was dealing in different goods and had different group entities. Accordingly, the Plaintiff moved an application under Order VI Rule 17 CPC read with Order I Rule 10 CPC, seeking to incorporate the various goods produced by the Defendants, to the list of impugned products as also to implead other group  entities of the Defendants, which was allowed by the Commercial Court vide the impugned order dated 10th January 2022. The Commercial Court allowed the applications, permitting the addition of the group companies of the Defendants to the suit pending between the parties, as also the addition of some impugned products. The relevant extracts of the impugned order are as under:  “ At the outset, there is no dispute that the amendment sought to be made is the outcome of the averments made by the defendant in the written statement and the application under Order 39 Rule 4 CPC. Though it is averred that the plaintiff was very much aware about defendant no.1 and its group of companies from the very beginning, however, in view of the judgment in Lakha Ram Sharma's case (Supra), the question whether or not the claim made in the application is bonafide or not is to be decided at the trial of the suit.  The judgment relied by Ld. Counsel for defendant in Revajeetu Builders and Developers Vs. Naraina Swami and Sons & Ors. in Civil Appeal NO.6291/2009 pronounced on 09.10.2009 by the Apex Court, the judgment titled Colgate Palmolive Company & Ors. Vs. Anchor Health and Beauty Care Pvt. Ltd. FAO (OS) 131/2012 decided on 19.07.2015 relied upon by Ld. Counsel for defendant are not applicable to the facts and circumstances of this case since the amendment sought to be made in the present case is the outcome of the written statement filed by the defendant and thus a subsequent event which could not have been known to the plaintiff as claimed, at the time of filing of the present case. The contention of Ld. Counsel for defendant that the plaintiff was aware of the said facts before the filing of the present suit is a matter of evidence.  The amendment sought to be made by the plaintiff is also necessary to decide the controversy in question completely and also to avoid the multiplicity of the litigation since admittedly the other group of companies of defendant are also dealing in the same goods under the impugned trademark SEMCO.  The plea with regard to the order dated 11.08.2020 does not come in the way of the present application since the written statement has been filed on 31.08.2020 i.e. after the clarification order was passed by Ld. Predecessor of this Court. It is also pertinent to mention here that the amendment proposed to be made does not at all change the nature of the suit. The matter is at the initial stage since the trial has yet not commenced. Hence, no prejudice shall be caused to defendant no.1 if the application for amendment is allowed.  In view of the above discussion, application under Order VI Rule 17 read with Order 1 Rule 10 and read with 151 CPC moved by plaintiff is allowed.”",
-                        "reference": "5."
-                    },
-                    {
-                        "page": 8,
-                        "paragraph_number": 7,
-                        "content": "The present petition challenges the said order. On the previous date of hearing before this Court, i.e., 22nd April, 2022, after hearing ld. counsels for the parties, the following order was passed:  “5. After some hearing, it appears that the Defendants are using the mark ‘SEMCO’ in respect of the specific category of products and services. Let a detailed list of products and services for which the mark and name ‘SEMCO’ is currently being used by the Defendants be produced before the Court on the next date.",
-                        "reference": "6."
-                    },
-                    {
-                        "page": 9,
-                        "paragraph_number": 10,
-                        "content": "Today, the parties are also present in Court along with their counsels and have made submissions. It appears that there are various apprehensions on behalf of the Plaintiff that the Defendants may use the mark ‘SEMCO’ in respect of cognate and allied products. The Plaintiff’s mark is currently being used for goods falling in Classes 3 and 5 and is also registered in various classes. The Defendants on the other hand, submit that the primary business of the Defendants is the manufacture of machine, machine tools and other industrial products. The Defendants also acknowledge that the Plaintiff has various registrations for the mark ‘SIMCO’ across several classes. However, the claim of the Defendant is that in a number of such classes, the Plaintiff is not using the mark. In response to this submission, the stand of the Plaintiff is that the Plaintiff has registered the mark ‘SIMCO’ in several classes for better protection of the mark.",
-                        "reference": "7."
-                    },
-                    {
-                        "page": 9,
-                        "paragraph_number": 11,
-                        "content": "It is also noticed by this Court that there are various cancellation petitions and other proceedings including opposition proceedings, which are pending between the same parties. The said list of pending cancellation proceedings on behalf of M/s. Semco Infratech Pvt. Ltd. seeking removal of the marks from the register or rectification of the register under Section 47/57/125 of the Trade Marks Act, 1999, are as under:",
-                        "reference": "8."
-                    },
-                    {
-                        "page": 12,
-                        "paragraph_number": 13,
-                        "content": "Considering the large number of disputes between these parties, ld. Counsels have made submissions to the effect that the Defendants would restrict the use of the mark SEMCO for some goods and services, so that the disputes can be finally resolved, without any ambiguity. The Plaintiff also has no objection in the Defendants using the mark SEMCO for some products and services as elaborated below.",
-                        "reference": "10."
-                    },
-                    {
-                        "page": 12,
-                        "paragraph_number": 14,
-                        "content": "In this view of the matter, at the outset, it is deemed appropriate to consolidate the various proceedings between the parties. Ld. Counsels for the parties also consent to the same. Accordingly, in terms of Rule 26 of the Delhi High Court Intellectual Property Rights Division Rules, 2022 providing for consolidation of IPR proceedings, the suit before the Commercial Court being CS(COMM.) No.381/2020 shall stand transferred to this Court. Additionally, with the consent of parties, the rectification petitions which have been transferred from the IPAB, have been called for and listed before this Court today.",
-                        "reference": "11."
-                    },
-                    {
-                        "page": 12,
-                        "paragraph_number": 15,
-                        "content": "The Plaintiff and the Defendants are duly represented by the parties who are present and in consultation with their respective counsels, have agreed to amicably resolve their disputes by broadly dividing/delineating the products and services for which the Defendants would use the mark ‘SEMCO’ and the Plaintiff would use the mark ‘SIMCO’. The following are the terms and conditions of the agreement between the parties:  (i)  The Defendants acknowledge the Plaintiff to be the owner of the mark ‘SIMCO’ for various goods falling in Classes 3 and 5. The Defendants also acknowledge that the Plaintiff has various registrations for the mark ‘SIMCO’ across several classes.  (ii)  The Defendants shall henceforth restrict the use of the mark ‘SEMCO’ for the following products/services. For the sake of clarity, the class in which the said products/services fall is also mentioned:  (iii)  The Defendants shall be entitled to obtain registrations of the mark ‘SEMCO’ for the goods and services set out above, in terms of the present settlement.  (iv)  Insofar as the Plaintiff is concerned, it shall own the mark ‘SIMCO’ and it is free to expand its products/ services into any other goods/services, except the ones set out above, for which the Defendants would be using the mark SEMCO. The Plaintiff shall, however, be entitled to retain its registrations for the mark SIMCO even in respect of products/services, that the Defendants are entitled to use as per the above settlement, so as to ensure that the Plaintiff can protect such marks against any third-party infringing use. However, the Plaintiff shall not enforce such trademark registrations against the Defendants.  (v)  The Defendants would be entitled to obtain registration/pursue their pending applications in respect of the goods/services specified above. In respect of all other goods and services the Plaintiff shall be permitted to obtain fresh registrations. The existing registrations of the Plaintiff in respect of goods which fall in the Defendants’ share, shall however continue in the Plaintiff’s favour for the sake of protection of the rights in the mark SIMCO against third parties, unrelated to the Defendants.",
-                        "reference": "12."
-                    },
-                    {
-                        "page": 15,
-                        "paragraph_number": 16,
-                        "content": "The above settlement has been arrived at between the parties, who are  appearing before the Court today. The Plaintiff is represented by Mr. Kuldip Singh Bagga, the Director/ Promoter of the Plaintiff and the Defendants are represented by Mr. Neeraj Kumar Singhal who is the Director/Promoter of the Defendant No.1-company.",
-                        "reference": "13."
-                    },
-                    {
-                        "page": 16,
-                        "paragraph_number": 17,
-                        "content": "In view of the above settlement, the suit so transferred being CS(COMM) 381/2020, stands decreed in terms of the above settlement. The rectification petitions being CO(COMM-IPD TM) 158/2021, CO(COMMIPD TM) 123/2022, CO(COMM-IPD TM) 111/2022, CO(COMM-IPD TM) 373/2022, CO(COMM-IPD TM) 218/2021, CO(COMM-IPD TM) 655/2022 also stand disposed of in the said terms. Decree sheet be drawn in terms of the settlement recorded above, by the Registry of this Court. The present petition being CM(M) IPD 10/2022 also stands disposed of. All pending applications are disposed of.",
-                        "reference": "14."
-                    }
-                ]
-            }
-        },
-        {
             "case_number": "CAT 2/2021",
             "title": "M/S SUBROS EDUCATIONAL SOCIETY VS UNION OF INDIA",
             "date": "19/05/2022",
@@ -965,95 +883,6 @@
                         "paragraph_number": 8,
                         "content": "Let the present order be supplied to the Registrar of Trademarks, New Delhi, through Mr. Harish Vaidyanathan Shankar, ld. CGSC.",
                         "reference": "8."
-                    }
-                ]
-            }
-        },
-        {
-            "case_number": "COT 218/2021",
-            "title": "SEMCO INFRATECH PVT LTD. VS SIMLA CHEMICALS PVT LTD AND ANR",
-            "date": "19/05/2022",
-            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/25-05-2022//PMS19052022COT2182021_114131.pdf&ID=1158940068_9",
-            "document_path": "data\\judgments\\DHC Judgments\\1158940068_9.pdf",
-            "paragraphs": {
-                "adobe_api": [
-                    {
-                        "page": 3,
-                        "paragraph_number": 2,
-                        "content": "The disputes in these cases relate to the trademarks SIMCO and SEMCO. Respondent No.1/Plaintiff -‘Simla Chemicals Pvt Ltd’(hereinafter “Plaintiff”) adopted the mark SIMCO in 1948 for various products falling in Class 3 and Class 5. The main Defendant/Petitioner-SEMCO Infratech Pvt Ltd’ (hereinafter “Defendant”) and related parties, adopted the mark ‘SEMCO’ in respect of machine tools, real estate, construction, etc. The Plaintiff had filed a suit seeking permanent injunction restraining infringement, as also reliefs for passing off, damages etc., being CS(COMM.) No.381/2020 titled Simla Chemicals Pvt. Ltd. v. SEMCO  Infratech Pvt. Ltd. & Anr., before the ld. District Judge, Commercial Court- 02, Shahdara, Karkardooma Courts, Delhi (hereinafter “Commercial Court”).  The prayers in the suit are as under:  “43.The plaintiff, under the above stated facts and circumstances, prays:- (a)  For a decree of permanent injunction restraining the defendants by themselves as also through their directors, proprietors, individual proprietor, partners (if any), agents, servants, assigns, representatives, successors, distributors and all others acting for and on their behalf from using, selling, exporting, offering for sale, advertising or displaying directly or indirectly or dealing in any other manner or  mode in relation to any of its business/services/goods/products under the impugned trade mark/name SEMCO or any other trade mark/ label identical with or deceptively similar to the trade mark SIMCO of the plaintiff amounting to or resulting in:- (i)  Infringement and violation of the plaintiff’s registered and well-known trademark SIMCO;  (ii)  Passing off impugned goods under the impugned trademark/name SEMCO as the goods of the plaintiff there by violating common law rights of the plaintiff in its trade mark SIMCO;  (b)  For an order for delivery up of all the defendants impugned goods and business bearing the impugned trade mark including packing material, bottles, carton boxes, carry bags, finished and unfinished goods, boxes, stickers, or any other incriminating material including display boards and sign boards and trade literature to the plaintiff for the purpose of destructions/erasure.  (c)  For an order of rendition of account of the defendants by their aforesaid impugned trade activities and a decree to the plaintiff on the amount so ascertained.  (d)  In alternative to accounts for a decree for grant of damages of Rs.3,05,000/-(Rupees three Lacs five thousand Only) from the defendants, jointly and severally to the plaintiff.  (e)  For such further order as this Hon’ble Court may deed fit and proper in the circumstances of the case and in the interest of justice.”",
-                        "reference": "2."
-                    },
-                    {
-                        "page": 4,
-                        "paragraph_number": 3,
-                        "content": "Vide order dated 20th July, 2022, the Commercial Court considered the application for interim injunction and the application for appointment of a Local Commissioner, and granted the same in favour of the Plaintiff. The relevant extract of the said order reads as under:  “32. Considering the facts and in view of  above discussion, I am of the considered view that plaintiff has make out prima facie case in its favour for granting interim injunction. Further, balance of convenience also lies in favour of the plaintiff as if defendant continues to infringe the trademark of the plaintiff, the same shall cause inconvenience to the plaintiff. The plaintiff shall also suffer from irreparable loss and injury if ex parte ad interim injunction is not granted in its favour at this stage. Accordingly exparte ad interim is hereby granted in favour of the plaintiff and against the defendants as follow:- (i)  Restraining the defendants themselves as also through through their directors, proprietors, individual proprietor, partners (if any), agents, servants, assigns, representatives, successors, distributors and all others acting for and on their behalf from using, marketing, selling, offering for sale, advertising or displaying directly or indirectly or dealing in any other manner or mode in relation to any of its business/ services/ goods/products under the impugned trade mark/name SEMCO or any other trade mark/label identical with or deceptively similar to the plaintiff's said well known trade SIMCO and from doing any act as is likely to cause confusion and deception and passing of defendant's goods and business as and for the business and goods of the plaintiff and from causing infringement and passing off and violation of the plaintiff's said trademark SIMCO.  xxx",
-                        "reference": "3."
-                    },
-                    {
-                        "page": 5,
-                        "paragraph_number": 4,
-                        "content": "Accordingly, the application of the plaintiff under Order 26 Rule 9 read with Section 151 of the CPC for appointment of  Local Commissioner is hereby allowed and directions for ex parte ad interim injunction are given in the application of the plaintiff under order 39 Rules 1 & 2 of the CPC read with section 151 CPC.”",
-                        "reference": "45."
-                    },
-                    {
-                        "page": 6,
-                        "paragraph_number": 5,
-                        "content": "Thereafter, vide order dated 11th August, 2020, it was clarified by the Commercial Court that the injunction order was applicable only qua sanitizers and not in respect of other products of Defendant No.1. The relevant portion of the said order reads as under:  “5. In the circumstances, in view of the submissions made the order dated 20.07.2020 is clarified that the injunction is qua only regarding the Sanitizer arid not in respect of the other products of defendant no. 1.”",
-                        "reference": "4."
-                    },
-                    {
-                        "page": 6,
-                        "paragraph_number": 6,
-                        "content": "During the execution of the local commission, several goods were found at the premises of Defendant No.1, which included inter alia, sanitizers, face masks, surface disinfectant sprays and hypochlorites. This seizure of products other than sanitizers was challenged by Defendant No.1 as being contrary to the clarification dated 11th August, 2020. Accordingly, the Commercial Court vide order dated 23rd September, 2020 directed release of masks seized, while holding that the release of the disinfectant sprays and hypochlorite solution seized would have to be decided along with the injunction application. In the meantime, Defendant No.1 had filed its written statement before the Commercial Court which stated that it was dealing in different goods and had different group entities. Accordingly, the Plaintiff moved an application under Order VI Rule 17 CPC read with Order I Rule 10 CPC, seeking to incorporate the various goods produced by the Defendants, to the list of impugned products as also to implead other group  entities of the Defendants, which was allowed by the Commercial Court vide the impugned order dated 10th January 2022. The Commercial Court allowed the applications, permitting the addition of the group companies of the Defendants to the suit pending between the parties, as also the addition of some impugned products. The relevant extracts of the impugned order are as under:  “ At the outset, there is no dispute that the amendment sought to be made is the outcome of the averments made by the defendant in the written statement and the application under Order 39 Rule 4 CPC. Though it is averred that the plaintiff was very much aware about defendant no.1 and its group of companies from the very beginning, however, in view of the judgment in Lakha Ram Sharma's case (Supra), the question whether or not the claim made in the application is bonafide or not is to be decided at the trial of the suit.  The judgment relied by Ld. Counsel for defendant in Revajeetu Builders and Developers Vs. Naraina Swami and Sons & Ors. in Civil Appeal NO.6291/2009 pronounced on 09.10.2009 by the Apex Court, the judgment titled Colgate Palmolive Company & Ors. Vs. Anchor Health and Beauty Care Pvt. Ltd. FAO (OS) 131/2012 decided on 19.07.2015 relied upon by Ld. Counsel for defendant are not applicable to the facts and circumstances of this case since the amendment sought to be made in the present case is the outcome of the written statement filed by the defendant and thus a subsequent event which could not have been known to the plaintiff as claimed, at the time of filing of the present case. The contention of Ld. Counsel for defendant that the plaintiff was aware of the said facts before the filing of the present suit is a matter of evidence.  The amendment sought to be made by the plaintiff is also necessary to decide the controversy in question completely and also to avoid the multiplicity of the litigation since admittedly the other group of companies of defendant are also dealing in the same goods under the impugned trademark SEMCO.  The plea with regard to the order dated 11.08.2020 does not come in the way of the present application since the written statement has been filed on 31.08.2020 i.e. after the clarification order was passed by Ld. Predecessor of this Court. It is also pertinent to mention here that the amendment proposed to be made does not at all change the nature of the suit. The matter is at the initial stage since the trial has yet not commenced. Hence, no prejudice shall be caused to defendant no.1 if the application for amendment is allowed.  In view of the above discussion, application under Order VI Rule 17 read with Order 1 Rule 10 and read with 151 CPC moved by plaintiff is allowed.”",
-                        "reference": "5."
-                    },
-                    {
-                        "page": 8,
-                        "paragraph_number": 7,
-                        "content": "The present petition challenges the said order. On the previous date of hearing before this Court, i.e., 22nd April, 2022, after hearing ld. counsels for the parties, the following order was passed:  “5. After some hearing, it appears that the Defendants are using the mark ‘SEMCO’ in respect of the specific category of products and services. Let a detailed list of products and services for which the mark and name ‘SEMCO’ is currently being used by the Defendants be produced before the Court on the next date.",
-                        "reference": "6."
-                    },
-                    {
-                        "page": 9,
-                        "paragraph_number": 10,
-                        "content": "Today, the parties are also present in Court along with their counsels and have made submissions. It appears that there are various apprehensions on behalf of the Plaintiff that the Defendants may use the mark ‘SEMCO’ in respect of cognate and allied products. The Plaintiff’s mark is currently being used for goods falling in Classes 3 and 5 and is also registered in various classes. The Defendants on the other hand, submit that the primary business of the Defendants is the manufacture of machine, machine tools and other industrial products. The Defendants also acknowledge that the Plaintiff has various registrations for the mark ‘SIMCO’ across several classes. However, the claim of the Defendant is that in a number of such classes, the Plaintiff is not using the mark. In response to this submission, the stand of the Plaintiff is that the Plaintiff has registered the mark ‘SIMCO’ in several classes for better protection of the mark.",
-                        "reference": "7."
-                    },
-                    {
-                        "page": 9,
-                        "paragraph_number": 11,
-                        "content": "It is also noticed by this Court that there are various cancellation petitions and other proceedings including opposition proceedings, which are pending between the same parties. The said list of pending cancellation proceedings on behalf of M/s. Semco Infratech Pvt. Ltd. seeking removal of the marks from the register or rectification of the register under Section 47/57/125 of the Trade Marks Act, 1999, are as under:",
-                        "reference": "8."
-                    },
-                    {
-                        "page": 12,
-                        "paragraph_number": 13,
-                        "content": "Considering the large number of disputes between these parties, ld. Counsels have made submissions to the effect that the Defendants would restrict the use of the mark SEMCO for some goods and services, so that the disputes can be finally resolved, without any ambiguity. The Plaintiff also has no objection in the Defendants using the mark SEMCO for some products and services as elaborated below.",
-                        "reference": "10."
-                    },
-                    {
-                        "page": 12,
-                        "paragraph_number": 14,
-                        "content": "In this view of the matter, at the outset, it is deemed appropriate to consolidate the various proceedings between the parties. Ld. Counsels for the parties also consent to the same. Accordingly, in terms of Rule 26 of the Delhi High Court Intellectual Property Rights Division Rules, 2022 providing for consolidation of IPR proceedings, the suit before the Commercial Court being CS(COMM.) No.381/2020 shall stand transferred to this Court. Additionally, with the consent of parties, the rectification petitions which have been transferred from the IPAB, have been called for and listed before this Court today.",
-                        "reference": "11."
-                    },
-                    {
-                        "page": 12,
-                        "paragraph_number": 15,
-                        "content": "The Plaintiff and the Defendants are duly represented by the parties who are present and in consultation with their respective counsels, have agreed to amicably resolve their disputes by broadly dividing/delineating the products and services for which the Defendants would use the mark ‘SEMCO’ and the Plaintiff would use the mark ‘SIMCO’. The following are the terms and conditions of the agreement between the parties:  (i)  The Defendants acknowledge the Plaintiff to be the owner of the mark ‘SIMCO’ for various goods falling in Classes 3 and 5. The Defendants also acknowledge that the Plaintiff has various registrations for the mark ‘SIMCO’ across several classes.  (ii)  The Defendants shall henceforth restrict the use of the mark ‘SEMCO’ for the following products/services. For the sake of clarity, the class in which the said products/services fall is also mentioned:  (iii)  The Defendants shall be entitled to obtain registrations of the mark ‘SEMCO’ for the goods and services set out above, in terms of the present settlement.  (iv)  Insofar as the Plaintiff is concerned, it shall own the mark ‘SIMCO’ and it is free to expand its products/ services into any other goods/services, except the ones set out above, for which the Defendants would be using the mark SEMCO. The Plaintiff shall, however, be entitled to retain its registrations for the mark SIMCO even in respect of products/services, that the Defendants are entitled to use as per the above settlement, so as to ensure that the Plaintiff can protect such marks against any third-party infringing use. However, the Plaintiff shall not enforce such trademark registrations against the Defendants.  (v)  The Defendants would be entitled to obtain registration/pursue their pending applications in respect of the goods/services specified above. In respect of all other goods and services the Plaintiff shall be permitted to obtain fresh registrations. The existing registrations of the Plaintiff in respect of goods which fall in the Defendants’ share, shall however continue in the Plaintiff’s favour for the sake of protection of the rights in the mark SIMCO against third parties, unrelated to the Defendants.",
-                        "reference": "12."
-                    },
-                    {
-                        "page": 15,
-                        "paragraph_number": 16,
-                        "content": "The above settlement has been arrived at between the parties, who are  appearing before the Court today. The Plaintiff is represented by Mr. Kuldip Singh Bagga, the Director/ Promoter of the Plaintiff and the Defendants are represented by Mr. Neeraj Kumar Singhal who is the Director/Promoter of the Defendant No.1-company.",
-                        "reference": "13."
-                    },
-                    {
-                        "page": 16,
-                        "paragraph_number": 17,
-                        "content": "In view of the above settlement, the suit so transferred being CS(COMM) 381/2020, stands decreed in terms of the above settlement. The rectification petitions being CO(COMM-IPD TM) 158/2021, CO(COMMIPD TM) 123/2022, CO(COMM-IPD TM) 111/2022, CO(COMM-IPD TM) 373/2022, CO(COMM-IPD TM) 218/2021, CO(COMM-IPD TM) 655/2022 also stand disposed of in the said terms. Decree sheet be drawn in terms of the settlement recorded above, by the Registry of this Court. The present petition being CM(M) IPD 10/2022 also stands disposed of. All pending applications are disposed of.",
-                        "reference": "14."
                     }
                 ]
             }

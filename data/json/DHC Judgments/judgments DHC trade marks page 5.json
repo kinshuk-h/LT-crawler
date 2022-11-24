@@ -22,6 +22,13 @@
             "page_processed": 5,
             "saved_total": 50,
             "generated_at": "2022-11-12T16:06:54"
+        },
+        "filters": {
+            "sent_count": {
+                "min_sents": "2",
+                "min_words": "20",
+                "tokenizer_path": null
+            }
         }
     },
     "data": [

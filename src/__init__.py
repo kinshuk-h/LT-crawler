@@ -29,6 +29,22 @@ logger.addHandler(file_handler)
 
 from . import utils, retrievers, extractors, segregators, filters
 
+def enable_verbose_logs():
+    """ Enables logging over the stream STDERR handler. """
+    console_handler.setLevel(logging.DEBUG)
+
+def disable_verbose_log():
+    """ Disables logging over the stream STDERR handler. """
+    console_handler.setLevel(logging.CRITICAL)
+
+def make_logger(name):
+    """ Creates a new logger and binds previously initialized handlers. """
+    logger = logging.getLogger(name.rsplit('.', maxsplit=1)[-1])
+    logger.setLevel(logging.DEBUG)
+    logger.addHandler(console_handler)
+    logger.addHandler(file_handler)
+    return logger
+
 __all__ = [ "utils", "retrievers", "extractors", "segregators", "filters" ]
 __author__ = "Kinshuk Vasisht"
 __version__ = "1.0.0"

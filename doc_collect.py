@@ -3,7 +3,6 @@ import re
 import sys
 import json
 import timeit
-import logging
 import datetime
 import argparse
 import traceback
@@ -11,10 +10,13 @@ import threading
 import collections
 import concurrent.futures
 
-from src import utils, retrievers, extractors, segregators, filters, console_handler
+import src
+from src import utils, retrievers, extractors, segregators, filters
+
+logger = src.make_logger(__name__)
 
 if '-d' in sys.argv or '--debug' in sys.argv:
-    console_handler.setLevel(logging.DEBUG)
+    src.enable_verbose_logs()
 
 def now(tz=None):
     """ Returns the current timestamp in ISO 8601 format as a string. """
@@ -366,6 +368,10 @@ def process(prog, args, judgment_batches, file_index):
                         status, info = file_index.has(file, extractor_group, return_info=True)
                         # print("index", index, ":", file, "in file store?", status and info['match'] != file)
                         if status and info['match'] != file:
+                            logger.debug(
+                                "collision: %s (new) and %s (present)",
+                                os.path.basename(file), os.path.basename(info['match'])
+                            )
                             break
                         file_index.load(file, extractor_group, index_info=info)
                     else:
@@ -374,7 +380,6 @@ def process(prog, args, judgment_batches, file_index):
                     batch['indexes']     = unique_indexes
                 toc = timeit.default_timer()
                 print(f"done (~{toc-tic:.3}s) ({len(unique_indexes)}/{len(batch['judgments'])} unique)", flush=True)
-                # print(unique_indexes)
 
             if (indexes := batch.get('indexes', None)) is not None:
                 # Delete files which are redundant.

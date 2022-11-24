@@ -98,6 +98,7 @@ if __name__ == "__main__":
             for doc in docs:
                 if doc['document_path'] is not None:
                     os.rename(doc['document_path'], doc['path'])
+            print()
 
 
     print("> Non-referent files:", len(non_referent))

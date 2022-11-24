@@ -36,11 +36,23 @@ def download_file_sync(url):
 def main():
     file_index = utils.FileIndexStore()
 
+    # urls = [
+    #     "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/VIB/judgement/01-06-2022//VIB01062022CW82842022_202139.pdf&ID=1072369180_4",
+    #     "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/VIB/judgement/01-06-2022//VIB01062022CW83452022_202255.pdf&ID=1072369180_5",
+    #     "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/VIB/judgement/01-06-2022//VIB01062022CW85702022_203847.pdf&ID=1072369180_6",
+    #     "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/VIB/judgement/01-06-2022//VIB01062022CW85512022_202913.pdf&ID=1072369180_7"
+    # ]
     urls = [
-        "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/VIB/judgement/01-06-2022//VIB01062022CW82842022_202139.pdf&ID=1072369180_4",
-        "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/VIB/judgement/01-06-2022//VIB01062022CW83452022_202255.pdf&ID=1072369180_5",
-        "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/VIB/judgement/01-06-2022//VIB01062022CW85702022_203847.pdf&ID=1072369180_6",
-        "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/VIB/judgement/01-06-2022//VIB01062022CW85512022_202913.pdf&ID=1072369180_7"
+        "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/NAC/judgement/12-10-2022//NAC12102022WO762021_183759.pdf&ID=1403414511_0",
+        "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/NAC/judgement/12-10-2022//NAC12102022SC6752019_183633.pdf&ID=1403414511_1",
+        "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/NAC/judgement/12-10-2022//NAC12102022WO552021_183727.pdf&ID=1403414511_2",
+        "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/12-10-2022//PMS11102022SC4782021_171710.pdf&ID=1403414511_3",
+        "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/12-10-2022//PMS10102022SC4232022_124311.pdf&ID=1403414511_4",
+        "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/12-10-2022//PMS10102022SC4742022_124501.pdf&ID=1403414511_5",
+        "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/12-10-2022//PMS07102022SC1792018_124618.pdf&ID=1403414511_6",
+        "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/595/judgement/08-10-2022//59507102022FAC942020_191733.pdf&ID=1403414511_7",
+        "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/595/judgement/06-10-2022//59506102022RFC62019_172809.pdf&ID=1403414511_8",
+        "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/SVN/judgement/06-10-2022//SVN06102022SC3082021_182926.pdf&ID=1403414511_9"
     ]
 
     resolved = asyncio.run(generate_download_urls(urls))

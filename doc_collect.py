@@ -9,7 +9,7 @@ import collections
 import concurrent.futures
 
 import src
-from src.pipeline import preprocess, search_and_scrape
+from src.pipeline import preprocess, search_and_scrape, postprocess
 from src import utils, extractors, segregators, filters
 
 logger = src.make_logger(__name__)
@@ -380,6 +380,9 @@ def main():
             # process.process,
             # segregate.segregate
         ],
+        postprocessing={
+            '_': postprocess.merge_judgments
+        }
     )
     pipeline.execute(parser.prog, args)
 

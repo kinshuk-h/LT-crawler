@@ -20,5 +20,6 @@ __all__     = [
     "extract",
     "process",
     "segregate",
+    "postprocess",
     "logger"
 ]

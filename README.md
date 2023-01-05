@@ -14,10 +14,10 @@ The project is organized into the following hierarchy:
 
 - `config`: Configuration and credential files for usage of proprietory APIs (such as the [Adobe API](AdobePDFExtractAPI.md)).
 - `data`: Default location for downloaded Judgments and generated JSON files.
-  - `judgments`: Default location for storing downloaded judgment files
-    - `<court> Judgments`: Judgments pertaining to a specific court
+  - `judgments`: Default location for storing downloaded judgment files.
+    - `<court> Judgments`: Judgments pertaining to a specific court.
       - `extracted_<extractor>`: Text extraction results for corresponding judgment files
-  - `json`: JSON data describing downloaded judgments, search parameters and extracted paragraphs
+  - `json`: JSON data describing downloaded judgments, search parameters and extracted paragraphs.
   - `logs`: Log files of executions and function invocations.
 - `dumps`: Temporary generated files and results for various operations.
 - `src`: Main source code for various modules of the pipeline:
@@ -25,8 +25,11 @@ The project is organized into the following hierarchy:
   - `extractors`: Module for extractors, responsible for extracting text from collected judgments
   - `segregators`: Module for segregators, responsible for segregating extracted text into paragraph units
   - `filters`: Module for filters, responsible for filtering undesirable paragraphs from the generated paragraph units
-  - `scripts`: Scripts for testing module functionality and benchmarking
-- `doc_collect.py`: Main script implementating the curation pipeline, utilizing the developed modules
+  - `pipeline`: Module implementing the phases of the pipeline, providing dedicated functionality for phase-specific tasks via sub-modules.
+  - `scripts`: Scripts for testing module functionality and benchmarking.
+- `paracurate.py`: Main script implementating the curation pipeline, utilizing the developed modules.
+- `tests`: Bundles files implementating unit and functional tests for modules.
+  - `data`: Sample data to use for testing. Follows the same structure as the core `data` directory.
 
 ## Data Description
 
@@ -45,9 +48,9 @@ The curated dataset, generated as a set of JSON files, comprises of the followin
 
 - Patents
 - Copyrights
+- Licensing
 - Trademarks
 - Infringement
-- Licensing
 - Industrial Design
 - Design
 - Geographical Indications
@@ -77,11 +80,19 @@ The curated dataset, generated as a set of JSON files, comprises of the followin
 - Generate paragraphs from the results on the first 10 pages for the search term 'trade marks' over the website of the Delhi High Court, using only the Adobe API extractor, bypassing the `sent_count` filter and skipping results already generated:
 
   ```powershell
-  python3 doc_collect.py "trade marks" --courts DHC --extractors adobe_api --adobe-credentials config/pdfservices-api-credentials.json --page 1 --pages 10 --skip-existing --sent-count-min-sents 0
+  python3 paracurate.py "trade marks" --courts DHC --extractors adobe_api --adobe-credentials config/pdfservices-api-credentials.json --page 1 --pages 10 --skip-existing --sent-count-min-sents 0
   ```
 
 - Generate paragraphs for the results from the first 2 pages of all the specified search terms over the website of the Delhi High Court, using only the Adobe API extractor, filtering paragraphs with less than 2 sentences AND less than 20 words, and skipping results already generated:
 
   ```powershell
-  python3 doc_collect.py "Patents" "Copyrights" "Infringement" "Licensing" "Industrial Design" "Trade Secrets" "Geographical Indications" "Design" "Trademarks" --courts DHC --extractors adobe_api --adobe-credentials "config/pdfservices-api-credentials.json" --page 1 --pages 2 --skip-existing --sent-count-min-sents 2 --sent-count-min-words 20
+  python3 paracurate.py "Patents" "Copyrights" "Infringement" "Licensing" "Industrial Design" "Trade Secrets" "Geographical Indications" "Design" "Trademarks" --courts DHC --extractors adobe_api --adobe-credentials "config/pdfservices-api-credentials.json" --page 1 --pages 2 --skip-existing --sent-count-min-sents 2 --sent-count-min-words 20
+  ```
+
+### Testing
+
+Defined unit and functional tests can be executed via use of `pylint`:
+
+  ```powershell
+  pytest tests/
   ```

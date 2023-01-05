@@ -1,16 +1,15 @@
 import os
-import re
 import sys
 import json
 import timeit
 import datetime
 import argparse
 import traceback
-import threading
 import collections
 import concurrent.futures
 
 import src
+from src.pipeline import preprocess
 from src import utils, retrievers, extractors, segregators, filters
 
 logger = src.make_logger(__name__)
@@ -42,34 +41,6 @@ avl_segregators = {
     'parsr_custom' : None,
     'adobe_api'    : segregators.AdobeJSONSegregator
 }
-
-def load_file_index(prog, args):
-    """ Pre-processing stage: Load file indexes for detecting duplicates. """
-    file_index = utils.FileIndexStore()
-    print(prog, ": building file index store ...", sep='')
-    for court in args.courts:
-        output_dir = os.path.join(args.output_dir, args.document_dir, f"{court} Judgments")
-        if os.path.exists(output_dir):
-            try:
-                print(f"  : loading hashes for {court} ... ", sep='', end = '', flush=True)
-                file_index.load_directory(output_dir, "*.pdf", utils.show_indeterminate_progress())
-                print("\b\bdone")
-            except Exception as exc:
-                print("\b\berror")
-                print(prog, ": error: ", exc, sep='', file=sys.stderr)
-
-            for extractor in args.extractors:
-                extract_output_dir = os.path.join(output_dir, utils.fs.pathsafe("extracted_" + extractor))
-                if os.path.exists(output_dir):
-                    try:
-                        print(f"  : loading hashes for {extractor} ... ", sep='', end = '', flush=True)
-                        file_index.load_directory(extract_output_dir, "*.txt", utils.show_indeterminate_progress())
-                        print("\b\bdone")
-                    except Exception as exc:
-                        print("\b\berror")
-                        print(prog, ": error: ", exc, sep='', file=sys.stderr)
-    print()
-    return file_index
 
 def search_and_scrape(prog, args, file_index):
     """ Primary pipeline phase: Search and scrape judgments based on a given
@@ -514,7 +485,7 @@ def main():
                                      help="number of pages to retrieve, defaulting to as many as available.")
     retriever_group.add_argument('--start-date', type=datetime.date.fromisoformat,
                                  help='load judgments from this date', default=None, nargs='?')
-    retriever_group.add_argument('--end-date', type=datetime.date.fromisoformat,
+    retriever_group.add_argument('--end-date'  , type=datetime.date.fromisoformat,
                                  help='load judgments upto this date', default=None, nargs='?')
     retriever_group.add_argument('--document-dir', default='judgments',
                                  help='output directory to store judgments')
@@ -562,11 +533,18 @@ def main():
         print(parser.prog, ": error: specify at least one query", sep='', file=sys.stderr, flush=True)
         sys.exit(1)
 
-    file_index       = load_file_index  (parser.prog, args)
-    judgment_batches = search_and_scrape(parser.prog, args, file_index)
-    judgment_batches = extract          (parser.prog, args, judgment_batches)
-    judgment_batches = process          (parser.prog, args, judgment_batches, file_index)
-    judgment_batches = segregate        (parser.prog, args, judgment_batches)
+    pipeline = utils.Pipeline(
+        preprocessing={
+            'data_indexes': preprocess.load_indexes
+        },
+        phases=[
+            search_and_scrape,
+            # extract.extract,
+            # process.process,
+            # segregate.segregate
+        ],
+    )
+    pipeline.execute(parser.prog, args)
 
 if __name__ == "__main__":
     main()

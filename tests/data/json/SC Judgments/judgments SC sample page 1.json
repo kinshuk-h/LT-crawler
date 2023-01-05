@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "directory": "data\\judgments\\SC Judgments",
+        "request": {
+            "query": "sample",
+            "page": 1,
+            "court": "SC",
+            "start_page": 1,
+            "req_pages": 1,
+            "req_total": null,
+            "start_date": null,
+            "end_date": null
+        },
+        "response": {
+            "entry_start": 1,
+            "entry_end": 2,
+            "entry_total": 2,
+            "page": 1,
+            "page_total": 1,
+            "page_processed": 1,
+            "saved_total": 5,
+            "generated_at": "2022-11-22T12:30:51"
+        }
+    },
+    "data": [
+        {
+            "case_number": "SC 188/2022",
+            "title": "PHONOGRAPHIC PERFORMANCE LIMITED VS LOOKPART EXHIBITIONS AND EVENTS PRIVATE LIMITED",
+            "date": "10/10/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/12-10-2022//PMS10102022SC1882022_124159.pdf&ID=1921559389_1",
+            "document_path": "data\\judgments\\SC Judgments\\1921559389_1.pdf"
+        },
+        {
+            "case_number": "SC 316/2021",
+            "title": "TATA SONS PRIVATE LIMITED VS HAKUNAMATATA TATA FOUNDERS & ORS.",
+            "date": "27/09/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/04-10-2022//PMS27092022SC3162021_150037.pdf&ID=1921559389_5",
+            "document_path": "data\\judgments\\SC Judgments\\1921559389_5.pdf"
+        }
+    ]
+}

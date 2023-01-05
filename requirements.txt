@@ -3,6 +3,7 @@ beautifulsoup4==4.11.1
 lxml==4.9.1
 numpy==1.23.3
 pylint==2.14.3
+pytest==7.2.0
 parsr-client==3.2.3
 pdfminer.six==20220524
 pdfservices-sdk==1.0.2

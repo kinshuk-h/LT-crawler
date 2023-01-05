@@ -224,6 +224,65 @@ class FileIndexStore:
         else:
             return status
 
+class Pipeline:
+    """ Utility class to run multiple functions in a sequential fashion as a pipeline. """
+
+    def __init__(self, phases, preprocessing=None, postprocessing=None) -> None:
+        self.preprocessing = preprocessing or {}
+        self.postprocessing = postprocessing or {}
+        self.stages = phases
+
+    def execute(self, *args, with_preprocessing_results=False, **kwargs):
+        """ Execute the pipeline, running all preprocessing and processing stages sequentially. """
+
+        # Execute pre-processing stages:
+        preprocessing_results = {}
+        for name, preprocessing_fx in self.preprocessing.items():
+            _logger.debug(
+                "executing pre-processing stage '%s': generate '%s'",
+                preprocessing_fx.__name__, name
+            )
+            tic = timeit.default_timer()
+            preprocessing_results[name] = preprocessing_fx(*args, **kwargs)
+            toc = timeit.default_timer()
+            _logger.info(
+                "pre-processing stage '%s': execution completed in %.6gs",
+                preprocessing_fx.__name__, toc-tic
+            )
+
+        # Execute processing stages:
+        result = None
+        for i, stage_fx in enumerate(self.stages, 1):
+            _logger.debug("executing stage %d/%d: '%s'", i, len(self.stages), stage_fx.__name__)
+            tic = timeit.default_timer()
+            result = stage_fx(*args, **kwargs, **preprocessing_results)
+            toc = timeit.default_timer()
+            _logger.info("'%s' stage: execution completed in %.6gs", stage_fx.__name__, toc-tic)
+            # Add results to the positional arguments for the next stage.
+            args = ( *(args[:-1] if i != 1 else args), result )
+
+        # Execute pre-processing stages:
+        postprocessing_results = {}
+        for name, postprocessing_fx in self.postprocessing.items():
+            _logger.debug(
+                "executing post-processing stage '%s': generate '%s'",
+                postprocessing_fx.__name__, name
+            )
+            tic = timeit.default_timer()
+            postprocessing_results[name] = postprocessing_fx(
+                *args, **kwargs, **preprocessing_results
+            )
+            toc = timeit.default_timer()
+            _logger.info(
+                "post-processing stage '%s': execution completed in %.6gs",
+                postprocessing_fx.__name__, toc-tic
+            )
+
+        # Return the final result
+        results = [ result, postprocessing_results ]
+        if with_preprocessing_results:
+            results.insert(0, preprocessing_results)
+        return results
 __version__ = "1.0.0"
 __author__  = "Kinshuk Vasisht"
 __all__     = [
@@ -235,4 +294,5 @@ __all__     = [
     "constrain",
     "show_progress",
     "show_indeterminate_progress",
+    "Pipeline"
 ]

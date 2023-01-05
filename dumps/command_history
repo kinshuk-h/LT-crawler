@@ -1,1 +1,1 @@
-python3 doc_collect.py "trade marks" --extractors adobe_api --adobe-credentials config/pdfservices-api-credentials.json --page 1 --pages 10 --skip-existing --sent-count-min-sents 0
+python3 paracurate.py "trade marks" --extractors adobe_api --adobe-credentials config/pdfservices-api-credentials.json --page 1 --pages 10 --skip-existing --sent-count-min-sents 0

@@ -1,3 +1,16 @@
+"""
+
+    paracurate.py
+    ~~~~~~~~~~~~~
+
+    Driver Script to execute the curation pipeline according to specified options.
+
+    Author : Kinshuk Vasisht
+    Version: 1.0.0
+    Dated  : 2022-01-05
+
+"""
+
 import os
 import sys
 import json
@@ -102,6 +115,8 @@ def extract(prog, args, judgment_batches):
 def process(prog, args, judgment_batches, file_index):
     """ Tertiary pipeline phase: process extracted text content. """
 
+    # file_index, _ = data_indexes
+
     print(prog, ": processing judgments ...", sep='')
     for i, batch in enumerate(judgment_batches, 1):
 
@@ -116,6 +131,7 @@ def process(prog, args, judgment_batches, file_index):
                 for index in batch.get('indexes', range(len(batch['judgments']))):
                     files = batch['extractions'][extractor][index]
                     for file in files:
+                        # TODO: Prepare for merge
                         status, info = file_index.has(file, extractor_group, return_info=True)
                         # print("index", index, ":", file, "in file store?", status and info['match'] != file)
                         if status and info['match'] != file:
@@ -158,6 +174,11 @@ def process(prog, args, judgment_batches, file_index):
                                 if index == indexes[current % len(indexes)]:
                                     judgments.append(judgment)
                                     current += 1
+                                # else:
+                                #     batch['merger_requests'][] = {
+                                #         'index': ,
+                                #         'data': judgment
+                                #     }
                                 index += 1
                             else:
                                 judgments.append(judgment)

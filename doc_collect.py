@@ -9,23 +9,14 @@ import collections
 import concurrent.futures
 
 import src
-from src.pipeline import preprocess
-from src import utils, retrievers, extractors, segregators, filters
+from src.pipeline import preprocess, search_and_scrape
+from src import utils, extractors, segregators, filters
 
 logger = src.make_logger(__name__)
 
 if '-d' in sys.argv or '--debug' in sys.argv:
     src.enable_verbose_logs()
 
-def now(tz=None):
-    """ Returns the current timestamp in ISO 8601 format as a string. """
-    timestamp = datetime.datetime.now(tz=tz).isoformat()
-    return timestamp[:timestamp.rfind('.')]
-
-avl_retrievers  = {
-    'DHC': retrievers.DHCJudgmentRetriever,
-    'SC' : retrievers.SCJudgmentRetriever
-}
 avl_extractors  = {
     'pdfminer_text': extractors.PdfminerHighLevelTextExtractor(),
     'parsr'        : extractors.ParsrExtractor(),
@@ -41,161 +32,6 @@ avl_segregators = {
     'parsr_custom' : None,
     'adobe_api'    : segregators.AdobeJSONSegregator
 }
-
-def search_and_scrape(prog, args, file_index):
-    """ Primary pipeline phase: Search and scrape judgments based on a given
-        list of court websites and search parameters. """
-
-    batches = []
-
-    for court in args.courts:
-
-        output_dir = os.path.join(args.output_dir, args.document_dir, f"{court} Judgments")
-        json_dir = os.path.join(args.output_dir, "json", f"{court} Judgments")
-        os.makedirs(output_dir, exist_ok=True)
-        if args.save_json:
-            os.makedirs(json_dir, exist_ok=True)
-
-        retriever = avl_retrievers[court]
-
-        print(prog, ': searching judgments from ', court, ' ... ', sep='', flush=True)
-        for query in args.queries:
-            num_pages, num_docs, current_page = 0, 0, args.page
-
-            while True:
-                try:
-                    search_params = { 'query': query, 'page': current_page }
-
-                    json_filestem = f"{court} {query} page {current_page}"
-                    json_file     = f'judgments {utils.fs.pathsafe(json_filestem)}.json'
-                    json_file_path = os.path.join(json_dir, json_file)
-
-                    print('  : searching using ', ', '.join(f"{key} as {val}" for key,val in search_params.items()),
-                          ' ... ', end='', sep='', flush=True)
-
-                    if args.skip_existing and os.path.exists(json_file_path):
-                        print("skip")
-                        print("    skipping search and downloading judgments (files exist)", sep='', flush=True)
-                        with open(json_file_path, "r", encoding='utf-8') as file:
-                            data = json.load(file)
-                            judgments = data['data']
-                            metadata = data['meta']['response']
-                            judgment_files = [
-                                os.path.join(output_dir, os.path.basename(judgment['document_path']))
-                                for judgment in data['data'] if judgment['document_path'] is not None
-                            ]
-
-                    else:
-                        judgments, metadata = retriever.get_judgments(
-                            query, page=current_page,
-                            start_date=args.start_date, end_date=args.end_date
-                        )
-
-                        if metadata is not None:
-                            current_page = metadata['page']
-                            search_params['page'] = current_page
-
-                        if not judgments:
-                            raise RuntimeError("no judgments found")
-                        else: print('done', flush=True)
-
-                        if args.limit is not None and num_docs + len(judgments) > args.limit:
-                            judgments = judgments[:args.limit-num_docs]
-
-                        print('  : downloading judgments to "', output_dir, '" ... ', sep='', flush=True)
-                        start = timeit.default_timer()
-                        judgment_files = retriever.save_documents(
-                            judgments, output_dir=output_dir, callback=utils.show_progress(len(judgments))
-                        )
-                        end   = timeit.default_timer()
-                        print(f'done (~{end-start:.3}s)', flush=True)
-
-                        # Select only those judgments not in the file index store.
-                        court_group = f"{court} Judgments"
-                        print("  : filtering existing judgment files (based on hashes) ... ", end='')
-                        tic = timeit.default_timer()
-                        unique_judgment_files, unique_judgments = [], []
-                        for judgment, file in zip(judgments, judgment_files):
-                            status, info = file_index.has(file, court_group, return_info=True)
-                            if not status:
-                                unique_judgment_files.append(file)
-                                unique_judgments.append(judgment)
-                                file_index.load(file, court_group, index_info=info)
-                            else:
-                                os.remove(file)
-                        judgments = unique_judgments
-                        judgment_files = list(filter(lambda file: file is not None, unique_judgment_files))
-                        toc = timeit.default_timer()
-                        print(f'done (~{toc-tic:.3}s)', flush=True)
-
-                    search_params.update({
-                        'court'     : court,
-                        'start_page': args.page,
-                        'req_pages' : args.pages,
-                        'req_total' : args.limit,
-                        'start_date': args.start_date,
-                        'end_date'  : args.end_date,
-                    })
-
-                    batch = {
-                        'judgments': judgment_files,
-                        'params': search_params
-                    }
-
-                    if args.save_json:
-                        if args.skip_existing and os.path.exists(json_file_path):
-                            pass
-                        else:
-                            current_timestamp = now()
-
-                            print('  : saving judgment search results to ', json_file,
-                                    ' ... ', sep='', end='', flush=True)
-                            result = {
-                                'meta': {
-                                    'directory': output_dir,
-                                    'request': search_params,
-                                },
-                                'data': judgments
-                            }
-                            if metadata is not None:
-                                result['meta']['response'] = {
-                                    **metadata,
-                                    'page_processed': num_pages + 1,
-                                    'saved_total'   : num_docs + len(judgments),
-                                    'generated_at'  : current_timestamp
-                                }
-                            with open(json_file_path, 'w+', encoding='utf-8') as file:
-                                json.dump(result, file, indent=4, ensure_ascii=False)
-                            print('done', flush=True)
-
-                        batch['json'] = json_file_path
-
-                    num_docs += len(judgments)
-                    num_pages += 1
-
-                    batches.append(batch)
-
-                    if metadata:
-                        current_page = metadata.get('page_next', None)
-                    else:
-                        current_page += 1
-
-                except Exception as exc:
-                    print('error', flush=True)
-                    print(prog, ": error: ", exc, sep='', file=sys.stderr, flush=True)
-                    if args.debug:
-                        traceback.print_exc()
-
-                    num_pages += 1
-                    current_page += 1
-
-                finally:
-                    if current_page is None: break
-                    if args.limit is not None and num_docs >= args.limit: break
-                    if args.pages is not None and num_pages >= args.pages: break
-
-    print()
-    return batches
 
 # ==== Pipeline Stage 2: Extract Content from Judgments
 
@@ -475,7 +311,8 @@ def main():
         "retrieval options", "options to control the search and scrape phase of the pipeline"
     )
     retriever_group.add_argument('queries', help='queries to use for searching judgments', nargs='*', default='')
-    retriever_group.add_argument('-c', '--courts', nargs='*', default=['DHC'], choices=[ *avl_retrievers.keys() ],
+    retriever_group.add_argument('-c', '--courts', nargs='*', default=['DHC'],
+                                 choices=search_and_scrape.get_retriever_names(),
                                  help='court website(s) to use to scrape judgments')
     retriever_group.add_argument('-p', '--page', type=int, default=1,
                                  help='starting page number to fetch information from, defaulting to the first')
@@ -538,7 +375,7 @@ def main():
             'data_indexes': preprocess.load_indexes
         },
         phases=[
-            search_and_scrape,
+            search_and_scrape.search_and_scrape,
             # extract.extract,
             # process.process,
             # segregate.segregate

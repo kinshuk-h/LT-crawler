@@ -16,6 +16,11 @@ class DHCJudgmentRetriever(JudgmentRetriever):
     SCRIPT_URL_REGEX     = re.compile(r"(?ui)window\.open\('([^']+)',")
 
     @classmethod
+    def make_absolute_url(cls, url):
+        if url.startswith('http'): return url
+        return f"{cls.BASE_URL}/{url}"
+
+    @classmethod
     def get_judgments(cls, query: str, page: int | str = 0, *args, **kwargs):
         response = requests.post(cls.FREE_TEXT_SEARCH_URL, {
             'search_name': query, 'PAGE_NO': page
@@ -41,7 +46,7 @@ class DHCJudgmentRetriever(JudgmentRetriever):
                     logger.debug("page %d: %d to %d of %d records", metadata['page'], start, end, total)
                     if start > 1:
                         metadata['page_previous'] = metadata['page']-1
-                    if end < (total-10):
+                    if end < total:
                         metadata['page_next'] = metadata['page']+1
                 for row in table('tr', bgcolor=True):
                     cells = row('td')
@@ -49,7 +54,7 @@ class DHCJudgmentRetriever(JudgmentRetriever):
                         'case_number'  : cells[1].string.strip(),
                         'title'        : cells[2].string.strip(),
                         'date'         : cells[3].string.strip(),
-                        'document_href': f"{cls.BASE_URL}/{cells[4].find('a')['href']}"
+                        'document_href': cls.make_absolute_url(cells[4].find('a')['href'])
                     })
 
         return judgments, metadata
@@ -57,9 +62,10 @@ class DHCJudgmentRetriever(JudgmentRetriever):
     @classmethod
     async def preprocess_document_url(cls, url: str, session: aiohttp.ClientSession) -> str:
         """ Processes a judgment document URL, resolving it into the actual file URL. """
-        async with session.get(url) as response:
-            response.raise_for_status()
-            content = await response.text()
-            if match := cls.SCRIPT_URL_REGEX.search(content):
-                url = match[1]
+        if cls.BASE_URL in url:
+            async with session.get(url) as response:
+                response.raise_for_status()
+                content = await response.text()
+                if match := cls.SCRIPT_URL_REGEX.search(content):
+                    url = match[1]
         return url

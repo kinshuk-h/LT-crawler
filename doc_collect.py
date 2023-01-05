@@ -23,25 +23,6 @@ def now(tz=None):
     timestamp = datetime.datetime.now(tz=tz).isoformat()
     return timestamp[:timestamp.rfind('.')]
 
-def pathsafe(filename):
-    """ Returns a santized, path-safe version of a filename. """
-    return re.sub(r'[:/\\|*]', '-', re.sub(r'[?\"<>]', '', filename))
-
-def constrain(string, width=30):
-    """ Constrain the length of a given string to the specified width. """
-    if len(string) > width:
-        half_len = len(string) >> 1
-        oth_half_len = len(string) - half_len
-        string = string[:half_len-1] + "..." + string[oth_half_len-2:]
-    return f"{string:{width}}"
-
-def group(files, key=None):
-    if key is None:
-        key = lambda f: os.path.splitext(os.path.basename(f))[0]
-    groups = collections.defaultdict(list)
-    for file in files: groups[key(file)].append(file)
-    return groups
-
 avl_retrievers  = {
     'DHC': retrievers.DHCJudgmentRetriever,
     'SC' : retrievers.SCJudgmentRetriever
@@ -62,47 +43,6 @@ avl_segregators = {
     'adobe_api'    : segregators.AdobeJSONSegregator
 }
 
-def show_progress(limit):
-    bar = utils.ProgressBar(limit=limit, size=20)
-    lock = threading.Lock()
-    def show_progress_impl(file_name):
-        with lock:
-            bar.advance()
-            print(f"\r    {constrain(file_name, width=20)}{bar} ", end='')
-    return show_progress_impl
-
-def show_indeterminate_progress():
-    bar = utils.IndeterminateProgressCycle()
-    lock = threading.Lock()
-    print("  ", end='', flush=True)
-    def show_progress_impl(*_):
-        with lock:
-            bar.advance()
-            print(f"\b\b{bar} ", end='', flush=True)
-    return show_progress_impl
-
-def filter_by_index(values, indexes, inverse=False):
-    """ Filters a list of values based on indices to select.
-
-    Args:
-        values (list): An iterable collection to filter.
-        indexes (Iterable): Iterable collection (sorted) of indexes to select.
-        inverse (bool, optional): If true, returns the elements whose indexes are NOT specified. Defaults to False.
-
-    Returns:
-        Generator: Generator for filtered values
-    """
-    if inverse:
-        iterator = iter(indexes)
-        current = next(iterator, None)
-        for index, value in enumerate(values):
-            if current is not None and index == current:
-                current = next(iterator, None)
-            else:
-                yield value
-    else:
-        yield from ( values[index] for index in indexes )
-
 def load_file_index(prog, args):
     """ Pre-processing stage: Load file indexes for detecting duplicates. """
     file_index = utils.FileIndexStore()
@@ -112,18 +52,18 @@ def load_file_index(prog, args):
         if os.path.exists(output_dir):
             try:
                 print(f"  : loading hashes for {court} ... ", sep='', end = '', flush=True)
-                file_index.load_directory(output_dir, "*.pdf", show_indeterminate_progress())
+                file_index.load_directory(output_dir, "*.pdf", utils.show_indeterminate_progress())
                 print("\b\bdone")
             except Exception as exc:
                 print("\b\berror")
                 print(prog, ": error: ", exc, sep='', file=sys.stderr)
 
             for extractor in args.extractors:
-                extract_output_dir = os.path.join(output_dir, pathsafe("extracted_" + extractor))
+                extract_output_dir = os.path.join(output_dir, utils.fs.pathsafe("extracted_" + extractor))
                 if os.path.exists(output_dir):
                     try:
                         print(f"  : loading hashes for {extractor} ... ", sep='', end = '', flush=True)
-                        file_index.load_directory(extract_output_dir, "*.txt", show_indeterminate_progress())
+                        file_index.load_directory(extract_output_dir, "*.txt", utils.show_indeterminate_progress())
                         print("\b\bdone")
                     except Exception as exc:
                         print("\b\berror")
@@ -156,7 +96,7 @@ def search_and_scrape(prog, args, file_index):
                     search_params = { 'query': query, 'page': current_page }
 
                     json_filestem = f"{court} {query} page {current_page}"
-                    json_file     = f'judgments {pathsafe(json_filestem)}.json'
+                    json_file     = f'judgments {utils.fs.pathsafe(json_filestem)}.json'
                     json_file_path = os.path.join(json_dir, json_file)
 
                     print('  : searching using ', ', '.join(f"{key} as {val}" for key,val in search_params.items()),
@@ -194,7 +134,7 @@ def search_and_scrape(prog, args, file_index):
                         print('  : downloading judgments to "', output_dir, '" ... ', sep='', flush=True)
                         start = timeit.default_timer()
                         judgment_files = retriever.save_documents(
-                            judgments, output_dir=output_dir, callback=show_progress(len(judgments))
+                            judgments, output_dir=output_dir, callback=utils.show_progress(len(judgments))
                         )
                         end   = timeit.default_timer()
                         print(f'done (~{end-start:.3}s)', flush=True)
@@ -286,8 +226,10 @@ def search_and_scrape(prog, args, file_index):
     print()
     return batches
 
+# ==== Pipeline Stage 2: Extract Content from Judgments
+
 def extract_task(args):
-    extract_output_dir = os.path.join(args.output_dir, pathsafe("extracted_" + args.extractor))
+    extract_output_dir = os.path.join(args.output_dir, utils.fs.pathsafe("extracted_" + args.extractor))
     os.makedirs(extract_output_dir, exist_ok=True)
 
     extractor = avl_extractors[args.extractor]
@@ -348,6 +290,8 @@ def extract(prog, args, judgment_batches):
     print()
     return judgment_batches
 
+# ==== Pipeline Stage 3: Process Content, De-duplicate
+
 def process(prog, args, judgment_batches, file_index):
     """ Tertiary pipeline phase: process extracted text content. """
 
@@ -359,7 +303,7 @@ def process(prog, args, judgment_batches, file_index):
             for extractor in args.extractors:
                 unique_indexes = []
                 print("    checking extraction results for", extractor, "... ", end='', flush=True)
-                extractor_group = pathsafe(f"extracted_{extractor}")
+                extractor_group = utils.fs.pathsafe(f"extracted_{extractor}")
 
                 tic = timeit.default_timer()
                 for index in batch.get('indexes', range(len(batch['judgments']))):
@@ -383,17 +327,17 @@ def process(prog, args, judgment_batches, file_index):
 
             if (indexes := batch.get('indexes', None)) is not None:
                 # Delete files which are redundant.
-                for file in filter_by_index(batch['judgments'], indexes, inverse=True):
+                for file in utils.filter_by_index(batch['judgments'], indexes, inverse=True):
                     os.remove(file)
                 for extractor, extractions in batch['extractions'].items():
-                    for files in filter_by_index(extractions, indexes, inverse=True):
+                    for files in utils.filter_by_index(extractions, indexes, inverse=True):
                         for file in files:
                             os.remove(file)
 
                 # Update entries based on unique indexes.
-                batch['judgments'] = list(filter_by_index(batch['judgments'], indexes))
+                batch['judgments'] = list(utils.filter_by_index(batch['judgments'], indexes))
                 batch['extractions'] = {
-                    extractor: list(filter_by_index(extractions, indexes))
+                    extractor: list(utils.filter_by_index(extractions, indexes))
                     for extractor, extractions in batch['extractions'].items()
                 }
 
@@ -423,6 +367,8 @@ def process(prog, args, judgment_batches, file_index):
     print()
 
     return judgment_batches
+
+# ==== Pipeline Stage 4: Segregate & Filter
 
 def segregate_task(args):
     segregator = avl_segregators[args.extractor]
@@ -538,9 +484,12 @@ def segregate(prog, args, judgment_batches):
     print()
     return judgment_batches
 
+# ==== Driver: Execute the Pipeline based on given Command-Line Options
+
 def main():
+    """  Driver function to parse command-line arguments and execute the pipeline. """
     parser = argparse.ArgumentParser(
-        description="Collect and extract text from judgments from websites of Indian Courts"
+        description="Curate a dataset of paragraphs from text from judgments from websites of Indian Courts"
     )
     parser.add_argument('-d', '--debug', action='store_true',
                         help='enable debug logs')

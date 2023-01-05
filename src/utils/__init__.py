@@ -10,9 +10,18 @@ import collections
 import concurrent.futures
 
 from .. import logger as root_logger
-logger = root_logger.getChild(__name__.rsplit('.', maxsplit=1)[-1])
+_logger = root_logger.getChild(__name__.rsplit('.', maxsplit=1)[-1])
 
+from . import fs
 from .progress import ProgressBar, IndeterminateProgressCycle, ProgressBarManager
+
+def constrain(string, width=30):
+    """ Constrain the length of a given string to the specified width. """
+    if len(string) > width:
+        half_len = len(string) >> 1
+        oth_half_len = len(string) - half_len
+        string = string[:half_len-1] + "..." + string[oth_half_len-2:]
+    return f"{string:{width}}"
 
 def log_time(logger: logging.Logger, level = logging.INFO):
     """ Generates a decorator that logs the execution time of a function to a given logging.Logger object. """
@@ -63,6 +72,48 @@ def file_digest(filepath, primary_chunk_only = False):
                 hash_object.update(chunk)
     return hash_object.digest()
 
+def filter_by_index(values, indexes, inverse=False):
+    """ Filters a list of values based on indices to select.
+
+    Args:
+        values (list): An iterable collection to filter.
+        indexes (Iterable): Iterable collection (sorted) of indexes to select.
+        inverse (bool, optional): If true, returns the elements whose indexes are NOT specified. Defaults to False.
+
+    Returns:
+        Generator: Generator for filtered values
+    """
+    if inverse:
+        iterator = iter(indexes)
+        current = next(iterator, None)
+        for index, value in enumerate(values):
+            if current is not None and index == current:
+                current = next(iterator, None)
+            else:
+                yield value
+    else:
+        yield from ( values[index] for index in indexes )
+
+def show_progress(limit):
+    """ Callback curry for indicating progress across a set of related async tasks. """
+    progress_bar = ProgressBar(limit=limit, size=20)
+    lock         = threading.Lock()
+    def show_progress_impl(file_name):
+        with lock:
+            progress_bar.advance()
+            print(f"\r    {constrain(file_name, width=20)}{progress_bar} ", end='')
+    return show_progress_impl
+
+def show_indeterminate_progress():
+    """ Callback curry for indeterminate progress across a set of related async tasks. """
+    indet_bar = IndeterminateProgressCycle()
+    lock      = threading.Lock()
+    print("  ", end='', flush=True)
+    def show_progress_impl(*_):
+        with lock:
+            indet_bar.advance()
+            print(f"\b\b{indet_bar} ", end='', flush=True)
+    return show_progress_impl
 class FileIndexStore:
     """ Utility class to maintain a record of existing files by indexing using file sizes and hashes. """
 
@@ -176,9 +227,12 @@ class FileIndexStore:
 __version__ = "1.0.0"
 __author__  = "Kinshuk Vasisht"
 __all__     = [
+    "fs",
     "ProgressBar",
     "ProgressBarManager",
     "IndeterminateProgressCycle",
-    "FileIndexStore",
-    "log_time"
+    "log_time",
+    "constrain",
+    "show_progress",
+    "show_indeterminate_progress",
 ]

@@ -91,7 +91,7 @@ The curated dataset, generated as a set of JSON files, comprises of the followin
 
 ### Testing
 
-Defined unit and functional tests can be executed via use of `pylint`:
+Defined unit and functional tests can be executed via use of `pytest`:
 
   ```powershell
   pytest tests/

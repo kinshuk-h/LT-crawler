@@ -22,20 +22,14 @@ import collections
 import concurrent.futures
 
 import src
-from src.pipeline import preprocess, search_and_scrape, postprocess
-from src import utils, extractors, segregators, filters
+from src.pipeline import preprocess, search_and_scrape, extract, postprocess
+from src import utils, segregators, filters
 
 logger = src.make_logger(__name__)
 
 if '-d' in sys.argv or '--debug' in sys.argv:
     src.enable_verbose_logs()
 
-avl_extractors  = {
-    'pdfminer_text': extractors.PdfminerHighLevelTextExtractor(),
-    'parsr'        : extractors.ParsrExtractor(),
-    'parsr_custom' : None,
-    'adobe_api'    : None
-}
 avl_filters     = {
     'sent_count': filters.SentenceCountFilter
 }
@@ -45,70 +39,6 @@ avl_segregators = {
     'parsr_custom' : None,
     'adobe_api'    : segregators.AdobeJSONSegregator
 }
-
-# ==== Pipeline Stage 2: Extract Content from Judgments
-
-def extract_task(args):
-    extract_output_dir = os.path.join(args.output_dir, utils.fs.pathsafe("extracted_" + args.extractor))
-    os.makedirs(extract_output_dir, exist_ok=True)
-
-    extractor = avl_extractors[args.extractor]
-    limit = len(args.batch['judgments'])
-    width = len(str(limit))
-    extract_results = []
-    index = args.manager.add(limit=limit, render=True, prefix=f"   {args.extractor[:20]:20}")
-    for i, pdf_file in enumerate(args.batch['judgments'], 1):
-        try:
-            result = extractor.extract_to_file(
-                pdf_file, output_dir=extract_output_dir,
-                skip_existing=args.skip_existing
-            )
-            if isinstance(result, str): result = [ result ]
-            extract_results.append(result)
-        finally:
-            args.manager.update(
-                index, increment=1, prefix=f"   {args.extractor[:20]:20}",
-                suffix=f"({i:{width}} of {limit:{width}})"
-            )
-    return extract_results
-
-def extract(prog, args, judgment_batches):
-    """ Secondary pipeline phase: Extract text from downloaded judgments. """
-
-    # pylint-disable-next-line: invalid-name
-    ExtractTaskArgs = collections.namedtuple(
-        "ExtractTaskArgs",
-        [ 'manager', 'batch', 'extractor', 'output_dir', 'skip_existing' ]
-    )
-
-    print(prog, ": extracting text from judgments ...", sep='')
-    for i, batch in enumerate(judgment_batches, 1):
-
-        output_dir = os.path.join(
-            args.output_dir, args.document_dir,
-            f"{batch['params']['court']} Judgments"
-        )
-        try:
-            print("  : extracting from batch #", i, " ...", sep='')
-            manager = utils.ProgressBarManager(size=20)
-            with concurrent.futures.ThreadPoolExecutor() as executor:
-                extract_dirs = executor.map(extract_task, (
-                    ExtractTaskArgs(manager, batch, extractor, output_dir, args.skip_existing)
-                    for extractor in args.extractors
-                ))
-                batch['extractions'] = {
-                    extractor: extract_dir
-                    for extractor, extract_dir in zip(args.extractors, extract_dirs)
-                }
-                print()
-        except Exception as exc:
-            print('error', flush=True)
-            print(prog, ": error: ", exc, sep='', file=sys.stderr, flush=True)
-            if args.debug:
-                traceback.print_exc()
-
-    print()
-    return judgment_batches
 
 # ==== Pipeline Stage 3: Process Content, De-duplicate
 
@@ -351,11 +281,13 @@ def main():
     extractor_group = parser.add_argument_group(
         "extractor options", "options to control the extraction phase of the pipeline"
     )
-    extractor_group.add_argument('-e', '--extractors', nargs='*', default=[ *avl_extractors.keys() ],
-                                 choices=[ *avl_extractors.keys() ],
+    extractor_group.add_argument('-e', '--extractors', nargs='*',
+                                 default=extract.get_extractor_names(),
+                                 choices=extract.get_extractor_names(),
                                  help='extractor(s) to use for mining content from the judgment')
-    extractor_group.add_argument('--parsr-config', default=None, help='path to configuration for parsr')
-    extractor_group.add_argument('--adobe-credentials', default=None, help='path to credentials file for Adobe API')
+    for extractor in extract.get_extractor_names():
+        for args, kwargs in extract.get_option_args(extractor):
+            extractor_group.add_argument(*args, **kwargs)
 
     filter_group = parser.add_argument_group(
         "filter options", "options to control the filtering process"
@@ -372,21 +304,6 @@ def main():
 
     args = parser.parse_args()
 
-    if 'parsr_custom' in args.extractors:
-        if args.parsr_config is not None:
-            with open(args.parsr_config, 'r+', encoding='utf-8') as config:
-                avl_extractors['parsr_custom'] = extractors.ParsrExtractor(json.load(config))
-        else:
-            args.extractors.remove('parsr_custom')
-
-    if 'adobe_api' in args.extractors:
-        if args.adobe_credentials is not None:
-            avl_extractors['adobe_api'] = extractors.AdobeAPIExtractor(
-                credentials_file=args.adobe_credentials
-            )
-        else:
-            args.extractors.remove('adobe_api')
-
     if not any(query for query in args.queries) and args.court != 'SC':
         print(parser.prog, ": error: specify at least one query", sep='', file=sys.stderr, flush=True)
         sys.exit(1)
@@ -397,7 +314,7 @@ def main():
         },
         phases=[
             search_and_scrape.search_and_scrape,
-            # extract.extract,
+            extract.extract,
             # process.process,
             # segregate.segregate
         ],

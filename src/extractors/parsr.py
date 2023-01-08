@@ -69,18 +69,23 @@ class ParsrExtractor(Extractor):
         }
     }
 
-    def __init__(self, config = None):
+    def __init__(self, config=None, config_path=None):
         """ Initializes the text extractor.
 
         Args:
             config: configuration to pass to parsr.
+            config_path: configuration file to load config from. Takes priority over config.
         """
+
+        if config_path is not None:
+            self.config_path = config_path
+        else:
+            self.config = config or self.DEFAULT_CONFIG
+            fd, self.config_path = tempfile.mkstemp(suffix='.json')
+            with os.fdopen(fd, 'w+', encoding='utf-8') as file:
+                json.dump(self.config, file, ensure_ascii=False)
         self.client = parsr.ParsrClient('localhost:3001')
-        self.config = config or self.DEFAULT_CONFIG
-        fd, self.config_path = tempfile.mkstemp(suffix='.json')
         logger.info("config file: %s", self.config_path)
-        with os.fdopen(fd, 'w+', encoding='utf-8') as file:
-            json.dump(self.config, file, ensure_ascii=False)
 
     def output_file(self, pdf_reference: str | io.IOBase, pdf) -> str | list[str]:
         """ Returns the name(s) of output files to generate. """

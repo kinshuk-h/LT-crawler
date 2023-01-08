@@ -22,9 +22,9 @@ class DHCJudgmentRetriever(JudgmentRetriever):
 
     @classmethod
     def get_judgments(cls, query: str, page: int | str = 0, *args, **kwargs):
-        response = requests.post(cls.FREE_TEXT_SEARCH_URL, {
-            'search_name': query, 'PAGE_NO': page
-        })
+        search_params = { 'search_name': query, 'PAGE_NO': page }
+        logger.debug("request params: %s", ', '.join(f"{key} as {val}" for key,val in search_params.items()))
+        response = requests.post(cls.FREE_TEXT_SEARCH_URL, search_params)
         response.raise_for_status()
         logger.debug("%s %s: HTTP %d", response.request.method or "GET", response.url, response.status_code)
 

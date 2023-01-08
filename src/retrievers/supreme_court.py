@@ -35,12 +35,14 @@ class SCJudgmentRetriever(JudgmentRetriever):
     @classmethod
     def get_judgments_by_text(cls, captcha, query: str, start_date, end_date):
         """ Return judgments by free text search. """
-        response = requests.post(cls.ENDPOINTS['judgments_by_text'], {
+        search_params = {
             'ansCaptcha': captcha,
             'Free_Text': query,
             'FT_from_date': format_date(start_date),
             'FT_to_date': format_date(end_date)
-        })
+        }
+        logger.debug("request params: %s", ', '.join(f"{key} as {val}" for key,val in search_params.items()))
+        response = requests.post(cls.ENDPOINTS['judgments_by_text'], search_params)
         response.raise_for_status()
         logger.debug("%s %s: HTTP %d", response.request.method or "GET", response.url, response.status_code)
 
@@ -69,12 +71,14 @@ class SCJudgmentRetriever(JudgmentRetriever):
     @classmethod
     def get_judgments_by_date(cls, captcha, start_date, end_date):
         """ Return judgments between a given date range. """
-        response = requests.post(cls.ENDPOINTS['judgments_by_date'], {
+        search_params = {
             'ansCaptcha': captcha,
             'jorrop': 'J',
             'JBJfrom_date': format_date(start_date),
             'JBJto_date': format_date(end_date)
-        })
+        }
+        logger.debug("request params: %s", ', '.join(f"{key} as {val}" for key,val in search_params.items()))
+        response = requests.post(cls.ENDPOINTS['judgments_by_date'], search_params)
         response.raise_for_status()
 
         page = bs4.BeautifulSoup(response.text, features='lxml')

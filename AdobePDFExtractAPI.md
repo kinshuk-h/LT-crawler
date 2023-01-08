@@ -40,10 +40,10 @@ The PDF Extract API provides a method for developers to extract and structure co
 
 - To use the API, first download the credentials archive (ZIP) from [Adobe](https://documentcloud.adobe.com/dc-integration-creation-app-cdn/main.html?api=pdf-extract-api)
 - Extract the contents of the archive.
-- In the project root directory, create a subdirectory named `credentials`.
+- In the project root directory, create a subdirectory named `config`.
 - Add the following files to the subdirectory from the extracted archive directory:
-  - `pdfservices-api-credentials.json` (in `<ExtractRoot>/adobe-dc-pdf-services-sdk-extract-python-samples/`)
-  - `private.key` (in `<ExtractRoot>/`)
+  - `pdfservices-api-credentials.json` (from `<ExtractRoot>/adobe-dc-pdf-services-sdk-extract-python-samples/`)
+  - `private.key` (from `<ExtractRoot>/`)
 
 ## References
 

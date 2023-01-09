@@ -1,8 +1,11 @@
+"""
+Validates the curated dataset, and provides options to correct inconsistencies
+"""
+
 import os
 import glob
 import json
 import argparse
-import threading
 import collections
 
 from src import retrievers, utils
@@ -11,23 +14,6 @@ avl_retrievers = {
     'SC' : retrievers.SCJudgmentRetriever,
     'DHC': retrievers.DHCJudgmentRetriever
 }
-
-def constrain(string, width=30):
-    """ Constrain the length of a given string to the specified width. """
-    if len(string) > width:
-        half_len = len(string) >> 1
-        oth_half_len = len(string) - half_len
-        string = string[:half_len-1] + "..." + string[oth_half_len-2:]
-    return f"{string:{width}}"
-
-def show_progress(limit):
-    bar = utils.ProgressBar(limit=limit, size=20)
-    lock = threading.Lock()
-    def show_progress_impl(file_name):
-        with lock:
-            bar.advance()
-            print(f"\r    {constrain(file_name, width=20)}{bar} ", end='')
-    return show_progress_impl
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
@@ -92,7 +78,8 @@ if __name__ == "__main__":
         for court, docs in non_existing_ref.items():
             print("> Downloading missing judgments from", court, ":")
             avl_retrievers[court].save_documents(
-                docs, os.path.join("data", "judgments", f"{court} Judgments"), show_progress(len(docs))
+                docs, os.path.join("data", "judgments", f"{court} Judgments"),
+                utils.show_progress(len(docs))
             )
             print()
             for doc in docs:

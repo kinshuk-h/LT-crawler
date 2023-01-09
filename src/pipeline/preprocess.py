@@ -164,7 +164,7 @@ class FileIndexStore:
                 self.data[group]['minhash'][index_info['minhash']] = filepath
             if index_info['hash'   ] not in self.data[group]['hash'   ]:
                 self.data[group]['hash'   ][index_info['hash'   ]] = filepath
-            self.data[group]['data'][filepath] = meta
+                self.data[group]['data'][filepath] = meta
 
         if callback: callback(filepath, index_info)
 

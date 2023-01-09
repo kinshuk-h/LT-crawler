@@ -15,7 +15,7 @@ def print_as_table(data):
 
     print('| ', ' '*index_len, end=' |', sep='')
     for column in rows[0][1]:
-        print(' ', column, end=' |', sep='')
+        print(' ', column.replace('_', ' ').title(), end=' |', sep='')
     print()
 
     print('|-', '-'*index_len, end='-|', sep='')
@@ -56,35 +56,35 @@ if __name__ == "__main__":
             query = f"{data['meta']['request']['query']}"
 
             per_query_data[query]['pages'] += 1
-            per_query_data[query]['count'] += 0
+            per_query_data[query]['judgments'] += 0
+            per_query_data[query]['with_file'] += 0
             per_query_data[query]['paragraphs'] += 0
-            per_query_data[query]['without_file'] += 0
             per_query_data[query]['max_paragraphs'] = max(per_query_data[query]['max_paragraphs'], 0)
 
-            per_file_data[key]['count'] += 0
+            per_file_data[key]['judgments'] += 0
+            per_file_data[key]['with_file'] += 0
             per_file_data[key]['paragraphs'] += 0
-            per_file_data[key]['without_file'] += 0
             per_file_data[key]['max_paragraphs'] = max(per_file_data[key]['max_paragraphs'], 0)
 
             for judgment in data['data']:
                 paras = judgment.get('paragraphs', None)
                 para_count = len(paras['adobe_api']) if paras else 0
 
-                per_file_data[key]['count']        += 1
+                per_file_data[key]['judgments']        += 1
+                per_file_data[key]['with_file'] += (0 if judgment['document_path'] is None else 1)
                 per_file_data[key]['paragraphs']   += para_count
                 per_file_data[key]['max_paragraphs'] = max(per_file_data[key]['max_paragraphs'], para_count)
-                per_file_data[key]['without_file'] += (1 if judgment['document_path'] is None else 0)
 
-                per_query_data[query]['count']        += 1
+                per_query_data[query]['judgments']        += 1
+                per_query_data[query]['with_file'] += (0 if judgment['document_path'] is None else 1)
                 per_query_data[query]['paragraphs']   += para_count
                 per_query_data[query]['max_paragraphs'] = max(per_query_data[query]['max_paragraphs'], para_count)
-                per_query_data[query]['without_file'] += (1 if judgment['document_path'] is None else 0)
 
             per_file_data[key]['avg_paragraphs']    = per_file_data[key]['paragraphs']
-            per_file_data[key]['avg_paragraphs']    /= (per_file_data[key]['count'] or 1)
+            per_file_data[key]['avg_paragraphs']    /= (per_file_data[key]['with_file'] or 1)
             per_file_data[key]['avg_paragraphs']    = round(per_file_data[key]['avg_paragraphs'])
             per_query_data[query]['avg_paragraphs'] = per_query_data[query]['paragraphs']
-            per_query_data[query]['avg_paragraphs'] /= (per_query_data[query]['count'] or 1)
+            per_query_data[query]['avg_paragraphs'] /= (per_query_data[query]['with_file'] or 1)
             per_query_data[query]['avg_paragraphs'] = round(per_query_data[query]['avg_paragraphs'], 3)
 
         for query_data in per_query_data.values():
@@ -101,7 +101,7 @@ if __name__ == "__main__":
         print_as_table(per_query_data)
 
     total_data['avg_paragraphs'] = total_data['paragraphs']
-    total_data['avg_paragraphs'] /= (total_data['count'] or 1)
+    total_data['avg_paragraphs'] /= (total_data['with_file'] or 1)
     total_data['avg_paragraphs'] = round(total_data['avg_paragraphs'], 3)
 
     print("[>] aggregate data over courts:")

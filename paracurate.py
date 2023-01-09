@@ -11,7 +11,6 @@
 
 """
 
-import os
 import sys
 import json
 import timeit
@@ -22,7 +21,7 @@ import collections
 import concurrent.futures
 
 import src
-from src.pipeline import preprocess, search_and_scrape, extract, postprocess
+from src.pipeline import preprocess, search_and_scrape, extract, process, postprocess
 from src import utils, segregators, filters
 
 logger = src.make_logger(__name__)
@@ -39,92 +38,6 @@ avl_segregators = {
     'parsr_custom' : None,
     'adobe_api'    : segregators.AdobeJSONSegregator
 }
-
-# ==== Pipeline Stage 3: Process Content, De-duplicate
-
-def process(prog, args, judgment_batches, file_index):
-    """ Tertiary pipeline phase: process extracted text content. """
-
-    # file_index, _ = data_indexes
-
-    print(prog, ": processing judgments ...", sep='')
-    for i, batch in enumerate(judgment_batches, 1):
-
-        try:
-            print("  : refiltering existing judgment files for batch #", i," (based on hashes) ... ")
-            for extractor in args.extractors:
-                unique_indexes = []
-                print("    checking extraction results for", extractor, "... ", end='', flush=True)
-                extractor_group = utils.fs.pathsafe(f"extracted_{extractor}")
-
-                tic = timeit.default_timer()
-                for index in batch.get('indexes', range(len(batch['judgments']))):
-                    files = batch['extractions'][extractor][index]
-                    for file in files:
-                        # TODO: Prepare for merge
-                        status, info = file_index.has(file, extractor_group, return_info=True)
-                        # print("index", index, ":", file, "in file store?", status and info['match'] != file)
-                        if status and info['match'] != file:
-                            logger.debug(
-                                "collision: %s (new) and %s (present)",
-                                os.path.basename(file), os.path.basename(info['match'])
-                            )
-                            break
-                        file_index.load(file, extractor_group, index_info=info)
-                    else:
-                        unique_indexes.append(index)
-                if len(unique_indexes) != len(batch.get('indexes', batch['judgments'])):
-                    batch['indexes']     = unique_indexes
-                toc = timeit.default_timer()
-                print(f"done (~{toc-tic:.3}s) ({len(unique_indexes)}/{len(batch['judgments'])} unique)", flush=True)
-
-            if (indexes := batch.get('indexes', None)) is not None:
-                # Delete files which are redundant.
-                for file in utils.filter_by_index(batch['judgments'], indexes, inverse=True):
-                    os.remove(file)
-                for extractor, extractions in batch['extractions'].items():
-                    for files in utils.filter_by_index(extractions, indexes, inverse=True):
-                        for file in files:
-                            os.remove(file)
-
-                # Update entries based on unique indexes.
-                batch['judgments'] = list(utils.filter_by_index(batch['judgments'], indexes))
-                batch['extractions'] = {
-                    extractor: list(utils.filter_by_index(extractions, indexes))
-                    for extractor, extractions in batch['extractions'].items()
-                }
-
-                if args.save_json:
-                    print("    updating filtered results to JSON ... ", end='', flush=True)
-                    with open(batch['json'], 'r+', encoding='utf-8') as file:
-                        data = json.load(file)
-                        index, current, judgments = 0, 0, []
-                        for judgment in data['data']:
-                            if judgment['document_path'] is not None:
-                                if index == indexes[current % len(indexes)]:
-                                    judgments.append(judgment)
-                                    current += 1
-                                # else:
-                                #     batch['merger_requests'][] = {
-                                #         'index': ,
-                                #         'data': judgment
-                                #     }
-                                index += 1
-                            else:
-                                judgments.append(judgment)
-                        data['data'] = judgments
-                        file.seek(0)
-                        json.dump(data, file, ensure_ascii=False, indent=4)
-                        file.truncate()
-                    print("done")
-        except Exception as exc:
-            print('error', flush=True)
-            print(prog, ": error: ", exc, sep='', file=sys.stderr, flush=True)
-            if args.debug:
-                traceback.print_exc()
-    print()
-
-    return judgment_batches
 
 # ==== Pipeline Stage 4: Segregate & Filter
 
@@ -315,7 +228,7 @@ def main():
         phases=[
             search_and_scrape.search_and_scrape,
             extract.extract,
-            # process.process,
+            process.process,
             # segregate.segregate
         ],
         postprocessing={

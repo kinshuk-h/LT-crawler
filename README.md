@@ -114,23 +114,23 @@ python3 paracurate.py "Licensing" "Copyrights" "Patents" "Trademarks" "Infringem
 
 - Per-query statistics:
 
-|                          | pages | count | paragraphs | without_file | max_paragraphs | avg_paragraphs |
-|--------------------------|-------|-------|------------|--------------|----------------|----------------|
-|               Copyrights |   5   |  45   |    1055    |      12      |      137       |     23.444     |
-|                   Design |   5   |  34   |    1342    |      0       |      192       |     39.471     |
-| Geographical Indications |   3   |  21   |    894     |      4       |      165       |     42.571     |
-|        Industrial Design |   1   |   8   |    491     |      1       |      136       |     61.375     |
-|             Infringement |   5   |  14   |    607     |      0       |      137       |     43.357     |
-|                Licensing |   5   |   5   |    543     |      0       |      248       |     108.6      |
-|                  Patents |   5   |  42   |    1638    |      0       |      205       |      39.0      |
-|            Trade Secrets |   5   |  36   |    1276    |      7       |      215       |     35.444     |
-|               Trademarks |   5   |  32   |    910     |      0       |       78       |     28.438     |
+|                          | Pages | Judgments | With File | Paragraphs | Max Paragraphs | Avg Paragraphs |
+|--------------------------|-------|-----------|-----------|------------|----------------|----------------|
+|               Copyrights |   5   |    45     |    33     |    1055    |      137       |     31.97      |
+|                   Design |   5   |    34     |    34     |    1342    |      192       |     39.471     |
+| Geographical Indications |   3   |    21     |    17     |    894     |      165       |     52.588     |
+|        Industrial Design |   1   |     8     |     7     |    491     |      136       |     70.143     |
+|             Infringement |   5   |    14     |    14     |    607     |      137       |     43.357     |
+|                Licensing |   5   |     5     |     5     |    543     |      248       |     108.6      |
+|                  Patents |   5   |    42     |    42     |    1638    |      205       |      39.0      |
+|            Trade Secrets |   5   |    36     |    29     |    1276    |      215       |      44.0      |
+|               Trademarks |   5   |    32     |    32     |    910     |       78       |     28.438     |
 
 - Aggregate statistics over all queries:
 
-|       | pages | count | paragraphs | without_file | max_paragraphs | avg_paragraphs |
-|-------|-------|-------|------------|--------------|----------------|----------------|
-| total |  39   |  237  |    8756    |      24      |      248       |     36.945     |
+|       | Pages | Judgments | With File | Paragraphs | Max Paragraphs | Avg Paragraphs |
+|-------|-------|-----------|-----------|------------|----------------|----------------|
+| total |  39   |    237    |    213    |    8756    |      248       |     41.108     |
 
 ## About
 

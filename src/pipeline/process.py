@@ -56,7 +56,6 @@ def deduplicate_by_content(file_index, extractor, batch, judgments, judgment_ind
             if judgments[doc_index].get('document_path') is not None: break
             unique_judgment_indexes.append(doc_index)
             doc_ptr += 1
-        print(index, doc_ptr, judgment_indexes[doc_ptr])
 
         files, infos = batch['extractions'][extractor][index], []
         for file in files:
@@ -139,7 +138,7 @@ def process(prog, args, judgment_batches, data_indexes, **_):
                 }
 
                 if args.save_json:
-                    unique_judgments = utils.filter_by_index(judgments, judgment_indexes)
+                    unique_judgments = list(utils.filter_by_index(judgments, judgment_indexes))
                     logger.info(
                         "de-duplication, step 3: total: %d, unique: %d (pruned: %s)",
                         len(judgments), len(unique_judgments), len(judgments) - len(unique_judgments)

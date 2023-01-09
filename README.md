@@ -74,6 +74,7 @@ The curated dataset, generated as a set of JSON files, comprises of the followin
     ```
 
 - `test_dhc_doc_urls.py`: This script demonstates the inconsistent results returned by the DHC website, by downloading 4 judgments via different URLs whose PDFs have different hashes. Post extraction, the text content of all PDFs is the same.
+- `get_data_stats.py`: This script generates a markdown compatible table of statistics for the dataset, comprising of aggregate and query-wise information about collected judgments. The information includes judgment frequency, paragraph frequency, etc.
 
 ## Examples
 
@@ -89,7 +90,7 @@ The curated dataset, generated as a set of JSON files, comprises of the followin
   python3 paracurate.py "Patents" "Copyrights" "Infringement" "Licensing" "Industrial Design" "Trade Secrets" "Geographical Indications" "Design" "Trademarks" --courts DHC --extractors adobe_api --adobe-credentials "config/pdfservices-api-credentials.json" --page 1 --pages 2 --skip-existing --sent-count-min-sents 2 --sent-count-min-words 20
   ```
 
-### Testing
+## Testing
 
 Defined unit and functional tests can be executed via use of `pytest`:
 

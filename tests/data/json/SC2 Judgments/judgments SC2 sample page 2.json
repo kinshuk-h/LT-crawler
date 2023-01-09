@@ -1,0 +1,78 @@
+{
+    "meta": {
+        "directory": "data\\judgments\\SC2 Judgments",
+        "request": {
+            "query": "sample",
+            "page": 2,
+            "court": "SC2",
+            "start_page": 1,
+            "req_pages": 2,
+            "req_total": null,
+            "start_date": null,
+            "end_date": null
+        },
+        "response": {
+            "entry_start": 2,
+            "entry_end": 8,
+            "entry_total": 8,
+            "page": 2,
+            "page_total": 2,
+            "page_processed": 2,
+            "page_previous": 1,
+            "saved_total": 8,
+            "generated_at": "2023-01-09T12:30:51"
+        }
+    },
+    "data": [
+        {
+            "case_number": "SC 2",
+            "title": "J2",
+            "date": "10/10/2022",
+            "document_href": "http://example.com/download?file=J2.txt",
+            "document_path": "data\\judgments\\SC2 Judgments\\J2.txt"
+        },
+        {
+            "case_number": "SC 3",
+            "title": "J3",
+            "date": "10/10/2022",
+            "document_href": "http://example.com/download?file=J3.txt",
+            "document_path": "data\\judgments\\SC2 Judgments\\J3.txt"
+        },
+        {
+            "case_number": "SC 4",
+            "title": "J4",
+            "date": "10/10/2022",
+            "document_href": "http://example.com/download?file=J4.txt",
+            "document_path": null
+        },
+        {
+            "case_number": "SC 5",
+            "title": "J5",
+            "date": "10/10/2022",
+            "document_href": "http://example.com/download?file=J5.txt",
+            "document_path": "data\\judgments\\SC2 Judgments\\J5.txt"
+        },
+        {
+            "case_number": "SC 6",
+            "title": "J6",
+            "date": "10/10/2022",
+            "document_href": "http://example.com/download?file=J6.txt",
+            "document_path": null
+        }
+        ,
+        {
+            "case_number": "SC 7",
+            "title": "J7",
+            "date": "10/10/2022",
+            "document_href": "http://example.com/download?file=J7.txt",
+            "document_path": "data\\judgments\\SC2 Judgments\\J7.txt"
+        },
+        {
+            "case_number": "SC 8",
+            "title": "J8",
+            "date": "10/10/2022",
+            "document_href": "http://example.com/download?file=J8.txt",
+            "document_path": null
+        }
+    ]
+}

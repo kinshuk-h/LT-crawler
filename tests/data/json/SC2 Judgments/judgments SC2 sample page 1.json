@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "directory": "data\\judgments\\SC2 Judgments",
+        "request": {
+            "query": "sample",
+            "page": 1,
+            "court": "SC2",
+            "start_page": 1,
+            "req_pages": 2,
+            "req_total": null,
+            "start_date": null,
+            "end_date": null
+        },
+        "response": {
+            "entry_start": 1,
+            "entry_end": 1,
+            "entry_total": 8,
+            "page": 1,
+            "page_total": 2,
+            "page_processed": 1,
+            "page_next": 1,
+            "saved_total": 1,
+            "generated_at": "2023-01-09T12:30:51"
+        }
+    },
+    "data": [
+        {
+            "case_number": "SC 1",
+            "title": "J1",
+            "date": "10/10/2022",
+            "document_href": "http://example.com/download?file=J1.txt",
+            "document_path": "data\\judgments\\SC2 Judgments\\J1.txt"
+        }
+    ]
+}

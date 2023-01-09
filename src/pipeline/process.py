@@ -152,7 +152,7 @@ def process(prog, args, judgment_batches, data_indexes, **_):
         except Exception as exc:
             print('error', flush=True)
             print(prog, ": error: ", exc, sep='', file=sys.stderr, flush=True)
-            logger.debug("error")
+            logger.exception("error")
             if args.debug:
                 traceback.print_exc()
     print()

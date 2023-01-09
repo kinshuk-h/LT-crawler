@@ -12,6 +12,11 @@
 from .. import logger as root_logger
 logger = root_logger.getChild(__name__.rsplit('.', maxsplit=1)[-1])
 
+# pylint: disable-next=wrong-import-position
+from . import preprocess, search_and_scrape
+# pylint: disable-next=wrong-import-position
+from . import extract, process, segregate, postprocess
+
 __version__ = "1.0.0"
 __author__  = "Kinshuk Vasisht"
 __all__     = [

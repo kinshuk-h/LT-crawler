@@ -305,7 +305,6 @@ def load_indexes(prog, args):
                     if not file_name.endswith('.json'): continue
                     data = utils.fs.read_json(os.path.join(json_dir, file_name))
                     for index, judgment in enumerate(data['data']):
-                        logger.debug("judgment %d: case number %s", index, judgment['case_number'])
                         if judgment.get('document_path', None) is not None:
                             key = os.path.splitext(os.path.basename(judgment['document_path']))[0]
                             meta = {

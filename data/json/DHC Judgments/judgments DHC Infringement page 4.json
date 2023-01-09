@@ -1,0 +1,287 @@
+{
+    "meta": {
+        "directory": "data\\judgments\\DHC Judgments",
+        "request": {
+            "query": "Infringement",
+            "page": 4,
+            "court": "DHC",
+            "start_page": 1,
+            "req_pages": 5,
+            "req_total": null,
+            "start_date": null,
+            "end_date": null
+        },
+        "response": {
+            "entry_start": 31,
+            "entry_end": 40,
+            "entry_total": 2884,
+            "page": 4,
+            "page_total": 288,
+            "page_previous": 3,
+            "page_next": 5,
+            "page_processed": 4,
+            "saved_total": 14,
+            "generated_at": "2023-01-05T23:18:34"
+        },
+        "filters": {
+            "sent_count": {
+                "min_sents": "2",
+                "min_words": "20",
+                "tokenizer_path": null
+            }
+        }
+    },
+    "data": [
+        {
+            "case_number": "SC 363/2022",
+            "title": "VASUNDHRA JEWELLERS PVT. LTD. VS KIRAT VINODBHAI JADVANI & ANR.",
+            "date": "21/09/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/NAC/judgement/21-09-2022//NAC21092022SC3632022_182936.pdf&ID=563298999_5",
+            "document_path": "data\\judgments\\DHC Judgments\\563298999_5.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 1,
+                        "content": "2022  Reserved on:  Date of decision: 21.09.2022  + CS(COMM) 363/2022  VASUNDHRA JEWELLERS PVT. LTD.  ..... Plaintiff  Through:  Versus  KIRAT VINODBHAI JADVANI & ANR.  ..... Defendants  Through:  Mr.Raghavendra  M.  Bajaj,  Mr.Anshuman  Upadhyay,  Mr.Naseem & Mr.Prashant, Advs.  for D-1.",
+                        "reference": "25.08."
+                    },
+                    {
+                        "page": 1,
+                        "paragraph_number": 2,
+                        "content": "By this application, filed under Order XXXIX Rules 1 and 2 read with Section 151 of the Code of Civil Procedure, 1908 (in short, ‘CPC’), the plaintiff prays for an ad-interim injunction restraining the defendant no. 1, its directors, executives, partners or proprietors, officers, servants and agents or any other persons acting for or on their behalf from manufacturing, selling, offering for sale, exporting, advertising, marketing and/or in any manner using, directly or indirectly, in relation to any jewellery/precious stones/gems and/or any other allied and cognate goods/services, including but not limited to textiles, textile goods and fabrics, under the impugned marks/labels/logos/ domain name  and/or  ‘VASUNDHRA  FASHION’/ /https://vasundhra.business.site and/or any other mark identical and/or deceptively similar to the plaintiff’s trade marks/labels/logos/domain name ‘VASUNDHRA’/ ‘VASUNDHRA  JEWELLERS’/ , the ‘VASUNDHRA’ family of marks (hereinafter referred to as the ‘VASUNDHRA Marks’) / https://vasundhrajewellers.com/ or doing any other thing amounting to infringement of the plaintiff’s registered ‘VASUNDHRA Marks’ as also amounting to passing off, dilution and unfair competition.",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 3,
+                        "content": "It is the case of the plaintiff that the plaintiff-company was established on 28.10.1999 and has been continuously and uninterruptedly using the name ‘VASUNDHRA’/’VASUNDHRA JEWELLERS’ both as a trade mark as also a trade name. The plaintiff has its jewellery showroom at Pitampura, New Delhi, where the customers from not only Delhi but also all over India come to shop. The plaintiff asserts that over the years, it has used several iterations of the ‘VASUNDHRA Marks’,  to  . The plaintiff is also the  registered proprietor of the various trade marks in Classes 14 and 35, the list whereof is given by the plaintiff in its plaint as under:-",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 5,
+                        "content": "www.vasundhrajewellers.com  The plaintiff further asserts that it has obtained registration for its domain name on 26.06.2011, and has subsequently obtained registrations in the following domain names:  a.  www.vasundhra.com  b.  www.vasundhara.com  c.  www.vasundhra.in  d.  www.Vasundhrajewellers.in  e.  www.Vasundhrajewellers.com  f.  www.vasundhrajeweller.in",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 6,
+                        "content": "The plaintiff also states that it has invested an enormous amount of money and effort in building the brand identity through the promotion of the ‘VASUNDHRA Marks’ through various media, included but not limited to TV, radio and hoardings.",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 7,
+                        "content": "The plaintiff has also engaged the services of popular Indian celebrities, including but not limited to Ms. Prachi Desai and Ms. Shweta Tewari. The goods of the plaintiff are regularly showcased at various fashion events and most recently in March 2022 in the ‘FDCI X Lakme Fashion Week’ (hereinafter referred to as ‘Fashion Week’), where the actress Ms. Jahnvi Kapoor was the showstopper for the fashion designer Punit Balana, in which she wore the jewellery of the plaintiff.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 8,
+                        "content": "The plaintiff asserts that it also sets up kiosks in various events and/or exhibitions to reach out to members of the trade and general public. It has also collaborated with eminent fashion designers, the details of whom are given in paragraph 15 of the plaint.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 9,
+                        "content": "The plaintiff asserts that since its launch, the plaintiff has achieved unprecedented success with its sale figures having increased from Rs. 19,80,812/-(Rupees Nineteen Lakh Eighty Thousand Eight Hundred Twelve only) in the year 1999-2000 to Rs. 79,71,49,118/-(Rupees Seventy-One Crore Seventy-One Lakh Forty-Nine Thousand One Hundred Eighteen only) for the period 2021 till 04.03.2022. The plaintiff has also expended huge amounts for the promotional expenses on their ‘VASUNDHRA Marks’, which have increased from Rs. 43,254/(Rupees Forty-Three Thousand Two Hundred Fifty-Four only) in the financial year 1999-2000 to Rs. 8,65,055/-(Rupees Eight Lakh Sixty-Five Thousand Fifty-Five only) for the period 2021 till 04.03.2022.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 10,
+                        "content": "The plaintiff asserts that it has also been proactively defending its proprietary and statutory rights in the mark by initiating various oppositions and litigation against third parties, the details whereof have been given in paragraph 20 of the plaint.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 11,
+                        "content": "The plaintiff asserts that it is only around April, 2022 that it came across the publication of the defendant no. 1’s impugned mark/logo  'VASUNDHRA FASHION’/ in Class 25, bearing the application No. 5277967 dated 08.01.2022, for goods being ‘textile, textile goods and fabrics’. Though the defendant no. 1 claims user since 02.12.2020, the plaintiff asserts that no document in support thereof has been given by the defendant no. 1.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 12,
+                        "content": "The plaintiff asserts that the mark adopted by the defendant no. 1 is deceptively similar to the ‘VASUNDHRA Marks’ of the plaintiff.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 13,
+                        "content": "https://vasundhra.buiness.site The plaintiff further asserts that the defendant no. 1 is also operating a website bearing the domain name , which is identical to that of the plaintiff. The defendant no. 1’s goods are also available for sale online on various e-commerce websites like Flipkart, India Mart and Shopsy.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 14,
+                        "content": "The plaintiff asserts that while the mark for which the defendant no. 1 has applied for registration is as under:- the defendant no. 1 is using the following mark on its stores:-",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 16,
+                        "content": "The plaintiff further asserts that the defendant no. 1 has subsequently also opposed three applications for trade mark registration made by the plaintiff, the details whereof are given in paragraph 28 of the plaint.",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 17,
+                        "content": "The learned counsel for the plaintiff submits that the plaintiff is the prior and registered proprietor of the ‘VASUNDHRA Marks’, registered for goods in Class 14; and the defendant no. 1 deals in allied goods, with the mark of the defendant no. 1 being deceptively similar to that of the plaintiff. Placing reliance on the judgment of the Supreme Court in Kaviraj Pandit Durga Dutt Sharma v. Navaratna Pharmaceutical Laboratories, (1965) 1 SCR 737, he submits that ‘VASUNDHRA’ is an essential feature of the trade mark of the plaintiff. The same has been adopted by the defendant no. 1 and, therefore, in terms of Section  29(2)(b) of the Trade Marks Act, 1999 (in short, ‘the Act’), the use of the mark by the defendant no. 1 for allied and cognate goods would amount to infringement of the rights of the plaintiff in its trade mark. He submits that the defendant no.1 is also guilty of passing off as well as dilution and unfair competition.",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 18,
+                        "content": "He submits that the plea of the defendant no. 1, that the word ‘VASUNDHRA’ is a common name in India, cannot be accepted to denude the right of the plaintiff in the said mark. Referring to Sections 2(1)(m) and 2(1)(zb) of the Act, the learned counsel for the plaintiff submits that the trade mark may also include a ‘name’ so long as it is capable of distinguishing the goods or services of one person from those of others. In the present case, as the name itself has no connection with the goods in question, it is capable of distinguishing the goods of the plaintiff from the defendant no. 1 and, therefore, is entitled to protection as a trade mark. In any case, as the defendant no. 1 itself has applied for registration of its mark in ‘VASUNDHRA’ in Class 25, the defendant no.1 is estopped from contending that the said mark is not entitled to protection. In this regard, he places reliance on the judgment of this Court Automatic Electric Limited v. R.K. Dhawan & Anr., 1999 SCC OnLine Del 27.",
+                        "reference": "17."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 19,
+                        "content": "The learned counsel for the plaintiff further submits that the plea of the defendant no. 1, that there are other marks registered with the Registrar of Trade Marks bearing the name ‘VASUNDHRA’, is also irrelevant inasmuch as mere presence of a mark in the Register of Trade Marks is not evidence of its use. In this regard, he places reliance on the judgment of this Court in Century Traders v. Roshan Lal Duggar &  Co., 1977 SCC OnLine Del 50. In any case, the use of a mark by others cannot act as a shield for the defendant no. 1 to infringe the trade mark of the plaintiff. In support of this assertion, he places reliance on the judgment of this Court in P.M. Diesels Ltd. v. S.M. Diesels, 1994 SCC OnLine Del 117.",
+                        "reference": "18."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 20,
+                        "content": "On the plea of the defendant no. 1 that the goods of the defendant no. 1 and the plaintiff are different and not similar goods, being textiles as opposed to jewellery, the learned counsel for the plaintiff places reliance on the judgment of the High Court of Bombay in SIA Gems and Jewellery Pvt. Ltd. v. SIA Fashion, Mumbai, 2003 SCC OnLine Bom 498, to submit that jewellery and fashion garments have been declared to be cognate goods.",
+                        "reference": "19."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 21,
+                        "content": "Placing reliance on the judgment of the Supreme Court in Laxmikant V. Patel v. Chetanbhai Shah and Another, (2002) 3 SCC 65, he submits that in any case, the Court will also have regard to the future expansion prospects of the plaintiff’s business and the connection of the present business with fashion industry, as is evident from the plaintiff’s products being displayed in the Fashion Week and its association with other fashion designers as mentioned hereinabove.",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 22,
+                        "content": "He submits that the stand taken by the plaintiff before the learned Examiner of Trade Marks cannot act as an estoppel against the plaintiff or be used to deny relief to the plaintiff, if the plaintiff is otherwise entitled to the same. In support, he refers to the judgment of this Court in Telecare Network India Pvt. Ltd. v. Asus Technology Pvt. Ltd., 2019 SCC OnLine Del 8739.",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 23,
+                        "content": "The learned counsel for the plaintiff also submits that the plaintiff may have no objection if the defendant no. 1 confines its area of operation to the State of Gujarat and on a business-to-business model (in short, ‘B2B Model’).",
+                        "reference": "22."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 24,
+                        "content": "On the other hand, the learned counsel for the defendant no. 1 submits that there is absolutely no chance of any confusion being caused by the use of the mark ‘VASUNDHRA’ by the defendant no. 1. He submits that the class of goods of the defendant no.1 is different from that of the plaintiff; they are addressed to different strata of society, with the garments of the defendant no. 1 being priced in the range of around Rs. 1000/-(Rupees One Thousand only) with nothing exceeding the said amount, while the goods of the plaintiff are high-end jewellery, as per the own contention of the plaintiff.",
+                        "reference": "23."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 25,
+                        "content": "He submits that 80% of the business of the defendant no. 1 is not only B2B but also confined to the State of Gujarat. It is only 20% of the business of the defendant no. 1 that is through e-commerce websites, that is, Flipkart and Meesho, where, in fact, the plaintiff is not present.",
+                        "reference": "24."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 26,
+                        "content": "The learned counsel for the defendant no. 1 further submits that the plaintiff has only a single shop at Pitampura, New Delhi and, therefore, cannot claim pan-India reputation of the mark. On the other hand, the defendant no. 1 has eighty persons employed at its two manufacturing units, four warehouses and seven offline stores. Referring to the print outs from the websites of Flipkart and Meesho, he submits that the products of the defendant no. 1 are popular on these e-commerce  websites and, therefore, the defendant no. 1’s products have their own reputation among a specific stratum of society. Between 31.05.2021 to 22.05.2022, the target consumers viewed the defendant no.1’s products 60.14 Crore times, made 1.82 Crore clicks on its product listings and purchased 1.89 Lakh units of its products translating to gross sales of Rs. 8.66 Crore on Flipkart alone. The defendant no.1’s gross sales between the period of December, 2020 to April 2022 was Rs. 13,30,84,966.80. He submits that the defendants, therefore, have developed tremendous goodwill and reputation in its mark.",
+                        "reference": "25."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 27,
+                        "content": "He submits that the submission of the plaintiff that it hired Ms. Janhvi Kapoor for showcasing its product is misleading as Ms. Kapoor had modeled for designer Punit Balana’s new lehenga collection and had worn the plaintiff’s jewellery as accessories only.",
+                        "reference": "26."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 28,
+                        "content": "He further submits that various other marks which had ‘VASUNDHRA’ as the essential feature have been registered for various classes of goods, the details whereof are given by the defendant no. 1. He submits that, therefore, the plaintiff cannot claim any exclusive right to the word ‘VASUNDHRA’, which is a common name in India, and especially in the State of Gujarat.",
+                        "reference": "27."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 29,
+                        "content": "The learned counsel for the defendant no. 1 also refers to the reply dated 01.07.2019 submitted by the plaintiff to the Registrar of Trade Marks against the Examination Report, wherein the plaintiff itself claims that the mark has to be read as a whole and being a device mark, therefore, no confusion is caused with the other marks which also use the word ‘VASUNDHRA’. He submits that the plaintiff cannot be allowed to approbate and reprobate.",
+                        "reference": "28."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 30,
+                        "content": "He submits that the plaintiff does not have a registration in the word mark ‘VASUNDHRA’ but has registrations for device marks in Class 14. On the other hand, the defendant no.1 uses its device mark for goods falling in Classes 24 and 25, for which the plaintiff has not preferred any application for registration. He submits that the defendant no.1 is, therefore, entitled to the protection under Section 34 of the Act.",
+                        "reference": "29."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 31,
+                        "content": "He further submits that even otherwise, the marks of the plaintiff and the defendant no.1 are not likely to cause confusion as not only are the two marks different, but also the marketplace, products, trade channel are different. There is a huge difference in prices of the product and the target consumer is also different. In support, the learned counsel for the defendants relies upon the judgments of the Supreme Court in Nandani Deluxe v. Karnataka Cooperative Milk Producers Federation Limited, (2018) 9 SCC 183; of this Court in Mittal Electronics v. Sujata Home Appliance (P) Ltd, C.S.(Comm) 60 of 2020 decided on 09.09.2020 and N. Ranga Rao & Sons Private Limited v. Sree Annapoorna Agro Foods, 2021 SCC OnLine Mad 2916.",
+                        "reference": "30."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 33,
+                        "content": "The marks of the plaintiff which have been duly registered have been reproduced hereinabove. These are all device marks and the plaintiff does not hold any registration in the word mark ‘VASUNDHRA’. Section 17 of the Act states that when a trade mark consists of several matters, its registration shall confer on the proprietor exclusive right to  the use of the trade mark taken as a whole and shall not confer any exclusive right in the matter forming only a part of the whole of the trade mark so registered. In The Registrar of Trade Marks v. Ashok Chandra Rakhit Ltd., (1955) 2 SCR 252, the Supreme Court held that where a distinctive label is registered as a whole, such registration cannot possibly give any exclusive statutory right to the proprietor of the trade mark to the use of any particular word or name contained therein apart from the mark as a whole. The proprietor of the mark cannot expand the area of protection granted to the mark. The Division Bench of this Court in Bhole Baba Milk Food Industries Ltd. v. Parul Food Specialities Pvt. Ltd., 2011 SCC OnLine Del 288, reiterated that the distinctiveness to which the registered proprietor of a mark can lay a claim is to what it has gotten registered as a whole and such registration cannot possibly give an exclusive statutory right to such proprietor qua a particular word of common origin.",
+                        "reference": "32."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 34,
+                        "content": "Though it is equally well settled that for device mark, the essential feature of the same is equally entitled to protection [Ref:-South India Beverages Pvt. Ltd. v. General Mills Marketing India, (2015) 61 PTC 231 (Del)], at the same time, it has to remembered that in extending such protection, the party does not lay a claim of exclusivity in a mark to which otherwise he would have been unable to do so. The possibility of the proprietor attempting to expand the operation of his trade mark cannot be ignored or overlooked. [Ref:-The Registrar of Trade Marks vs. Ashok Chandra Rakhit Ltd. (supra)].",
+                        "reference": "33."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 35,
+                        "content": "While considering the claim of exclusivity to the word ‘VASUNDHARA’ the claim made by the plaintiff before the Registrar  of Trade Marks though may not act as an estoppel as held by this Court in Telecare Network India Pvt. Ltd. (supra), it would still be a relevant consideration. Before the Registrar of Trade Marks, the plaintiff had sought to distinguish other cited marks with word ‘VASUNDHRA’ by contending that the mark as a whole has to be considered. The plaintiff cannot be allowed to approbate and reprobate.",
+                        "reference": "34."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 37,
+                        "content": "As far as the claim of passing off is concerned, in Cadila Health Care Ltd. vs. Cadila Pharmaceuticals Ltd., 2001 PTC 300 (SC), the following test for deciding the question of deceptive similarity was laid down:- “35. Broadly stated in an action for passing-off on the basis of unregistered trade mark generally for deciding the question of deceptive similarity the following factors are to be considered:  a)  The nature of the marks i.e. whether the marks are word marks or label marks or composite marks i.e. both words and label works.  b)  The degree of resembleness between the marks, phonetically similar and hence similar in idea.  c)  The nature of the goods in respect of which they are used as trade marks.  d)  The similarity in the nature, character and performance of the goods of the rival traders.  e)  The class of purchasers who are likely to buy the goods bearing the marks they require, on  their education and intelligence and a degree of care they are likely to exercise in purchasing and/or using the goods.  f)  The mode of purchasing the goods or placing orders for the goods.  g)  Any other surrounding circumstances which may be relevant in the extent of dissimilarity between the competing marks.”",
+                        "reference": "36."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 39,
+                        "content": "In the present case, the fact that the plaintiff does not have a registration in the word mark ‘VASUNDHRA’, while has obtained registration in the various marks of which ‘VASUNDHRA’ is an essential part would have to be looked into for determining the balance of convenience and the effect thereof. Equally, the fact that ‘VASUNDHRA’ is a common name in India would be an important consideration to be kept in view while deciding the claim of exclusivity made by the plaintiff. Though ‘VASUNDHRA’ cannot be said to be descriptive of the goods of the plaintiff or the defendant no.1, at the same time, it would have to be considered whether the plaintiff has been able to make out a case for grant of injunction across all goods or for the goods that are in question in the present suit.",
+                        "reference": "38."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 40,
+                        "content": "The goods of the plaintiff and the defendant no.1 are not identical, however, can be said to be remotely cognate to each other. [Ref:-SIA Gems and Jewellery Pvt. Ltd. (supra)].",
+                        "reference": "39."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 41,
+                        "content": "When compared as a whole, though phonetically the two marks are identical, visually they are different as the plaintiff’s mark has a symbol  ‘V’ alongwith the word ‘VASUNDHRA’, while the defendant no.1 has a picture of a leaf alongwith word ‘VASUNDHRA Fashion’.",
+                        "reference": "40."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 42,
+                        "content": "It would also have to be considered that the plaintiff has only one store at Delhi, while the defendant no.1 herein claims to have two manufacturing units, four warehouses, and seven offline stores. Its goods are available also online at Flipkart and Meesho, where the plaintiff is not present. As contended by the learned counsel for the defendant no.1, the goods of the defendant no.1 are aimed at persons belonging to lower strata who are looking for cheaper garments while the goods of the plaintiff are claimed to be designer jewellery aimed at persons belonging to the higher strata of the society. In any case, the goods of the defendant no.1 are in Classes 24 and 25, in which the plaintiff does not have any registration.",
+                        "reference": "41."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 43,
+                        "content": "As the plaintiff is dealing in jewellery, its turnover may sound enormous, but that alone may not be sufficient to, at least at this stage, presume that the mark has obtained such reputation and goodwill so as to be associated only with the plaintiff and for even other goods.",
+                        "reference": "42."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 44,
+                        "content": "Keeping in view the above parameters, in my view, the plaintiff has not been able to make out a prima facie case for grant of prohibitory interim injunction against the defendant no.1. As noted hereinabove, the registration and use of the mark of the plaintiff is in a device of it, though ‘VASUNDHRA’ is a predominant part. Equally, ‘VASUNDHRA’ is a common name in India and an exclusive right to use the same cannot be granted to the plaintiff. The goods of the plaintiff and the defendant no.1, though cognate, are distinct. Presently, the plaintiff has not even contended that it has plans of trade progression, that is, to expand its  business to other goods including those of the defendant no.1. The area of operation of the plaintiff and the defendant no.1 is also distinct; with the plaintiff being in Delhi, while the defendant no.1 being predominantly in the State of Gujarat. The defendant no.1 also has developed suitable goodwill of the mark in its favour, as is evident from its claim of having a gross sale of Rs. 13.30 Crore approximately between the period of December, 2020 to April 2022. Merely because the plaintiff deals in jewellery items, which by themselves are more costly thereby resulting in a higher turnover for the plaintiff, will not give a better right to the plaintiff over an otherwise a common name in India.",
+                        "reference": "43."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 46,
+                        "content": "The learned counsel for defendant no.1 submits that the above mark shall never be used in future. The defendant no. 1 shall remain bound by this statement.",
+                        "reference": "45."
+                    }
+                ]
+            }
+        }
+    ]
+}

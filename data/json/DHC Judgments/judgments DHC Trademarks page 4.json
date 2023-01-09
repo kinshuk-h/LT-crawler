@@ -1,0 +1,1201 @@
+{
+    "meta": {
+        "directory": "data\\judgments\\DHC Judgments",
+        "request": {
+            "query": "Trademarks",
+            "page": 4,
+            "court": "DHC",
+            "start_page": 1,
+            "req_pages": 5,
+            "req_total": null,
+            "start_date": null,
+            "end_date": null
+        },
+        "response": {
+            "entry_start": 31,
+            "entry_end": 40,
+            "entry_total": 1572,
+            "page": 4,
+            "page_total": 157,
+            "page_previous": 3,
+            "page_next": 5,
+            "page_processed": 4,
+            "saved_total": 26,
+            "generated_at": "2023-01-05T23:17:08"
+        },
+        "filters": {
+            "sent_count": {
+                "min_sents": "2",
+                "min_words": "20",
+                "tokenizer_path": null
+            }
+        }
+    },
+    "data": [
+        {
+            "case_number": "SC 359/2020",
+            "title": "1.\tSTAR TELEVISION PRODUCTIONS LIMITED & ANR. VS 1.\tEUROSPORT & ORS.",
+            "date": "09/09/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/AMN/judgement/09-09-2022//AMN09092022SC3592020_131236.pdf&ID=716893066_0",
+            "document_path": "data\\judgments\\DHC Judgments\\716893066_0.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 2,
+                        "paragraph_number": 4,
+                        "content": "Arguments raised against the pleas of taking the additional documents on the record were that it has been improperly moved under Order XI Rule 1 CPC and whereas the defendants contended that these documents were essential to show that there was suppression and concealment by the plaintiffs and being public documents, their authenticity could not be questioned.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 7,
+                        "content": "This suit has been filed for permanent injunction to restrain the defendants from infringing trademark belonging to the plaintiffs, passing off and further seeking rendition of accounts and protection against dilution, damages, delivery-up etc. In the suit, the application [I.A. 7682/2020] sought to be disposed of by the present order seeks interim relief with the following prayers :  “a. An order of temporary injunction restraining the Defendants, partners or proprietors, their officers, servants, agents and all persons, in active concert or participation with the Defendants from using the Impugned Marks ,  , , and  , or any  other  mark which is identical or deceptively similar to the Plaintiff No. 1‟s  registered STAR Marks including the STAR Device , thereby amounting to infringement of trademark.  b.  An order of temporary injunction restraining the Defendants, partners or proprietors, their officers, servants, agents and all persons, in active concert or participation with the Defendants from using the Impugned Marks ,  mark which is identical or deceptively similar to the Plaintiff No. 1‟s  registered STAR Marks including the STAR Device , thereby amounting to passing off.  c.  An ex-parte ad interim temporary order in terms of prayer clauses (a) to (b) made above, during the pendency of the present application;”",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 8,
+                        "content": "The plaintiffs are the owners and operators of various branded television channels whose logo contains the Star Device and its variant, as a prominent part in its family of marks. It is claimed that the plaintiffs have been using the trademark, tradename, and trading style “STAR” since 1991, continuously and uninterruptedly in the broadcasting space, and, in India, when they launched the first TV channel, “STAR TV” in 1992. The plaintiffs claim to have developed a distinct identity when they launched the “STAR SPORTS” channel in 1996. Presently, they have 17 sports channels in varied languages such as Star Sports 1, Star Sports 1 Hindi, Star Sports 1 Tamil, etc. The Star Sports Channels broadcast various sporting events from across the world in the fields of cricket, football, badminton, tennis, hockey etc. including the Indian Premier League, the French Open, the US Open, the Premier League, Formula 1.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 9,
+                        "content": "It is claimed that since inception, the family of Star Channels contains a distinguishing Star Device. The plaintiffs claimed that this five  pointed logo and the star marks in its reiterations has acquired the status of a well-known mark within the meaning of Section 2(1)(zg) of the Trade Marks Act, 1999 (hereinafter referred to as ‘T.M. Act’) and as such the Star Device has become synonymous with the plaintiffs and their services. It is also claimed that the plaintiff No.1 is the prior adopter, prior user, registered proprietor and owner of the trademark “STAR” and a plurality of marks incorporating the word “STAR” and/or the uniquely designed five pointed star device including in its family of marks such as STAR  (word mark), STAR & Logo , Star Device  (“STAR Device”), STAR SPORTS (word mark), STAR SPORTS  of a globe, i.e. to EUROSPORT using the marks 10. The grievance of the plaintiffs is that the defendants have recently renamed their sports channel which was known as DSPORT with the logo  , , , and their  variants thereof, in relation to their sports television channels. According to the plaintiffs, this usage of the Single Star for the marks and logo of the defendants was deceptively similar to the registered trademark of the plaintiffs and also contained the Star Device in its entirety. It is also submitted that the Star has been positioned prominently in juxtaposition with the letter „E‟ which was why the “Star” in “EUROSPORT” was deceptively similar to the various registered STAR Marks in India,  including",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 10,
+                        "content": "The defendant No.1 is EUROSPORT, defendant No.2 is Discovery Communications, LLC and defendant No.3 is Discovery Communications India. The defendants have filed a common written statement. It is submitted that the suit was a malicious attempt to wrongly obtain a commercial advantage over the defendants. It has been further stated in the written statement that the defendant No.1 is the registered proprietor of the impugned trademarks and their variations, not only in India but over 100 jurisdictions around the world such as in Hong Kong, South Korea and Taiwan. It is further stated that the impugned marks have been used globally by the defendants since 2015 without objections including from the plaintiffs.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 12,
+                        "content": "It is further stated in the written statement that the Ring of Stars that was used by the defendant No.1 when its brand EUROSPORT was launched in 1989 was in reminiscence of the stars used in the logo of the European Union, in turn signifying the jurisdiction of the origin by defendant No.1. However, over the years, the defendant No.1 has used multiple variations of its trademark which comprise an unchanged reiteration of a star or stars, and/or the underline brand and wordmark  EUROSPORT. These variations include",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 14,
+                        "content": "It is further stated that in the year 2012, 20% stake in EUROSPORT was acquired by DISCOVERY which then grew into full ownership in 2015 and was a brand to reckon with in its own right. However, the brand EUROSPORT was given a facelift and the impugned mark was resultantly adopted in 2015 in order to enhance and modernize EUROSPORT‟s visual appeal.",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 15,
+                        "content": "It is further stated that on the basis of registration of the impugned trademark in WIPO Madrid in 2015, the final registration vide the Statement of Grant of Protection under Rule 18ter (1) of Common Regulations was given in India in 2017 (placed at page 85 of the defendants‟ documents). The defendants claim to have adopted the impugned mark more than 2 years before the plaintiffs and that the plaintiffs were now seeking to misuse the Settlement Agreement dated 26th February, 2018. The defendants have expounded on the reach and reputation of the defendants in detail which need not be reproduced here.",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 16,
+                        "content": "In short, by way of the written statement, it has been submitted that the adoption of the impugned marks was bonafide and the defendants had a right to use the said marks and the impugned Star marks and device in EUROSPORT marks in general were essential and exclusive to defendants‟ brand identity and business and have been explicitly adjudicated as “well-known” in multiple jurisdictions. Hence, the defendants have sought the dismissal of the plaint.",
+                        "reference": "17."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 19,
+                        "content": "Mr. Amit Sibal, learned senior counsel for the plaintiffs, has submitted that the plaintiffs were pioneers in cable T.V. and satellite broadcasting in India and had commenced operating its T.V. channels under the name of “STAR” with the Star Device and its variants since 1991. The plaintiffs had more than 500 trademark registrations and applications with this device. The plaintiffs were well-established in India in broadcasting under the said style, name and logo, and also had reputed presence in several other countries.",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 20,
+                        "content": "It was pointed out that the defendants had used a star device in the shape of a Ring of Stars but never as a stand-alone star till 2015. By that time the plaintiffs had developed their marks as well-known marks all over the world, particularly in India. The entry of the defendants as DSPORT in India was in 2017 by which time viewers in India identified the standalone star device with the plaintiffs. It therefore, did not matter if the defendants had used a Single Star with EUROSTAR in Europe. That the mark and the star device belonging to the plaintiffs did in fact have a well-known character was conceded by the defendants when they entered into an Agreement dated 26th February, 2018 and changed the star device in the logo into a globe with the word “DSPORT”. They could not be now permitted to re-enter India with a Single Star Device and the word  EUROSPORT on the plea that they used a similar mark in other jurisdictions.",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 21,
+                        "content": "With regard to the claim of the defendants that they had obtained the registration of EUROSPORT with a Single Star Device in India, the learned senior counsel submitted that the plaintiffs had filed objections which were pending and the application for rectification had also been filed, as the registration ought not to have been granted to them. However, since the Intellectual Property Appellate Board („IPAB‟) did not have powers to issue injunction, the instant suit has been filed for the said relief. Presently, the IPAB has also been disbanded and the application is pending before the IP Division of this Court. Thus, no right could be claimed by the defendants on the basis of a registration which was not valid.",
+                        "reference": "22."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 22,
+                        "content": "Reliance has been placed on a number of decisions including Rajkumar Prasad Vs Abbott Healthcare, 2014 SCC OnLine Del 7708, Clinique Labs v. Gufic Ltd., 2009 SCC OnLine Del 751, South India Beverage v. General Mills Marketing Inc. 2014 SCC OnLine Del 1953, in support of the contention that the defendants had to be injucted from using the deceptively similar trademark and that too in the sphere of sports broadcasting.",
+                        "reference": "23."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 23,
+                        "content": "The further contention of the learned senior counsel was that the defendants cannot take the dominant and essential features of the plaintiffs‟ mark or device to make their own mark. Thus, since the Single Star Device in the minds of the common person connected it to the plaintiffs as the originator of the services, the same star could not be taken by the defendants and made a part of their mark and device. Thus, in addition to infringement, the defendants were guilty of passing off in an  attempt to ride on the goodwill and reputation of the plaintiffs‟, built step-by-step since 1991/1992. By the use of the Single Star in EUROSPORT, unsuspecting viewers would connect it to the services rendered by the plaintiffs and that would deceive the public and act to the prejudice of the plaintiffs affecting its reputation and also causing dilution of their marks.",
+                        "reference": "24."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 24,
+                        "content": "It is further submitted that there was no delay in approaching the court and there was no occasion to claim acquiescence. The cause to approach the court arose when the infringing trademarks were adopted by the defendants with intention to appropriate the plaintiff‟s goodwill. It was only in February 2020, that the defendants had commenced their sports channel with the impugned trademarks/device. Immediately notice to desist was issued and the instant suit was filed alongwith an application for rectification. There was no time lag to allow the defendants to raise the defence of acquiescence.",
+                        "reference": "25."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 25,
+                        "content": "As regards the use of the star device, it was pointed out that the right to use the trademark must be also considered territorially and whatever be the scenario outside India since the plaintiffs‟ greatest target audience was in India and the target audience of EUROSPORT was in Europe, there was no immediate need for the plaintiffs to take steps in other jurisdictions against the use of the star device and logo. It was their entry into India that had a major impact on the plaintiffs and without delay the plaintiffs had taken all necessary steps to oppose such use. At no point of time, did the plaintiffs hold out or give an impression that they were okay with the use of a Single Star Device by the defendants. Reliance has been placed on Hindustan Pencils Pvt. Ltd. v. India Stationery Products Co. 1989 SCC Online Del 34, Dr. Reddy Laboratories Vs Reddy Pharmaceuticals 2004  SCC OnLine Del 668, Toyota Jidosha Kabushiki Kaisha Vs. Prius Auto Industries Ltd. & ors. (2018) 2 SCC 1, Patel Field Marshal Agencies v. P.M. Diesels Ltd., (2018) 2 SCC 112.",
+                        "reference": "26."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 26,
+                        "content": "It was submitted that the plaintiffs had thus disclosed a prima facie case in its favour. Since it was the first user of a Single Star Device globally and has registered the said mark and logo device in India and had used it in India much before the defendants, the balance of convenience lay in favour of the plaintiffs. When the defendants launched DSPORT initially with the Single Star Device, after objections were raised by the plaintiffs, the logo and device were changed into a globe which was used by the defendants for their sports channel for over 18 months whereafter, they suddenly changed into EUROSPORT with a Single Star in 2017. Thus, prior to 2017, they were not in India with the Single Star logo and mere pendency of the suit would not give them any vested right to continue to use the impugned trademarks, logo and device. It is further submitted that the loss to the reputation of the plaintiffs would be irreparable, if the defendants continued to use the impugned trademarks and device. Thus, it was prayed that the defendants be restrained from using the impugned trademarks whereafter the proceedings be stayed under Section 124(5) of T.M. Act till disposal of the rectification petition.",
+                        "reference": "27."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 27,
+                        "content": "Mr. Sandeep Sethi, learned senior counsel for the defendants, submitted that the suit was completely misconceived, and the plaintiffs were not entitled to any injunction against the defendants. It was pointed out that the two trademarks have been in co-existence in over 100 jurisdictions since 2015 and yet the plaintiffs had never raised any  objections till 2020 by way of the present suit. The defendants had commenced the broadcast of sports under the name of EUROSPORT since 1989 whereas Star Sports came into existence only in 1996 and, therefore, it was the defendant No.1 which was in prior use of Star logo/device. Initially, it was a Ring of Stars with five on the top and five at the bottom. Since 2003, globally and since 2004, in India, the Single Star logo/device which was solid, italicized with five points had been in use, which also establishes that it was the defendant No.1 which was the prior user.",
+                        "reference": "28."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 28,
+                        "content": "The learned senior counsel submitted that the defendants had a far greater reach when compared to the plaintiffs and, therefore, the defendants had no need to encash on the reputation of the plaintiffs. For instance, while 3000 hours of programming across 75 countries was the performance of the defendants, the plaintiffs had only 1500 hours and that too only in India and Asia. The defendants were Europe‟s No.1 sports destination channel. The defendants‟ marks were themselves well-known and the use by the defendants of EUROSPORT with a Single Star has commenced in 2004 world-wide and the defendants had built up immense reputation with their reach in 135 millions homes in 54 countries in 20 languages covering 120 sports, having 15 websites in 11 languages across jurisdictions and in 2020 the cumulative subscribers of the defendants were 246 million across 75 countries. In contrast, as per the averments in the plaint itself, the plaintiffs had only 169 million subscribers for their STAR Sports channel, thus, showing that the defendants were much bigger with wider reach and greater repute than the plaintiffs.",
+                        "reference": "29."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 29,
+                        "content": "The trademark of the defendants was also registered in 21 territories where the plaintiffs also claim to have trademark registration, but in none  of these territories, objections have been raised by the plaintiffs on any ground whatsoever. The Settlement Agreement also reflected acquiescence and acceptance that the defendants‟ trademark was well-known, and the defendants had a large following of subscribers and reputation. Since the defendants were well-established, world-wide in the field and being the prior user, there was no question of taking any advantage of the reputation that the plaintiffs may have in India or overseas.",
+                        "reference": "30."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 30,
+                        "content": "It was submitted that under Section 29 of the T.M. Act, the basis for infringement would be whether the defendants‟ marks are deceptively similar to those of the plaintiffs as a whole and whether the deceptive similarity was likely to cause confusion or likely to make people believe an association between the two products or services with regard to their origin. It was submitted that these tests were not met in the instant case. The two marks had to be compared as a whole and when the composite star device and words were compared in accordance with the anti-dissection rules, it was more than apparent that there was no confusion to the consumers by the use of the trademark by the defendants.",
+                        "reference": "31."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 31,
+                        "content": "It was also submitted that Star was a celestial object and no one can claim exclusive use of the word „Star‟ or for that matter stake an exclusive claim to the device of the Star. The only exclusivity that could be claimed was in the manner of portraying the Star which was dissimilar in the present case. Though the objections/rectification had been filed by the plaintiffs to the registration of the defendants‟ trademarks, it was pointed out that in respect of the trademarks of the plaintiffs themselves, there were objections filed and the plaintiffs had also issued disclaimers that the registrations in their favour would not give them exclusive right to the  word „Star‟ or the „Device of Star‟. In other words, they were fully aware of the factual position that they had no exclusive rights to the word Star or the device of a Star and could not now stake a claim by means of the present suit.",
+                        "reference": "32."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 32,
+                        "content": "The learned senior counsel referred to various documents placed on the record to establish that the defendants were co-existing with the plaintiffs in several jurisdictions. It was the further contention of the learned senior counsel that under Section 28 (3) of T.M. Act, no injunction can be issued against the registered proprietor and, therefore, the plaintiffs have no prima facie case in their favour so long as the registration was not rectified, and the registered trademarks of the defendants removed. Reliance has been placed on Jindal Industries Ltd. vs Nirmal Steel Tubes Pvt. Ltd., 1994 SCC OnLine Del 347 and P.M. Diesels Pvt. Ltd. vs Thukral Mechanical Works, 1988 SCC OnLine Del 34, to contend that in these circumstances the very suit was not maintainable.",
+                        "reference": "33."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 33,
+                        "content": "Importantly, according to the learned senior counsel, when the plaintiffs sought suspension of the trademark when the matter was pending before the erstwhile IPAB, vide its order dated 7th August, 2020 and the clarificatory order dated 17th December 2020, the relief was declined. The only restraint on the defendants was against transferring these registered trademarks and logos to any third-party. It was only thereafter that the present suit was filed and so it was in effect a second bite at the cherry, a practice to be deprecated. According to the learned senior counsel, this also tantamounts to forum shopping which was again impermissible. Since these facts were not disclosed in the plaint, there was suppression of material facts on which ground also, the plaintiffs were not entitled to  discretionary relief. Reliance was placed in Kamini Jaiswal vs. Union of India, (2018) 1 SCC 156 (3JJ.) and Allied Blenders and Distillers Pvt. Ltd. vs. Amit Dahanukar 2019 SCC OnLine Del 8898.",
+                        "reference": "34."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 34,
+                        "content": "Another fact that was suppressed by the plaintiffs was their own disclaimer before the Registrar of Trademarks in respect of the same device of Star, documents in respect of which have been filed by the defendants on this record. So too, the discretionary relief could not be granted to the plaintiffs. Once such disclaimer had been made by the plaintiffs, in effect it was an acknowledgment of the absence of exclusive rights to the Star Device, despite the registration of the said trademarks and no such rights in the present suit against the defendants could be claimed by the plaintiffs.",
+                        "reference": "35."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 35,
+                        "content": "Reliance has been placed on Parakh Vanijya Pvt. Ltd. Vs. Baroma Agro Product, 2018 (16) SCC 632, Bawa Masala Company Vs. Gulzari Lal Lajpat Rai, 1974 SCC OnLine Del 121, Surya Agro Oils Ltd. Vs. Surya Coconut Oil Industries 1994 SCC Online Del 266 and Mercy Bigi Vs Sunil Kumar, 2015 SCC OnLine Ker 16947.",
+                        "reference": "36."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 36,
+                        "content": "Relying on (i) Gufic Ltd. Vs Clinique Laboratories, LLC 2010 SCC Online Del 2322, (ii) Nandini Deluxe Vs Karnataka Cooperative Milk Producers Federation Ltd., (2018) 9 SCC 183, (iii) Rajesh Jain Vs Amit Jain, 2014 SCC OnlineDel 1984 and (iv) PP Jewellers Pvt. Ltd. Vs PP Buildwell Pvt. Ltd. 2010 SCC OnLine Del 932, it was submitted that when two marks were to be compared, the trademark could not be split into constituent elements and must be seen as a whole.",
+                        "reference": "37."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 37,
+                        "content": "When the Device and Trademarks of the plaintiffs and the defendants were juxtaposed, there was absolutely no confusion that could  arise on similarity between the two trademarks as the two were distinct. There was no visual or structural similarity in the manner in which the Star itself has been depicted. This was the stand taken by the plaintiffs when their registered trademarks were objected to by others. Thus, the plaintiffs cannot be permitted to blow hot and cold at the same time.",
+                        "reference": "38."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 38,
+                        "content": "Coming to the Settlement, it was submitted that in the various paragraphs in the Settlement itself, the plaintiffs have acknowledged that EUROSPORT has a registered trademark of a Star or of several Stars and that they had been using the same from a date prior to the plaintiffs in over 54 countries and that there was a group of EUROSPORT marks, thus, also acknowledging that there is more than one registered trademark and depiction of „Star‟ that belonged to the defendants. Moreover, the Agreement was limited only to sports which was evident from the recitals in the Agreement itself. The plaintiffs also undertook not to object to the EUROSPORT marks, particularly such marks which include not only the use of a Ring of Stars but also a Single Star depicted in a stylized manner. In short, the plaintiffs had conceded the right of the defendants to use the said marks and having waived their rights, cannot now seek injunctions against the plaintiffs and the suit deserved to be dismissed as a sheer abuse of process.",
+                        "reference": "39."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 39,
+                        "content": "The next argument was that the suit was barred by acquiescence. Since the plaintiffs had not raised any objection when EUROSPORT was launched in India with the Single Star Device and the defendants had benefitted therefrom, the defendants could not now be restrained from using it. The learned counsel, however, referred to several documents which included promotional material, media coverage, publicity material  for sports, screenshots of the programs and recording broadcast by the defendants to show that the Single Star Mark was a well-known trademark globally. Reliance has also been placed on the decisions by the WIPO Arbitration & Mediation Centre holding that EUROSPORT was a well-known mark and has a strong reputation in Europe and world-wide.",
+                        "reference": "40."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 40,
+                        "content": "Reliance has been placed on Milmet Oftho Industries v. Allergan Inc. (2004) 12 SCC 624, Cadbury UK Ltd. Vs Lotte India Corporation 2014 SCC OnLine Del 367 and Choice Hotels International Inc Vs M. Sanjay Kumar, 2015 SCC OnLine Del 7407, to submit that the defendants were the first to use the logo of a „Star‟ world-wide. Therefore, even if reputation had not been built on account of absence of local sales, the defendants would be entitled to consideration of spill over reputation from other jurisdictions as trans-border reputation was a significant factor to be considered and reputation was something that was dynamic. Reliance has been placed on NR Dongre Vs Whirlpool Corpn. 1996 5 SCC 714, Rolex Sa Vs Alex Jewellery Pvt. Ltd., 2009 SCC OnLine Del 753, Lowenbrau AG Vs Jagpin Breweries Ltd., 2009 SCC OnLine Del 45, Star Bazaar Pvt. Ltd. Vs Trent Ltd., 2009 SCC Online Del 3337, South India Beverage (supra). Thus, the defendants could not be restrained from using their registered trademarks.",
+                        "reference": "41."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 41,
+                        "content": "With regard to the judgments relied upon by the plaintiffs, it was submitted that South India Beverage (supra) would work in favour of the defendants as “Star” being generic would be less significant in the trademark.",
+                        "reference": "42."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 42,
+                        "content": "The issue in A. Ayyasamy v. A Paramasivam (2016) 10 3 SCC 386, was one under arbitration law and did not have any applicability save for  the principle that the refusal of the IPAB to injuct the defendants would be binding on this Court being a civil court. The decision in Hindustan Pencils Pvt. Ltd. (supra) was in public interest in order to protect the general public from spurious goods, which fact situation did not exist in the present case. In Wockhardt Ltd. Vs. Torrent Pharmaceuticals Ltd., (2018) 18 SCC 346, the decision upheld the rights flowing from prior use by the plaintiff, holding that such prior use was the determining factor. Again, this judgment would help the defendants inasmuch as the defendants are the prior users of the Star Device.",
+                        "reference": "43."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 43,
+                        "content": "As regards the decision in Toyota Jidosha Kabushiki Kaisha (supra), it was urged that it could be distinguished on facts. In the present case where there was a spill over reputation the use of the trademark could not be limited on the basis of territoriality and there was prior use by the defendants and a complete absence of deceptive similarity.",
+                        "reference": "44."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 44,
+                        "content": "Learned senior counsel for the defendants contended that several of the submissions made on behalf of the plaintiffs were without pleadings especially in respect of the type of sports events that were broadcast by both of the parties and the reach of the plaintiffs in different jurisdictions.",
+                        "reference": "45."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 45,
+                        "content": "It was nowhere pleaded that the reputation of the plaintiffs‟ mark was territorial and, therefore, infringement must be seen qua India and nowhere else. Whereas, admittedly, in the plaint it is stated that it was the principal marks of the plaintiffs in both Europe and India, where the two trademarks were co-existing. Rather, the pleadings admitted the extent and operation and reach of the defendants which was much more than that of the plaintiffs and some self-serving averments in the replication would not justify a restraint on the defendants. At the same time, it was pointed out  that the defendants‟ website/channel on social media was available even in India using the same impugning mark which fact has also not been denied, again, establishing that there has been no confusion resulting from such common use.",
+                        "reference": "46."
+                    },
+                    {
+                        "page": 18,
+                        "paragraph_number": 46,
+                        "content": "Finally, it was submitted that the balance of convenience lies in favor of the defendants as it would suffer immensely if not allowed to use the registered trademark in India and since the trademark of the plaintiffs and the defendants were co-existing in 23 other countries and no confusion had admittedly occurred, the absence of interim relief would cause no harm to the plaintiffs. Thus, it was prayed that the application under Order XXXIX Rules 1 & 2 CPC be dismissed.",
+                        "reference": "47."
+                    },
+                    {
+                        "page": 18,
+                        "paragraph_number": 47,
+                        "content": "In rejoinder, Mr. Amit Sibal, learned senior counsel for the plaintiffs, contesting all the submissions of Mr. Sandeep Sethi, learned senior counsel for the defendants, asserted that on the basis of documents, that the plaintiffs were the first user of the Single Star Device in electronic media, the world over. The plaintiff‟s registration is in India and so the rights of the plaintiffs were to be determined under the trademark law and common law, as applicable in India. Global use of the trademarks were, therefore, not relevant. The status of the trademark being well-known would therefore be seen with reference to the public in India and causing of confusion and preservation of distinctiveness of the plaintiffs‟ trademarks were also to be considered territorially in India. Moreover, the use of the Single Star by EUROSPORT was never in respect of broadcast of sports events but was first used for EUROSPORT NEWS which had no distribution or access in India in 2004. Also, EUROSPORT NEWS used  both the Single Star as also Multiple Stars and there was no exclusive use of the Single Star even then. There is nothing brought on record to show that the defendants were in India since 1989. Rather, the documents only reflected that they were in Europe and not in India, as the publications relied upon by the defendants were British.",
+                        "reference": "48."
+                    },
+                    {
+                        "page": 19,
+                        "paragraph_number": 48,
+                        "content": "The defendants had not disclosed the number of their subscribers or viewers in India and so the extent of viewership or number of subscribers in other countries was not relevant for determination of the present matter. There is no dispute that the defendants had entered in Indian market only in 2017, initially as DSPORT after the defendant No.2/DISCOVERY had taken over EUROSPORT. Relying on the judgment in Banyan Tree Holdings vs. A Murali Krishna Reddy 2009 SCC OnLine Del 3780, it was urged that a passive website even if it was accessible in India would not be relevant to determine the presence of the defendants in India to constitute a defense of prior use. As regards the App of the defendants, it is nowhere mentioned that it was available in India since 2017.",
+                        "reference": "49."
+                    },
+                    {
+                        "page": 19,
+                        "paragraph_number": 49,
+                        "content": "In contrast, the plaintiffs have placed several documents to establish the presence of the plaintiffs in India since 1991 continuously and uninterruptedly. It was submitted that “STAR” in the trademark of the plaintiffs was not the celestial object, but was an acronym for Satellite Television in Asia Region (for short, „STAR‟). Therefore, the use of the word STAR is unique. Moreover, it does not of its own, depict the nature of the services provided, again making the use of the word STAR a creative use by the plaintiffs. Reliance has been placed on the annual reports and other documents to show that since 1991, the plaintiffs have been increasing their width of services by introducing Star Movies in 1994,  acquiring Prime Sports to commence Star Sports channels in 1996 and Star Plus, for its entertainment channels. In all of these channels, the plaintiffs have always used the Single Star depicted in a particular fashion and thus, that Star Device had become synonymous to the services provided by the plaintiffs.",
+                        "reference": "50."
+                    },
+                    {
+                        "page": 20,
+                        "paragraph_number": 50,
+                        "content": "With regard to reputation built by the plaintiffs over a period of time, the learned counsel highlighted the number of awards that the various channels of the plaintiffs including the Star Sports channel, have won. When the plaintiffs moved on to the OTT platform, the Star Device was used in Hotstar including for sports from 2014 onwards.",
+                        "reference": "51."
+                    },
+                    {
+                        "page": 20,
+                        "paragraph_number": 51,
+                        "content": "The learned senior counsel for the plaintiffs argued that the documents of the defendants themselves show that the original logo was a circle of stars and not a Single Star Device. The documents relating to the brand history of the defendants‟ channels EUROSPORT establish that from 1989 till May, 2011, the defendants had used only a Circle of Stars. During the same period, the plaintiffs had established its use of the Single Star Device. Further, it is evident from the documents of the defendants that the colors of the stars were changed in 2010 and 2014 but the Circle of Stars continued to be the logo of the defendants.",
+                        "reference": "52."
+                    },
+                    {
+                        "page": 20,
+                        "paragraph_number": 52,
+                        "content": "EUROSPORT NEWS, which used a Single Star was only in United Kingdom and the stray instance could not suffice to establish the use of the mark as a brand. In the news report (at page 156) connected to the acquisition of EUROSPORT by DISCOVERY LLC, in 2015, it was acknowledged that the logo used had always been a Ring of Stars since inception, even according to the defendants. It was revealed in the interview by Peter Hutton at page 651, of the documents filed by the  defendants on 2nd December, 2015 that EUROSPORT was a “nice sleepy second-tier channel” and was not a “strong brand” as written at page 652, thus, conceding that EUROSPORT had no reputation till DISCOVERY LLC acquired it in November, 2015.",
+                        "reference": "53."
+                    },
+                    {
+                        "page": 21,
+                        "paragraph_number": 53,
+                        "content": "It is only then that the logo was changed from the Ring of Stars to a Single Star. The defendants were till then relaying events that had already taken place, whereas the plaintiffs aired marquee events such as the World-Cup and other sports which appeal to Indian audiences whereas EUROSPORT had programs relating to cycling, soccer etc. of recorded events taking place in Europe. Even then the defendants had not entered India in November 2015.",
+                        "reference": "54."
+                    },
+                    {
+                        "page": 21,
+                        "paragraph_number": 55,
+                        "content": "Thus, when the plaintiffs had a family of Single Star marks for their different channels, the use of a Single Star by the defendants would lead the viewers to believe that this was just another variant belonging to the plaintiffs and thus, confusion regarding the source of the service would occur. Dilution as a result of association also is the consequence. Cases referred to are Kaviraj Pandit Durga Dutt Sharma Vs Navaratna Pharmaceuticals Lab (1965) 1 SCR 737, Renaissance Hotels Holdings Inc. Vs B. Vijaya Sai, 2022 SCC OnLine SC 61, HTC Corporation Vs LV Degao, 2022 SCC OnLine Del 253, South India Beverage v. General Mills Marketing Inc. 2014 SCC OnLine Del 1953.",
+                        "reference": "56."
+                    },
+                    {
+                        "page": 21,
+                        "paragraph_number": 56,
+                        "content": "It was submitted that the decision in South India Beverage (supra) would not stand in the way of protection to the plaintiffs‟ trademark inasmuch as the logo/device of star is the dominant one compared to the  word “sports” and it is also a matter of impression on the viewers. Moreover, when for 18 months DSPORT used the Globe and not the Star, they continued to use the Single Star with EUROSPORT in other countries. This again would show that use of the trademark was territorial and as far as India is concerned, the trademark of the plaintiffs ought to be protected.",
+                        "reference": "57."
+                    },
+                    {
+                        "page": 22,
+                        "paragraph_number": 57,
+                        "content": "Another argument set forth by the learned senior counsel for the plaintiffs is that it was through DISCOVERY that DSPORT had goodwill in India and not EUROSPORT. When DSPORT entered India and used the Single Star, the matter was resolved and an Agreement entered into whereby the defendants agreed not to use a „STAR‟ in whatsoever form. Once they had agreed to never use the Single Star logo in India, to now insist on doing so was in violation of their-own undertaking and could not be allowed. The assurance had been in respect of future reiterations also and thus, the defendants had completely given up any claim to use the Single Star Device/logo in India in whatsoever manner. The use of the Star logo referred to in the Agreement was in respect of other products and therefore, it would be incorrect to say that the plaintiffs had given up any right by entering into the Settlement. Thus, the use of the „Star‟ by the defendants was not bonafide and could not be protected.",
+                        "reference": "58."
+                    },
+                    {
+                        "page": 22,
+                        "paragraph_number": 58,
+                        "content": "With regard to the arguments of acquiescence, learned senior counsel for the plaintiffs submitted that it was only in February, 2020 that the defendants had launched the EUROSPORT with the Single Star logo/device and a legal notice had been issued, a rectification application was also duly filed before the IPAB and thereafter, the present suit had been filed and therefore, there was no time lag to reflect acquiescence by  the plaintiffs.",
+                        "reference": "59."
+                    },
+                    {
+                        "page": 23,
+                        "paragraph_number": 59,
+                        "content": "With regard to registration of similar trademarks in other jurisdictions, the learned senior counsel pointed out from the record that these were not all in use in the different jurisdictions, particularly, in respect of sports events. Viewership in six foreign countries evident from the documents placed on the record by the defendants (Index–4, documents No.3) would show that India is not included in the list and moreover, if the operation of the plaintiffs was not very significant or that of the defendant was insignificant, the plaintiffs would be quite justified in not initiating any legal action against the defendants and the mere absence of such a litigation in other jurisdictions would not be fatal to the present suit. Reliance has been placed on the cases of Pankaj Goel vs. Dabur India Ltd. 2008 SCC OnLine Del 1744 and Telecare Network India Pvt. Ltd. Vs  Asus Technology Pvt. Ltd. 2019 SCC Online Del 8739. The decisions relied upon by the defendants to establish that their mark was a well-known mark, were not relevant since they did not relate to the reputation in India. Thus, merely to say that trademark of both parties existed in other jurisdiction would not be sufficient for the plaintiffs to be denied relief.",
+                        "reference": "60."
+                    },
+                    {
+                        "page": 23,
+                        "paragraph_number": 60,
+                        "content": "With respect to the alleged concealment of facts, the learned senior counsel pointed out that the disclaimers were in respect of registration in classes that were other than broadcasting and therefore were not mentioned in the plaint. Such disclaimers would have no effect on the relief claimed in the suit and non-disclosure was not of a material fact nor was there concealment with suppression.",
+                        "reference": "61."
+                    },
+                    {
+                        "page": 23,
+                        "paragraph_number": 61,
+                        "content": "As regards broadcasting, the plaintiffs had never issued any disclaimer and that alone would be relevant for a decision in the present  case. Reliance has been placed on the decision in Cadbury UK Ltd. (supra) and Parakh Vanijya Pvt. Ltd. Vs Baroma Agro Product 2018 (16) SCC 632, to submit that even if some disclaimer had been made, the disclaimer being not of the same class would not deprive the plaintiffs of the protection against infringement and passing off for which the present suit has been filed (see : KEI Industries Ltd. Vs Raman Kwatra 2022 SCC OnLine Del 1459, Telecare Network India Pvt. Ltd. Vs Asus Technology Pvt. Ltd. 2019 SCC Online Del 8739).",
+                        "reference": "62."
+                    },
+                    {
+                        "page": 24,
+                        "paragraph_number": 62,
+                        "content": "Thus, it was submitted that the plaintiffs were entitled to injunction against the defendants, as they had created the word “STAR” and even if it was a common word, it had been arbitrarily used and was thus to be protected. The defendants had never come to India till 2017 and when it did in the shape of DSPORTS, it had agreed to not use the Single Star and had commenced to use the Globe and whereas the plaintiffs had been in India since 1991 and had developed a huge viewership based in India and that plaintiffs were entitled to temporary protection against the defendants. Thus, it was prayed that the injunction be issued.",
+                        "reference": "63."
+                    },
+                    {
+                        "page": 24,
+                        "paragraph_number": 63,
+                        "content": "The first contention raised by the learned senior counsel for the defendants was that this was a case of forum shopping since the IPAB had declined to grant interim relief to the plaintiffs, but that argument would presume that the powers exercised by the IPAB, and the civil court are the same and approaching one would oust the jurisdiction of the other. The decision of the Full Bench of the IPAB in Shreedhar Milk Food Pvt. Ltd  v.  Vikas Tyagi 2013 SCC OnLine IPAB 109 only affirms that the powers existed in the IPAB to grant interim stay under Section 95 of the T.M. Act, particularly where the registration had been obtained by fraud. The issue considered in that case was whether the IPAB had powers to grant interim orders pending final disposal of the application for rectification. Depending on the facts of each case, it was held that the IPAB had such powers. In fact, it is to be noted that certain guidelines for exercise of that discretion were prescribed in that case. Nowhere in the judgment has it been held that the exercise of such powers by the IPAB would result in the extinguishment of the right to file a suit for infringement. Had it been that the exercise of those powers would preclude the civil court from exercising similar powers including in a suit filed after the initiation of rectification proceedings, there would have been no need for Section 124 of the T.M. Act.",
+                        "reference": "64."
+                    },
+                    {
+                        "page": 25,
+                        "paragraph_number": 64,
+                        "content": "Section 57 of the T.M. Act provides that whenever the validity of the registration of the trademark is questioned, proceedings for rectification of registration can be filed. These could be filed before the filing of a suit or even thereafter. Where a suit is filed without a rectification application pending, and a dispute is raised regarding the validity of the registration, the court is to frame the issue in order to enable the party concerned to apply to the Appellate Board (now IP Division of the High Court) for rectification of the Register. The suit will be then stayed. Where such rectification application is pending, then the civil court will stay the suit, without the need to frame an issue.",
+                        "reference": "65."
+                    },
+                    {
+                        "page": 25,
+                        "paragraph_number": 65,
+                        "content": "Had the suit been not maintainable at all, the provisions would have been couched differently to convey in precise terms that a suit itself could  not be filed or entertained when rectification proceedings are pending or that the suit proceedings would end once the issue is referred to the IPAB for rectification of the register. More significantly, Section 124(5) of the T.M. Act allows the civil court to pass interlocutory orders before staying the suit for infringement of a trademark pending rectification of the register. It is trite that an interpretation that gives primacy to the legislative intent is to be preferred over one that would render the provisions otiose.",
+                        "reference": "66."
+                    },
+                    {
+                        "page": 26,
+                        "paragraph_number": 66,
+                        "content": "Turning to the facts of the present case, the records do reveal that the plaintiff had sought interim relief and the IPAB had passed the following order on 7th August 2020:  “The respondent No.1 has filed the application of trademark which contain the device of Star. Without making any comments at this stage, we direct that till the next date, the respondent no.1 shall not claim any exclusive right to the device of Star in any manner and shall also not transfer the registration with the device of Star.”  A clarificatory order was passed on 17th December, 2020 as under :  “3. After small hearing, we may clarify that IPAB has not stayed the operation of the registration by virtue of the interim orders passed by IPAB on 07/08/2020. However by the said orders IPAB has directed that the Respondent shall not claim any exclusive right to the device of Star and shall also not transfer the registration with the device of Star.”",
+                        "reference": "67."
+                    },
+                    {
+                        "page": 26,
+                        "paragraph_number": 67,
+                        "content": "It is clear that the orders were only intended to be till the next date of hearing. They do not refer to a separate prayer for interim injunction as is available before a civil court under Order XXXIX Rules 1 & 2 CPC. It appears clearly that merits had not been considered by the IPAB when it  passed the said orders. Therefore, this Court would not be precluded from considering the question of grant of interim relief under Order XXXIX Rules 1 & 2 CPC.",
+                        "reference": "68."
+                    },
+                    {
+                        "page": 27,
+                        "paragraph_number": 68,
+                        "content": "Thus, if proceedings before the IPAB for rectification is pending, the filing of the suit cannot tantamount to forum shopping even if the IPAB had declined to exercise its discretion to grant interim relief following the guidelines provided in M/s Sridhar Milk Food Products Ltd. (supra). It is also moot that a civil suit would not only be filed against trademark infringement but also for the use of the mark to pass off goods/services. An order of injunction may be necessitated if passing off is made out. There is, thus, no doubt that the powers of the civil court are wider than the powers of the IPAB in issuing interim/interlocutory orders. If a party has approached the IPAB for interim relief and the same has been declined, it would no doubt be a relevant fact that could be kept in mind by the civil court while determining the question of grant of interim injunction by it, provided the interim injunction was declined for reasons given. In the light of the discussion herein-above, this Court concludes that the present application under consideration will have to be considered on merits and the plea taken of forum shopping is rejected.",
+                        "reference": "69."
+                    },
+                    {
+                        "page": 27,
+                        "paragraph_number": 69,
+                        "content": "Since the IPAB has been abolished and rectification matters have now to be considered by the Commercial Division/IP Division of the High Court, the exercise of powers by the High Court Commercial Division/IP Division under Section 95 of the T.M Act and the powers to be exercised by a Civil Court/Commercial Court under Section 124 of the T.M. Act may require a more detailed consideration. That aspect is left open as it is not required in the present case where the interim order has been passed by  the IPAB.",
+                        "reference": "70."
+                    },
+                    {
+                        "page": 28,
+                        "paragraph_number": 70,
+                        "content": "It is trite that the grant of interim injunction would depend on the existence of a prima-facie case, the balance of convenience being in favour of the plaintiffs and the irreparable loss and injury that a party to the suit could suffer in the event the interim relief was or was not granted. The three conditions have to be simultaneously satisfied. It would not be enough were the plaintiff to establish the existence of a prima-facie case where irreparable loss and injury is not suffered or the balance of convenience tilts in the favour of the defendant. It is quite possible for the court to refuse the interim relief. The facts of the present case would therefore, be required to be assessed in this backdrop.",
+                        "reference": "71."
+                    },
+                    {
+                        "page": 28,
+                        "paragraph_number": 71,
+                        "content": "The admitted position is that the two trademarks are registered trademarks. While the mere fact that the two marks are registered would not be the clinching factor in dealing with injunction against passing off, as regards trademark infringement, Section 30 provides for use of a registered trademark by another in certain circumstances viz. to identify goods and services as those of the proprietor provided such use is in accordance with honest practices and is not such as to take unfair advantage or being detrimental to the distinctive character or repute of the trademark. Section 31 declares registration to be prima-facie evidence of its validity. Section 28 vests rights of exclusive use of a trademark to the register proprietor provided the registration is valid.",
+                        "reference": "72."
+                    },
+                    {
+                        "page": 28,
+                        "paragraph_number": 72,
+                        "content": "Admittedly, the registration of the defendants‟ marks is under challenge and a rectification application is pending. This Court in HTC Corpn v. LV Degao 2022 SCC OnLine Del 953 has held that where there  are two registered trademarks, while both proprietors could use their respective trademarks exclusively against third party, but not against each other, but the registration of the later Trade Mark may be refused or cancelled: (i) when deception or confusion results, (ii) there is dishonest user, (iii) subsequent use is without due cause, (iv) there is bad faith, or (v) dilution of the distinctiveness of a prior registered Trade Mark may occur. Therefore, these factors would be relevant to decide whether the subsequent user/registered proprietor should be restrained from using its Trade Mark, even if it was registered.",
+                        "reference": "73."
+                    },
+                    {
+                        "page": 29,
+                        "paragraph_number": 73,
+                        "content": "The plaintiffs have claimed prior use of the Single Star logo and the word STAR. Star India Pvt. Ltd. had commenced its broadcasting in India way-back in 1991 and launched its first television channel Star TV in India in the year 1992. The defendants claim that they had adopted a star logo in 1989 when it had come into being and when EUROSPORT had commenced its business of broadcasting in sports. The question of territoriality, as considered in Toyota Jidosha Kabushiki Kaisha (supra) would be relevant while determining the conflicting rights claimed by both sides. Both, prior use and territoriality are factors that would be crucial in the action for passing off. Deception and confusion would determine equities being in whose favour, not only in a passing off action, but also in action against trademark infringement. So also would be the question of dilution of the distinctiveness of the registered trademark. But bad faith and a dishonest adoption of a registered trademark would justify an injunction to restrain a proprietor of a registered trademark from using it. If the plaintiffs were to establish a prior entry into India and a prior user of the registered trademark of the word „STAR‟ and the Single Star Device in  India and it appears that the defendants, though may be in use of a Ring of Stars or a Single Star Device in European countries, had come much later, the plaintiffs would still be entitled for an injunction for it is the reputation of each one in India that would matter, being competitors in the same field of broadcasting of sports events. Both would be vying for the same space and viewership. Use of similar trademarks could lead to the possibility or likelihood of confusion. The presence or absence of the defendants in the same market where the plaintiffs were operating their channels would also determine the entitlement to an injunction.",
+                        "reference": "74."
+                    },
+                    {
+                        "page": 30,
+                        "paragraph_number": 74,
+                        "content": "Therefore, even if EUROSPORT had commenced business in 1989 in Europe, it would also be relevant to determine as to when they had entered the Indian market. It is apparent from the record that they seem to have done so only in 2017. The various documents filed by the plaintiffs would indicate that since 1992 till 2017, the company Star India Pvt. Ltd. and Star TV Production Ltd. had expanded their broadcasting activities by introducing several channels which included entertainment and sports. The name of these channels included the word „Star‟ as also a Single Star logo placed in a particular manner and its variations in color and shading. The reputation that these channels and the popularity of these channels with the viewing public has resulted in the Single Star logo being identified with the plaintiffs as the originator of the content on these channels and the provider of entertainment and sports programs on television in India.",
+                        "reference": "75."
+                    },
+                    {
+                        "page": 30,
+                        "paragraph_number": 75,
+                        "content": "It is to be noted further that the Star logo that was adopted by the defendants was a Ring of Stars. That Ring of Stars is distinctive when compared to the Single Star logo of the plaintiffs. Had the defendants introduced that logo in India when it entered the Indian sports broadcasting  arena, it is clear that there would have been no similarity in the two marks. But the comparison is between the Single Star used in EUROSPORT and the Single Star Device used by the plaintiffs, and whether such use by EUROSPORT adversely impacts the rights of the plaintiffs. No doubt when two marks are to be compared, there cannot be a surgical separation of the word and it would be an overall impression of the mark that would be considered. The argument was therefore that EUROSPORT was not at all similar and obviously not identical to Star Sports. That may be so, but when the Single Star Device is used by EUROSPORT, in the light of the fact that the plaintiffs had several channels, the possibility of confusion cannot be ignored. The distinctiveness of the mark of the plaintiffs would be affected adversely by multiple usages by others.",
+                        "reference": "76."
+                    },
+                    {
+                        "page": 31,
+                        "paragraph_number": 76,
+                        "content": "It is no doubt true that „Star‟ is a celestial object but it would be incorrect to accept the contention of the learned senior counsel for the defendants that the adoption of the word „STAR‟ and the use of the „Star‟ device would therefore be commonly available and the plaintiffs could claim no monopoly over the name “Star” or the common shape of a star. The plaintiffs can claim exclusivity in their own specific representation of the star, as has been held in Skyline Education Institute (India) Pvt. Ltd. Vs. SL Vaswan (2010) 2 SCC 142, Surya Agro Oils Ltd (supra) and Mercy Bigi (supra). A word that is descriptive and in common use for a particular object, by its use should immediately bring to the mind that object alone. A star to a common person would not connect to an entertainment and sports broadcasting channel. The use of a completely unconnected word and device to represent the broadcasting channels of the plaintiffs is a creative usage of the common word which requires to be  protected. It is the plaintiffs‟ case that they had coined the word „STAR‟ as an acronym for Satellite Television in Asia Region. The device was created depicting a „Star‟ in a stylized manner. The defendants have no explanation for choosing the Single Star logo, though they have one for the Ring of Stars, that is to reflect the European Union. Thus, the plaintiffs have a right to protect the use of a common word in a novel manner.",
+                        "reference": "77."
+                    },
+                    {
+                        "page": 32,
+                        "paragraph_number": 77,
+                        "content": "The contention that the plaintiffs have themselves acknowledged the common nature of the word „Star‟ and the device by issuing disclaimers must be also seen in the backdrop of the products for which such disclaimers have been issued. The extracts of the disclaimers which have been filed by the defendants, as having been made by the plaintiffs themselves, are in respect of products and goods and are to the effect that registration of their marks shall give no right to the “exclusive use of the device of “STAR” except as represented”. There does not appear to be any disclaimer in classes 9/38/41 i.e. broadcasting. Also they reserve the plaintiffs‟ right to use the particular representation. That the plaintiffs did not file these disclaimers alongwith the plaint, will not be a suppression of material facts as such disclaimers do not have any relevance to the matter at hand. In contrast, the claim of the defendants that they had been using the Single Star even if it was to be accepted, was only in an extremely limited manner, in respect of Sports news on a webpage. It was not consistently used while telecasting the sports events on television. It was only in 2015 that EUROSPORT after being taken over by DISCOVERY i.e. defendants No.2 & 3 that they adopted the Single Star logo placed in a distinctive manner within the alphabet „E‟.",
+                        "reference": "78."
+                    },
+                    {
+                        "page": 32,
+                        "paragraph_number": 78,
+                        "content": "The co-existence of both the trademarks in various jurisdictions  would not act as an estoppel against the plaintiffs from seeking to protect their trademarks in India. If the impact on the business in other jurisdiction was negligible, the plaintiffs would be justified in taking a call as to initiate legal action or to ignore the use.",
+                        "reference": "79."
+                    },
+                    {
+                        "page": 33,
+                        "paragraph_number": 79,
+                        "content": "The scale of operation of the plaintiffs in India being huge as reflected in their annual reports, where millions of households watch the channels of the plaintiffs including their sports channel, the use of a Single Star logo by the defendants would prima-facie be on account of that popularity and reputation that the plaintiffs had built in India. That the EUROSPORT was itself not a very popular channel in Europe is also evident from their own public statement made by Peter Huton on 2nd December 2015 (placed at page Nos.651-654 of the Defendant‟s documents) that the channel had not been doing well as having focused on recorded events and that a complete overhaul was being done by DISCOVERY to rebrand itself as also to add more premium events in the broadcast. This admission in 2015 though relevant for EUROSPORT would also concededly establish that they had no presence in India up to 2015 when they came in with DSPORT. By that time the plaintiffs were well entrenched in the sports and entertainment arena of the electronic media under the trademark „STAR‟ and the distinctive Star logo.",
+                        "reference": "80."
+                    },
+                    {
+                        "page": 33,
+                        "paragraph_number": 80,
+                        "content": "That the adoption of the Single Star by the defendants did not reflect honest practice is evident from the chain of events that had taken place between the parties. In 2017, the defendants had entered into the sports broadcasting arena in India under the name DSPORT after DISCOVERY had taken over EUROSPORT. They adopted a Single Star Device embedding it in the alphabet „D‟. Immediately, the plaintiffs protested by  issuing a legal notice dated 30th March, 2017. The matter was resolved by the parties entering into a Settlement dated 26th February, 2018 which was also amended on 22nd October, 2018. This Agreement is an important document and its contents worth noting in detail. Reference in the Agreement has been made to EUROSPORT network of television channels in para (ii) recording it having offered premium sports content in several markets for nearly 30 years and enjoying a cumulative viewership of 231 million viewers across 54 countries. Reference was also made to the fact that there were several EUROSPORT formative trademarks.",
+                        "reference": "81."
+                    },
+                    {
+                        "page": 34,
+                        "paragraph_number": 81,
+                        "content": "With regard to the plaintiffs‟ trademarks, it is stated in the Agreement that it had launched the earliest of the Star Channels in the year 1992 and was at the time of the Agreement, broadcasting more than 50 channels in 8 different languages reaching approximately 726 million viewers a month across India and more than 100 other countries. Specifically it was noted that the plaintiffs had a network of 12 sports channels in India, broadcasting premium sports events, apart from several other channels. The word „Star‟ in a particular representation with various star formative trademarks was recorded as being used by the plaintiffs.",
+                        "reference": "82."
+                    },
+                    {
+                        "page": 34,
+                        "paragraph_number": 82,
+                        "content": "After each one proclaimed their respective status and reputation, the parties, vide the Settlement resolved the trademark conflict which had arisen in India on account of DSPORT adopting a Single Star and the plaintiffs opposing the same. As a means of resolving the trademark dispute, the present defendants No.2 & 3 agreed to alter the “DSPORT” logo with the star marks, by removing the Star Device “entirely” and replacing it with a device of a sphere/globe  . Since the defendants had sought to register the DSPORT with a Star and the same was pending, the defendants had agreed to withdraw the same. However, DSPORT with Globe stood registered on 15th April, 2015. It is worthy of note at this juncture that the defendants have subsequently, also instituted suits against entities which used the Device of a Globe in their mark, thus asserting exclusive rights to their registered trademark of DSPORT with a Globe.",
+                        "reference": "83."
+                    },
+                    {
+                        "page": 35,
+                        "paragraph_number": 83,
+                        "content": "It is clear from the Settlement that both sides acknowledged the reputation of one another and in a spirit of resolution, the defendants had agreed to not use the Single Star mark in India in respect of sports broadcasting. Clause 1 of the Settlement Agreement dated 26th February, 2018 reads as under :  “1. Discovery agrees to alter the DSPORT & Star Marks by removing the star device entirely and replacing it with the device of a sphere/globe. Consequently, the DSPORT-formative trademarks may be represented as  („DSPORT & Globe Logo‟), among other possible iterations and without any limitation as to colour. For clarity, it is agreed and understood that  DSPORT & Globe Logo, including any future iterations of the same shall not use / incorporate the word STAR and/or a representation of star in any form whatsoever.”  (emphasis added)",
+                        "reference": "84."
+                    },
+                    {
+                        "page": 36,
+                        "paragraph_number": 84,
+                        "content": "Despite the above assurance, the defendants have introduced EUROSPORT with the star mark. It is not possible for them to say that the undertaking is not applicable to EUROSPORT because that was in connection to “DSPORT”. The defendants had themselves referred to its EUROSPORT marks in clause 6 and had agreed not to use a „Star‟ in India. An argument had been advanced that the plaintiffs had agreed not to raise any objection to the use of the EUROSPORT marks. However, as rightly pointed out by the learned senior counsel for the plaintiffs, that was subject to the EUROSPORT mark not being identical with or deceptively similar to the Star mark of the plaintiffs in India. The defendants, by going against the terms of the Agreement which had once and for all settled the trademark disputes between them, have chosen to rake it up again. The adoption of the Single Star by no stretch can be considered to be a bonafide adoption.",
+                        "reference": "85."
+                    },
+                    {
+                        "page": 36,
+                        "paragraph_number": 85,
+                        "content": "The facts unequivocally establish that the plaintiffs have disclosed a prima-facie case in their favour. The continued dishonest use of the Single Star by the defendants would cause irreparable loss and injury to the plaintiffs particularly, by diluting the unique use of the word „STAR‟ which is a created word and the „Star‟ logo, by common usage.",
+                        "reference": "86."
+                    },
+                    {
+                        "page": 36,
+                        "paragraph_number": 86,
+                        "content": "The balance of convenience lies in favour of the plaintiff as they have built up a strong reputation in India over a long period of time, whereas the defendants have just entered the market in 2017 as  EUROSPORT. The defendants had in fact run their sports channel as DSPORT with the Globe logo for about 18 months and had protected it, before they had adopted the Single Star EUROSPORT name and device.",
+                        "reference": "87."
+                    },
+                    {
+                        "page": 37,
+                        "paragraph_number": 87,
+                        "content": "There is not a shred of evidence to support the claim of the defendants that the plaintiffs had acquiesced to the use of the Single Star logo by the defendants in India. They have acted promptly both when the DSPORT channel was introduced in India with a star which led to the Settlement dated 26th February, 2018 and when the Star logo was changed into a Globe. They have acted promptly when EUROSPORT with a Single Star logo was introduced by the defendants in February, 2020. The desist notices were sent to the defendants on 14th February, 2020 objecting to the use of the Single Star logo and the suit was filed on 2nd September, 2020.",
+                        "reference": "88."
+                    },
+                    {
+                        "page": 37,
+                        "paragraph_number": 88,
+                        "content": "The plaintiffs are thus entitled to interim injunction as prayed for. Accordingly, the application is allowed and the defendants are restrained  from using the impugned marks ,  which is identical or deceptively similar to the Plaintiff No. 1‟s registered  STAR Marks including the STAR Device , thereby amounting to infringement of trademark as also passing off till the disposal of the suit.",
+                        "reference": "89."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "SC 636/2021",
+            "title": "LOUIS VUITTON MALLETIER VS JAVED KHAN & ORS.",
+            "date": "09/09/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/13-09-2022//PMS09092022SC6362021_173713.pdf&ID=716893066_1",
+            "document_path": "data\\judgments\\DHC Judgments\\716893066_1.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 2,
+                        "content": "The Plaintiff -Louis Vuitton Malletier is a French company, having its registered office at 2 Rues du Pont-Neuf, 75001 -Paris, France. Its history traces back to 1854 and the mark ‘LV’ has since become well known. The Plaintiff is engaged in the business of manufacturing, distributing and selling high quality and high value luggage, handbags, wallets, footwear and fashion accessories for both women and men. It is a part of the Louis Vuitton Moet Hennessy (LVMH) group that owns over 75 prestigious brands with a retail network of over 5,000 stores worldwide and revenue of 44.7 Billion Euros as of 2020. In India, the Plaintiff’s registration of the LV Marks are as follows:",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 3,
+                        "content": "The Defendant No. 1-Javed Khan, is a wholesale supplier of footwear and menswear under the business name Jay Kay Sales. Defendant No. 2-Bilal Khan, is a listed entrepreneur on IndiaMart, who along with Defendant No. 1 runs the business and they operate out of two locations:  i.  59/164-B Shyam Nagar, VIP Road, Khoja Ki Sarai, Hing ki Mandi, Agra, U.P. -282001  ii.  Shop No. 8, Sarv Complex, Meera Hussaini Crossing, Hing ki Mandi, Mantola, Agra, U.P. -282003.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 4,
+                        "content": "Defendant No.3-Ashok Kumar, is an unknown person/identity based on the concept of John Doe who until October, 2021 was operating an online  www.olvikart.com  e-commerce portal with website and social media handles like instagram that direct you to the said website, where it was offering for sale products such as footwear, wrist watches and other accessories bearing the logo as counterfeits.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 5,
+                        "content": "The Plaintiff has filed the present suit seeking the reliefs of permanent & mandatory injunction, rendition of accounts/damages, delivery up and other appropriate reliefs against the Defendants who are selling footwear bearing the ‘LV Logo’ as well as using the ‘LV Logo’ under the name ‘Lee Vanz’ in the form of buckles on their footwear. The case of the Plaintiff is that ‘LOUIS VUITTON’ marks along with its distinctive floral pattern and logos are exclusive to the Plaintiff. However, the manner of use by the Defendants is set out below:",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 6,
+                        "content": "Vide order dated 09thDecember, 2021, an ex parte order of injunction was granted by the Predecessor Bench in the following terms:  “21. Accordingly, till further orders, the defendants and all those acting on their behalf from counterfeiting, manufacturing, using advertising, marketing, selling and/or offering for sale, distributing or directly or indirectly dealing in, in any manner bearing the registered trademarks \"LOUIS VUITTON\", \"LV\" logo, Toile monogram pattern or any similar trademark amounting to an infringement of plaintiffs registered trademarks, as also passing off of their goods as emanating from the plaintiff.”",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 7,
+                        "content": "Local Commissioners were also appointed in the matter, who had visited the premises of the Defendant Nos. 1 & 2 in Agra and seized the goods bearing the ‘LV Logo’. The total seizure effected was to the tune of 343 pairs from the two premises of the Defendants, set out in the memo of the parties.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 8,
+                        "content": "Defendant Nos.1 & 2, thereafter, have appeared before this Court and have agreed to bring a closure to the dispute with the Plaintiff. Today, the Defendants, namely, Mr. Bilal Khan and Mr. Javed Khan, who are present in the Court along with their ld. counsel, have made a statement before the Court that they are willing to pay a total sum of Rs.1,00,000/-towards litigation costs to the Plaintiff in instalments and that they further undertake not to use the ‘LV Logo’ or any other marks of the Plaintiff. The Plaintiff in return has no objection, if the defendant uses the mark ‘Lee Vanz’ so long as its abbreviated version ‘LV’ of the `LV logo’ is not used.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 10,
+                        "content": "Insofar as the seized goods are concerned, the Defendants have agreed to produce the same before the ld. counsel for the Plaintiff on 15th September, 2022 so that the ‘LV buckles’ can be removed from the same and the footwear can be returned to the Defendants to be dealt with individually.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 11,
+                        "content": "The amount of Rs.1,00,000/-shall be paid in five equal instalments of Rs.20,000/-per month in the following manner:  i.  The first instalment of Rs.20,000/-shall be paid on 15th September, 2022;  ii.  The second instalment of Rs.20,000/-shall be paid on 15th October, 2022;  iii.  The third instalment of Rs.20,000/-shall be paid on 15th November, 2022;  iv.  The fourth instalment of Rs.20,000/-shall be paid on 15th December, 2022;  v.  The fifth and final instalment of Rs.20,000/-shall be paid on 15th January, 2023.",
+                        "reference": "11."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "FAI 25/2021",
+            "title": "INTEX ENTERPRISES PRIVATE LIMITED VS SANDEEP KUMAR",
+            "date": "31/08/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/JIS/judgement/14-09-2022//JIS31082022FAI252021_190729.pdf&ID=716893066_6",
+            "document_path": "data\\judgments\\DHC Judgments\\716893066_6.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 1,
+                        "content": "Present appeal assails an order dated 15.03.2016 passed by learned Trial Court in suit being TM No. 11/2016, whereby applications under Order 39 Rules 1 and 2 CPC filed by the Appellants and under Order 39 Rule 4 CPC filed by the Respondent respectively, have been disposed of, partly allowing the application under Order 39 Rule 4 CPC qua the product footwears, while continuing the injunction order for use of the trademark ‘VINTEX’ for electronic items.",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 1,
+                        "paragraph_number": 3,
+                        "content": "Appellants claim to have adopted the trademark/trade name/trading style INTEX in the year 1996 and have been using the same continuously for their goods ever since, along with its various stylised/artistic formats/labels. The trademark was originally conceived and adopted in respect of consumer  electronic products, IT peripheral products and accessories, mobile phones, computers, laptops, batteries, etc. and has neither any obvious meaning nor found in any dictionary of English language.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 4,
+                        "content": "It is averred in the appeal that Appellants are registered proprietors of trademark INTEX and its formatives across several Classes, which are valid and subsisting. The artwork involved in the labels and the stylised formatives of the trademark INTEX are original ‘artistic works’ and the copyright thereof vests in the Appellants. Appellants are the owners and proprietors of the copyright which is registered under No. A-112771 of 2014.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 5,
+                        "content": "It is stated that Appellants have immense reputation and goodwill in the registered trademark and have expended substantial amount of money on its advertisement. There is a huge network of dealers and distributors and Appellants have a pan-India presence. The reputation attached to the trademark is evident from the sales figures as well as the advertisement expenses placed on record.  trademark/label VINTEX/ and is engaged in manufacturing, selling 6. Respondent, on the other hand, it is averred, has adopted the and marketing footwear, rubber and PVC sheets, asbestos, mica, gum and goods made from these materials, etc. In February, 2016, Appellants learnt of the business activities of the Respondent and found that it had filed applications for registration in respect of VINTEX trademark/label in Classes 17, 25 and 35.",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 6,
+                        "content": "On the ground that the impugned trademark was identical/deceptively similar to the Appellants’ trademark, phonetically, structurally and in its basic idea and was likely to cause confusion amongst the purchasers, Appellants  filed a suit alleging infringement of trademark and copyright, passing off, etc. and seeking permanent injunction against the Respondent.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 7,
+                        "content": "As the chronology goes, vide order dated 10.02.2016, the Trial Court granted ex-parte ad interim injunction in favour of the Appellants, restraining the Respondent from using the trademark VINTEX in relation to the impugned goods and other allied/related products and also appointed a Local Commissioner. Respondent thereafter filed an application under Order 39 Rule 4 CPC and sought vacation of the ex-parte injunction order. Vide the impugned order, both the applications have been disposed of vacating the ex-parte injunction order, partially.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 8,
+                        "content": "Learned counsel appearing on behalf of the Appellants contends that the Appellants have filed a composite suit, wherein decree of permanent injunction is sought premised on infringement of trademark and copyright as well as passing off, amongst other reliefs. A bare perusal of the impugned order would show that the Trial Court has not even dealt with the issue of infringement of copyright and passing off as well as infringement of trademark under Section 29(4) of Trade Marks Act, 1999. It is urged that paras 9 and 39 (c) of the plaint reflect the averments with respect to copyright infringement while para 39 (b) and (c) contains averments with respect to passing off. In fact, in para 4 of the impugned order, the Trial Court has noted the argument with respect to the claim of the Appellants in the original ‘artistic work’ and in para 7, it is stated that the Appellants in the suit seek permanent injunction premised on passing off and infringement under Section 51 of the Copyright Act, 1957. Despite this, the Trial Court has not even dealt with and addressed the two vital issues, which would have had a significant  bearing on continuation or vacation of the ex-parte ad interim injunction order.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 9,
+                        "content": "It is further urged that the entire decision impugned herein is founded on two reasonings: (a) some of the products of the Respondent come under Class 25 while the Appellants are dealing with electronic items under Class 9; and (b) the registered trademark of the Appellants INTEX is not distinctive in nature as there are other persons also registered with the same name and in the same class for similar products. Predicating its decision on these two factors, vide the impugned order, the Trial Court erroneously vacated the interim injunction qua the Respondent’s product ‘footwear’ under the impugned trademark VINTEX. The argument is that both the grounds on which the impugned order is based, are untenable in law.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 10,
+                        "content": "It is argued that learned Trial Court failed to appreciate that under Section 29(4) of the Trade Marks Act, 1999 (hereinafter referred to as the ‘Act’), a registered trademark is infringed by a person who, not being a registered proprietor or a person using by way of permitted use, uses in the course of trade a mark which is identical with or similar to the registered trademark and is used in relation to goods or services which are not similar to those for which the trademark is registered, with a caveat that the registered trademark has a reputation in India and the use of the mark is without due cause and to take unfair advantage of or is detrimental to the distinctive character or repute of the registered trademark. Therefore, an infringement action would lie even when the goods are dissimilar as clearly contemplated in Section 29(4) of the Act. Appellants had raised a plea under Section 29(4) of the Act and argued that the Respondent can be injuncted even in respect of totally different goods as the Appellants have huge reputation and goodwill  in their trademark for which necessary details were furnished in the plaint. The argument is noted by the Trial Court in para 10 of the impugned order and yet in the entire order, there is no discussion on the said issues. Had the Trial Court considered their argument, the finding that it ultimately returned based on dissimilarity of goods, would have been otherwise.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 11,
+                        "content": "Insofar as the second ground is concerned, the contention is that Respondent was not able to produce any material to establish that third parties used or were using the mark INTEX prior to the claim of the Appellants and moreover it is a settled law that it is upon a Plaintiff to choose whom to sue or not to sue and thus, the impugned order suffers from an error apparent.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 12,
+                        "content": "Last but not the least, it is argued that reliance by the Trial Court on the judgment of this Court in Canon Kabushiki Kaisha v. B. Mahajan & Others,  2007  SCC OnLine Del 963, is misplaced. In the said case, based on material on record which included the search results, it was evident that the mark ‘CANON’ was adopted by several entities other than the Plaintiff and even prior to the registration of the Plaintiff. Another factor that weighed with the Court to come to a conclusion against the Plaintiff therein was that the Defendants therein had been using the mark for the past many years and had been participating in various exhibitions and openly using CANON as a part of their trading name and style as also the fact that despite registration of the mark CANON in respect of goods in Class 6, Plaintiff it had not used the said mark on any goods falling in the said Class. It is also urged that the Appellants had made out a case that the competing marks were phonetically, visually and structurally similar and the Respondent had copied the mark in toto except for a prefix ‘V’ and this was a clear case of dishonest adoption and injunction ought to have continued.",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 13,
+                        "content": "Per contra, learned counsel for the Respondent seeks to defend the impugned order and submits that the rival marks are not deceptively similar and are being used for different goods in different classes and, therefore, there is no illegality in the impugned order. Since the impugned goods are dissimilar, the Trial Court rightly placed reliance on the judgment of this Court in Canon Kabushiki Kaisha (supra). Respondent had specifically raised a plea in the application filed under Order 39 Rule 4 CPC that there were third parties which were using the mark INTEX and, therefore, the mark of the Appellants was not distinctive calling for an injunction against the Respondent, as rightly concluded by the Trial Court.",
+                        "reference": "14."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 14,
+                        "content": "I have heard the learned counsels for the parties and examined the impugned order. Before proceeding further, I may only extract relevant and operative part of the impugned order dated 15.03.2016, which is as follows:- “14. The judgments so cited by plaintiff are not applicable to the given facts as the same are passed on distinguish facts. Even otherwise in all the judgments so cited by the plaintiff either the name was deceptively similar or the product was similar. But in the present case the product of the defendant comes under Class-25 of the Trade Mark while the plaintiff is dealing with the electronic items which comes under Class-9 of the Trade Mark category. In the judgment titled as Canon Kabushiki Kaisha Vs. B. Mahajan & Ors. 2007 (35) PTC 265 (Del.), it has been held in para 39 which reads as under:",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 15,
+                        "content": "A large number of entities, the world over are apparently using Canon as a part of their trading style and trademark. The Canon Group claims to be world leading suppliers of polyurethane and plastic technologies. Then there is David Canon Construction in Kansas, USA. There is another entity ITT Industries, Canon, which Is an international suppliers of Connectors, inter Page 1759 connects. Cable Assemblies, Switches, etc. which is a part of a USA based 4.8 billions.  Globe Engineering and Manufacturing Company. Canon Foods is an entity in-Australia, engaged in the business of providing meals solutions. There is Canon International Constructing Inc in the United States of America and Canada, Canon Construction was founded in 1978 in USA. These are only few illustrative cases where Canon is adopted as a trading style around the globe. Thus the mark Canon is-not distinctive of the plaintiff's good alone, though with respect to the class of goods in fact dealt with by the plaintiff, it may be so.",
+                        "reference": "39."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 16,
+                        "content": "Accordingly from the aforesaid discussion, it is apparently clear that the Trade Mark INTEX of the plaintiff is not distinctive in nature, as other person also registered with the name INTEX even in the same class of products. The plaintiff has failed to satisfy this Court that their trade is distinctive in nature with other persons. Accordingly interim order is vacated qua the product of the defendant/VINTEX for dealing in the foot wears. Accordingly the application under Order 39 Rule 1 and 2 CPC and under Order 39 Rule 4 CPC are disposed off. Further, It Is made clear that defendant shall not be allowed to use the Trade Mark VINTEX for electronics items.”",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 17,
+                        "content": "Perusal of the plaint as well as the impugned order substantiates the contention of the Appellants that averments were made and arguments were addressed with respect to infringement of copyright, passing off and the rights flowing under Section 29(4) of the Act. Appellants are right in urging that the Trial Court has not even dealt with these issues and this, in my view, has caused prejudice to the Appellants inasmuch as the ex parte ad interim injunction granted initially in their favour stood partially vacated by the impugned order. It needs no reiteration that if a party raises a plea, the same is required to be considered by the Court as non-consideration of even a singular plea can lead to a different finding and conclusion, which is exactly what has happened in the present case.",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 18,
+                        "content": "Appellants had contended that the use of the impugned mark by the Respondent infringed their registered trademark, predicating the case on provisions of Section 29(4) of the Act. The Trial Court has rejected the claim of infringement set up by the Appellants, qua the footwears of the Respondent primarily on the ground that the goods are dissimilar and in different classes and has totally overlooked the plea under Section 29(4) of the Act. Had the Trial Court taken into consideration this argument of the Appellants, the claim of infringement qua the footwears may have sustained in favour of the Appellants. Trial Court has also completely overlooked the arguments made by the Appellants with respect to copyright infringement and passing off. It is a settled law that infringement is a statutory right while passing off is a common law right and while the former may fail, Plaintiff may succeed in proving the latter. Appellants had set out a case of passing off based on similarity of trademarks, reputation and goodwill etc. and ought to have been dealt with by the Trial Court. However, the order reflects that no finding has been returned qua the relief of passing off. The mandate of Section 27(2) of the Act is clear that relief of passing off is uninfluenced and independent of the other provisions of the Act. It is also settled that common field of activity is not conclusive for deciding a claim based on passing off, as the real question is whether as a result of misrepresentation there is a likelihood of confusion and deception amongst the public that the goods of the Defendant emanate from the Plaintiff, resulting in consequential injury to the Plaintiff and is based on the principle that no entity or person can be permitted to sell its goods as that of the other.",
+                        "reference": "17."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 19,
+                        "content": "There is also prima facie merit in the contention of the Appellants that the judgment in Canon Kabushiki Kaisha (supra), was distinguishable both  on facts and in law and was not merely based on a singular factor of dissimilarity of goods and more particularly, even in the said judgment, the Court had permitted the Defendants to use the impugned marks, subject to the condition that the mark or trading style or any part of it is not depicted in the same or deceptively similar artistic and stylized form in which the Plaintiff used its mark ‘CANON’.",
+                        "reference": "18."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 20,
+                        "content": "Looking holistically at the contentions raised by the Appellants and considering the fact that vital arguments made on behalf of the Appellants have not even been dealt with by the Trial Court, in my view, it would be appropriate to remand the matter back to the Trial Court for consideration of the ground, not considered earlier as encapsulated above. Accordingly, the impugned order dated 15.03.2016 is hereby set aside.",
+                        "reference": "19."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 22,
+                        "content": "Since the impugned order has been set aside and the ex parte ad interim injunction order dated 10.02.2016 would come into operation, the Trial Court is requested to decide the applications under Order 39 Rule 1 and 2 CPC and under Order 39 Rule 4 CPC, as expeditiously as possible.",
+                        "reference": "21."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "SC 557/2021",
+            "title": "APNATIME TECH PVT. LTD. AND ANR. VS TMP TECHNOLOGIES PVT. LTD. AND ANR.",
+            "date": "30/08/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/31-08-2022//PMS30082022SC5572021_154200.pdf&ID=716893066_8",
+            "document_path": "data\\judgments\\DHC Judgments\\716893066_8.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 2,
+                        "content": "The present suit has been filed seeking permanent injunction restraining passing off, rendition of accounts, damages, delivery up, and other reliefs. The Plaintiffs claim to be the owner and proprietor of the mark ‘APNA’ used in respect of a mobile and web-based portal, namely ‘APNA JOB SEARCH’ which is a networking platform that connects job seeking individuals with potential employers.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 1,
+                        "paragraph_number": 3,
+                        "content": "The case of the Plaintiffs is that the mark ‘APNA’ forms a key and essential feature of the corporate name of the Plaintiffs, as well as, the name of the Plaintiffs’ mobile application ‘APNA JOB SEARCH App’, as also, the primary business domain name being ‘www.apna.co’. The Plaintiffs case is that through its unique networking platform, the aim is to create better economic opportunities for the blue/grey workforce around the world by helping the job seekers to unlock unique networking and other related opportunities. The Plaintiffs also provide English language proficiency  services and online vocational training through the ‘APNA’ application and website. It is submitted that the Plaintiffs, apart from a very large candidate pool, also offer a superior technological solution and use artificial intelligence to ensure the highest level of accuracy in matches, making it easier for both the job seeker and the prospective employer. As per the Plaint, the Plaintiffs claim to have facilitated over four lakh professional conversations between job seekers and prospective employers.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 4,
+                        "content": "www.apna.co  The Plaintiffs adopted the mark ‘APNA’ as a corporate name/mark on 24th April, 2019 with the incorporation of Plaintiff No.2 in the United States, and thereafter, the incorporation of Plaintiff No.1 in India on 9th May, 2019. The Plaintiffs registered the domain and launched a website being for this purpose on 6th June, 2019. Thereafter, a mobile application under the trademark ‘APNA JOB SEARCH’ was launched on the Google Play Store on 26th July, 2019. The Plaintiffs’ mobile application is stated to be available in many vernacular languages. The Plaintiffs’ mobile application offers search services at the lowest cost in the industry and has assisted more than 1.2 million individuals to secure interviews with over 25,000 potential employers within a span of one year of its launch. The Plaintiffs’ business is also stated to be the first start-up to attain unicorn status in less than two years.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 5,
+                        "content": "By virtue of the continuous and uninterrupted use of the mark ‘APNA’, both as a standalone mark and in the form of prefix to other variant marks, as also, the promotional expenditure of the Plaintiffs, the mark of the Plaintiffs has attained immense goodwill and reputation. The Plaintiffs have also obtained various registrations in respect of the mark ‘APNA’ and the details of the same have been set out in the Plaint.",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 6,
+                        "content": "www.apnashareapp.com The grievance of the Plaintiffs is that, sometime in the month of September, 2021, the Plaintiffs came across the Defendants’ website being ‘’, as also, their mobile application being ‘APNA SHARE APP’. A perusal of the website and mobile application indicated the Defendant No.1 is providing an online learning platform where individuals can share and learn skills from experienced professionals which will further help them secure jobs or succeed at their present jobs. Thus, it is the case of the Plaintiffs that the Defendants are providing identical services under a mark which identical to that of the Plaintiffs. Hence, the Plaintiffs filed the present suit.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 7,
+                        "content": "Vide order dated 25th November, 2021, an ex parte ad-interim injunction was granted by the Court, in the following terms:  “14. On the strength of the aforenoted documents and those placed along with the plaint, the Plaintiffs have established a prima facie case in their favour. The balance of convenience also lies in favour of the Plaintiffs and in case, there is no intervention by the Court, irreparable harm will be caused to the Plaintiffs.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 8,
+                        "content": "In light of the same, till the next date of hearing:  a.  The Defendants, their partners, directors, principal officers, servants, representatives, agents and all others acting for and on its behalf are restrained from using the mark 'APNA', with or without the prefix ‘Share’, and/or any mark identical or deceptively similar mark to the Plaintiffs' trademarks, in a manner as may amount to 'passing off’ of the Defendants’ services and business as those of the Plaintiff;  b.  The Defendants are restraining from using and operating the domain name ‘www.apnashareapp.eom’.  c.  The Defendants are directed to take down their",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 9,
+                        "content": "Despite the injunction order dated 25th November, 2021, the Defendant have not entered appearance in the present suit. None appears for the Defendants even today.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 10,
+                        "content": "The Defendant No.1 has not filed its written statement, despite being served. Accordingly, as recorded in order dated 2nd August, 2022 passed by the Joint Registrar, the right to file the written statement already stands closed qua Defendant No.1. Service qua Defendant No.2 has also failed despite repeated attempts. The Defendants are, accordingly, proceeded against ex parte.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 11,
+                        "content": "Under these circumstances, following the ratio of the judgment in Disney Enterprises Inc. & Anr. v. Balraj Muttneja &Ors. [CS (OS) 3466/2012 decided on 20th February, 2014], no ex parte evidence would be required in this matter. The view in Disney (supra) has been reiterated by the Court in S. Oliver Bernd Freier GMBH & CO. KG v. Jaikara Apparels and Ors. [210 (2014) DLT 381], as also, in United Coffee House v. Raghav Kalra and Ors. [2013 (55) PTC 414 (Del)]. The relevant observations from the judgment in Disney Enterprises Inc. (supra), are as under:  “3. Though the defendants entered appearance through their counsel on 01.02.2013 but remained unrepresented thereafter and failed to file a written statement as well. The defendants were thus directed to be proceeded ex-parte vide order dated 04.10.2013and the plaintiffs permitted to file affidavits by way of ex-parte evidence.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 12,
+                        "content": "The plaintiffs, despite having been granted sufficient time and several opportunities, have failed to get their affidavits for leading ex-parte evidence on record.  However, it is not deemed expedient to further await the same and allow this matter to languish, for the reason that I have in Indian Performing Rights Society Ltd. Vs. Gauhati Town Club MANU/DE/0582/2013 held that where the defendant is ex parte and the material before the Court is sufficient to allow the claim of the plaintiff, the time of the Court should not be wasted in directing ex parte evidence to be recorded and which mostly is nothing buta repetition of the contents of the plaint.”",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 13,
+                        "content": "Ms. Menon, ld. Counsel for the Plaintiffs submits that the Defendants appear to have given up the mark ‘APNA SHARE’ which was injuncted by this Court, vide order dated 25th November, 2021. It is submitted that the Defendants are now using the mark ‘POLYQ’ and the domain name ‘https://polyq.live/’ for their website and other activities.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 14,
+                        "content": "Heard ld. Counsel for the Plaintiffs. This Court has perused the reasoning behind the grant of the interim injunction, vide order dated 25th November, 2021, wherein the ld. Single Judge has recorded the extent of goodwill and reputation, as also, the rights of the Plaintiffs, in the mark ‘APNA’, which is also used in various forms and variants, including ‘APNA’, ‘APNAJOBS’, ‘APNACHAT’, ‘APNACIRCLE’, and ‘APNAPROFILE’.  The word ‘APNA’ has been used and promoted on a large scale by the  Plaintiffs. As discussed above, the mark ‘APNA’ is the housemark of the Plaintiffs which, inter alia, provides vocational training and helps in job searches. The Plaintiffs’ business is quite extensive and the services of the Plaintiff are used by several well-established corporate entities, such as Amazon, Flipkart, Big Basket, Dunzo, Sodexo, Fortis, Mahindra, D-mart, and Future Group etc. The use of the mark ‘APNA SHARE’ would, therefore,  constitute passing off the Defendants’ business as that of the Plaintiffs’ business.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 15,
+                        "content": "In view of the above discussion, the present suit is liable to be decreed in terms of the reliefs as sought in paragraph 31 (a), (b) and (c) of the Plaint. Accordingly, the Defendants and all others acting for and on behalf of the Defendants shall stand permanently restrained from using the mark ‘APNA’, with or without any prefix or suffix, or any other mark identical or deceptively similar to the Plaintiffs’ trademarks, as set out in the Plaint, in any manner so as to pass off their services as that of the Plaintiffs.",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 16,
+                        "content": "www.apnashareapp.com www.apnashareapp.com www.apnashareapp.com The domain name of the Defendants being ‘’, registered in favour of the Defendant No.2-Openworks Solutions LLP, shall also be cancelled. For the said purpose, ld. Counsel for the Plaintiffs shall write to the concerned domain name registrar in respect of ‘’ for the cancellation of the said domain name. Upon receiving the said request, the concerned domain name registrar shall take down/ cancel the domain name ‘’ within 48 hours.",
+                        "reference": "14."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 18,
+                        "content": "It is noticed that the Defendants, in the present case, have not appeared even once since the passing of the interim order dated 25th November, 2021. In fact, it is seen that, vide order dated 9th November, 2021, court notice was issued to the Defendants before the passing of the injunction order dated 25th November, 2021 and despite service of the same, the Defendants have failed to appear. Moreover, the Defendants have also changed their trading name.  Hence, it is clear to this Court that the Defendants have deliberately adopted the mark ‘APNA SHARE’, and have thereafter, chosen to stay away from the proceedings. Accordingly, the present is a fit case for the grant of costs. Let litigation costs of Rs.3,00,000/-be paid by the Defendants to the Plaintiffs within four weeks, failing which, the Plaintiffs are at liberty to seek appropriate reliefs in accordance with law.",
+                        "reference": "16."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "SC 292/2019",
+            "title": "PHONEPE PRIVATE LIMITED VS EZY SERVICES & ANR.",
+            "date": "29/08/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/JIS/judgement/30-08-2022//JIS29082022SC2922019_193605.pdf&ID=716893066_9",
+            "document_path": "data\\judgments\\DHC Judgments\\716893066_9.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 1,
+                        "content": "I.A. 9897/2021 has been filed on behalf of the Defendants for filing additional documents under Order XI Rule 1(10) read with Section 151 CPC as amended by the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (hereinafter referred to as the ‘Act’).",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 1,
+                        "paragraph_number": 2,
+                        "content": "I.A. 9898/2021 has been filed on behalf of the Defendants seeking permission to file certain contracts mentioned in the List of Documents in I.A. 9897/2021, in a sealed cover as they contain information which is confidential and disclosure of which shall be detrimental to the business interests of the Defendants.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 3,
+                        "content": "Plaintiff has filed the present suit seeking a decree of permanent injunction restraining the Defendants and all others acting on their behalf from using ‘Pe’ or any deceptive variant of ‘PhonePe’, which is identical  and/or similar to Plaintiff’s trademarks PhonePe, , amounting to infringement as well as in respect of payment services or in any other manner, thereby amounting to passing off, along with other reliefs claiming damages etc.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 4,
+                        "content": "Summons in the suit were issued to the Defendants on 29.05.2019. Upon being served, Defendants filed their written statement on 01.07.2019. Replication was filed by the Plaintiff on 21.08.2019. Both parties have filed their affidavits of admission and denial of documents as well as joint schedule of documents. Admittedly, issues are yet to be framed in the suit.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 5,
+                        "content": "By the present application being I.A. 9897/2021, Defendants seek to place on record the following additional documents:",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 6,
+                        "content": "Certificate issued by the Finance Controller of Defendant No. 2 attesting to the number of transactions that have taken place on Defendant No. 2 mobile application.",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 7,
+                        "content": "Certificate issued by the Finance Controller of Defendant No. 2 attesting to the expenses of Defendant No. 2 on advertisements and business promotions.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 8,
+                        "content": "Certificate issued by the Finance Controller of Defendant No. 2 attesting to the annual turnover of Defendant No. 2.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 9,
+                        "content": "Certificate issued by the Finance Controller of Defendant No. 2 attesting to the capital and debt funds of Defendant No. 2.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 10,
+                        "content": "Certificate issued by the Finance Controller of Defendant No. 2 attesting to the number of merchants that have tied up with Defendant No. 2.",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 11,
+                        "content": "Certificate issued by the Finance Controller of Defendant No. 2 attesting to the number of Defendant No. 2’s mobile application downloads.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 12,
+                        "content": "Certificate issued by the Finance Controller of Defendant No. 2 attesting to the investment done by third parties on Defendant No. 2.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 13,
+                        "content": "Certificate issued by the Finance Controller of Defendant No. 2 attesting to the number of internet hits of Defendant No. 2’s website.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 14,
+                        "content": "Certificate issued by the Finance Controller of Defendant No. 2 attesting to the Valuation of Defendant No. 2.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 15,
+                        "content": "Screenshots of Defendant No. 2’s mobile application taken from Google Play Store and Apple Store.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 16,
+                        "content": "Sample terms and conditions on which Defendant No. 2 agrees to provide its services to merchants.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 17,
+                        "content": "Unsolicited media articles published for Defendant No. 2’s ‘BharatPe” trademarks.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 18,
+                        "content": "Documents showing awards received by Defendant No. 2 for its “BharatPe” trademarks.",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 19,
+                        "content": "www.bharatpe.com Extract taken from Defendant No. 2’s website .",
+                        "reference": "14."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 20,
+                        "content": "Printouts taken from various social media platform accounts maintained by Defendant No. 2.",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 26,
+                        "content": "Board Resolution issued by Defendant No. 2 in favour of Mr. Sumeet Singh.",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 27,
+                        "content": "Promotional and advertisement material issued by Defendant No. 2 for its trademarks.",
+                        "reference": "22."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 28,
+                        "content": "Television Advertisements of Defendant No. 2 promoting its “BharatPe” trademark.",
+                        "reference": "23."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 29,
+                        "content": "Contract entered into by Defendant No. 2 with Actor Salman Khan.",
+                        "reference": "24."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 30,
+                        "content": "Contract entered into by Defendant No. 2 with Indian cricketer Suresh Raina.",
+                        "reference": "25."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 31,
+                        "content": "Contract entered into by Defendant No. 2 with Indian cricketer Sanju Samson.",
+                        "reference": "26."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 32,
+                        "content": "Contract entered into by Defendant No. 2 with Indian cricketer Shubhman Gill.",
+                        "reference": "27."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 33,
+                        "content": "Contract entered into by Defendant No. 2 with Indian cricketer Yuzvendra Singh Chahal.",
+                        "reference": "28."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 34,
+                        "content": "Contract entered into by Defendant No. 2 with Indian cricketer Ravindra Jadeja.",
+                        "reference": "29."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 35,
+                        "content": "Contract entered into by Defendant No. 2 with Indian cricketer Prithvi Shaw.",
+                        "reference": "30."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 36,
+                        "content": "Contract entered into by Defendant No. 2 with Indian cricketer Shreyas Iyer",
+                        "reference": "31."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 37,
+                        "content": "Contract entered into by Defendant No. 2 with Indian cricketer Rohit Sharma.",
+                        "reference": "32."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 38,
+                        "content": "Contract entered into between Defendant No. 2 and ICC Business Corporation FZ LLC.",
+                        "reference": "33."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 39,
+                        "content": "Sponsorship Endorsement Contract entered into between Defendant No. 2 and Viacom 18 Media Private Limited for Big Boss Season 13.",
+                        "reference": "34."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 40,
+                        "content": "Contract entered into by Defendant No. 2 with GroupM Media India Private Limited.",
+                        "reference": "35."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 41,
+                        "content": "Contract entered into by Defendant No. 2 with National Payments Corporation of India.",
+                        "reference": "36."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 42,
+                        "content": "Commercial Terms under which Defendant No. 2 agrees to provide its services to its merchants.",
+                        "reference": "37."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 43,
+                        "content": "Case of the Defendants is that (a) most of the additional documents sought to be filed came into existence after filing of the written statement on 01.07.2019 and were thus not in Defendants’ power, possession, control or custody at the time of filing the written statement; (b) documents such as advertisements, promotion material and newspaper articles or print outs/ screenshots from the websites etc. were in the knowledge of the Plaintiff as these were in the public domain, besides the fact that Defendants did not gain anything by not filing these documents earlier; (c) Defendants have  filed several documents earlier which were voluminous and ran into 8 volumes (1888 pages) that include media articles and certificates attested by Defendants’ Company Secretary, evidencing the number of merchant tie ups, transactions, mobile app downloads etc. which Defendants had achieved till the date of filing the written statement and through some of the additional documents, Defendants intend to bring on record documents that attest to Defendants’ number of downloads, turnover, internet hits etc. post the filing of the written statement and till the filing of the present application; (d) every document sought to be placed on record has foundational relevance i.e. basis in the written statement and none has the effect of changing the character of the defence taken or is inconsistent with the pleadings and consequentially, do not even require amendment in the written statement; (e) issues are yet to be framed in the suit and, therefore, in order to determine if a document can be taken on record at this stage, only the pleadings have to be considered and so long as a document relates to the lis and subject matter of the suit and has foundation in pleadings, it can be taken on record, the Legislative intent being evident from the words ‘pertaining to the suit’ in sub-rule (7) of Rule 1 of Order XI CPC; (f) ‘pertaining to the suit’ means pertaining to the disputes between the parties and not ‘relevance’ from the perspective of the Evidence Act, which applies after issues are framed and in fact, even after issues are framed, grounds of admissibility and relevancy are merely recorded and taken up only at the stage of final arguments as held in K. Mallesh v. K. Narender and Others, (2016) 1 SCC 670 and Hemendra Rasiklal Ghia v. Subodh Mody, 2008 SCC OnLine Bom 1017; (g) it is not for the Court, at this stage, to go into the admissibility or evidentiary value or genuineness  of the documents in question as held by this Court in Nitin Gupta v.  Texmaco Infrastructure & Holding Limited, 2019 SCC OnLine Del 8367; (h) sub-rule (10) of Rule 1 of Order XI CPC provides that Defendant shall not be allowed to rely on documents which were in its power, possession, control or custody and not disclosed along with the written statement, save and except by leave of the Court and on establishing reasonable cause for non-disclosure along with the written statement and, therefore, all that the Defendant is required to show is a reasonable cause for non-disclosure of documents that existed prior to filing of the written statement, which has been shown in this case by the Defendants; (i) as for the category of documents which came into existence after the filing of the written statement, the rigour or mandate to establish a reasonable cause for non-disclosure does not apply, as laid down by the Supreme Court in Sudhir  Kumar @ S. Baliyan v. Vinay Kumar G.B., 2021 SCC OnLine SC 734; (j) the additional documents are in aid of the written statement and for the purpose of proving the pleaded case of the Defendants and no new fact or averment is sought to be introduced by these documents; and (k) it is well settled that rules of procedure are handmaid of justice and cannot be construed to prejudice the Defendants, who have after exercising due diligence already disclosed 8 volumes of documents with the written statement and this principle has been reiterated by the Supreme Court recently in Sugandhi (Dead) by Legal Representatives and Another v. P. Rajkumar, (2020) 10 SCC 706.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 44,
+                        "content": "Plaintiff has vehemently opposed the present application on the grounds that (a) most of the documents sought to be now placed on record were already in power, possession, control and custody of the Defendants at  the time of filing the written statement in July, 2019, as some of the documents date back to the year 2019 and no reasonable cause has been shown for non-disclosure of the documents along with the written statement; (b) Defendants have already filed two applications for additional documents being I.A. Nos. 9287/2019 and 1831/2020 on 10.07.2019 and 04.01.2020 respectively and even at that stage, the documents existing prior to the said filings, were not disclosed; (c) Defendants are trying to introduce new facts and averments in the present application and bring on record documents which do not pertain to the disputes in the suit; (d) Defendants are seeking to file documents in relation to expansion of their business under the impugned mark BharatPe, during the pendency of the suit, which is impermissible, as any subsequent expansion is irrelevant for final adjudication as the rights of the parties have already crystallized on the date of filing the plaint and the written statement respectively; (e) if Defendants are permitted to file documents endlessly on the ground that they came into existence post filing of the written statement, this would be a never-ending exercise and would delay the suit as well as defeat the purpose of the Act and the commercial suits will start suffering from the same malady which the ordinary suits suffered, as held by this Court in Nitin Gupta (supra); (f) Order XI Rule 1(10) CPC, as amended by the Act, clearly provides that Defendant shall not be allowed to rely upon any document which was available with it at the time of filing the written statement and the purpose of the amendment was to ensure expeditious disposal of suits and to avoid unnecessary delay in adjudication, by the parties to the lis; and (g) the present application is merely a delay tactic and if allowed would defeat the purpose and mandate of the Act.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 45,
+                        "content": "Additionally, responding to the specific documents sought to be placed on record by way of the present application, it was pointed out that documents at serial nos. 1 to 9 are assumed to be in power and possession of the Defendants and the same should not be allowed in the absence of any reasonable cause for their non-disclosure with the written statement. Documents at serial nos. 10, 11, 17 and 20 and some documents at serial nos. 12, 18 and 19 would also be assumed to be in custody and possession of the Defendants, which they did not disclose while filing the written statement or even in the subsequent two applications for filing additional documents and there is not a whisper in the application which demonstrates a reasonable cause, as required under Order XI Rule 1(10) CPC. Documents referred to in serial nos. 13, 14, 15, 16, 22 and 23 are documents whereby Defendants are claiming goodwill and reputation gained subsequent to filing of the suit. This cannot be permitted in law as it is immaterial and irrelevant for adjudication of the disputes arising in the present suit. Reliance is placed on the following judgments:  (a)  Rishi Raj v. Saregama India Ltd., 2021 SCC OnLine Del 4897.  (b) Sudhir Kumar @ S. Baliyan (supra).  (c)  Natures Essence Private Limited v. Protogreen Retail Solutions Private Limited and Others, 2021 SCC OnLine Del 1538.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 46,
+                        "content": "In rejoinder, it was reiterated on behalf of the Defendants that most of the additional documents came into existence after the filing of written statement on 01.07.2019 and even at the time of filing the two earlier applications, most of the additional documents now sought to be brought on record were not in power, possession, control and custody of the Defendants. It was urged that the embargo under Order XI Rule 1(10) CPC  is till the filing of the written statement and documents which come into existence or are executed, issued or published post the filing of the written statement ought to be taken on record, so long as they pertain to the suit and are not contrary to the pleadings. The issues have not been framed in the matter and the trial is yet to begin and, therefore, no prejudice shall be caused to the Plaintiff if the present application is allowed and this is more so, since all the additional documents have a genesis/foundation in the written statement. It is not correct for the Plaintiff to argue that the documents pertaining to a period post the filing of the written statement do not relate or are relevant to the disputes in question. Once the Defendants have laid the foundation of their goodwill, reputation and related aspects in the written statement, it is always open to bring further documents to substantiate and establish the expansion or enhancement in reputation and goodwill. With respect to the documents which were in public domain, in any case no objection can be raised, as held by this Court in CS(COMM) 1611/2016 titled as Columbia Sportswear Company v. Harish Footwear & Anr., more particularly, when even the issues have not been framed in the present case.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 49,
+                        "content": "Disclosure and discovery of documents.-……..  xxx  xxx  xxx  (10)  Save and except for sub-rule (7) (c) (iii), defendant shall not be allowed to rely on documents, which were in the defendant’s power, possession, control or custody and not disclosed along with the written statement or counter-claim, save and except by leave of Court and such leave shall be granted only upon the defendant establishing reasonable cause for non-disclosure along with the written statement or counterclaim.”",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 50,
+                        "content": "Order XI Rule 1(7), as applicable to the commercial suits, mandates that the Defendant shall file a List of Documents and photocopies of all documents, in its power, possession, control or custody, pertaining to the suit, along with the written statement or with its counter claim, if any. Reading of sub-rule (10) of Rule 1 of Order XI shows that there is a statutory proscription on the Defendant being allowed to rely on documents which it does not disclose with the written statement/counter claim, if the same were in its power, possession, control or custody. At the same time, the Court is also proscribed from granting leave except where the Defendant shows a reasonable cause for not filing the said documents. This has been reiterated by the Supreme Court in Sudhir Kumar @ S. Baliyan (supra) albeit in the context of Order XI Rule 1(3) imposing obligations on the Plaintiff and the relevant para is as follows:  “31. Therefore a further thirty days time is provided to the plaintiff to place on record or file such additional documents in court and a declaration on oath is required to be filed by the plaintiff as was required as per Order XI Rule 1(3) if for any reasonable cause for non disclosure along with the plaint, the documents, which were in the plaintiff's power, possession, control or custody and not disclosed along with plaint. Therefore plaintiff has to satisfy and establish a reasonable cause for non disclosure along with plaint. However, at the same time, the requirement of establishing the reasonable cause  for non disclosure of the documents along with the plaint shall not be applicable if it is averred and it is the case of the plaintiff that those documents have been found subsequently and in fact were not in the plaintiff's power, possession, control or custody at the time when the plaint was filed. Therefore Order XI Rule 1(4) and Order XI Rule 1(5) applicable to the commercial suit shall be applicable only with respect to the documents which were in plaintiff's power, possession, control or custody and not disclosed along with plaint. Therefore, the rigour of establishing the reasonable cause in non disclosure along with plaint may not arise in the case where the additional documents sought to be produced/relied upon are discovered subsequent to the filing of the plaint.”",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 51,
+                        "content": "From the above passage, it is clear that the Supreme Court has enunciated that the requirement of establishing the reasonable cause for non-disclosure of the documents along with the plaint shall not be applicable if it is averred that the documents were found subsequently and were not in the power, possession and custody of the Plaintiff when the plaint was filed and the rigour of establishing the reasonable cause in non-disclosure will not arise in a case where the additional documents sought to be produced/relied upon are discovered subsequent to the filing of the plaint.",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 52,
+                        "content": "In view of the aforesaid binding dicta of the Supreme Court, which would equally apply to the case of a Defendant under Order XI Rule 1(10), there is merit in the contention of the Defendants that in respect of the additional documents which were not in power and possession of the Defendants at the time of filing the written statement and came into existence subsequent thereto, the rigours of showing reasonable cause for non-disclosure as envisaged in Rule 1(10) of Order XI will not apply. Tested on this anvil, the additional documents sought to be placed on record at serial nos. 1 to 9, 11, 13, 14, 15, 21 and 22, which are of the year 2021  deserve to be taken on record. Plaintiff has not taken any objection regarding relevancy of the documents at serial nos. 1 to 9, and 11, as aforementioned and in this context, I may allude to the judgment of this Court in Hassad  Food Company Q.S.C. and Another v. Bank of India and Others, 2019 SCC OnLine Del 10647, which in my view squarely applies to the present case. Relevant para of the judgment is extracted hereunder:- “18. In the pleas taken in the present application the defendants neither dispute the relevancy of the documents nor that the documents sought to be filed do not relate to them and the only objection taken is that the plaintiffs cannot be allowed to file the documents at the belated stage. As noted above in the present suit the pleadings are not complete as yet as the replications are yet to be taken on record and hence it cannot be said that the plaintiffs have filed the present application so belatedly that it cannot be allowed. Further the plaintiffs have very fairly taken the plea of administrative oversight which can occur when the number of documents is voluminous. Thus the plaintiffs have made out a reasonable cause for not filing the documents with the plaint.”",
+                        "reference": "14."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 53,
+                        "content": "It is pertinent to note that at this stage, as rightly argued by the learned counsel, the Court is not required to determine the authenticity, admissibility or relevancy of the documents of a threshold that is required to be adjudicated at the stage of trial and final arguments. No doubt, the Court would be required to examine whether the documents pertain to the suit, as stipulated in Order XI Rule 1(7) and should not be totally alien to the controversy, however, this would have to be judged from the perspective of the disputes set out in the pleadings.",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 54,
+                        "content": "In this context, this Court alludes to the judgment of the Supreme Court in K. Mallesh (supra), wherein the Supreme Court held that admissibility, reliability and registrability of the documents has to be  considered independently only at the time of hearing of the trial and not prior thereto. To the same effect is the observation of the Full Bench of the Bombay High Court in Hemendera Rasik Lal (supra).",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 55,
+                        "content": "Following the above principles and examining the pleadings between the parties, Defendants have made out a case that the aforesaid documents have a genesis/foundation in the written statement and therefore no new case is being introduced by the Defendants. In order to demonstrate the said point, Defendants have given a tabular representation which is extracted hereunder for ready reference:",
+                        "reference": "17."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 56,
+                        "content": "Insofar as, the document at serial no. 10 is concerned, the same is taken on record as the document is in the public domain and more importantly, has its foundation in para 16 of the written statement, wherein the Defendants have primarily brought out that Defendants’ mobile application provides online payment services to retailers etc. and ever since the launch of its application under the impugned marks, it has become extremely popular. Defendants have brought forth the data relating to transactions with their related monetary value as well as the number of downloads till the end of April, 2019. The current document seeks to expand on the said data reflecting enhanced downloads etc. only to further its stand of popularity. The objection of the Plaintiff to the said document is that the screenshot of the mobile applications and website have been filed by the Plaintiff along with its documents, which stand admitted by the Defendants in their admission/denial affidavit and no change can be permitted at this stage and is irrelevant for adjudicating the present dispute. In my view, the relevancy and admissibility of the document is a matter of trial and at this stage the right of the Defendants to bring the document on record and rely on its contents cannot be foreclosed.",
+                        "reference": "18."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 57,
+                        "content": "Document at serial no. 12 contains unsolicited media articles published by Defendant No. 2. The objection of the Plaintiff with respect to the document is that many of these articles are of the year 2019 and yet they were not disclosed with the written statement or even in the subsequent two applications filed by the Defendants for additional documents. A perusal of  the document shows that the earliest newspaper articles sought to be produced is dated 26.08.2019 and the latest one is dated 22.07.2021. The written statement was admittedly filed on 01.07.2019 and as rightly stated by the Defendants, most of these documents were not in their possession and custody on the date of filing the written statement albeit some of them existed when the applications for additional documents were filed. No reason much less reasonable cause has been set out by the Defendants for non-disclosure of the newspaper articles filed for the period between 26.08.2019 and 15.12.2019 which are prior to the second application filed by the Defendants on 04.01.2020, for bringing on record the additional documents and in view of the judgment in Sudhir Kumar @ S. Baliyan (supra) as well as in Bela Creation Pvt. Ltd. v. Anuj Textiles, 2022 SCC OnLine Del 1366 by this Court, the documents cannot be taken on record.  The remaining newspaper articles forming a part of this document being subsequent to the filing of the written statement and the two applications, are taken on record, as it is clearly stated by the Defendants that these were not in power, possession and control of the Defendants at that stage, which is evident from the dates on the documents.",
+                        "reference": "19."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 58,
+                        "content": "Document at serial no. 16 shows the current version of ‘BharatPe’ trademark adopted by the Defendants around March, 2020 where there is a logo incorporated and according to the Defendants this was launched in April, 2021. The objection of the Plaintiff is that the document is irrelevant in adjudicating the present suit. In my view, the document can be taken on record since it is post-filing of the written statement and the changed logo may have relevance at a later stage during the trial and final arguments on some of the reliefs claimed against the Defendants. Insofar as, document at  serial no. 17, is concerned, this is a printout from the internet showing the meaning of ‘Pe’ in Hindi language. The objection raised by the Plaintiff is that the said document could have been filed earlier as it was within the knowledge of the Defendants. In my view, the objection is wholly frivolous and even otherwise, no prejudice shall be caused to the Plaintiff if a printout from Google is brought on record only to demonstrate the meaning of ‘Pe’ in Hindi language and accordingly, the document is taken on record.",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 18,
+                        "paragraph_number": 59,
+                        "content": "Document at serial no. 18 comprises of printouts of documents illustrating domain names having the word ‘Pe’ or ‘Pay’ in their name. It is clear that all the documents referred to under the heading of Document 18 are for the period 1998 to 2015 and existed prior to the filing of the written statement. Plaintiff has objected to the Document on the ground that there is no reasonable cause set out for non-disclosure of the said Document at the time of filing of the written statement and this Court finds merit in the said contention. Perusal of the application shows that no reasonable cause has been set out by the Plaintiff, which is the foremost requirement of the provisions of Order XI Rule 1(10) and even, in the rejoinder, other than an evasive denial to the contention raised by the Plaintiff, no cause is brought forth. Thus, the document is not taken on record.",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 18,
+                        "paragraph_number": 60,
+                        "content": "Document at serial no. 19 contains printouts showing entities using the words ‘Pe’ or ‘Pay’ in their name, either through mobile applications or through websites. While screenshots of some of the applications/websites bear dates prior to the filing of the written statement, the others are post filing the written statement. As for the former, there is not a whisper in the application disclosing any reasonable cause for not disclosing the documents  along with the written statement and no doubt, some documents are of the vintage of the year 2011. As for the latter, the documents can be taken on record following the observations of this Court in Columbia Sportswear Company (supra), wherein the Court allowed the documents on the ground that they were in public domain and the evidence had not started.",
+                        "reference": "22."
+                    },
+                    {
+                        "page": 19,
+                        "paragraph_number": 61,
+                        "content": "www.cardpe.com Document at serial no. 20 is an extract from the website showing past versions of CardPe’s website . The document is dated 30.06.2015 and was in existence when the written statement was filed. It is not the case of the Defendants that the document was not in their custody or possession at the time of filing of the written statement and no reasonable cause has been set out for its not disclosure to meet the threshold of Order XI Rule 1(10). Strangely, document at serial no. 23, which is purportedly a television advertisement of Defendant No. 2, as filed is not accessible/legible and no response has been furnished by the Defendants to the contention of the Plaintiff that the link is not working and is, therefore, inaccessible. In the absence of being able to even access to the document, this Court finds no cogent reason to permit the same to be taken on record. Thus, documents at Serial Nos.20 & 23 cannot be taken on record.",
+                        "reference": "23."
+                    },
+                    {
+                        "page": 19,
+                        "paragraph_number": 62,
+                        "content": "With respect to document at serial no. 24 which is a contract entered into between Defendant No. 2 with a celebrity, it is the case of the Defendants that they have already filed redacted copy of the contract along with the written statement and only seek permission to file unredacted copy in a sealed cover. I see no reason to disallow an unredacted copy of the contract being placed on record in a sealed cover.",
+                        "reference": "24."
+                    },
+                    {
+                        "page": 19,
+                        "paragraph_number": 63,
+                        "content": "Documents mentioned at serial nos. 25 to 36 are contracts entered into between Defendant No. 2 and other celebrities and business houses and are  seeking to further establish the increased goodwill and reputation of the Defendants during the pendency of the suit, for which foundation has been laid in para 19 of the written statement to the extent that the Defendants averred that their product is being endorsed by celebrities and has also specifically named one of the film Actors. In my view, these documents do not come into the rigour of explaining a reasonable cause for non-disclosure and can be taken on record and as for the legal argument raised by the Plaintiff that goodwill generated during the pendency of the suit, is concerned, the same is relevant at the stage of final argument. Document at serial no. 37 relates to commercial terms under which Defendant No. 2 agrees to provide its services to its merchants and as rightly contended by the Plaintiff, has no relevance to the disputes arising between the parties in the present suit and cannot be taken on record.",
+                        "reference": "25."
+                    },
+                    {
+                        "page": 20,
+                        "paragraph_number": 64,
+                        "content": "Learned Senior Counsels for the Plaintiff relied on certain judgments to substantiate their contention. Reliance was placed on the judgment of the Supreme Court in Sudhir Kumar @ S. Baliyan (supra). The said judgment, in my view, does not support the case of the Plaintiff and rather supports the case of the Defendants inasmuch as the Supreme Court in the said case has held that the requirement of establishing reasonable case for non-disclosure of the documents along with the plaint shall not apply if it is averred that the documents were subsequently discovered and were not in Plaintiff’s power, possession, control or custody at the time when the plaint was filed and as far as the documents which existed at the time of filing the plaint are concerned, the same can be brought on record with the leave of the Court, if reasonable cause is shown for non-disclosure. Applying the said analogy, this Court is allowing the additional documents which were not in custody  and possession of the Defendants when the written statement was filed while disallowing those which existed prior to the filing of the written statement and for which no reasonable cause for non-disclosure has been made out by the Defendants.",
+                        "reference": "26."
+                    },
+                    {
+                        "page": 21,
+                        "paragraph_number": 65,
+                        "content": "In Rishi Raj (supra), the Court dismissed the application of the Plaintiff on the ground that reasonable cause was not made out for non-disclosure of the documents at the time of filing of the plaint and that mere inadvertence was not enough to permit documents which were in power and possession of the Plaintiff at the time of filing of the suit. It bears repetition to state that in the present case, Defendants have not taken inadvertence as a ground with respect to the additional documents and in any event, wherever this Court has found that Defendants have not disclosed reasonable cause for non-disclosure of the documents at the time of filing the written statement, the documents have been disallowed.",
+                        "reference": "27."
+                    },
+                    {
+                        "page": 21,
+                        "paragraph_number": 66,
+                        "content": "Reliance was placed by the Plaintiff on the judgment of this Court in Natures Essence Private Limited (supra). The said judgment is not applicable to the present case, inasmuch as the Court has neither allowed nor dismissed the application filed by the Defendants for additional documents and after examining the nature of documents has declined to take the said documents into account to decide the application under Order 39 Rules 1 and 2 CPC, 1908.",
+                        "reference": "28."
+                    },
+                    {
+                        "page": 21,
+                        "paragraph_number": 67,
+                        "content": "For all the aforesaid reasons, the application being I.A. 9897/2021, is partly allowed in the aforesaid terms, subject to payment of costs of Rs.50,000/-, payable by the Defendants in favour of Delhi High Court Bar Clerk’s Association.",
+                        "reference": "29."
+                    },
+                    {
+                        "page": 22,
+                        "paragraph_number": 69,
+                        "content": "In view of the order passed above, the contracts/documents which have been taken on record, relating to celebrity endorsements, from serial nos. 24 to 36, are permitted to be placed on record in a sealed cover.",
+                        "reference": "31."
+                    },
+                    {
+                        "page": 22,
+                        "paragraph_number": 70,
+                        "content": "I.A. 9898/2021 is allowed accordingly.",
+                        "reference": "32."
+                    }
+                ]
+            }
+        }
+    ]
+}

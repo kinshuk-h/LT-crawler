@@ -1,0 +1,1128 @@
+{
+    "meta": {
+        "directory": "data\\judgments\\DHC Judgments",
+        "request": {
+            "query": "Infringement",
+            "page": 1,
+            "court": "DHC",
+            "start_page": 1,
+            "req_pages": 5,
+            "req_total": null,
+            "start_date": null,
+            "end_date": null
+        },
+        "response": {
+            "entry_start": 1,
+            "entry_end": 10,
+            "entry_total": 2884,
+            "page": 1,
+            "page_total": 288,
+            "page_next": 2,
+            "page_processed": 1,
+            "saved_total": 5,
+            "generated_at": "2023-01-05T23:18:07"
+        },
+        "filters": {
+            "sent_count": {
+                "min_sents": "2",
+                "min_words": "20",
+                "tokenizer_path": null
+            }
+        }
+    },
+    "data": [
+        {
+            "case_number": "SC 369/2019",
+            "title": "WARNER BROS. ENTERTAINMENT INC. VS HTTP.//TAMILROCKERS.WS & ORS.",
+            "date": "10/10/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/NAC/judgement/12-10-2022//NAC10102022SC3692019_145701.pdf&ID=457905949_3",
+            "document_path": "data\\judgments\\DHC Judgments\\457905949_3.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 1,
+                        "content": "The plaintiff has filed the present suit inter-alia praying for the following reliefs:  •52. In light of the foregoing, it is most respectfully prayed that this Hon•ble Court may be pleased to:  i.  Issue an order and decree of permanent injunction restraining the Defendant Nos. 1-16 (and such other mirror/redirect/alphanumeric websites discovered to provide additional means of accessing the Defendant Websites, and other domains/domain owners/website operators/entities which are discovered to have been engaging in infringing the Plaintiff's exclusive rights), its owners, partners, proprietors, officers, servants, employees, and all others in capacity of principal or agent acting for  and on their behalf, or anyone claiming through, by or under it, from, in any manner hosting, streaming, reproducing, distributing, making available to the public and/or communicating to the public, or facilitating the same, on their websites, through the internet in any manner whatsoever, any cinematograph work/content/programme/ show in relation to which Plaintiff has copyright,  ii.  Issue an order and decree directing the Defendant Nos. 16-25, their directors, partners, proprietors, officers, affiliates, servants, employees, and all others in capacity of principal or agent acting for and on their behalf, or anyone claiming through, by or under it, to block access to the Defendant Nos. 1-16 website identified by the Plaintiff in the instant suit (and such other mirror/redirect/alphanumeric websites discovered to provide additional means of accessing the Defendant Website, and other domains/domain owners/website operators/entities which are discovered to have been engaging in infringing the Plaintiff's exclusive rights)  iii.  Issue an order directing the Defendant Nos. 26and 27, to issue a notification calling upon the various internet and telecom service providers registered under it to block access to the Defendant Nos. 1-16 websites identified by the Plaintiff in the instant suit (and such other mirror/redirect/alphanumeric websites discovered to provide additional means of accessing the Defendant Website, and other domains/domain owners/website operators/entities which are discovered to have been engaging in infringing the Plaintiff's exclusive rights);  iv.  Issue an order directing the Domain Name Registrars of the Defendant Website identified by the Plaintiff in the Plaint to disclose the contact details and other details about the owner of the said websites, and other such relief as this Hon•ble Court may deem fit and proper:•",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 2,
+                        "content": "The plaintiff claims itself to be a global entertainment company under the laws of the State of Delaware, the United States of America, and as being engaged in the business of creation, production and distribution of motion pictures. The plaintiff has also received certain reputed awards, such as the Academy Award for •Best Picture• for the motion picture •Argo• in the year 2012.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 3,
+                        "content": "It is the contention of the plaintiff that the motion pictures produced by the plaintiff, being works of visual recording and which include sound recordings accompanying such visual recordings, qualify to be a •cinematograph film• under Section 2(f) of the Copyright Act, 1957 (in short, •the Act•). The plaintiff claims that this Court has jurisdiction by virtue of Section 13(1) read with Sections 13(2) and 5 of the Act. Since the plaintiff•s cinematograph films are released in India; the cinematograph films of the plaintiff would be entitled to all the rights and protections granted under the provisions of the Act.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 4,
+                        "content": "The claim of the plaintiff is premised on the allegation of illegal and unauthorized distribution, transmission and streaming of the plaintiff•s original content by the defendant nos. 1 to 16 and 51 to 237 (hereinafter referred to as the •rogue websites•). It is the case of the plaintiff that as a result of the unauthorized transmission of their content, the rogue websites infringe the copyright of the plaintiff in the original works produced by it, which have been granted protection under the provisions of the Act.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 5,
+                        "content": "The plaintiff has impleaded various Internet Service Providers (in short, •ISPs•) as the defendant nos. 17 to 25 and the concerned departments of the Government of India as the defendant nos. 26 and 27.  The ISPs and the concerned departments have been impleaded for the limited relief of compliance with any directions of this Court granted in favor of the plaintiff.",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 6,
+                        "content": "The plaintiff, vide an investigation conducted by an independent investigator, learnt of the extent of the infringing activity of the rogue websites, in as much as the rogue websites have infringed the plaintiff•s copyright under the provisions of the Act in the original content by streaming or hosting and/or by facilitating the use of the rogue websites, inter alia by downloading and streaming the plaintiff•s original cinematograph films in which copyright vests.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 7,
+                        "content": "It is also the case of the plaintiff that a cease-and-desist notice was served on the rogue websites calling upon them to cease from engaging in their infringing activities. Despite the cease-and-desist notice, the rogue websites continue to infringe the copyright of the plaintiff in its original content.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 8,
+                        "content": "The learned counsel for the plaintiff presses only for prayers in terms of paragraph nos. 52(i), (ii) and (iii), as noted hereinabove, of the plaint. The other reliefs as made in the plaint are not pressed.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 10,
+                        "content": "2019  passed by this Court in a batch of suits, including UTV Software Communication Ltd. & Ors. v. 1337X.to & Ors., 2019 SCC OnLine Del 8002, which dealt with the determination of rogue websites.",
+                        "reference": "10.04."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 11,
+                        "content": "The plaintiff has filed I.A. 13801 of 2022 under Order XIII-A of the Code of Civil Procedure, 1908 (in short, •CPC•), as applicable to commercial disputes, seeking a Summary Judgment. The said application was listed before the Court on 30.08.2022, wherein the Court  recorded that the service and pleadings are complete in regard to all the defendants and that the rogue websites have neither appeared nor have filed their written statements in the present suit proceedings till date. Further, the Court directed the suit to proceed ex-parte qua the rogue websites, that is, the defendant nos. 1 to 16 and 51 to 237.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 12,
+                        "content": "The grounds for filing the above application, as enumerated by the plaintiff in the same, are as follows:  a.  That all the defendants have been duly served by the plaintiff, however, only the defendant nos. 17, 22, 24, 26 and 27 have entered appearance before this Court.  b.  That the defendant nos. 1 to 16 and 51 to 237 being the rogue websites, against whom the plaintiff is seeking primary relief, are illegally streaming the plaintiff•s content on their websites and even after being duly served by the plaintiff, have decided not to contest the present suit.  c.  That the rogue websites impleaded as the defendant nos. 1 to 16 and 51 to 237 have no real prospect of successfully defending the claim of copyright infringement under Section 51 of the Act and have further not chosen to contest the said claim.  d.  Additionally, there is no other compelling reason why the present suit should not be disposed of before recording of oral evidence particularly in view of the fact that there is no dispute regarding the illegal activities of the defendant nos. 1 to 16 and 51 to 237 and in any event, in the absence of any challenge or opposition to the factual allegations made in the plaint, in view  of the provisions of Order VIII Rule 5 of the CPC, there is no occasion for recording of oral evidence in the present matter.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 13,
+                        "content": "The learned counsel for the plaintiff has relied upon Clause 3 of Chapter XA of the Delhi High Court (Original Side) Rules, 2018 which states the grounds under which a Court can pass a Summary Judgment.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 14,
+                        "content": "The learned counsel for the plaintiff has drawn my attention to the affidavits filed by Mr. Manish Vaishampayan, who conducted the investigation with regard to the aforesaid websites at the instance of the plaintiff, to contend that the said websites need to be treated as rogue websites. With respect to this contention, reliance is placed on the following documentary evidence in support of each of the aforesaid websites in the table below-",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 42,
+                        "paragraph_number": 16,
+                        "content": "In UTV Software (supra), this Court, as far as rogue websites are concerned, identified the following illustrative factors to be considered in determining whether a particular website falls within that class:  •59. In the opinion of this Court, some of the factors to be considered for determining whether the website complained of is a FIOL/Rogue Website are:- a.  whether the primary purpose of the website is to commit or facilitate copyright infringement;  b.  the flagrancy of the infringement, or the flagrancy of the facilitation of the infringement;  c.  Whether the detail of the registrant is masked and no personal or traceable detail is available either of the Registrant or of the user.  d.  Whether there is silence or inaction by such website after receipt of take down notices pertaining to copyright infringement.  e.  Whether the online location makes available or contains directories, indexes or categories of the means to infringe, or facilitate an infringement of, copyright;  f.  Whether the owner or operator of the online location demonstrates a disregard for copyright generally;  g.  Whether access to the online location has been disabled by orders from any court of another country or territory on the ground of or related to copyright infringement;  h.  whether the website contains guides or instructions to circumvent measures, or any order of any court, that disables access to the website on the ground of or related to copyright infringement; and i. the volume of traffic at or frequency of access to the website;  j.  Any other relevant matter.",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 43,
+                        "paragraph_number": 17,
+                        "content": "This Court clarifies that the aforementioned factors are illustrative and not exhaustive and do not apply to intermediaries as they are governed by IT Act, having statutory immunity and function in a wholly different manner.  xxxxx",
+                        "reference": "60."
+                    },
+                    {
+                        "page": 43,
+                        "paragraph_number": 19,
+                        "content": "This Court, in UTV Software (supra) further held as under:  •29. It is important to realise that piracy reduces jobs, exports and overall competitiveness in addition to standards of living for a nation and its citizens. More directly, online piracy harms the artists and creators, both the struggling as well as the rich and famous, who create content, as well as the technicians-sound engineers, editors, set designers, software and game designers-who produce it and those who support its marketing, distribution and end sales. Consequently, online piracy has had a very real and tangible impact on the film industry and rights of the owners.",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 44,
+                        "paragraph_number": 20,
+                        "content": "The Indian Copyright Act, 1957 (•the Copyright Act•) confers a bundle of exclusive rights on the owner of a •work• and provides for remedies in case the copyright is infringed. xxxxx",
+                        "reference": "30."
+                    },
+                    {
+                        "page": 44,
+                        "paragraph_number": 21,
+                        "content": "The above definitions make it clear that making any work available for being seen or heard by the public whether simultaneously or at places chosen individually, regardless of whether the public actually sees the film, will constitute communication of the film to the public. The intent was to include digital copies of works, which would include within its scope digital copies of works being made available online (as opposed to the physical world). Communication can be by various means such as directly or by display or diffusion. In this context, definition of •broadcast• is also relevant which identifies communication to public by wireless diffusion or by wire. Thus, making available of a film for streaming or downloads in the form of digital copies on the internet is within the scope of •communication to the public•.",
+                        "reference": "34."
+                    },
+                    {
+                        "page": 44,
+                        "paragraph_number": 22,
+                        "content": "It is pertinent to note that the definition of •communication to the public• was first added in  the Copyright Act by the 1983 Amendment and was as follows:- •Communication to the public• means communication to the public in whatever manner, including communication though satellite•.  xxxxx",
+                        "reference": "35."
+                    },
+                    {
+                        "page": 44,
+                        "paragraph_number": 23,
+                        "content": "Also should an infringer of the copyright on the Internet be treated differently from an infringer in the physical world? If the view of the aforesaid Internet exceptionalists school of thought is accepted, then all infringers would shift to the e-world and claim immunity!",
+                        "reference": "53."
+                    },
+                    {
+                        "page": 44,
+                        "paragraph_number": 24,
+                        "content": "A world without law is a lawless world. In fact, this Court is of the view that there is no logical reason why a crime in the physical world is not a crime in the digital world especially when  the Copyright Act does not make any such distinction.  xxxxx",
+                        "reference": "54."
+                    },
+                    {
+                        "page": 45,
+                        "paragraph_number": 25,
+                        "content": "In the opinion of this Court, while blocking is antithetical to efforts to preserve a •free and open• Internet, it does not mean that every website should be freely accessible. Even the most vocal supporters of Internet freedom recognize that it is legitimate to remove or limit access to some materials online, such as sites that facilitate child pornography and terrorism. Undoubtedly, there is a serious concern associated with blocking orders that it may prevent access to legitimate content. There is need for a balance in approach and policies to avoid unnecessary cost or impact on other interests and rights. Consequently, the onus is on the right holders to prove to the satisfaction of the Court that each website they want to block is primarily facilitating wide spread copyright infringement. xxxxxx",
+                        "reference": "80."
+                    },
+                    {
+                        "page": 45,
+                        "paragraph_number": 26,
+                        "content": "One can easily see the appeal in passing a URL blocking order, which adequately addresses over-blocking. A URL specific order need not affect the remainder of the website. However, right-holders claim that approaching the Court or the ISPs again and again is cumbersome, particularly in the case of websites promoting rampant piracy.",
+                        "reference": "82."
+                    },
+                    {
+                        "page": 45,
+                        "paragraph_number": 27,
+                        "content": "This Court is of the view that to ask the plaintiffs to identify individual infringing URLs would not be proportionate or practicable as it would require the plaintiffs to expend considerable effort and cost in notifying long lists of URLs to ISPs on a daily basis. The position might have been different if defendants' websites had a substantial proportion of non-infringing content, but that is not the case.",
+                        "reference": "83."
+                    },
+                    {
+                        "page": 45,
+                        "paragraph_number": 28,
+                        "content": "This Court is of the view that while passing a website blocking injunction order, it would have to also consider whether disabling access to the online location is in the public interest and a proportionate response in the circumstances and the impact on any person or class of persons likely to be affected by the grant of injunction. The Court order must be effective, proportionate and dissuasive, but must not create barriers to legitimate trade. The measures must also be fair  and not excessively costly (See: Loreal v. Ebay, [Case C 324/09]).  xxxxxx",
+                        "reference": "84."
+                    },
+                    {
+                        "page": 46,
+                        "paragraph_number": 29,
+                        "content": "Consequently, website blocking in the case of rogue websites, like the defendant-websites, strikes a balance between preserving the benefits of a free and open Internet and efforts to stop crimes such as digital piracy.",
+                        "reference": "86."
+                    },
+                    {
+                        "page": 46,
+                        "paragraph_number": 30,
+                        "content": "This Court is also of the opinion that it has the power to order ISPs and the DoT as well as MEITY to take measures to stop current infringements as well as if justified by the circumstances prevent future ones.•",
+                        "reference": "87."
+                    },
+                    {
+                        "page": 46,
+                        "paragraph_number": 31,
+                        "content": "It is notable that the plaintiff, in a similar batch of suits including  Warner Bros. Entertainment Inc. v. TAMILROCKERMOVIES.COM &Ors., 2022 SCC OnLine Del 1742, wherein judgment was pronounced on 01.06.2022, had filed an application under Order XIII-A of the CPC, as applicable to commercial disputes, wherein this Court relying on the judgment in UTV Software (supra) has passed a Summary Judgment and decreed the suits in favour of the plaintiff.",
+                        "reference": "17."
+                    },
+                    {
+                        "page": 46,
+                        "paragraph_number": 32,
+                        "content": "In the present Suit as well, vide order dated 24.07.2019, this Court had granted an ex-parte ad-interim injunction against the defendant nos. 1 to 16 (and such other domains/domain owners/website operators/entities which are discovered during the course of the proceedings to have been engaging in infringing the plaintiff's exclusive rights), their owners, partners, proprietors, officers, servants, employees, and all others in capacity of principal or agent acting for and on their behalf, or anyone claiming through, by or under it, restraining them from, hosting, streaming, reproducing, distributing, making available to the public and/or communicating to the public, or facilitating the same, in  any manner, on their websites, through the internet, any cinematograph work/content/programme/shows in relation to which the plaintiff has copyright.",
+                        "reference": "18."
+                    },
+                    {
+                        "page": 47,
+                        "paragraph_number": 33,
+                        "content": "This Court had further directed the defendant nos. 17 to 25 to block the domain names and its URLs as mentioned in the table below-",
+                        "reference": "19."
+                    },
+                    {
+                        "page": 61,
+                        "paragraph_number": 34,
+                        "content": "This Court further directed the defendant nos. 26 and 27to suspend the above-mentioned domain name registration of the defendant nos. 1-16 and issue requisite notifications calling upon various ISPs and telecom service providers registered under them to block the aforementioned rogue websites identified by the plaintiff within five working days.",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 61,
+                        "paragraph_number": 35,
+                        "content": "The learned counsel for the plaintiff submits that pursuant to the ex-parte ad-interim order dated 24.07.2019, the defendant no. 26 has issued the requisite notification. The learned counsel for the plaintiff further states that the defendant nos. 17 to 25 have blocked the rogue websites, that is, the defendant nos. 1 to 16•s websites. This Court had also passed the following direction in its order dated 05.08.2019:  •21. Further, as held by this court in UTV Software Communication Ltd. (supra), in order for this court to be freed from constant monitoring and adjudicating the issues of mirror/redirect/alphanumeric websites it is directed that as and when Plaintiff file an application under Order I Rule 10 for impleadment of such websites, Plaintiff shall file an affidavit confirming that the newly impleaded website is mirror/redirect/alphanumeric website with sufficient supporting evidence. Such application shall be listed before the Joint Registrar, who on being satisfied with the material placed on record, shall issue directions to the ISPs to disable access in India to such mirror/redirect/alphanumeric websites•.",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 62,
+                        "paragraph_number": 36,
+                        "content": "In light of the aforesaid direction, the plaintiff filed subsequent applications under Order I Rule 10 of CPC for the impleadment of such mirror/redirect/alphanumeric website with sufficient supporting evidence, which were allowed by the Court and the ex-parte ad-interim order dated 24.07.2019 was thereby extended to the impleaded defendants:",
+                        "reference": "22."
+                    },
+                    {
+                        "page": 62,
+                        "paragraph_number": 37,
+                        "content": "Thereafter, on 01.08.2022, the learned Joint Registrar (Judicial), passed the following order in regard to the rogue websites, that is, the defendant nos. 1 to 16 and 51 to 237:- ••All of the contesting defendants against whom substantial relief has been sought by the plaintiff have been served, however they have not preferred to appear to contest this case or to file written statement and affidavit of admission/denial of documents. In this regard law shall take its own course.  Learned counsel for plaintiff submits that there is no document for admission/denial of documents. Hence, pleadings stand complete.  Other defendants who were supposed to comply with interim directions have already complied with.  At request, let the matter be placed before the Hon•ble Court for further directions.•",
+                        "reference": "23."
+                    },
+                    {
+                        "page": 63,
+                        "paragraph_number": 38,
+                        "content": "Since the defendant nos. 1 to 16 and 51 to 237 are not appearing, despite notice, in my opinion, the suit can be heard and decided summarily. The defendant nos. 1 to 16 and 51 to 237 have no real prospect of successfully defending the claim of copyright infringement and have further not chosen to contest the said claim. The present matter is mainly concerned with the enforcement of the injunction orders, which are passed against the rogue websites who do not have any defence to the claim of copyright infringement, but use the anonymity offered by the internet to engage in illegal activities, such as copyright infringement in the present case. This is a fit case for passing a Summary Judgment invoking the provisions of Order XIII-A of the CPC, as applicable to the commercial disputes, read with Rule 27 of the Delhi High Court Intellectual Property Rights Division Rules, 2022.",
+                        "reference": "24."
+                    },
+                    {
+                        "page": 63,
+                        "paragraph_number": 39,
+                        "content": "In the present case, applying the test as laid down in UTV Software (supra), and considering the documents filed and the averments made in the plaint, which remained uncontroverted, it has to be held that the defendant nos. 1 to 16 and 51 to 237 are •rogue websites•, with their primary purpose being to commit and facilitate infringement of the copyright of the plaintiff. The plaintiff is therefore,  held entitled to a decree in terms of prayers made in paragraph no. 52(i), (ii) and (iii) of the plaint.",
+                        "reference": "25."
+                    },
+                    {
+                        "page": 64,
+                        "paragraph_number": 40,
+                        "content": "In UTV Software (supra), the Court also examined the issue of grant of dynamic injunctions and permitted subsequent impleadment of mirror/redirect/alphanumeric websites which provide access to the rogue websites, by filing an application under Order I Rule 10 of the CPC before the learned Joint Registrar (Judicial) along with an affidavit with supporting evidence, confirming that the proposed website is mirror/redirect/alphanumeric website of the injuncted defendant websites. At the request of the learned counsel for the plaintiff, the same directions are liable to be made in this case also.",
+                        "reference": "26."
+                    },
+                    {
+                        "page": 64,
+                        "paragraph_number": 41,
+                        "content": "Accordingly, I.A. No. 13801of 2022 under Order XIII-A of the CPC, as applicable to commercial disputes, seeking a Summary Judgment is allowed. All the pending applications are also disposed of.",
+                        "reference": "27."
+                    },
+                    {
+                        "page": 64,
+                        "paragraph_number": 42,
+                        "content": "The suit is decreed in terms of prayers given in paragraph no. 52  (i) , (ii) and (iii) of the plaint. The plaintiff is also permitted to implead any mirror/redirect/alphanumeric websites which provide access to the websites operated by the defendants nos. 1 to 16 and51 to 237 by filing an appropriate application under Order I Rule 10 of the CPC, supported by affidavits and evidence as directed in UTV Software (supra). Any website impleaded as a result of such application will be subject to the same decree.",
+                        "reference": "28."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "SC 423/2022",
+            "title": "SPP PUMPS LIMITED & ANR. VS SP PARVATHY INDUSTRIES",
+            "date": "10/10/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/12-10-2022//PMS10102022SC4232022_124311.pdf&ID=457905949_5",
+            "document_path": "data\\judgments\\DHC Judgments\\457905949_5.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 2,
+                        "content": "The present suit has been filed for permanent injunction against infringement of trademark, passing off, dilution and other reliefs. Plaintiff No.1-SPP Pumps Limited is a company based in England which is the owner and the registered proprietor of the mark ‘SPP PUMPS’. Plaintiff No.1 was acquired by Plaintiff No.2 -Kirloskar Brothers Ltd. through an Asset Purchase Agreement dated 6th November, 2003. The Plaintiffs are stated to be the leading manufacturers of centrifugal pumps and engineered pumping solutions in the world with 140 years of experience. The mark ‘SPP PUMPS’ was adopted by the Plaintiffs in the year 1961. The Plaintiffs have also used the mark in a logo form which is extracted below:",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 3,
+                        "content": "www.kirloskarpumps.com The said mark was adopted in the year 1961 and it is an acronym of ‘Sigmund Pulsometer Pumps’. It is the case of the Plaintiffs that the said mark is a coined word/abbreviation and is highly distinctive of its products. The global annual sales of the Plaintiffs is to the tune of Rs.443 crores in the year 2020. The sales in India for the corresponding period is to the tune of Rs.10 crores. The Plaintiffs have registration for the mark ‘SPP PUMPS’ in India since 2021 in class 9 with the user claim from November 2011. The Plaintiffs have several trademark applications for the said mark in classes 37 and 7 which are pending registration. The Plaintiffs have used the mark ‘SPP PUMPS’ extensively in India and promoted the same including through their websites (<http://www.spppumps.com/>)www.spppumps.com and .",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 4,
+                        "content": "The grievance of the Plaintiffs in the present suit is that the Defendant-SP Parvathy Industries is a sole proprietary concern of Mr. Selvaraj Premkumar who is located in Coimbatore. The Defendant started using the mark ‘SPP PUMP’ for products including screw pumps. For the said products, the Defendant had adopted the mark ‘SPP PUMP’ in different logo forms which are set out below:",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 5,
+                        "content": "The Plaintiffs issued a cease-and-desist notice dated 14th October, 2021 upon acquiring knowledge of the Defendant’s use of the mark ‘SPP  PUMP’ asking the Defendant to cease all use and advertising of products bearing the mark ‘SPP PUMP’ as a trade mark, trade name, part of domain name, etc. Since then, several letters have been exchanged between the Plaintiffs and the Defendant. In response to one of the letters dated 11th January 2022 sent on behalf of the Plaintiffs, the Defendant sent a reply through its counsel stating that it would be giving up the said mark/ name and that the Defendant has initiated steps to change the mark and name which would be effected in due course after complying with the registration formalities in this regard. The relevant paragraphs of the said letter are extracted herein below:  “5. My client states that they are in right to use the alleged design/marks as shown in your letter, in the absence of your supportive documents that such design/marks were used earlier as trade marks by your client. However, as they have now come to know about the products/trade mark rights of your client and as they are a unit of very small means and as they prefer to disassociate with the confrontation with a giant organisation like your client, they have initiate steps to amend suitably the name of the their unit and the consequent short name for their product and the same will be effected in due course after complying with the registration formalities in this regard. Hence, my client would like to convey that you/your client may deter from further process in this regard and please be informed accordingly.”",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 6,
+                        "content": "As per the above letter, the Defendant agreed to give up the mark, however, no timeline was indicated within which the changes were to be effected. The Plaintiffs’ counsel again wrote back to the Defendant on 22nd February, 2022 and sought an undertaking from the Defendant that the mark be changed within a period of 30 days after completing the requisite  registrations and formalities. In response to this letter, on 17th March, 2022, the counsel of Defendant wrote back assuring the Plaintiff that the Defendant is in the process of honouring the commitment `in due course’ however, no specific deadline can be put in place. Since there was no deadline which was fixed by the Defendant, the Plaintiffs got further enquiry done which revealed that Defendant was continuing to use the mark. Hence the present suit.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 7,
+                        "content": "The matter was listed on 3rd June, 2022. On the said date, the sole proprietor of the Defendant-Mr. Selvaraj Premkumar joined the proceedings virtually. He agreed to change the name of his unit and has sought time for three to four months to do so. Under such circumstances, the following directions were issued:  “18. Upon receiving the advance copy of the suit, Mr. Selvaraj Premkumar, the sole proprietor, has joined the proceedings virtually. He has also written an email to ld. Counsel for the Plaintiffs yesterday i.e., 2nd June, 2022 that he has no issue in changing the name of his unit. It was also claimed in the said email that the product of the Defendant is different from that of the Plaintiff. In the email he sought time of three to four months to change the name and mark so as to enable him to get the name rectified in the GST account and also in the bank account, IndiaMart and other websites. E-mail dated 2nd June, 2022 sent by the Defendant has been placed before the Court and the same reads as under:  “Hi mam,  We apologize for the inconvice and miscommunication occurred. We have no issue in changing the name as we said before, since our product is totally different from your clients products. The only problem is we need some time to change  the name of the comapny in GST and banks. since we have GST pending tax ..to be done and once the tax is paid and kept updated only we are eligible to change the name of our company.. since there was a huge crash after the Ukraine war we have some pending payment from our client and with that only we can pay the gst amount and I am 22 years old young person doesn't have any past experience in legal things I kindly ask you please solve this issue without making it big and give me some time period of 3 to 4 months to change the gst name which will be reflected in banking account, IndiaMART and other website's and am not much big background person to face this issue by traveling to Delhi court for each hearing and my mom, me and my workers are all dependent on this business only and with small unit of 3 -5 workers only we are running the unit .so please consider it and if any thing regarding this case please do contact me at any time.”",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 8,
+                        "content": "Upon being queried by the Court, the Defendant submits that if adequate time is granted the Defendant would change its name and mark. However, it is pointed out by ld. Counsel for the Plaintiff that the Defendant is intending to use the mark ‘SPPI’ in place on ‘SPP’.",
+                        "reference": "19."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 9,
+                        "content": "Heard the ld. Counsel for the Plaintiffs and the sole proprietor of the Defendant. The Plaintiffs have common law and statutory rights in the mark ‘SPP PUMPS’. Though, the Defendant is manufacturing a different kind of pump, both the Plaintiffs and the Defendant are in the same business and are using almost identical marks. In view of this fact, the Court is of the prima facie opinion that the Defendant is infringing the rights of the Plaintiff in the mark ‘SPP PUMPS’. Thus, in the opinion of the Court,  the Defendant ought to change the name/mark. The Defendant shall accordingly, stand restrained from using the mark ‘SPP’, ‘SPP PUMPS’, ‘SPPI’ ‘SPPI PUMPS’ or any other name or mark that is identical or deceptively similar to the Plaintiff’s mark ‘SPP’ or ‘SPP PUMPS’ in respect of pumps or any other cognate and allied goods. However, since the Defendant has requested for time from the Court till 30th September, 2022 to change its name, the injunction shall come into operation with effect from 1st October, 2022.",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 10,
+                        "content": "As and when the Defendant changes his name & mark, communication of the same shall be sent to ld. Counsel for the Plaintiff in which event the Court shall consider disposing of the suit on the next date. However, if the change is not effected within the stipulated time, the injunction shall come into operation from 1st October, 2022 and the Plaintiffs would be entitled to press for the relief of damages/ rendition of accounts.”",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 11,
+                        "content": "www.spppumps.in  Today, Mr. Selvaraj has joined the proceedings virtually and submits that he does not intend to use the mark ‘SPP’, ‘SPP PUMPS’, ‘SPPI’ & ‘SPPI Pumps’ or any other mark that is identical or deceptively similar to the Plaintiff’s mark in future and he has no objection if a permanent injunction is granted in favour of the Plaintiff. Ld. Counsel for the Plaintiff as also Mr. Selvaraj submit that the Defendant has now changed its name to ‘Flow Easy Cavity Pumping System’. Ld. Counsel for the Plaintiff has handed over to the Court the documents to show that the Defendant has informed them that he has effected the said change in the GST records, Registrar of Companies records, IndiaMart listing, Facebook, Twitter, Instagram and other social media platforms. Mr. Selvaraj further submits that the impugned domain name had expired and he has  www.fecpumpingsytem.com moved the website on to a new domain name .",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 12,
+                        "content": "www.spppumps.in Accordingly, taking on record the statement of Mr. Selvaraj and accepting the same, a decree of permanent injunction is granted in favour of the Plaintiff restraining the Defendant or anyone acting for or on its behalf from manufacturing, selling, offering for sale pumps or any other cognate or allied goods bearing the mark ‘SPP’, ‘SPP PUMPS’, ‘SPPI’, ‘SPPI PUMS’ or any other mark that is identical or deceptively similar to the Plaintiff’s mark/logo SPP as also from using the domain name . The reliefs prayed in paragraph 78 (f), (g), (h), of the plaint are satisfied. The relief of rendition of accounts is not pressed.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 13,
+                        "content": "The documents handed over today by ld. Counsel for the Plaintiff are taken on record which contain the email of the Defendant 20th August, 2022 and other related documents.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 14,
+                        "content": "The suit is decreed in terms of paragraphs 78 (a), (b), (c) and (d) of the Plaint. Decree sheet be drawn, accordingly.",
+                        "reference": "11."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "SC 400/2019",
+            "title": "WARNER BROS. ENTERTAINMENT INC. VS HTTP://WWW2.SERIES9.IO & ORS.",
+            "date": "10/10/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/NAC/judgement/12-10-2022//NAC10102022SC4002019_145752.pdf&ID=457905949_7",
+            "document_path": "data\\judgments\\DHC Judgments\\457905949_7.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 1,
+                        "content": "The plaintiff has filed the present suit inter-alia praying for the following reliefs:  •52. In light of the foregoing, it is most respectfully prayed that this Hon•ble Court may be pleased to:  i.  Issue an order and decree of permanent injunction restraining the Defendant No. 1 (and such other mirror/redirect/alphanumeric websites discovered to provide additional means of accessing the Defendant Website, and other domains/domain owners/website operators/entities which are discovered to have been engaging in infringing the Plaintiff's exclusive rights), its owners, partners, proprietors, officers, servants, employees, and all others in capacity of principal or agent acting for and on their behalf, or anyone claiming through, by or under it, from, in any manner hosting, streaming, reproducing, distributing, making available to the public and/or communicating to  the public, or facilitating the same, on their websites, through the internet in any manner whatsoever, any cinematograph work/content/programme/ show in relation to which Plaintiff has copyright,  ii.  Issue an order and decree directing the Defendant Nos. 2-10, their directors, partners, proprietors, officers, affiliates, servants, employees, and all others in capacity of principal or agent acting for and on their behalf, or anyone claiming through, by or under it, to block access to the Defendant No. 1 website identified by the Plaintiff in the instant suit (and such other mirror/redirect/alphanumeric websites discovered to provide additional means of accessing the Defendant Website, and other domains/domain owners/website operators/entities which are discovered to have been engaging in infringing the Plaintiff's exclusive rights)  iii.  Issue an order directing the Defendant Nos. 11 and 12, to issue a notification calling upon the various internet and telecom service providers registered under it to block access to the Defendant No. 1 websites identified by the Plaintiff in the instant suit (and such other mirror/redirect/alphanumeric websites discovered to provide additional means of accessing the Defendant Website, and other domains/domain owners/website operators/entities which are discovered to have been engaging in infringing the Plaintiff's exclusive rights);  iv.  Issue an order directing the Domain Name Registrars of the Defendant Website identified by the Plaintiff in the Plaint to disclose the contact details and other details about the owner of the said websites, and other such relief as this Hon•ble Court may deem fit and proper:•",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 2,
+                        "content": "The plaintiff claims itself to be a global entertainment company under the laws of the State of Delaware, the United States of America, and as being engaged in the business of creation, production and distribution of motion pictures. The plaintiff has also received certain  reputed awards, such as the Academy Award for •Best Picture• for the motion picture •Argo• in the year 2012.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 3,
+                        "content": "It is the contention of the plaintiff that the motion pictures produced by the plaintiff, being works of visual recording and which include sound recordings accompanying such visual recordings, qualify to be a •cinematograph film• under Section 2(f) of the Copyright Act, 1957 (in short, •the Act•). The plaintiff claims that this Court has jurisdiction by virtue of Section 13(1) read with Sections 13(2) and 5 of the Act. Since the plaintiff•s cinematograph films are released in India, the cinematograph films of the plaintiff would be entitled to all the rights and protections granted under the provisions of the Act.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 4,
+                        "content": "The claim of the plaintiff is premised on the allegation of illegal and unauthorized distribution, transmission and streaming of the Plaintiff•s original content by the defendant nos. 1 and 51 (hereinafter referred to as the •rogue websites•). It is the case of the plaintiff that as a result of the unauthorized transmission of their content, the rogue websites infringe upon the copyright of the plaintiff in the original works produced by it, which have been granted protection under the provisions of the Act.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 5,
+                        "content": "The plaintiff has impleaded various Internet Service Providers (in short, •ISPs•) as the defendant nos. 2 to 10 and the concerned departments of the Government of India as the defendant nos. 11 and 12. The ISPs and the concerned departments have been impleaded for the limited relief of compliance with any directions of this Court granted in favour of the plaintiff.",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 6,
+                        "content": "The plaintiff has alleged that the defendant nos. 1 and 51 are the rogue websites. The plaintiff, vide an investigation conducted by an independent investigator, learnt of the extent of the infringing activity of the rogue websites, in as much as the rogue websites have infringed the plaintiff•s copyright under the provisions of the Act in the original cinematograph films by streaming or hosting and/or by facilitating the use of the rogue websites, inter alia by downloading and streaming the plaintiff•s original cinematograph films in which copyright vests.  6A.  It is also the case of the plaintiff that a cease-and-desist notice was served on the rogue websites calling upon them to cease from engaging in their infringing activities. Despite the cease-and-desist notice, the rogue websites continue to infringe the copyright of the plaintiff in its original content.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 7,
+                        "content": "The learned counsel for the plaintiff presses only for prayers in terms of paragraph nos. 52(i), (ii) and (iii), as noted hereinabove, of the plaint. The other reliefs as made in the plaint are not pressed.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 8,
+                        "content": "The learned counsel for the plaintiff relies upon the judgment dated 10.04.2019 passed by this Court in a batch of suits, including UTV Software Communication Ltd. & Ors. v. 1337X.to & Ors., 2019 SCC OnLine Del 8002, which dealt with the determination of rogue websites.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 9,
+                        "content": "The plaintiff has filed I.A. 13800 of 2022 under Order XIII-A of the Code of Civil Procedure, 1908 (in short, •CPC•), as applicable to commercial disputes, seeking a Summary Judgment.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 10,
+                        "content": "The grounds for filing the above application, as enumerated by the plaintiff in the same, are as follows:  a.  That all the defendants have been duly served by the plaintiff, however, only the defendant nos. 2, 7, 9, 11 and 12 have entered appearance before this Court.  b.  That the defendant nos. 1 and 51 being the rogue websites, against whom the plaintiff is seeking primary relief, are illegally streaming the plaintiff•s content on their websites and even after being duly served by the plaintiff, have decided not to contest the present suit.  c.  That the rogue websites impleaded as the defendant nos. 1 and51 have no real prospect of successfully defending the claim of copyright infringement under Section 51 of the Act and have further not chosen to contest the said claim.  d.  Additionally, there is no other compelling reason why the present suit should not be disposed of before recording of oral evidence particularly in view of the fact that there is no dispute regarding the illegal activities of the defendant nos. 1 and 51 and in any event, in the absence of any challenge or opposition to the factual allegations made in the plaint, in view of the provisions of Order VIII Rule 5 of the CPC, there is no occasion for recording of oral evidence in the present matter.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 11,
+                        "content": "The learned counsel for the plaintiff has further relied upon Clause 3 of Chapter XA of the Delhi High Court (Original Side) Rules, 2018 which states the grounds under which a Court can pass a Summary Judgment.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 12,
+                        "content": "The learned counsel for the plaintiff has drawn my attention to the two affidavits filed by Mr. Manish Vaishampayan, who conducted the  investigation with regard to the aforesaid websites at the instance of the plaintiff, to contend that the said websites need to be treated as rogue websites. With respect to this contention, reliance is placed on the following documentary evidence in support of each of the aforesaid websites:",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 14,
+                        "content": "In UTV Software (supra), this Court, as far as rogue websites are concerned, identified the following illustrative factors to be considered in determining whether a particular website falls within that class:  •59. In the opinion of this Court, some of the factors to be considered for determining whether the website complained of is a FIOL/Rogue Website are:- a.  whether the primary purpose of the website is to commit or facilitate copyright infringement;  b.  the flagrancy of the infringement, or the flagrancy of the facilitation of the infringement;  c.  Whether the detail of the registrant is masked and no personal or traceable detail is available either of the Registrant or of the user.  d.  Whether there is silence or inaction by such website after receipt of take down notices pertaining to copyright infringement.  e.  Whether the online location makes available or contains directories, indexes or categories of the means to infringe, or facilitate an infringement of, copyright;  f.  Whether the owner or operator of the online location demonstrates a disregard for copyright generally;  g.  Whether access to the online location has been disabled by orders from any court of another country or territory on the ground of or related to copyright infringement;  h.  whether the website contains guides or instructions to circumvent measures, or any order of any court, that disables access to the website on the ground of or related to copyright infringement; and i. the volume of traffic at or frequency of access to the website;  j.  Any other relevant matter.",
+                        "reference": "14."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 15,
+                        "content": "This Court clarifies that the aforementioned factors are illustrative and not exhaustive and do not apply to intermediaries as they are governed by IT Act, having statutory immunity and function in a wholly different manner. xxxxx",
+                        "reference": "60."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 17,
+                        "content": "This Court, in UTV Software (supra) further held as under:  •29. It is important to realise that piracy reduces jobs, exports and overall competitiveness in addition to standards of living for a nation and its citizens. More directly, online piracy harms the artists and creators, both the struggling as well as the rich and famous, who create content, as well as the technicians-sound engineers, editors, set designers, software and game designers-who produce it and those who support its marketing, distribution and end sales. Consequently, online piracy has had a very real and tangible impact on the film industry and rights of the owners.",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 18,
+                        "content": "The Indian Copyright Act, 1957 (•the Copyright Act•) confers a bundle of exclusive rights on the owner of a •work• and provides for remedies in case the copyright is infringed. xxxxx",
+                        "reference": "30."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 19,
+                        "content": "The above definitions make it clear that making any work available for being seen or heard by the public whether simultaneously or at places chosen individually, regardless of whether the public actually sees the film, will constitute communication of the film to the public. The intent was to include digital copies of works, which would include within its scope digital copies of  works being made available online (as opposed to the physical world). Communication can be by various means such as directly or by display or diffusion. In this context, definition of •broadcast• is also relevant which identifies communication to public by wireless diffusion or by wire. Thus, making available of a film for streaming or downloads in the form of digital copies on the internet is within the scope of •communication to the public•.",
+                        "reference": "34."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 20,
+                        "content": "It is pertinent to note that the definition of •communication to the public• was first added in  the Copyright Act by the 1983 Amendment and  was as follows:- •Communication to the public• means communication to the public in whatever manner, including communication though satellite•. xxxxx",
+                        "reference": "35."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 21,
+                        "content": "Also should an infringer of the copyright on the Internet be treated differently from an infringer in the physical world? If the view of the aforesaid Internet exceptionalists school of thought is accepted, then all infringers would shift to the e-world and claim immunity!",
+                        "reference": "53."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 22,
+                        "content": "A world without law is a lawless world. In fact, this Court is of the view that there is no logical reason why a crime in the physical world is not a crime in the digital world especially when  the Copyright Act does not make any such  distinction. xxxxx",
+                        "reference": "54."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 23,
+                        "content": "In the opinion of this Court, while blocking is antithetical to efforts to preserve a •free and open• Internet, it does not mean that every website should be freely accessible. Even the most vocal supporters of Internet freedom recognize that it is legitimate to remove or limit access to some materials online, such as sites that facilitate child pornography and terrorism. Undoubtedly, there is a serious concern associated with blocking orders that it may prevent access to legitimate content. There is need for a balance in approach and policies to avoid unnecessary cost or impact on other interests and rights. Consequently, the onus is on the right holders to  prove to the satisfaction of the Court that each website they want to block is primarily facilitating wide spread copyright infringement. xxxxxx",
+                        "reference": "80."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 24,
+                        "content": "One can easily see the appeal in passing a URL blocking order, which adequately addresses over-blocking. A URL specific order need not affect the remainder of the website. However, right-holders claim that approaching the Court or the ISPs again and again is cumbersome, particularly in the case of websites promoting rampant piracy.",
+                        "reference": "82."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 25,
+                        "content": "This Court is of the view that to ask the plaintiffs to identify individual infringing URLs would not be proportionate or practicable as it would require the plaintiffs to expend considerable effort and cost in notifying long lists of URLs to ISPs on a daily basis. The position might have been different if defendants' websites had a substantial proportion of non-infringing content, but that is not the case.",
+                        "reference": "83."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 26,
+                        "content": "This Court is of the view that while passing a website blocking injunction order, it would have to also consider whether disabling access to the online location is in the public interest and a proportionate response in the circumstances and the impact on any person or class of persons likely to be affected by the grant of injunction. The Court order must be effective, proportionate and dissuasive, but must not create barriers to legitimate trade. The measures must also be fair and not excessively costly (See: Loreal v. Ebay, [Case C 324/09]).  xxxxxx",
+                        "reference": "84."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 27,
+                        "content": "Consequently, website blocking in the case of rogue websites, like the defendant-websites, strikes a balance between preserving the benefits of a free and open Internet and efforts to stop crimes such as digital piracy.",
+                        "reference": "86."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 28,
+                        "content": "This Court is also of the opinion that it has the power to order ISPs and the DoT as well as MEITY to take measures to stop current infringements as well as if justified by the circumstances prevent future ones.•",
+                        "reference": "87."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 29,
+                        "content": "It is notable that the plaintiff, in a similar batch of suits, including  Warner Bros. Entertainment INC v. https://skymovies.live and Others, 2022 SCC OnLine Del, wherein judgment was pronounced on 08.09.2022, had filed an application under Order XIII-A of the CPC, as applicable to commercial disputes, wherein this Court relying on the judgment in UTV Software (supra) has passed a Summary Judgment and decreed the suits in favour of the plaintiff.",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 30,
+                        "content": "In the present Suit as well, vide order dated 05.08.2019, this Court had granted an ex-parte ad-interim injunction against the defendant no. 1 (and such other domains/domain owners/website operators/entities which are discovered during the course of the proceedings to have been engaging in infringing the plaintiff's exclusive rights), their owners, partners, proprietors, officers, servants, employees, and all others in capacity of principal or agent acting for and on their behalf, or anyone claiming through, by or under it, restraining them from, hosting, streaming, reproducing, distributing, making available to the public and/or communicating to the public, or facilitating the same, in any manner, on their websites, through the internet any cinematograph work/content/programme/ show in relation to which plaintiff has copyright.",
+                        "reference": "17."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 31,
+                        "content": "This Court had further directed the defendant nos. 2 to 10 to block the domain name •Series9• and its URLs as mentioned in the table below-",
+                        "reference": "18."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 32,
+                        "content": "This Court further directed the defendant nos. 11 and 12 to suspend the above-mentioned domain name registration of the defendant No. 1 and to issue requisite notifications calling upon various ISPs and telecom service providers registered under them to block the aforementioned website identified by the plaintiff within five working days.",
+                        "reference": "19."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 33,
+                        "content": "The learned counsel for the plaintiff submits that pursuant to the ex-parte ad-interim order dated 05.08.2019, the defendant no. 11 has issued the requisite notification. The learned counsel for the plaintiff further states that the defendant nos. 2 to 10 have blocked the defendant no. 1•s rouge websites. This Court had also passed the following direction in its order dated 05.08.2019:  •21. Further, as held by this court in UTV Software Communication Ltd. (supra), in order for this court to be freed from constant monitoring and adjudicating the issues of mirror/redirect/alphanumeric websites it is directed that as and when Plaintiff file an application under Order I Rule 10 for impleadment of such websites, Plaintiff shall file an affidavit confirming that the newly impleaded website is mirror/redirect/alphanumeric website with sufficient supporting evidence. Such application shall be listed before the Joint Registrar, who on being satisfied with the material placed on record, shall issue directions to the ISPs to disable access in India to such mirror/redirect/alphanumeric websites•.",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 34,
+                        "content": "In light of the aforesaid direction, the plaintiff filed the subsequent application under Order I Rule 10 of the CPC for the impleadment of the defendant no.51, that is, I.A. 18417 of 2019 in the present suit proceedings, which was allowed by the Court and the ex-parte ad-interim order dated 05.08.2019 was thereby extended to the defendant no. 51, vide order dated 24.12.2019.",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 35,
+                        "content": "On 13.07.2022, the Court allowed the defendant no. 12•s application, that is, I.A. 15810 of 2019 seeking deletion from the array of parties and the plaintiff has not prayer relief against the defendant no.12 in the present Suit.",
+                        "reference": "22."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 36,
+                        "content": "Thereafter, on 06.09.2021, the learned Joint Registrar (Judicial), passed the following order in regard to rogue websites, that is, the defendant nos.1 and 51 :- •All of the contesting defendants against whom substantial relief has been sought by the plaintiff have been served, however they have not preferred to appear to contest this case or to file written statement and affidavit of admission/denial of documents. In this regard law shall take its own course.  Learned counsel for plaintiff submits that there is no document for admission/denial of documents. Hence, pleadings stand complete.  Other defendants who were supposed to comply with interim directions have already complied with.•",
+                        "reference": "23."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 37,
+                        "content": "Since the defendant nos. 1 and 51 are not appearing, despite notice, in my opinion, the suit can be heard and decided summarily. The defendant nos. 1 and 51 have no real prospect of successfully defending the claim of copyright infringement and have further not chosen to contest the said claim. The present matter is mainly concerned with  enforcement of the injunction orders which are passed against the rogue websites who do not have any defense to the claim of copyright infringement but use the anonymity offered by the internet to engage in illegal activities, such as copyright infringement in the present case. This is a fit case for passing a Summary Judgment invoking the provisions of Order XIII-A of the CPC, as applicable to the commercial disputes, read with Rule 27 of the Delhi High Court Intellectual Property Rights Division Rules, 2022.",
+                        "reference": "24."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 38,
+                        "content": "In the present case, applying the test as laid down in UTV Software (supra), and considering the documents filed and the averments made in the plaint, which remained uncontroverted, it has to be held that the defendant no. 1 and 51 are •rogue websites•, with their primary purpose being to commit and facilitate infringement of the copyright of the plaintiff. The plaintiff is therefore, held entitled to a decree in terms of prayers made in paragraph no. 52(i), (ii) and (iii) of the plaint.",
+                        "reference": "25."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 39,
+                        "content": "In UTV Software (supra), the Court also examined the issue of grant of dynamic injunctions and permitted subsequent impleadment of mirror/redirect/alphanumeric websites which provide access to the rogue websites, by filing an application under Order I Rule 10 of the CPC before the learned Joint Registrar (Judicial) along with an affidavit with supporting evidence, confirming that the proposed website is mirror/redirect/alphanumeric website of the injuncted defendant websites. At the request of the counsel for the plaintiff, the same directions are liable to be made in this case also.",
+                        "reference": "26."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 40,
+                        "content": "Accordingly, I.A. No. 13800 of 2022 under Order XIII-A of the CPC, as applicable to commercial disputes, seeking a Summary Judgment is allowed. All the pending applications are also disposed of.",
+                        "reference": "27."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 41,
+                        "content": "The suit is decreed in terms of prayers given in paragraph no. 52(i), (ii) and (iii) of the plaint. Pursuant to the deletion of the defendant no. 12, the prayer (iii) of the plaint is being decreed in favour of the plaintiff and against only the defendant no. 11. The plaintiff is also permitted to implead any mirror/redirect/alphanumeric websites which provide access to the defendants nos. 1 and 51•s websites by filing an appropriate application under Order I Rule 10 of the CPC, supported by affidavits and evidence as directed in UTV Software (supra). Any website impleaded as a result of such application will be subject to the same decree.",
+                        "reference": "28."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "SC 403/2019",
+            "title": "WARNER BROS. ENTERTAINMENT INC. VS HTTP://WWW.ONLINEWATCHMOVIES.COM.PK/ & ORS.",
+            "date": "10/10/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/NAC/judgement/12-10-2022//NAC10102022SC4032019_145835.pdf&ID=457905949_8",
+            "document_path": "data\\judgments\\DHC Judgments\\457905949_8.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 2,
+                        "content": "2022  Date of decision:  + CS(COMM) 403/2019 & IA 13802/2022  WARNER BROS. ENTERTAINMENT INC.  ..... Plaintiff  Through: Ms.Suhasini Raina, Ms.R.Ramya, Ms.Mehr Sidhu, Advs.  versus  HTTP://WWW.ONLINEWATCHMOVIES.COM.PK/ & ORS.  ..... Defendants  Through: Mr.Kirtiman Singh, CGSC with Ms.Vidhi Jain, Advs. for D-26 & D-27.  CORAM:  HON'BLE MR. JUSTICE NAVIN CHAWLA",
+                        "reference": "10.10."
+                    },
+                    {
+                        "page": 1,
+                        "paragraph_number": 3,
+                        "content": "The plaintiff has filed the present suit inter-alia praying for the following reliefs:  •51. In light of the foregoing, it is most respectfully prayed that this Hon•ble Court may be pleased to:  i.  Issue an order and decree of permanent injunction restraining the Defendant No. 1 (and such other mirror/redirect/alphanumeric websites discovered to provide additional means of accessing the Defendant Websites, and other domains/domain owners/website operators/entities which are discovered to have been engaging in infringing the Plaintiff's  exclusive rights), its owners, partners, proprietors, officers, servants, employees, and all others in capacity of principal or agent acting for and on their behalf, or anyone claiming through, by or under it, from, in any manner hosting, streaming, reproducing, distributing, making available to the public and/or communicating to the public, or facilitating the same, on their websites, through the internet in any manner whatsoever, any cinematograph work/content/programme/ show in relation to which Plaintiff has copyright,  ii.  Issue an order and decree directing the Defendant Nos. 2-10, their directors, partners, proprietors, officers, affiliates, servants, employees, and all others in capacity of principal or agent acting for and on their behalf, or anyone claiming through, by or under it, to block access to the Defendant No. 1 website identified by the Plaintiff in the instant suit (and such other mirror/redirect/alphanumeric websites discovered to provide additional means of accessing the Defendant Website, and other domains/domain owners/website operators/entities which are discovered to have been engaging in infringing the Plaintiff's exclusive rights)  iii.  Issue an order directing the Defendant Nos. 11 and 12, to issue a notification calling upon the various internet and telecom service providers registered under it to block access to the Defendant No. 1 websites identified by the Plaintiff in the instant suit (and such other mirror/redirect/alphanumeric websites discovered to provide additional means of accessing the Defendant Website, and other domains/domain owners/website operators/entities which are discovered to have been engaging in infringing the Plaintiff's exclusive rights);  iv.  Issue an order directing the Domain Name Registrars of the Defendant Website identified by the Plaintiff in the Plaint to disclose the contact details and other details about the owner of the  said websites, and other such relief as this Hon•ble Court may deem fit and proper:•",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 4,
+                        "content": "The plaintiff claims itself to be a global entertainment company under the laws of the State of Delaware, the United States of America, and as being engaged in the business of creation, production and distribution of motion pictures. The plaintiff has also received certain reputed awards, such as the Academy Award for •Best Picture• for the motion picture •Argo• in 2012.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 5,
+                        "content": "It is the contention of the plaintiff that the motion pictures produced by the plaintiff, being works of visual recording and which include sound recordings accompanying such visual recordings, qualify to be a •cinematograph film• under Section 2(f) of the Copyright Act, 1957 (in short, •the Act•). The plaintiff claims that this Court has jurisdiction by virtue of Section 13(1) read with Sections 13(2) and 5 of the Act. Since the plaintiff•s cinematograph films are released in India, the cinematograph films of the plaintiff would be entitled to all the rights and protections granted under the provisions of the Act.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 6,
+                        "content": "The claim of the plaintiff is premised on the allegation of illegal and unauthorized distribution, transmission and streaming of the plaintiff•s original content by the defendant nos. 1 and 14(hereinafter referred to as the •rogue websites•). It is the case of the plaintiff that as a result of the unauthorized transmission of their content, the rogue websites infringe the copyright of the plaintiff in the original works produced by it, which have been granted protection under the provisions of the Act.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 7,
+                        "content": "The plaintiff has impleaded various Internet Service Providers (in short, •ISPs•) as the defendant nos. 2 to 10 and the concerned departments of the Government of India as the defendant nos. 11 and 12. The ISPs and the concerned departments have been impleaded for the limited relief of compliance with any directions of this Court granted in favour of the plaintiff.",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 8,
+                        "content": "The plaintiff, vide an investigation conducted by an independent investigator, learnt of the extent of the infringing activity of the rogue websites, in as much as the rogue websites have infringed the plaintiff•s copyright under the provisions of the Act in the original content by streaming or hosting and/or by facilitating the use of the rogue websites, inter alia by downloading and streaming the plaintiff•s original cinematograph films in which copyright vests.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 9,
+                        "content": "It is also the case of the plaintiff that a cease-and-desist notice was served on the rogue websites calling upon them to cease from engaging in their infringing activities. Despite the cease-and-desist notice, the rogue websites continue to infringe the copyright of the plaintiff in its original content.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 10,
+                        "content": "The learned counsel for the plaintiff presses only for prayers given in paragraph no. 51(i), (ii) and (iii), as noted hereinabove, of the plaint. The other reliefs as made in the plaint are not pressed.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 11,
+                        "content": "The learned counsel for the plaintiff relies upon the judgment dated 10.04.2019 passed by this Court in a batch of suits, including UTV Software Communication Ltd. & Ors. v. 1337X.to & Ors., 2019 SCC OnLine Del 8002, which dealt with the determination of rogue websites.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 12,
+                        "content": "The plaintiff has filed I.A. 13802 of 2022 under Order XIIIA of the Code of Civil Procedure, 1908 (in short, •CPC•), as applicable to commercial disputes, seeking a Summary Judgment.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 13,
+                        "content": "The grounds for filing the above application, as enumerated by the plaintiff in the same, are as follows:  a.  That all the defendants have been duly served by the plaintiff, however, only the defendant nos. 2, 7, 9, 11 and 12 have entered appearance before this Court.  b.  That the defendant nos. 1 and 14 being the rogue websites, against whom the plaintiff is seeking primary relief, are illegally streaming the plaintiff•s content on their websites and even after being duly served by the plaintiff, have decided not to contest the present suit.  c.  That the rogue websites impleaded as the defendant nos. 1 and 14 have no real prospect of successfully defending the claim of copyright infringement under Section 51 of the Act and have further not chosen to contest the said claim.  d.  Additionally, there is no other compelling reason why the present suit should not be disposed of before recording of oral evidence particularly in view of the fact that there is no dispute regarding the illegal activities of the defendant nos. 1 and 14 and in any event, in the absence of any challenge or opposition to the factual allegations made in the plaint, in view of the provisions of Order VIII Rule 5 of the CPC, there is no occasion for recording of oral evidence in the present matter.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 14,
+                        "content": "The learned counsel for the plaintiff has relied upon Clause 3 of Chapter XA of the Delhi High Court (Original Side) Rules, 2018 which states the grounds under which a Court can pass a Summary Judgment.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 15,
+                        "content": "The learned counsel for the plaintiff has drawn my attention to the affidavits filed by Mr. Manish Vaishampayan, who conducted the investigation with regard to the aforesaid websites at the instance of the plaintiff, to contend that the said websites need to be treated as rogue websites. With respect to this contention, reliance is placed on the following documentary evidence in support of each of the aforesaid websites:",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 17,
+                        "content": "In UTV Software (supra), this Court, as far as rogue websites are concerned, identified the following illustrative factors to be considered in determining whether a particular website falls within that class:  •59. In the opinion of this Court, some of the factors to be considered for determining whether the website complained of is a FIOL/Rogue Website are:- a.  whether the primary purpose of the website is to commit or facilitate copyright infringement;  b.  the flagrancy of the infringement, or the flagrancy of the facilitation of the infringement;  c.  Whether the detail of the registrant is masked and no personal or traceable detail is available either of the Registrant or of the user.  d.  Whether there is silence or inaction by such website after receipt of take down notices pertaining to copyright infringement.  e.  Whether the online location makes available or contains directories, indexes or categories of the means to infringe, or facilitate an infringement of, copyright;  f.  Whether the owner or operator of the online location demonstrates a disregard for copyright generally;  g.  Whether access to the online location has been disabled by orders from any court of another country or territory on the ground of or related to copyright infringement;  h.  whether the website contains guides or instructions to circumvent measures, or any order of any court, that disables access to the website on the ground of  or related to copyright infringement; and i. the volume of traffic at or frequency of access to the website;  j.  Any other relevant matter.",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 18,
+                        "content": "This Court clarifies that the aforementioned factors are illustrative and not exhaustive and do not apply to intermediaries as they are governed by IT Act, having statutory immunity and function in a wholly different manner.  xxxxx",
+                        "reference": "60."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 20,
+                        "content": "This Court, in UTV Software (supra) further held as under:  •29. It is important to realise that piracy reduces jobs, exports and overall competitiveness in addition to standards of living for a nation and its citizens. More directly, online piracy harms the artists and creators, both the struggling as well as the rich and famous, who create content, as well as the technicians-sound engineers, editors, set designers, software and game designers-who produce it and those who support its marketing, distribution and end sales. Consequently, online piracy has had a very real and tangible impact on the film industry and rights of the owners.",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 21,
+                        "content": "The Indian Copyright Act, 1957 (•the Copyright Act•) confers a bundle of exclusive rights on the owner of a •work• and provides for remedies in case the copyright is infringed.  xxxxx",
+                        "reference": "30."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 22,
+                        "content": "The above definitions make it clear that making any work available for being seen or heard by the public whether simultaneously or at places chosen individually, regardless of whether the public actually sees the film, will constitute communication of the film to the public. The intent was to include digital copies of works, which would include within its scope digital copies of works being made available online (as opposed to the physical world). Communication can be by various means such as directly or by display or diffusion. In this context, definition of •broadcast• is also relevant which identifies communication to public by wireless diffusion or by wire. Thus, making available of a film for streaming or downloads in the  form of digital copies on the internet is within the scope of •communication to the public•.",
+                        "reference": "34."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 23,
+                        "content": "It is pertinent to note that the definition of •communication to the public• was first added in  the Copyright Act by the 1983 Amendment and was as follows:- •Communication to the public• means communication to the public in whatever manner, including communication though satellite•.  xxxxx",
+                        "reference": "35."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 24,
+                        "content": "Also should an infringer of the copyright on the Internet be treated differently from an infringer in the physical world? If the view of the aforesaid Internet exceptionalists school of thought is accepted, then all infringers would shift to the e-world and claim immunity!",
+                        "reference": "53."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 25,
+                        "content": "A world without law is a lawless world. In fact, this Court is of the view that there is no logical reason why a crime in the physical world is not a crime in the digital world especially when  the Copyright Act does not make any such distinction.  xxxxx",
+                        "reference": "54."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 26,
+                        "content": "In the opinion of this Court, while blocking is antithetical to efforts to preserve a •free and open• Internet, it does not mean that every website should be freely accessible. Even the most vocal supporters of Internet freedom recognize that it is legitimate to remove or limit access to some materials online, such as sites that facilitate child pornography and terrorism. Undoubtedly, there is a serious concern associated with blocking orders that it may prevent access to legitimate content. There is need for a balance in approach and policies to avoid unnecessary cost or impact on other interests and rights. Consequently, the onus is on the right holders to prove to the satisfaction of the Court that each website they want to block is primarily facilitating wide spread copyright infringement.  xxxxxx",
+                        "reference": "80."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 27,
+                        "content": "One can easily see the appeal in passing a URL blocking order, which adequately addresses over-blocking. A URL specific order need not affect the remainder of the website. However, right-holders claim that approaching the Court or the ISPs again and again is cumbersome, particularly in the case of websites promoting rampant piracy.",
+                        "reference": "82."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 28,
+                        "content": "This Court is of the view that to ask the plaintiffs to identify individual infringing URLs would not be proportionate or practicable as it would require the  plaintiffs to expend considerable effort and cost in notifying long lists of URLs to ISPs on a daily basis. The position might have been different if defendants' websites had a substantial proportion of non-infringing content, but that is not the case.",
+                        "reference": "83."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 29,
+                        "content": "This Court is of the view that while passing a website blocking injunction order, it would have to also consider whether disabling access to the online location is in the public interest and a proportionate response in the circumstances and  the impact on any person or class of persons likely to be affected by the grant of injunction. The Court order must be effective, proportionate and dissuasive, but must not create barriers to legitimate trade. The measures must also be fair and not excessively costly (See: Loreal v. Ebay, [Case C 324/09]). xxxxxx",
+                        "reference": "84."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 30,
+                        "content": "Consequently, website blocking in the case of rogue websites, like the defendant-websites, strikes a balance between preserving the benefits of a free and open Internet and efforts to stop crimes such as digital piracy.",
+                        "reference": "86."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 31,
+                        "content": "This Court is also of the opinion that it has the power to order ISPs and the DoT as well as MEITY to take measures to stop current infringements as well as if justified by the circumstances prevent future ones.•",
+                        "reference": "87."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 32,
+                        "content": "It is notable that the plaintiff, in a similar batch of suits, including Warner Bros. Entertainment Inc. v. Otorrents.Com &Ors., 2022 SCC OnLine Del 1738, wherein judgment was pronounced on 08.09.2022 , had filed an application under Order XIII-A of the CPC, as applicable to commercial disputes, wherein this Court relying on the judgment in UTV Software (supra) has passed a Summary Judgment and decreed the suits in favour of the plaintiff.",
+                        "reference": "17."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 33,
+                        "content": "In the present Suit as well, vide order dated 05.08.2019, this Court had granted an ex-parte ad-interim injunction against the defendant no. 1 (and such other domains/domain owners/website operators/entities which are discovered during the course of the proceedings to have been engaging in infringing the plaintiff's exclusive rights), their owners,  partners, proprietors, officers, servants, employees, and all others in capacity of principal or agent acting for and on their behalf, or anyone claiming through, by or under it, restraining them from, hosting, streaming, reproducing, distributing, making available to the public and/or communicating to the public, or facilitating the same, in any manner, on their websites, through the internet, any cinematograph work/content/programme/ show in relation to which plaintiff has copyright.",
+                        "reference": "18."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 34,
+                        "content": "This Court had further directed the defendant nos. 2 to 10 to block the domain name •onlinewatchmovies• and its URLs as mentioned in the table below-",
+                        "reference": "19."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 35,
+                        "content": "This Court further directed the defendant nos. 11 and 12 to suspend the above-mentioned domain name registration of the defendant no. 1 and to issue requisite notifications calling upon various ISPs and telecom service providers registered under them to block the aforementioned website identified by the plaintiff within five working days.",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 36,
+                        "content": "The learned counsel for the plaintiff submits that pursuant to the ex-parte ad-interim order dated 05.08.2019, the defendant no. 11 has issued the requisite notification. The learned counsel for the plaintiff  further states that the defendant nos. 2 to 10 have blocked the defendant no.1•s rogue website.",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 38,
+                        "content": "Further, as held by this court in UTV Software Communication Ltd. (supra), in order for this court to be freed from constant monitoring and adjudicating the issues of mirror/redirect/alphanumeric websites it is directed that as and when Plaintiff file an application under Order I Rule 10 for impleadment of such websites, Plaintiff shall file an affidavit confirming that the newly impleaded website is mirror/redirect/alphanumeric website with sufficient supporting evidence. Such application shall be listed before the Joint Registrar, who on being satisfied with the material placed on record, shall issue directions to the ISPs to disable access in India to such mirror/redirect/alphanumeric websites•.",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 39,
+                        "content": "In light of the aforesaid direction, the plaintiff filed the subsequent application under Order I Rule 10 of CPC for the impleadment of the defendant no.14, that is, I.A 8950 of 2020, in the present suit proceedings, which was allowed by the Court and the ex-parte ad-interim order dated 05.08.2019 was thereby extended to the defendant no. 14, vide order dated 08.10.2020.",
+                        "reference": "23."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 40,
+                        "content": "Thereafter, on 06.05.2022, the learned Joint Registrar (Judicial), passed the following order in regard to rogue websites, that is, the defendant nos.1 and 14:- ••All of the contesting defendants against whom substantial relief has been sought by the plaintiff have been served, however they have not preferred to appear to contest this case or to file  written statement and affidavit of admission/denial of documents. In this regard law shall take its own course.  Learned counsel for plaintiff submits that there is no document for admission/denial of documents. Hence, pleadings stand complete.  Other defendants who were supposed to comply with interim directions have already complied with.  At request, let the matter be placed before the Hon•ble Court for further directions on 13.07.2022.•",
+                        "reference": "24."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 41,
+                        "content": "Thereafter on 13.07.2022, the Court allowed the defendant no. 12•s application, being I.A. 15809 of 2019, seeking deletion from the array of parties, as the plaintiff has not prayed for any relief against the defendant no.12 in the present Suit.",
+                        "reference": "25."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 42,
+                        "content": "Since the defendant nos. 1 and 14 are not appearing, despite service of notice, in my opinion, the suit can be heard and decided summarily. The defendant nos. 1 and 14 have no real prospect of successfully defending the claim of copyright infringement and have further chosen to not contest the said claim. The present matter is mainly concerned with enforcement of the injunction orders which are passed against the rogue websites who do not have any defence to the claim of copyright infringement but use the anonymity offered by the internet to engage in illegal activities, such as copyright infringement in the present case. This is a fit case for passing a Summary Judgment invoking the provisions of Order XIII-A of the CPC, as applicable to the commercial disputes, read with Rule 27 of the Delhi High Court Intellectual Property Rights Division Rules, 2022.",
+                        "reference": "26."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 43,
+                        "content": "In the present case, applying the test as laid down in UTV Software (supra), and considering the documents filed and the averments made in the plaint, which remained uncontroverted, it has to be held that the defendant no. 1 and 14 are •rogue websites•, with their primary purpose being to commit and facilitate infringement of the copyright of the plaintiff. The plaintiff is therefore, held entitled to a decree in terms of prayers made in paragraph no. 51(i), (ii) and (iii) of the plaint.",
+                        "reference": "27."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 44,
+                        "content": "In UTV Software (supra), the Court also examined the issue of grant of dynamic injunctions and permitted subsequent impleadment of mirror/redirect/alphanumeric websites which provide access to the rogue websites, by filing an application under Order I Rule 10 of the CPC before the learned Joint Registrar (Judicial) along with an affidavit with supporting evidence, confirming that the proposed website is mirror/redirect/alphanumeric website of the injuncted defendant websites. At the request of the counsel for the plaintiff, the same directions are liable to be made in this case also.",
+                        "reference": "28."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 45,
+                        "content": "Accordingly, I.A. No. 13802 of 2022 under Order XIII-A of the CPC, as applicable to commercial disputes, seeking a Summary Judgment is allowed. All the pending applications are also disposed of.",
+                        "reference": "29."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 46,
+                        "content": "The suit is decreed in terms of prayers mentioned in paragraph no. 51(i), (ii) and (iii) of the plaint. Pursuant to deletion of the defendant no. 12, the prayer in terms of paragraph no. 51(iii) of the plaint is being decreed in favour of the plaintiff and against only the defendant no. 11.  The plaintiff is also permitted to implead any mirror/redirect/alphanumeric websites which provide access to  the defendants nos. 1 and 14 websites by filing an appropriate application under Order I Rule 10 of the CPC, supported by affidavits and evidence as directed in UTV Software (supra). Any website impleaded as a result of such application will be subject to the same decree.",
+                        "reference": "30."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "SC 407/2019",
+            "title": "WARNER BROS. ENTERTAINMENT INC. VS HTTPS://WW2.MOVIERULZFREE.COM & ORS",
+            "date": "10/10/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/NAC/judgement/12-10-2022//NAC10102022SC4072019_150047.pdf&ID=457905949_9",
+            "document_path": "data\\judgments\\DHC Judgments\\457905949_9.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 1,
+                        "content": "The plaintiff has filed the present suit inter-alia praying for the following reliefs:  •50. In light of the foregoing, it is most respectfully prayed that this Hon•ble Court may be pleased to:  i.  Issue an order and decree of permanent injunction restraining the Defendant No. 1 (and such other mirror/redirect/alphanumeric websites discovered to provide additional means of accessing the Defendant Websites, and other domains/domain owners/website operators/entities which are discovered to have been engaging in infringing the Plaintiff's exclusive rights), its owners, partners, proprietors, officers, servants, employees, and all others in capacity of principal or agent acting for  and on their behalf, or anyone claiming through, by or under it, from, in any manner hosting, streaming, reproducing, distributing, making available to the public and/or communicating to the public, or facilitating the same, on their websites, through the internet in any manner whatsoever, any cinematograph work/content/programme/ show in relation to which Plaintiff has copyright,  ii.  Issue an order and decree directing the Defendant Nos. 2-10, their directors, partners, proprietors, officers, affiliates, servants, employees, and all others in capacity of principal or agent acting for and on their behalf, or anyone claiming through, by or under it, to block access to the Defendant No. 1 website identified by the Plaintiff in the instant suit (and such other mirror/redirect/alphanumeric websites discovered to provide additional means of accessing the Defendant Website, and other domains/domain owners/website operators/entities which are discovered to have been engaging in infringing the Plaintiff's exclusive rights)  iii.  Issue an order directing the Defendant Nos. 11 and 12, to issue a notification calling upon the various internet and telecom service providers registered under it to block access to the Defendant No. 1 websites identified by the Plaintiff in the instant suit (and such other mirror/redirect/alphanumeric websites discovered to provide additional means of accessing the Defendant Website, and other domains/domain owners/website operators/entities which are discovered to have been engaging in infringing the Plaintiff's exclusive rights);  iv.  Issue an order directing the Domain Name Registrars of the Defendant Website identified by the Plaintiff in the Plaint to disclose the contact details and other details about the owner of the said websites, and other such relief as this Hon•ble Court may deem fit and proper:•",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 2,
+                        "content": "The plaintiff claims itself to be a global entertainment company under the laws of the State of Delaware, the United States of America, and as being engaged in the business of creation, production, and distribution of motion pictures. The plaintiff has also received certain reputed awards, such as the Academy Award for •Best Picture• for •Argo• in 2012.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 3,
+                        "content": "It is the contention of the plaintiff that the motion pictures produced by the plaintiff, being works of visual recording and which include sound recordings accompanying such visual recordings, qualify to be a •cinematograph film• under Section 2(f) of the Copyright Act, 1957 (in short •the Act•). The plaintiff claims that this Court has jurisdiction by virtue of Section 13(1) read with Sections 13(2) and 5 of the Act. Since the plaintiff•s cinematograph films are released in India, the cinematograph films of the plaintiff would be entitled to all the rights and protections granted under the provisions of the Act.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 4,
+                        "content": "The claim of the plaintiff is premised on the allegation of illegal and unauthorized distribution, transmission and streaming of the plaintiff•s original content by the defendant Nos. 1, 14-27, 28-30, 31-53, 54-69, 70-72 (hereinafter referred to as the •rogue websites•). It is the case of the plaintiff that as a result of the unauthorized transmission of their content, the rogue websites infringe the copyright of the plaintiff in the original works produced by it, which have been granted protection under the provisions of the Act.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 5,
+                        "content": "The plaintiff has impleaded various Internet Service Providers (in short, •ISPs•) as the defendant Nos. 2-10 and concerned departments of the Government of India as the Defendant Nos. 11 and 12. The ISPs and  the concerned departments have been impleaded for the limited relief of compliance with any directions of this Court granted in favour of the plaintiff.",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 6,
+                        "content": "The plaintiff, vide an investigation conducted by an independent investigator, learnt of the extent of the infringing activity of the rogue websites, in as much as the rogue websites have infringed the plaintiff•s copyright under the provisions of the Act in the original content by streaming or hosting and/or by facilitating the use of the rogue websites, inter alia by downloading and streaming the plaintiff•s original cinematograph films in which copyright vests.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 7,
+                        "content": "It is also the case of the plaintiff that a cease-and-desist notice was served on the rogue websites calling upon them to cease from engaging in their infringing activities. Despite the legal notice, the rogue websites continue to infringe the rights of the plaintiff in its original content.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 8,
+                        "content": "The learned counsel for the plaintiff presses only for prayers (i),  (ii)  and (iii), as noted hereinabove, of the plaint. The other reliefs as made in the plaint are not pressed.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 9,
+                        "content": "The learned counsel for the plaintiff relies upon the judgment dated 10.04.2019 passed by this Court in a batch of suits, including UTV  Software Communication Ltd. & Ors. v. 1337X.to & Ors., 2019 SCC OnLine Del 8002, which dealt with the determination of rogue websites.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 10,
+                        "content": "The plaintiff has filed I.A. 13803 of 2022 under Order XIII-A of the Code of Civil Procedure, 1908 (in short, •CPC•), as applicable to commercial disputes, seeking a Summary Judgment.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 11,
+                        "content": "The grounds for filing the above application, as enumerated by the plaintiff in the same, are as follows:  a.  That all the defendants have been duly served by the plaintiff, however, only the defendant Nos. 2, 7, 9, 11 and 12 have entered appearance before this Court.  b.  That the defendant Nos. 1 and 14 to 72 being the rogue websites, against whom the plaintiff is seeking primary relief, are illegally streaming the plaintiff•s content on their websites and even after being duly served by the plaintiff, have decided not to contest the present suit.  c.  That the rogue websites impleaded as defendant Nos. 1 and 14 to 72 have no real prospect of successfully defending the claim of copyright infringement under Section 51 of the Act and have further not chosen to contest the said claim.  d.  Additionally, there is no other compelling reason why the present suit should not be disposed of before recording of oral evidence particularly in view of the fact that there is no dispute regarding the illegal activities of the Defendant Nos. 1 & 14 to 72 and in any event, in the absence of any challenge or opposition to the factual allegations made in the plaint, in view of provisions of Order VIII Rule 5 of the CPC, there is no occasion for recording of oral evidence in the present matter.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 12,
+                        "content": "The learned counsel for the plaintiff has relied upon Clause 3 of Chapter XA of the Delhi High Court (Original Side) Rules, 2018 which states the grounds under which a Court can pass a Summary Judgment.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 13,
+                        "content": "The learned counsel for the plaintiff has drawn my attention to affidavits filed by Mr. Manish Vaishampayan, who conducted the investigation with regard to the aforesaid websites at the instance of the  plaintiff, to contend that the said websites need to be treated as rogue websites. With respect to this contention, reliance is placed on the following documentary evidence in support of each of the aforesaid websites:",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 15,
+                        "content": "In UTV Software (supra), this Court, as far as the rogue websites are concerned, identified the following illustrative factors to be considered in determining whether a particular website falls within that class:  •59. In the opinion of this Court, some of the factors to be considered for determining whether the website complained of is a FIOL/Rogue Website are:- a. whether the primary purpose of the website is to commit or facilitate copyright infringement;  b.  the flagrancy of the infringement, or the flagrancy of the facilitation of the infringement;  c.  Whether the detail of the registrant is masked and no personal or traceable detail is available either of the Registrant or of the user.  d.  Whether there is silence or inaction by such website after receipt of take down notices pertaining to copyright infringement.  e.  Whether the online location makes available or contains directories, indexes or categories of the means to infringe, or facilitate an infringement of, copyright;  f.  Whether the owner or operator of the online location demonstrates a disregard for copyright generally;  g.  Whether access to the online location has been disabled by orders from any court of another country or territory on the ground of or related to copyright infringement;  h.  whether the website contains guides or instructions to circumvent measures, or any order of any court, that disables access to the website on the ground of or related to copyright infringement; and i. the volume of traffic at or frequency of access to the website;  j.  Any other relevant matter.",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 16,
+                        "content": "This Court clarifies that the aforementioned factors are illustrative and not exhaustive and do not apply to intermediaries as they are governed by IT Act, having statutory immunity and function in a wholly different manner. xxxxx",
+                        "reference": "60."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 18,
+                        "content": "This Court, in UTV Software (supra) further held as under:  •29. It is important to realise that piracy reduces jobs, exports and overall competitiveness in addition to standards of living for a nation and its citizens. More directly, online piracy harms the artists and creators, both the struggling as well as the rich and famous, who create content, as well  as the technicians-sound engineers, editors, set designers, software and game designers-who produce it and those who support its marketing, distribution and end sales. Consequently, online piracy has had a very real and tangible impact on the film industry and rights of the owners.",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 19,
+                        "content": "The Indian Copyright Act, 1957 (•the Copyright Act•) confers a bundle of exclusive rights on the owner of a •work• and provides for remedies in case the copyright is infringed. xxxxx",
+                        "reference": "30."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 20,
+                        "content": "The above definitions make it clear that making any work available for being seen or heard by the public whether simultaneously or at places chosen individually, regardless of whether the public actually sees the film, will constitute communication of the film to the public. The intent was to include digital copies of works, which would include within its scope digital copies of works being made available online (as opposed to the physical world). Communication can be by various means such as directly or by display or diffusion. In this context, definition of •broadcast• is also relevant which identifies communication to public by wireless diffusion or by wire. Thus, making available of a film for streaming or downloads in the form of digital copies on the internet is within the scope of •communication to the public•.",
+                        "reference": "34."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 21,
+                        "content": "It is pertinent to note that the definition of •communication to the public• was first added in  the Copyright Act by the 1983 Amendment and  was as follows:- •Communication to the public• means communication to the public in whatever manner, including communication though satellite•. xxxxx",
+                        "reference": "35."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 22,
+                        "content": "Also should an infringer of the copyright on the Internet be treated differently from an infringer in the physical world? If the view of the aforesaid Internet exceptionalistsschool of thought is accepted, then all infringers would shift to the e-world and claim immunity!",
+                        "reference": "53."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 23,
+                        "content": "A world without law is a lawless world. In fact, this Court is of the view that there is no  logical reason why a crime in the physical world is not a crime in the digital world especially when  the Copyright Act does not make any such  distinction.  xxxxx",
+                        "reference": "54."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 24,
+                        "content": "In the opinion of this Court, while blocking is antithetical to efforts to preserve a •free and open• Internet, it does not mean that every website should be freely accessible. Even the most vocal supporters of Internet freedom recognize that it is legitimate to remove or limit access to some materials online, such as sites that facilitate child pornography and terrorism. Undoubtedly, there is a serious concern associated with blocking orders that it may prevent access to legitimate content. There is need for a balance in approach and policies to avoid unnecessary cost or impact on other interests and rights. Consequently, the onus is on the right holders to prove to the satisfaction of the Court that each website they want to block is primarily facilitating wide spread copyright infringement. xxxxxx",
+                        "reference": "80."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 25,
+                        "content": "One can easily see the appeal in passing a URL blocking order, which adequately addresses over-blocking. A URL specific order need not affect the remainder of the website. However, right-holders claim that approaching the Court or the ISPs again and again is cumbersome, particularly in the case of websites promoting rampant piracy.",
+                        "reference": "82."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 26,
+                        "content": "This Court is of the view that to ask the plaintiffs to identify individual infringing URLs would not be proportionate or practicable as it would require the plaintiffs to expend considerable effort and cost in notifying long lists of URLs to ISPs on a daily basis. The position might have been different if defendants' websites had a substantial proportion of non-infringing content, but that is not the case.",
+                        "reference": "83."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 27,
+                        "content": "This Court is of the view that while passing a website blocking injunction order, it would have to also consider whether disabling access to the online location is in the public interest and a proportionate response in the circumstances and  the impact on any person or class of persons likely to be affected by the grant of injunction. The Court order must be effective, proportionate and dissuasive, but must not create barriers to legitimate trade. The measures must also be fair and not excessively costly (See: Loreal v. Ebay, [Case C 324/09]).  xxxxxx",
+                        "reference": "84."
+                    },
+                    {
+                        "page": 18,
+                        "paragraph_number": 28,
+                        "content": "Consequently, website blocking in the case of rogue websites, like the defendant-websites, strikes a balance between preserving the benefits of a free and open Internet and efforts to stop crimes such as digital piracy.",
+                        "reference": "86."
+                    },
+                    {
+                        "page": 18,
+                        "paragraph_number": 29,
+                        "content": "This Court is also of the opinion that it has the power to order ISPs and the DoT as well as MEITY to take measures to stop current infringements as well as if justified by the circumstances prevent future ones.•",
+                        "reference": "87."
+                    },
+                    {
+                        "page": 18,
+                        "paragraph_number": 30,
+                        "content": "It is notable that the plaintiff, in a similar batch of suits, including Warner Bros. Entertainment Inc. v. Otorrents.Com &Ors., 2022 SCC OnLine Del 1738, wherein judgement was pronounced on 08.09.2022, had filed an application under Order XIII-A of the CPC, as applicable to commercial disputes, wherein this Court, relying on the judgement in UTV Software (supra), has passed a Summary Judgement and decreed the suits in favour of the plaintiff.",
+                        "reference": "17."
+                    },
+                    {
+                        "page": 18,
+                        "paragraph_number": 31,
+                        "content": "In the present Suit as well, vide order dated 05.08.2019, this Court had granted an ex-parte ad-interim injunction against the defendant No. 1 (and such other domains/domain owners/website operators/entities which are discovered during the course of the proceedings to have been engaging in infringing the Plaintiff's exclusive rights), their owners, partners, proprietors, officers, servants, employees, and all others in capacity of principal or agent acting for and on their behalf, or anyone  claiming through, by or under it, restraining them from, hosting, streaming, reproducing, distributing, making available to the public and/or communicating to the public, or facilitating the same, in any manner, on their websites, through the internet any cinematograph work/content/programme/ show in relation to which Plaintiff has copyright.",
+                        "reference": "18."
+                    },
+                    {
+                        "page": 19,
+                        "paragraph_number": 32,
+                        "content": "This Court had further directed the defendant Nos. 2 to 10 to block the domain name •movierulzfree.com• and its URLs as mentioned in the table below-",
+                        "reference": "19."
+                    },
+                    {
+                        "page": 19,
+                        "paragraph_number": 33,
+                        "content": "This Court further directed the defendant Nos. 11 and 12 to suspend the above-mentioned domain name registration of the defendant No. 1 and issue requisite notifications calling upon various internet and telecom service providers registered under them to block the aforementioned website identified by the plaintiff within 5 working days.",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 19,
+                        "paragraph_number": 34,
+                        "content": "The learned counsel for the plaintiff submits that pursuant to the ex-parte ad interim order dated 05.08.2019, the defendant No. 11 has issued the requisite notification. The learned counsel for the plaintiff further states that the defendant Nos. 2 to 10 have blocked the rogue websites i.e., defendant No. 1•s websites.",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 20,
+                        "paragraph_number": 35,
+                        "content": "This Court had also passed the following direction in its order dated 05.08.2019:  •21. Further, as held by this court in UTV Software Communication Ltd. (supra), in order for this court to be freed from constant monitoring and adjudicating the issues of mirror/redirect/alphanumeric websites it is directed that as and when Plaintiff file an application under Order I Rule 10 for impleadment of such websites, Plaintiff shall file an affidavit confirming that the newly impleaded website is mirror/redirect/alphanumeric website with sufficient supporting evidence. Such application shall be listed before the Joint Registrar, who on being satisfied with the material placed on record, shall issue directions to the ISPs to disable access in India to such mirror/redirect/alphanumeric websites•.",
+                        "reference": "22."
+                    },
+                    {
+                        "page": 20,
+                        "paragraph_number": 36,
+                        "content": "In light of the aforesaid direction, the plaintiff filed subsequent applications under Order 1 Rule 10 of CPC for impleadment of such mirror/redirect/alphanumeric website with sufficient supporting evidence, which were allowed by this Court and the ex-parte ad interim order dated 05.08.2019 was thereby extended to the Impleaded defendants:",
+                        "reference": "23."
+                    },
+                    {
+                        "page": 21,
+                        "paragraph_number": 37,
+                        "content": "Thereafter, on 01.08.2022, the learned Joint Registrar (Judicial), passed the following order in regard to rogue websites i.e., defendant Nos.1, 14 to 72:- ••All of the contesting defendants against whom substantial relief has been sought by the plaintiff have been served, however they have not preferred to appear to contest this case or to file written statement and affidavit of admission/denial of documents. In this regard law shall take its own course.  Learned counsel for plaintiff submits that there is no document for admission/denial of documents. Hence, pleadings stand complete.  Other defendants who were supposed to comply with interim directions have already complied with.  At request, let the matter be placed before the Hon•ble Court for further directions.•",
+                        "reference": "24."
+                    },
+                    {
+                        "page": 21,
+                        "paragraph_number": 38,
+                        "content": "Since the defendant Nos. 1, 14 to 72 are not appearing, despite notice, in my opinion, the suit can be heard and decided summarily. The defendant Nos. 1, 14 to 72 have no real prospect of successfully defending the claim of copyright infringement and have further not chosen to contest the said claim. The present matter is mainly concerned with enforcement of the injunction orders which are passed against the rogue websites who do not have any defense to the claim of copyright infringement but use the anonymity offered by the internet to engage in illegal activities, such as copyright infringement in the present case. This  is a fit case for passing a Summary Judgment invoking the provisions of Order XIIIA of CPC, as applicable to the commercial disputes, read with Rule 27 of the Delhi High Court Intellectual Property Rights Division Rules, 2022.",
+                        "reference": "25."
+                    },
+                    {
+                        "page": 22,
+                        "paragraph_number": 39,
+                        "content": "In the present case, applying the test as laid down in UTV Software (supra), and considering the documents filed and averments made in the plaint, which remained uncontroverted, it has to be held that the defendant no. 1 and 14-72 are •Rogue Websites•, with their primary purpose being to commit and facilitate infringement of the copyright of the plaintiff. The plaintiff is therefore, held entitled to a decree in terms of the prayers made in paragraph no. 50(i), (ii) and (iii) of the plaint.",
+                        "reference": "26."
+                    },
+                    {
+                        "page": 22,
+                        "paragraph_number": 40,
+                        "content": "In UTV Software (supra), the Court also examined the issue of grant of dynamic injunctions and permitted subsequent impleadment of mirror/redirect/alphanumeric websites which provide access to the rogue websites, by filing an application under Order I Rule 10 of the CPC before the learned Joint Registrar (Judicial) along with an affidavit with supporting evidence, confirming that the proposed website is mirror/redirect/alphanumeric website of the injuncted defendant websites. At the request of the counsel for the plaintiff, the same directions are liable to be made in this case also.",
+                        "reference": "27."
+                    },
+                    {
+                        "page": 22,
+                        "paragraph_number": 41,
+                        "content": "Accordingly, I.A. No. 13803 of 2022 under Order XIII-A, as applicable to commercial disputes, seeking a Summary Judgment is allowed. All the pending applications are also disposed of.",
+                        "reference": "28."
+                    },
+                    {
+                        "page": 22,
+                        "paragraph_number": 42,
+                        "content": "The suit is decreed in terms of prayers given in paragraph no. 50  (i) , (ii) and (iii) of the Plaint. The plaintiff is also permitted to implead any mirror/redirect/alphanumeric websites which provide access to the  defendants Nos. 1, 14 to 72 websites by filing an appropriate application under Order I Rule 10 of the CPC, supported by affidavits and evidence as directed in UTV Software (supra). Any website impleaded as a result of such application will be subject to the same decree.",
+                        "reference": "29."
+                    }
+                ]
+            }
+        }
+    ]
+}

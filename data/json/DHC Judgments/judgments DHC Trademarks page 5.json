@@ -1,0 +1,881 @@
+{
+    "meta": {
+        "directory": "data\\judgments\\DHC Judgments",
+        "request": {
+            "query": "Trademarks",
+            "page": 5,
+            "court": "DHC",
+            "start_page": 1,
+            "req_pages": 5,
+            "req_total": null,
+            "start_date": null,
+            "end_date": null
+        },
+        "response": {
+            "entry_start": 41,
+            "entry_end": 50,
+            "entry_total": 1572,
+            "page": 5,
+            "page_total": 157,
+            "page_previous": 4,
+            "page_next": 6,
+            "page_processed": 5,
+            "saved_total": 32,
+            "generated_at": "2023-01-05T23:17:15"
+        },
+        "filters": {
+            "sent_count": {
+                "min_sents": "2",
+                "min_words": "20",
+                "tokenizer_path": null
+            }
+        }
+    },
+    "data": [
+        {
+            "case_number": "FAI 23/2021",
+            "title": "DHANI AGGARWAL VS MAHESH YADAV & ORS",
+            "date": "22/08/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/NAC/judgement/23-08-2022//NAC22082022FAI232021_182813.pdf&ID=838337168_3",
+            "document_path": "data\\judgments\\DHC Judgments\\838337168_3.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 1,
+                        "content": "This appeal has been filed by the appellant (the plaintiff in the suit) challenging the order dated 31.08.2019 passed by the learned Additional District Judge (Central)-10, Tis Hazari Courts, Delhi (in short, ‘the ADJ’) in Suit bearing TM No. 97 of 2019 (157 of 2019) titled Ms. Dhani Aggarwal v. Mahesh Yadav & Ors., whereby the learned ADJ has been pleased to dispose of the application of the appellant filed under Order XXXIX Rules 1 and 2 read with Section 151 of the Code of Civil Procedure, 1908 (in short, the ‘CPC’) as also the application of the respondents under Order XXXIX Rule 4 read with Section 151 of the CPC, holding that prima facie the word per se, that is, ‘RAMU’ (of the  appellant) and ‘RAMAA’, ‘RAMAA MUNAKKA’ label (of the respondents) may not have phonetic similarity but the overall get up/label/packaging of the appellant has been copied by the respondents and the respondents have tried to come close to the appellant; the appellant being the prior user of the mark/label and an established brand, was entitled to the protection of its label. The learned ADJ has held that the defendants in the suit/respondents herein would be entitled to use the trade mark ‘RTC RAMAA’, but with a label and colour combination which they have adopted for their inner packaging. The respondents have been restrained from use of the outer trade dress/label/colour combination as is being used by the appellant on its products.",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 3,
+                        "content": "On the other hand, the respondents have filed cross-objections, C.M. NO. 3-2022, praying that even the limited temporary injunction has been wrongly granted and should be vacated by this Court.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 4,
+                        "content": "The learned counsel for the appellant urges that the two marks, that is ‘RAMU’ (of the appellant) and ‘RAMAA’ (of the respondents), are phonetically similar. He submits that the appellant is admittedly the proprietor and the prior user of the mark, having adopted the same honestly and in a bona fide manner in the year 1995, through her predecessor, the Late Shri Ramavtar Aggarwal. The appellant is also the registered proprietor of the said mark in various forms and for various  goods under Class 29. The appellant also has registrations in copyright for artistic works involved in the said trade mark/label/trade-dress, under the provisions of the Copyright Act, 1957. Referring to the plaint filed before the learned ADJ, he submits that the appellant had sales of Rs.33,22,23,091/-(Rupees Thirty-Three Crore Twenty-Two Lakh Twenty-Three Thousand Ninety-One only) in the financial year 2017-18 alone. He submits that the respondents have given no explanation for adopting a deceptively-similar mark for identical goods as that of the appellant.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 5,
+                        "content": "The learned counsel for the appellant further submits that the appellant became aware of the existence of the respondents/defendants in the suit only in the second week of February 2019. On further inquiry, it came to the knowledge of the appellant that the respondents have obtained registration of its mark on a ‘proposed to be used’ basis vide application no. 3772367 under Class 29, filed on 07.03.2018. The appellant has also filed an application seeking rectification of the said mark and the said proceedings are pending. He submits that therefore, not only did the appellant have a good prima facie case in its favour but also had the balance of convenience in its favour and against the respondents, as the respondents have adopted the deceptively-similar mark just prior to the filing of the suit.",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 6,
+                        "content": "He submits that the learned ADJ has made an artificial distinction between the outer packaging and the inner packaging adopted by the respondents. He submits that the trade marks ‘RAMU’ and ‘RAMAA’, which form a pre-dominant part of the packaging, being deceptively similar, the other parts of the packaging cannot be sufficient to  distinguish the two, or to hold that there will be no case of deception being caused.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 7,
+                        "content": "Placing reliance on the judgment of the Supreme Court in Laxmikant V Patel v. Chetanbhat Shah & Anr., (2002) 3 SCC 65, he submits that where there is case of deliberate and intentional misrepresentation, it would amount to a fraud and the plaintiff does not have to prove actual damage in order to succeed in an action of passing off-as the likelihood of such damage caused is sufficient.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 8,
+                        "content": "He submits that where the registration is obtained in a label mark, even the word mark contained therein is entitled to an equal protection. In support, he places reliance on the judgment dated 12.05.2022 passed by the Co-ordinate Bench of this Court in V Guard Industries Ltd. v. Crompton Greaves Consumer Electricals Ltd., CS(COMM) 92 of 2022.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 9,
+                        "content": "He further submits that the test to be adopted is that of both,-phonetic and visual similarity, both being equally important. In support, he places reliance on the judgment of Division Bench of this Court in Hitachi Ltd. v. Ajay Kr. Agarwal & Ors. MANU/DE/0698/1995. He submits that the test to be adopted is of comparison of the marks as a whole and the same cannot be dissected.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 10,
+                        "content": "Placing reliance on the judgment of this Court in Century Traders  v.  Roshan Lal Duggar & Co., AIR 1978 Del 250, he submits that the prior user trumps the registration of the trade mark. In the present case, even though the respondents obtained the registration of its mark, by the appellant being prior user, the appellant would have a better right and be entitled to protection of the said mark. He submits that, in fact, in such a case, infringement proceedings can be maintained even against a  registered proprietor of the mark in this regard. In support, he places reliance on the judgments of a Co-ordinate Bench of this Court in Clinique Laboratories LLC and Another v. Gufic Limited and Another, 2009 (41) PTC 41 (Del) as also of the Division Bench of this Court in Raj Kumar Prasad and Anr v. Abbott Healthcare (P) Ltd., 2014 SCC OnLine Del 7708.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 11,
+                        "content": "On the other hand, the learned senior counsel for the respondents submits that this Court, while exercising the power of an Appellate Court against an ad-interim order, cannot substitute its view for that of the learned Trial Court; interference will be warranted only where the view expressed by the learned ADJ is found to be perverse or unsustainable in law. In support of this assertion, he places reliance on the judgment of the Supreme Court in Wander Ltd. & Anr. v. Antox India P. Ltd., 1990 Supp SCC 727.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 12,
+                        "content": "He submits that in the present case, the two marks are different and the same has been observed prima facie by the learned ADJ as well. The packaging of the products is also different and therefore, there is absolutely no likelihood of confusion or deception being caused by the adoption of the mark ‘RAMAA’ or of the packaging by the respondents. He submits that the source of the goods is clearly mentioned and distinguished in the packaging adopted by the respondents. In support of this claim, he places reliance on the judgment of the Supreme Court in Kaviraj Pandit Durga Dutt Sharma v. Navaratna Pharmaceutical Laboratories, (1965) 1 SCR 737.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 13,
+                        "content": "The learned senior counsel for the respondents further submits that the appellant is not using the label for which she had obtained registration. In this regard, he submits that while the registration has been obtained by the appellant in the following label, the label used by the appellant is different:",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 15,
+                        "content": "He submits that by the non-use of the registered mark for more than five years, the said mark is also liable to be cancelled under Section 47 of the Trade Marks Act, 1999 (in short, ‘the Act’) and for the said purpose, the respondents have also filed an application seeking permission of the learned Trial Court to file a cancellation petition under Section 124 of the Act. He submits that this Court, while considering the interim relief to the appellant, can take into consideration whether the registration of the mark in favour of the appellant itself is prima facie liable to be cancelled. In support, he places reliance on the judgment of the Division Bench of this Court in Marico Limited. v. Agro Tech Foods Limited, (2010) 174 DLT 279 (DB).",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 16,
+                        "content": "The learned senior counsel for the respondents further submits that the respondents, being the registered proprietor of the mark, can use the  defence that a suit for trade mark infringement does not lie against the said registered proprietor. In this regard, he places reliance on the judgment of S.Syed Mohideen v. P. Sulochana Bai, (2016) 2 SCC 683.",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 17,
+                        "content": "He further submits that the word ‘RAMU’ is a common name in India and therefore, no monopoly can be claimed over the same. This itself, in his submission, is sufficient to cancel the registration of the trade mark granted in favour of the appellant.",
+                        "reference": "17."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 21,
+                        "content": "The learned senior counsel for the respondents finally submits that even the impugned order insofar as it directs the respondents to use only the inner packaging is liable to be set aside. He submits that the learned ADJ cannot issue such a mandatory direction; at best the power of the learned ADJ would be to restrain the use of a particular packaging.",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 23,
+                        "content": "The appellant in the plaint has contended that she adopted the trade mark/label ‘RAMU’ in relation to the processing and marketing of dry fruits and other allied and related goods in January 1995, through her predecessor, the Late Sh. Ramavtar Aggarwal (trading as M/s Sabar International). After the death of the Late Sh. Ramavtar Aggarwal on 09.11.2013, the appellant became the sole proprietor of M/s Sabar International. The appellant/plaintiff in the suit also gives details of the registration of her trade marks in paragraph 5 of the plaint as under:  “5. That in order to secure the statutory right in the said Trade Mark/label, the Plaintiff has also applied for and obtained various Trade Marks registration pertaining to its said Trade Marks/Label. It is pertinent that all the Trade Marks are valid. The details of the Plaintiff‟s registered Trade Marks are mentioned below”  In order to acquire statutory rights under the Trade Marks Act, 1999, the Plaintiff has also filed various other trademark applications for the said Trade marks/Labels to obtain registrations and are likely to be registered soon.”",
+                        "reference": "23."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 26,
+                        "content": "From the above, at least prima facie, the appellant has been able to show goodwill and reputation of her mark/label in which the word ‘RAMU’ is clearly the most predominant part. In V Guard Industries Ltd. (supra), this Court has held that the word mark in a label is also equally worth of protection.",
+                        "reference": "26."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 27,
+                        "content": "On the other hand, the respondents applied for registration of its  device mark ‘ ’ on 07.03.2018 on a ‘proposed to be used’ basis. The appellant/plaintiff in the suit has asserted that she gained knowledge of the use of the impugned mark by the respondents in the second week of February 2019. The appellant filed the suit from which the present appeal arises on or about 30.04.2019 and an ad-interim ex-parte order of injunction was granted in her favour on 10.07.2019, which has been vacated vide the impugned order.",
+                        "reference": "27."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 28,
+                        "content": "From the above narration, it is apparent that while the appellant/plaintiff in the suit is an established dealer and has a goodwill and reputation of her mark ‘RAMU’ by long user, the  respondents/defendants in the suit are relatively new entrant in the market as on the date of filing of the suit.",
+                        "reference": "28."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 29,
+                        "content": "Though the learned senior counsel for the respondents sought to urge that the appellant is primarily dealing in almonds whereas the respondents do not deal in almonds, at least prima facie, the same does not appear to be correct, inasmuch as the respondents itself has produced packaging of the appellant’s goods, which are khurmani and munakka.  In any case, the goods of the appellant and the respondents are related/allied goods sold over the time counters and through the same trade channels. It is imperative to look at the matter from a commercial point of view, and trade channels are an important consideration in the event competing goods are used in the same sector.",
+                        "reference": "29."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 30,
+                        "content": "This Court, in FDC Limited v. Docusuggest Healthcare, 2017 SCC OnLine Del 6381 has considered in detail the concept of ‘allied/cognate goods or services’, and has held as follows:  “51. …… Allied/cognate goods or services, as understood from the material referred to below, are those goods/services which are not identical, but can be said to be related or similar in nature (See McCarthy on Trademarks and Unfair Competition, Fourth Edition, Vol 5). The Shorter Oxford English Dictionary on Historical Principles Fifth Edition 2002, Vol. 1. defines the term “Allied” as “connected by nature or qualities; having affinity” and the term “Cognate” as “akin in origin, nature or quality”. Reference may also be made to New Webster's Dictionary and Thesaurus of the English Language, 1992 which defines “Allied” as “relating in subject or kind” and “Cognate” as “1. adj. having a common ancestor or origin (of languages or words) having a common source or root (of subjects etc.) related, naturally grouped  together.”. Cognate goods/services can be described, inter alia, as goods or services which have a trade connection -as in glucose and biscuits (See Corn Products Refining Co. v. Shangrila Food Products Ltd., AIR 1960 SC 142) or which are intended for the same class of customers -as in television picture tubes (parts thereof, video tapes and cassettes and television tuners etc.) and televisions, tuners and T.V. Kits (See Prakash Industries Ltd. v. Rajan Enterprises (1994) 14 PTC 31), or are complementary to each other -as in toothbrushes and toothpaste (See HM Sariya v. Ajanta India Ltd. (2006) 33 PTC 4).  xxxx",
+                        "reference": "30."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 31,
+                        "content": "Now, to determine whether the defendants' services are allied and cognate to plaintiff's goods, it is essential to first discuss the law on similarity in goods/services in trademarks and its development so far. While the Act is silent on the factors to be considered for similarity in goods/services, the Courts in India -relying upon international cases and literature, have consolidated the guiding principles and factors found relevant in ascertaining the similarity between goods/services. They are as follows:",
+                        "reference": "53."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 32,
+                        "content": "In Assam Roofing Ltd. v. JSB Cement LLP 2015 SCC OnLine Cal 6581, the learned Single Judge in Para 80 observes-“The test of similarity of goods is looked at from a business and commercial point of view. The nature and composition of the goods, the respective uses of the articles and the trade channels through which they are brought and sold all go into consideration in this context”. (emphasis supplied)",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 33,
+                        "content": "In Kerly's Law of Trade Marks and Trade Names, 15 Edition 2011, the learned Author in Para 9-073 has stated as under : -“As para.23 of the decision in Canon v. MQM (1999) R.P.C. 117 makes clear, all factors relating to the goods or services themselves must be taken into account. These include, inter alia, their nature, their intended purpose, their method of use  and whether they are in competition with each other or are complementary. It is clear that goods in different classes may nevertheless be considered similar, and likewise that goods or services within the same class may be found to not be similar.” (emphasis supplied)",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 34,
+                        "content": "In Para 9-075, the Learned Author has mentioned some illustrations on similar goods or services including under Para 9-078 ““Services offered by beauty salons; solarium services” similar to “business assistance with beauty preparations, sales” and “beauty preparations, perfumery, cosmetics dietetic substances””. The said illustration sources from the case of Beauty Shop Application v. Opposition of Evora BV [1999] E.T.M.R. 20, wherein the Office for Harmonization in the Internal Market (Trade Marks and Designs) also known as the Opposition Division held the defendant's services to be similar to the plaintiff's services and goods by observing that “the goods and services of the conflicting marks could be offered together and be intended for the same public.”",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 35,
+                        "content": "In British Sugar Plc. v. James Robertson & Sons Ltd. [1996] R.P.C. 281 at 294-297, relied upon in Balkrishna Hatcheries v. Nandos International Ltd. 2007 SCC OnLine Bom 449 and Advance Magazine Publishers, Inc. v. Just Lifestyle Pvt. Ltd. 2016 SCC OnLine Bom 8417, the court laid down the objective test for similarity of description of goods/services as follows:  (a)  “The uses of the respective goods or services;  (b)  The users of the respective goods or services;  (c)  The physical nature of the goods or acts of service;  (d)  The trade channels through which the goods or services reach the market;  (e)  In the case of self-serve consumer items, where in practice they are  respectively found or likely to be found in supermarkets and in particular whether they are, or are likely to be, found on the same or different shelves; and  (f) The extent to which the respective goods and services are in competition with each other : that inquiry may take into account how those in trade classify goods, for instance whether market research companies, who of course act for industry, put goods or services in the same or different sectors.”",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 36,
+                        "content": "Kerly 15 ed. while relying upon Canon (supra), further observes in Para 9-065 that the element of distinctive character of a trademark and its reputation is also viewed when determining similarity between the goods and services and whether such similarity is sufficient to give rise to the likelihood of confusion.”  (Emphasis supplied)",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 37,
+                        "content": "As held by the Supreme Court in Corn Products Refining Co. v.  Shangrila Food Products Ltd., (1960) 1 SCR 968, the test to be applied is also of ‘trade connection’. In the present case, it cannot be said that the products of the appellant and the respondents are so distinct that they cannot create any confusion in the mind of the common purchasers/consumers. The common purchasers/consumers who are aware of the mark of the appellant can easily be misguided into believing that the appellant has now expanded its business to other dry fruits, which may be considered as a natural trade progression for the plaintiff.",
+                        "reference": "31."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 38,
+                        "content": "In this regard, reference can also be made to the judgment of this Court in Ceat Tyres of India Ltd. v. Jai Industrial Services, 1990 SCC OnLine Del 360 and of the High Court of Bombay in Sunder  Parmanand Lalwani v. Caltex (India) Ltd., 1965 SCC OnLine Bom 151.",
+                        "reference": "32."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 39,
+                        "content": "Having considered the above, it now brings me to the two labels to find out if the same can be said to be identical or deceptively-similar. The test to determine the above is now too well-settled. In Corn  Products Refining (supra) and Parle Products (P) Ltd. v. J.P. & Co. Mysore, AIR 1972 SC 1359, the Supreme Court held that the question has to be approached from the point of view of a man of average intelligence and imperfect recollection. The test is of an unwary purchaser of average intelligence and imperfect recollection who would go by the overall structural and phonetic similarity. Reference may also be made to Mondelez India Foods Pvt. Ltd. and Anr. v. Neeraj Food Products, 2022 SCC OnLine Del 2199.",
+                        "reference": "33."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 40,
+                        "content": "In Cadila Healthcare Ltd. v. Cadila Pharmaceuticals Ltd., (2001) 5 SCC 73, the Supreme Court laid down the test for deciding the question of marks being ‘deceptively similar’ as under:  “35. Broadly stated in an action for passing-off on the basis of unregistered trade mark generally for deciding the question of deceptive similarity the following factors are to be considered:  a)  The nature of the marks i.e. whether the marks are word marks or label marks or composite marks i.e. both words and label works.  b)  The degree of resembleness between the marks, phonetically similar and hence similar in idea.  c)  The nature of the goods in respect of which they are used as trade marks.  d)  The similarity in the nature, character and performance of the goods of the rival traders.  e)  The class of purchasers who are likely to buy the goods bearing the marks they require, on their education and intelligence and a degree of care they are likely to exercise in purchasing and/or using the goods.  f)  The mode of purchasing the goods or placing orders for the goods.  g)  Any other surrounding circumstances which may be relevant in the extent of dissimilarity between the competing marks.",
+                        "reference": "34."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 42,
+                        "content": "In the matter of an application by Rysta Ld. to register a Trade Mark, (1943) 60 RPC 87, it has been held that “the answer to the question whether the sound of one work resembles too nearly the sound of another so as to bring the former within the limits of section 12 of the Trade Marks Act, 1938, must nearly always depend on first impression, for obviously a person who is familiar with both words will neither be deceived nor confused. It is the person who only knows the one word, and has perhaps an imperfect recollection of it, who is likely to be deceived or confused. Little assistance, therefore, is to be obtained from a meticulous comparison of the two words, letter by letter and syllable by syllable, pronounced with the clarity to be expected from a teacher of elocution.”",
+                        "reference": "35."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 43,
+                        "content": "In M/s South India Beverages Pvt. Ltd. v. General Mills Marketing Inc., (2015) 61 PTC 231 (Del.), a Division Bench of this Court held as under:  “19. Though it bears no reiteration that while a mark is to be considered in entirety, yet it is permissible to accord more or less importance or  „dominance‟ to a particular portion or element of a mark in case of composite mark. Thus, a particular element of a composite mark which enjoys greater prominence vis-a-vis other constituent elements, may be termed as a „dominant mark‟.  xxxx",
+                        "reference": "36."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 44,
+                        "content": "The view of the author makes it scintillatingly clear, beyond pale of doubt, that the principle of „anti dissection‟ does not impose an absolute embargo upon the consideration of the constituent elements of a composite mark. The said elements may be viewed as a preliminary step on the way to an ultimate determination of probable customer reaction to the conflicting composites as a whole. Thus, the principle of „anti dissection‟ and identification of „dominant mark‟ are not antithetical to one another and if viewed in a holistic perspective, the said principles rather compliment each other.”",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 45,
+                        "content": "In Walter Bushnell Pvt. Ltd. & Ors. v. Miracle Life Sciences & Anr., 2014 (59) PTC 339 (Del), a learned Single Judge of this Court has held that “in order to prove the case for infringement of trade mark, the plaintiff has to show that the essential features of the registered trade mark which has been adopted by the defendant has been taken out from the plaintiff‟s registration. Only the marks are to be compared by the Court and in case the registration is granted in favour of the plaintiff, he acquires valuable right by reason of the said registration.” It was further held that “the test of comparison of the marks side by side is not a sound one since a purchaser will seldom have the two marks actually before him when he makes his purchase. The eye is not an accurate recorder of visual detail and that marks are remembered by general impression or by some significant detail rather than by any photographic recollection of the whole. While judging the question as to whether the defendant has  infringed the trade mark by colourable imitation of the mark or not, the Court has to consider the overall impression of the mark in the minds of general public and not by merely comparing the dissimilarities in the two marks.”",
+                        "reference": "37."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 46,
+                        "content": "Applying the above test to the facts of the present appeal, it must be held that the words ‘RAMU’ and ‘RAMAA’, are the predominant part of the two label marks; the same closely resemble each other – both structurally as also phonetically; the class of purchasers are those who would not pay much attention to the dissimilarities in the two labels but go by their imperfect recollection of the marks; the goods are sold over-the-counter and through e-commerce websites, therefore, having the same selling point; the use of the prefix ‘RTC’ is also not sufficient to distinguish the two marks or the source of the goods. The two marks, therefore, are deceptively similar to each other.",
+                        "reference": "38."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 47,
+                        "content": "The learned ADJ in his impugned order has held that there is no visual and phonetic similarity between the trade marks ‘RAMU’ and ‘RAMAA’. In my opinion, the learned ADJ has erred in law in reaching the above conclusion. It has not only failed to apply the test culled out hereinabove, but also seems to have adopted the test of comparison of the marks side-by-side, which as observed herein above, is not the correct test. Phonetically the two marks, that is, ‘RAMU’ and ‘RAMAA’ are similar and would cause confusion in the mind of an unwary consumer wanting to purchase goods like dry fruits off-the-shelf. It appears that the test applied by the learned ADJ in the present case is not of an unwary consumer with imperfect recollection but of a person who has an ideal  memory and therefore, who can easily distinguish between the two marks.",
+                        "reference": "39."
+                    },
+                    {
+                        "page": 18,
+                        "paragraph_number": 48,
+                        "content": "The learned ADJ has further been guided by the fact that the appellant did not file any opposition against the trade mark ‘RAMAA’ when it was advertised for registration in the Journal of Trade Marks. This, in my view, cannot be of much significance as the suit has been filed by the appellant/plaintiff in the suit immediately on coming to know of the use of the mark by the respondents/defendants in the suit. The advertisement of a mark of an opponent can escape one’s attention and therefore, such mark can proceed to registration. However, on coming to know of the use of the mark, if the proprietor has taken immediate action, it cannot be said that the proprietor has acquiesced the use of such deceptively-similar mark by their opponent. [Ref: Midas Hygiene Industries (P) Ltd. v. Sudhir Bhatia, (2004) 3 SCC 90]. It is also well-settled that an injunction can be granted even against a registered proprietor of a mark. Reference in this regard may be made to the judgment of this Court in Clinique Laboratories LLC and Another (supra).",
+                        "reference": "40."
+                    },
+                    {
+                        "page": 18,
+                        "paragraph_number": 49,
+                        "content": "In S. Syed Mohideen (supra), which has been relied upon by the learned senior counsel for the respondents, it has been held that the rights of prior user are superior to that of registration and are unaffected by the registration rights under the Act. Registration merely recognises the rights which are pre-existing in common law and does not create any rights and in case of conflict between the two registered proprietors, the evaluation of the better rights in common law is essential as the common law rights would enable the court to determine whose rights between the  two registered proprietors are better and superior in common law which have been recognised in the form of the registration by the Act. Applying the said principle, the appellant being the prior adopter of the mark, certainly has a superior right over the respondents in the said mark and is entitled to protection of the same notwithstanding the registration obtained by the respondents.",
+                        "reference": "41."
+                    },
+                    {
+                        "page": 19,
+                        "paragraph_number": 50,
+                        "content": "The learned ADJ has also come to the conclusion that the respondents have used the packaging which is similar to that of the appellant; the kind of packaging material used by the respondent is absolute similar; the colour combination of packaging at serial nos.3,4,6 and 9 are deceptively-similar; the adoption of different label for inner and outer packaging shows the dishonesty on the part of the respondents; and that the overall get up/label/packaging has been copied by the respondents, and they have attempted to come close to the appellant, which has been in the market prior to the respondents’ mark and was an established brand. In spite of having reached the above conclusion, the learned ADJ in the impugned order, has allowed the respondents to use the trade mark ‘RTC RAMAA’ with the label and colour combination, which they have for their inner packaging.",
+                        "reference": "42."
+                    },
+                    {
+                        "page": 19,
+                        "paragraph_number": 51,
+                        "content": "The above direction is also incorrect. The learned ADJ has also failed to appreciate that once it is held that the adoption and user of a mark by the respondent was not bona fide but was, in fact, intended to deceive, injunction must follow. Reliance in this regard is placed on a judgment of the Supreme Court in Renaissance Hotel Holdings Inc. v. B. Vijaya Sai and Others, (2022) 5 SCC 1.",
+                        "reference": "43."
+                    },
+                    {
+                        "page": 20,
+                        "paragraph_number": 52,
+                        "content": "In Laxmikant Patel (supra), it has been held that where a defendant has imitated or adopted the plaintiff’s distinctive trade mark or business name, the order may be of an absolute injunction that he would not use or carry out business under that name.",
+                        "reference": "44."
+                    },
+                    {
+                        "page": 20,
+                        "paragraph_number": 53,
+                        "content": "In the present case, the packaging, both outer and inner adopted by the respondents, appears to be intending to merely come as close to the appellant as possible. As held in Baker v. Master Printers Union of New Jersey, 47 USPQ 69 at 72 (D.N.J. 1940) and quoted by the learned Single Judge of this Court in Marico Limited v. Mr.Mukesh Kumar & Ors., 2018 SCC OnLine Del 10823), “The most successful form of copying is to employ enough points of similarity to confuse the public with enough points of different to confuse the courts. Few would be stupid enough to make exact copies of another‟s mark or symbol.”",
+                        "reference": "45."
+                    },
+                    {
+                        "page": 21,
+                        "paragraph_number": 56,
+                        "content": "The submission of the learned senior counsel for the respondents that dissimilarity of packaging by reason of variation in colours and other features of their general get-up negates the appellant’s claim of passing off cannot be accepted. It is the overall impression of the mark and the label which is the guiding principle and not the minute dissimilarity, as are being pointed out by the learned senior counsel for the respondents. The judgment in Kaviraj Pandit Durga Dutt Sharma (supra), therefore, is not applicable to the facts of the present case.",
+                        "reference": "48."
+                    },
+                    {
+                        "page": 22,
+                        "paragraph_number": 57,
+                        "content": "The submission of the learned senior counsel for the defendant that no injunction can be granted in favour of the appellant as it is using a label/mark which is different from the one that is registered and that such registration itself is liable to be cancelled on this ground, also cannot be accepted at this stage. When enquired as to whether the plea of non-user was taken by the respondents in the written statement filed in the suit which is pending before the learned ADJ, the learned senior counsel for the respondents drew my attention to paragraph 6 of the preliminary submissions/objections in the written statement in the suit, which reads as under:  “6. That the Defendant Nos. 1 & 2 further submit that the Plaintiff‟s registered trademark with No. 1409501 is also liable to be cancelled in as much as while the Plaintiff claims the date of first use in respect of the same to be 01.01.1995, however, the Plaintiff has failed to produce a single document in support of its such plea of use prior to the year of 2006.”",
+                        "reference": "49."
+                    },
+                    {
+                        "page": 22,
+                        "paragraph_number": 58,
+                        "content": "The above averment in the written statement in the suit is very different to the one that is being argued before this Court. As presently there is neither an averment in the written statement in the suit by the defendants/respondents that the registration granted in favour of the plaintiff/appellant is liable to be cancelled for its non-user, nor does this submission appear to have been made before the learned ADJ, the said plea cannot be considered in the present appeal.",
+                        "reference": "50."
+                    },
+                    {
+                        "page": 22,
+                        "paragraph_number": 59,
+                        "content": "Apart from the fact that a plea of non-user of the mark has not been taken by the respondents before the learned ADJ, the fact remains that the appellant is not seeking a right on the stylised version of its mark  ‘RAMU’ but on the word per se. It is the words ‘RAMU’ and ‘RAMAA’ which are found to be phonetically similar and likely to deceive and not their stylised versions. The claim of the appellant is not only of infringement but also of the respondents/defendants passing off. Therefore, an injunction cannot be refused to the appellant if a case of passing off is made good.",
+                        "reference": "51."
+                    },
+                    {
+                        "page": 23,
+                        "paragraph_number": 60,
+                        "content": "In Veerumal Praveen Kumar v. Needle Industries (India) Ltd. & Anr., 2001 SCC OnLine Del 892, relied upon by the learned senior counsel for the respondents, there was no evidence of use of the mark and the question before the court was whether injunction can be granted only because of registration of the said mark. This was answered in the negative. However, in the present case, the misuser alleged is at best of the registered stylised version and not of the mark ‘RAMU’. The said judgment therefore, cannot have any application to the facts of the present case. For the same reason, the judgment of the Division Bench of this Court in Fedders Llyod Corporation Ltd. & Anr. v. Fedders Corporation & Anr., 2005 (30) PTC 353 (Del), also cannot come to the rescue of the respondents.",
+                        "reference": "52."
+                    },
+                    {
+                        "page": 23,
+                        "paragraph_number": 61,
+                        "content": "The submissions of the learned senior counsel for the respondents that no monopoly can be claimed by the appellant in a common name like ‘RAMU’ and that no injunction can be granted against the use of the word ‘RAMAA’, which is the name of a Hindu God, is liable to be rejected. The word ‘RAMU’ has no association with the goods in question, that is, dry fruits. It is, therefore, arbitrary as far as the goods in question are concerned. Further, the respondents themselves having obtained registration in the mark ‘RAMAA’, are estopped from  contending that the said mark is publici juris. By seeking registration thereof, it is the respondents who have sought to obtain monopoly over the said mark.",
+                        "reference": "53."
+                    },
+                    {
+                        "page": 24,
+                        "paragraph_number": 62,
+                        "content": "Though the learned senior counsel for the respondents has rightly submitted that the Appellate Court should not interfere with the exercise of discretion of the Court of the first instance and substitute its own discretion, however, in the facts of the present case, in my opinion, the discretion has been wrongly exercised by the learned ADJ by ignoring the settled principles of law. As held by the Supreme Court in Laxmikant Patel (supra), a refusal to grant an injunction in spite of the availability of facts, which are prima facie established by overwhelming evidence and material available on record justifying the grant thereof, occasions a failure of justice and such injury to the plaintiff as would not be capable of being undone at a later stage; it, therefore, becomes obligatory on the part of the Appellate Court to interfere.",
+                        "reference": "54."
+                    },
+                    {
+                        "page": 24,
+                        "paragraph_number": 63,
+                        "content": "In view of the above, the impugned order is set aside. The respondents are restrained by way of an ad-interim injunction from using, selling, soliciting, exporting, displaying, advertising or marketing their product under the mark ‘RAMAA’, ‘RAMAA MUNAKKA’ label or any other mark, which is deceptively-similar to the appellant’s trade mark ‘RAMU’, during the pendency of the suit.",
+                        "reference": "55."
+                    },
+                    {
+                        "page": 24,
+                        "paragraph_number": 64,
+                        "content": "The appeal is allowed in the above terms. There shall be no order as to costs.",
+                        "reference": "56."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "WO 101/2021",
+            "title": "M/S VEE EXCEL DRUGS & PHARMACEUTICALS (P) LTD. VS UNION OF INDIA & OTHERS",
+            "date": "18/08/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/NAC/judgement/20-08-2022//NAC18082022WO1012021_170459.pdf&ID=838337168_4",
+            "document_path": "data\\judgments\\DHC Judgments\\838337168_4.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 1,
+                        "content": "The present writ petition has been filed by the petitioner challenging the impugned order dated 31.07.2013 passed by the-then Intellectual Property Appellate Board (hereinafter referred to as •IPAB•), to a limited extent whereby the learned IPAB has allowed the rectification/cancellation petition bearing No.ORA/59/2005/TM/DEL, filed by the respondent no.2, seeking the rectification/cancellation of the petitioner•s registered trade mark •VEGA ASIA• under the registration no.1079405 in Class 05, and directed that the said trade mark be removed from the Register of Trade Marks .",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 2,
+                        "content": "The petitioner had applied for the registration of the trade mark •VEGA ASIA• on 08.02.2002, on a •proposed to be used• basis. The same was registered on 31.03.2005.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 3,
+                        "content": "On the other hand, the respondent no.2 applied for the registration of the mark of •VEGAH TABLETS• on 24.04.2002 vide the registration no. 1098288 in Class 05, claiming use thereof since 01.04.2002. The said mark was registered in favour of the respondent no.2 on 19.12.2003.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 8,
+                        "content": "The learned counsel for the petitioner submits that the petitioner was not only the prior adopter of the mark •VEGA ASIA •, but also the prior applicant for the registration of the mark. He submits that the petitioner has been using the trade mark/label •VEGA ASIA• since the year 2002.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 9,
+                        "content": "He further submits that though the respondent no.2 in its application seeking registration of the mark •VEGAH TABLETS• had claimed user only since 01.04.2002, the learned IPAB has directed the cancellation of the mark of the petitioner considering the user of the mark by the respondent no.2 to be since the year 2001. He submits that this clearly is an error apparent on the face of the record, for which the impugned order is liable to be set aside.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 10,
+                        "content": "The learned counsel for the petitioner further submits that even otherwise, the use of the mark by the petitioner shall pre-date that by the respondent no. 2 due to its acquisition of the mark •VEGA• from another entity by the name of M/s Ma Gayatri, whose use pre-dates that of the respondent no.2•s mark. He submits that M/s Ma Gayatri had filed an application seeking the registration of its mark •VEGA•, claiming user since the year 1996. Though this registration was opposed both by the petitioner as also the respondent no.2, and such opposition is still pending, M/s Ma Gayatri, vide a Licence Agreement dated 21.07.2009, assigned its rights in the trade mark/label •VEGA• to the petitioner, thereby making the petitioner a prior user of the mark and the proprietor thereof.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 11,
+                        "content": "The learned counsel for the petitioner further submits that there were a documents on record in form of an application to the Drug Controller General of India (in short, •DCGI•) made by M/s Ma Gayatri, and the No Objection Certificate (in short, •NOC•) granted in its favour on 23.07.2001 for medicinal preparation in the mark •VEGA-100• . He submits that this was sufficient evidence to show that the said mark had been in use by the predecessor-in-interest of the petitioner, namely M/s Ma Gayatri, at least since the year 2001. The petitioner being an honest and concurrent user, therefore, was entitled to the protection of its mark and its registration could not have been cancelled.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 12,
+                        "content": "Placing reliance on the judgment of this Court in M/s Kisan Industries v. M/s Punjab Food Corporation & Anr. AIR 1983 Del 387, he submits that due to such assignment of the trade mark, the petitioner became the prior user of the mark and therefore, the registration of its mark •VEGA ASIA• could not have been cancelled.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 13,
+                        "content": "The learned counsel for the petitioner further submits that the learned IPAB has erred in holding the respondent no.2 to be a prior user of the mark •VEGA• based on its claim of assignment of the said mark from M/s Vega Pharmaceuticals Pvt. Ltd (hereinafter referred to as •M/s Vega•). He submits that the trade mark •VEGA• was registered in favour of M/s Vega under the registration no.732414. It was subsequently assigned to M/s Aurochem Pharmaceuticals (India) Pvt. Ltd. (hereinafter referred to as •M/s Aurochem•) vide an Assignment Deed dated 27.04.2004. M/s Aurochem was registered as the subsequent proprietor. Vide a Deed of Cross Licensing dated 07.11.2007, the said mark was  licenced to the respondent no.2 by M/s Aurochem. The very registration of the mark •VEGA• in favour of M/s Vega was cancelled by the learned IPAB vide its order dated 08.08.2011 passed in the rectification petition bearing no. ORA/248/2009/TM/CH filed by the petitioner against M/s Aurochem and M/s Vega. He submits that therefore, the benefit of such registration of the mark obtained by M/s Vega could not have been granted to the respondent no.2. He submits that in any case, the respondent no. 2, being a mere licensee of the trade mark •VEGA•, cannot be elevated to the status of a proprietor of the impugned trade mark and was not entitled to claim any benefit thereof.",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 14,
+                        "content": "The learned counsel for the petitioner, drawing reference to the copyright registrations obtained by the respondent no.2 under the registration no. A-73948/2005 in •VEGA-50•, and vide the registration no. A-71707/2005 in •VEGA-100•, submits that as in the year 2005 also, the said marks were claimed to be •unpublished• by the respondent no.2, therefore, any user claimed by the respondent no.2 prior to the year 2005 is false.",
+                        "reference": "14."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 15,
+                        "content": "He submits that, in fact, the mala fide of the respondent no.2 is apparent from the fact that though it claimed registration of the copyright in •VEGA-50•, the label registered under the provisions of the Copyright Act, 1957 bears the mark •VEGA ASIA•, which admittedly belongs to the petitioner. In this regard, he further places reliance on the purported bill from the designer, namely Mr.Kishore Mathkar dated 01.10.2001 by which the said designer claims that he designed the label in •VEGA ASIA• for the respondent no.2. He submits that this is also a fabricated  document as the respondent no.2 has never claimed any right in the mark •VEGA ASIA•.",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 16,
+                        "content": "Placing reliance on the judgment of this Court in Pioneer Nuts and Bolts Pvt. Ltd. v. Goodwill Enterprises, 2009 (41) PTC 362 (Del) (DB) and of the Supreme Court in National Bell Co. & Anr. v. Metal Goods MFG. Co.(P) Ltd. & Anr., 1971 (1) SCR 70, he submits that in order to prove prior use, credible evidence of the user is required to be filed. Evidence such as grant of telephonic address, soliciting of business and receipt of trade enquiries does not in itself prove prior user of the mark. One stray user of the mark by the respondent would not qualify it to be the prior user or proprietor  of the mark.",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 17,
+                        "content": "He submits that even otherwise, the continued use of the mark by the petitioner till the commencement of the rectification petition filed by the respondent no.2, entitled the petitioner to claim protection of registration of the said mark in terms of Section 32 of the Trade Marks Act, 1999 (hereinafter referred to as the •Act•).",
+                        "reference": "17."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 18,
+                        "content": "Placing reliance on the judgment of this Court in Jabbar Ahmed v.  Prince Industries & Anr. 2003 (26) PTC 576 (Del), he submits that the onus to prove that the mark of the petitioner has been wrongly registered and for seeking rectification thereof lies solely on the respondent no.2. In the present case, the respondent no. 2 had failed to discharge such onus.",
+                        "reference": "18."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 19,
+                        "content": "On the other hand, the learned counsel for the respondent no.2 submits that the respondent no.2 had filed sufficient documents before the learned IPAB showing use of the trade mark •VEGA• since the year 2001. She submits that the respondent no.2 later adopted the mark •VEGAH TABLETS•, for which it obtained registration. However, for the purposes of its application seeking rectification of the mark of the petitioner, reliance was placed on the earlier adoption of the mark •VEGA• by the respondent no.2, and not the registration of mark •VEGAH TABLETS•. She submits that therefore, use of the mark •VEGAH TABLETS• was not relevant to the rectification petition.",
+                        "reference": "19."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 20,
+                        "content": "She submits that the claim of the petitioner of having used the mark •VEGA ASIA• prior to the year 2002 is false by its own claim in the application seeking registration of the said mark, where it claimed the mark to be •proposed to be used•.",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 21,
+                        "content": "As far as the claim based on the licence from M/s Ma Gayatri is concerned, she submits that, in fact, under the terms of the Licence Agreement, the petitioner is the licensor and M/s Ma Gayatri is the licensee. The marks, the user of which was allowed, were described in Appendix II of the Agreement, however, the said document has not been placed on record by the petitioner either before the learned IPAB or before this Court. The petitioner, therefore, cannot rely upon the said document to claim itself to be a prior user of the mark •VEGA•.",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 23,
+                        "content": "She submits that in any case, the jurisdiction of this Court in a writ petition is restricted to cases where it finds a serious illegality or a manifest error in the decision of the Tribunal. This Court does not sit as a Court of Appeal against the decision of a Tribunal. In this regard, she places reliance on the judgment of the Supreme Court in Ashok Kumar v.  Sitaram, (2001) 4 SCC 478.",
+                        "reference": "23."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 25,
+                        "content": "The petitioner in its application seeking registration of the mark •VEGA ASIA• had claimed the same to as •proposed to be used•. Any claim of prior user thereof by the petitioner itself, cannot therefore be accepted.",
+                        "reference": "25."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 26,
+                        "content": "As far as the petitioner•s reliance on the Licence Agreement with M/s Ma Gayatri is concerned, the said agreement describes the petitioner as a Licensor and M/s Ma Gayatri as a Licencee. By this Agreement, it is the petitioner who licenced the use of its marks to M/s Ma Gayatri and not the other way around. The learned counsel for the respondent no. 2 is correct in her submission that what those marks were can only be ascertained from Appendix II to the said agreement, which has not seen the light of the day so far. An adverse inference therefore, should be drawn against the petitioner in this regard.",
+                        "reference": "26."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 27,
+                        "content": "Clause 10.03 of the License Agreement, relied upon by the learned counsel for the petitioner, reads as under:  •10.03 That the licencee shall not claim any proprietary rights in the trademarks belonging to licensor. Licensee will never challenge validity of any trademark of the licensor. Licensee rights in the marks which existed before the execution of this agreement shall now stands relinquished in favour of the licensor who will now have exclusive rights for the said trademark.•",
+                        "reference": "27."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 28,
+                        "content": "Though the above clause states that the rights of M/s Ma Gayatri in the mark shall stand relinquished in favour of the licensor, it does not state which are those marks. Further, the petitioner has been unable to show the proprietary rights of M/s Ma Gayatri in the mark •VEGA•. The only stray document relied upon by the learned counsel for the petitioner in this regard is the NOC issued by the DCGI on 23.07.2001. The said document does not bear any reference to a trade mark . The learned counsel claims that the said NOC was granted on an application filed by M/s Swiss Pharma Pvt. Ltd., which in turn depicts the mark •VEGA-100•. However, the connection between the two documents cannot be established. Even otherwise, as rightly contended by the learned counsel for the petitioner, these documents do not show the user of the mark on the actual product. The judgment in M/s Kisan Industries (supra), therefore, cannot come to the aid of the petitioner, as in the present case, there is neither an assignment of the mark by M/s Ma Gayatri in favour of the petitioner, nor the prior use of the mark •VEGA• by M/s Ma Gayatri has been established by the petitioner. In fact, the judgment of Pioneer Nuts and Bolts Pvt. Ltd. (supra), cited by the learned counsel for the petitioner, works against the petitioner itself, as  the petitioner has not placed any credible evidence of proof of the use of the mark by M/s Ma Gayatri.",
+                        "reference": "28."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 29,
+                        "content": "As far as the user of the mark •VEGA• by the respondent no.2 is concerned, the learned counsel for the respondent no.2 has placed reliance on the following documents:  i)  The permission dated 12.08.2001 to export Sidenafil Citrate tablets under the mark •VEGA•;  ii)  Additional representation of the respondent no.2•s trade mark application for the mark •VEGA 50•, claiming use since the year 2001;  iii)  Illustrative copies of invoices raised (in the year 2001) by the respondent no.2, towards sale of its products under the mark •VEGA•;  iv)  An application dated 11.10.2001 for the removal of Excisable goods- Form AREI submitted to the Superintendent of Central Excise;  v)  A Letter issued by the FDA on a complaint filed by the petitioner herein against respondent no.2, in which the FDA has categorically held that since respondent no.2 has adopted the mark •VEGA• prior in point of time (in 2001), no action could be taken on the complaint filed by the petitioner herein;  vi)  Bill issued by one Mr.Kishore Mathkar in the year 2001 who designed the artistic work for the mark •VEGA• for respondent no.2.",
+                        "reference": "29."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 30,
+                        "content": "Based on the above documents, the learned IPAB has arrived at a conclusion that the respondent no.2 has been able to show the use of the mark •VEGA• since the year 2001. This is a finding of fact by the learned IPAB. In exercise of jurisdiction under Article 226 of the Constitution of India, such finding of fact cannot be interfered with by a court by re-appreciating evidence and coming to its own conclusion. The jurisdiction of this Court can be exercised only where such findings are found to be completely perverse or un-substantiated by any evidence on record. This Court does not sit as a Court of Appeal against the order of learned IPAB, so as to re-appreciate the evidence on merit. In this regard, reference can be made to the judgement passed by this Court in U.V.  Enterprises v. New Bharat Rice Mills, 2012 SCC OnLine Del 3645, wherein it was observed that:  \"12... One may only remind oneself that the court, while exercising jurisdiction under Article 226 of the Constitution of India, is not acting as an appellate court and, therefore, findings of fact reached by tribunals, as a result of appreciation of evidence cannot be re-opened or questioned in writ proceedings unless it is a case of no evidence or a case where a tribunal has erroneously refused to admit admissible and material evidence or, has erroneously admitted inadmissible evidence which, propelled it to come to the impugned finding. Apart from these errors, findings of fact arrived at by an inferior court or tribunal cannot be reopened. The other exceptions where the superior courts exercising writ jurisdiction can interfere are cases  where principles of natural justice are breached or a subordinate Court or tribunal acts without jurisdiction or exercises jurisdiction with material irregularity. Therefore, it is often said that a writ court is concerned with the decision making process and not the decision itself.\"",
+                        "reference": "30."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 31,
+                        "content": "Based upon the supporting documents produced by respondent no.2 to prove user of the mark •VEGA•, this Court does not find any reason to reopen the findings of fact by learned IPAB by re-appreciating evidence.",
+                        "reference": "31."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 32,
+                        "content": "At this stage, however, I must also note that in view of the order dated 08.08.2011 passed by the learned IPAB in the rectification petition filed by the petitioner against M/s Aurochem, the respondent no.2 was not entitled to claim any benefit of the assignment of the mark from M/s Vega, as such registration stood cancelled. However, the impugned order shows that the learned IPAB has not based its finding only on such assignment but on independent evidence being led by the respondent no.2 of its user in the mark •VEGA•.",
+                        "reference": "32."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 33,
+                        "content": "The assertions made by the learned counsel for the petitioner based on the application seeking registration of the mark •VEGAH TABLETS• filed by the respondent no.2, are also not relevant, as the impugned order, in fact, cancels the registration of the said mark granted in favour of the respondent no.2, however, at the same time and independently thereof holds user of the mark •VEGA• by the respondent no.2 since the year 2001, thereby making it a prior user of the said mark.",
+                        "reference": "33."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 34,
+                        "content": "As far as the claim of the petitioner on being entitled to the protection under Section 32 of the Act is concerned, it need only be noticed that the registration of the mark in favour of the petitioner was granted on 31.03.2005. The rectification petition was immediately thereafter filed by the respondent no.2. The impugned order does not reflect any submission by the petitioner that between 2002 to 2005, by use of the mark, the petitioner had acquired a distinctive character in relation to the goods, nor any claim based under Section 32 of the Act was made before the learned IPAB. The judgment in National Bell Co (supra), would, therefore, also not be of any help to the petitioner and the order of the learned IPAB cannot be challenged on this ground.",
+                        "reference": "34."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 35,
+                        "content": "The submission of the learned counsel for the petitioner, based on the judgment of this court in Jabbar Ahmed (supra), that the onus lies with the respondent to establish the grounds on which rectification is sought, is though correct, however, cannot come to the aid of the petitioner, as in the present case, the respondent no. 2 was able to discharge such onus.",
+                        "reference": "35."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "CAT 125/2021",
+            "title": "RUPTECH EDUCATIONAL INDIA VS REGISTRAR TRADE MARKS",
+            "date": "18/08/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/22-08-2022//PMS18082022CAT1252021_162520.pdf&ID=838337168_5",
+            "document_path": "data\\judgments\\DHC Judgments\\838337168_5.pdf",
+            "paragraphs": {
+                "adobe_api": []
+            }
+        },
+        {
+            "case_number": "FAOC 116/2022",
+            "title": "DEVARPAN FOODS PRIVATE LIMITED VS SUKHWANT SINGH  & ORS.",
+            "date": "17/08/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/595/judgement/22-08-2022//59517082022FAOC1162022_212944.pdf&ID=838337168_6",
+            "document_path": "data\\judgments\\DHC Judgments\\838337168_6.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 2,
+                        "content": "The learned counsel appearing for the respondents fairly states that part of the delay would be covered by the blanket orders passed by the Supreme Court in Re: Cognizance for Extension of Limitation: Suo Motu",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 5,
+                        "content": "The appellant has filed the present appeal impugning an order dated 31.01.2022, whereby the learned Commercial Court has partly allowed the application filed by the respondents (defendants) under Order VII Rules 10 and 11 of the Code of Civil Procedure, 1908 (hereafter •the CPC•).",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 7,
+                        "content": "The appellant (plaintiff) had filed a suit under Sections 134 and 135 read with Section 27(2) of the Trademarks Act, 1999 as well as under Section 51 of the Indian Copyright Act, 1957, inter alia, for permanent injunction, restraining, passing off, infringement of copyright, rendition of accounts, damages etc. against the respondents (defendants).",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 8,
+                        "content": "The appellant claims that it is, inter alia, engaged in the business of distribution, trading and marketing of snacks, sweets and namkeens under the trademark . The appellant had also applied for registration of the trademark DEVARPAN under various classes. However, the respondents have opposed the same.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 9,
+                        "content": "The appellant had also applied for the artistic work DEVARPAN under the Copyright Act, 1957 and claims that the same was registered in its favour, under Registration No. A-15308/2019.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 11,
+                        "content": "The appellant•s registered office is located within the territorial  jurisdiction of the learned Commercial Court. In its plaint, the appellant (plaintiff) had also alleged that the respondents (defendants) were selling their goods under the deceptively similar trademark in various markets, which are located within the territorial jurisdiction of the learned Commercial Court.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 12,
+                        "content": "The learned Commercial Court accepted that an action for infringement of copyright would be maintainable as the appellant (plaintiff) was entitled to file such a suit before a court exercising jurisdiction in respect of the area where its registered office is located. However, the court did not accept that any cause of action for passing off had arisen within the territorial jurisdiction of the court. This was, principally, for the reason that the appellant (plaintiff) had not produced any material to substantiate its allegations that the respondents (defendants) were selling the goods within the territorial jurisdiction of the court.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 13,
+                        "content": "Accordingly, the learned Commercial Court directed the appellant (plaintiff) to amend the plaint to restrict the action in respect of infringement of copyright and permitted the appellant (plaintiff) to file a separate suit for passing off in a court where cause of action in respect of such a relief had arisen.",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 15,
+                        "content": "In this regard, Paragraph 41 of the plaint is relevant and is reproduced as under:  •41. That this Hon'ble Court has the territorial jurisdiction to try and adjudicate the present suit. The defendants is offering  to sell and are distributing and supplying their impugned goods bearing the impugned mark to the dealers and distributors in the markets of inter alia Shahdara District i.e. in Shahdara, Vivek Vihar, Anand Vihar, GTB Enclave, Farsh Bazar, Harsh Vihar, Nand Nagari, Jyoti Nagar, Welcome, Jagat Puri, Jafrabad, Madhu Vihar, Seemapuri, M.S. Park, etc. The defendants are carrying out the impugned activities clandestinely and surreptitiously thereby committing the impugned acts of passing off within the jurisdiction of this Hon•ble Court by selling and soliciting trade, distribution and marketing networks in relation to the impugned goods under the impugned trade mark in Shahdara District market. Further, the defendants have all the intention to sell the products in the market. Hence, a part of cause of action arose within the territorial jurisdiction of this Hon•ble Court thereby this Hon•ble Court has jurisdiction to entertain and try and adjudicate the present suit under Section 20 of the Code of Civil Procedure. The defendants offers, advertise, and sell their impugned products within the jurisdiction of this Hon•ble Court and the wrong is done within the local limits of this Hon•ble Court and therefore, this Hon•ble Court also has jurisdiction to entertain and try the suit under the provision of Section 19 of the Code of Civil Procedure. This Hon•ble Court thus has the jurisdiction to try and adjudicate the suit. Further, The plaintiff is having their distributor and stockiest in Shahdara District and are selling the goods under the trademark DEVARPAN in Shahdara, Vivek Vihar, Anand Vihar, GTB Enclave, Farsh Bazar, Harsh Vihar, Nand Nagari, Jyoti Nagar, Welcome, Jagat Puri, Jafrabad, Madhu Vihar, Seemapuri, M.S. Park, etc. Infact, the Plaintiff has its registered office at D-6, Vivek Vihar, Shahdara, Delhi -110092 and supplies goods under the trademarks DEVARPAN. The Plaintiff goods are sold inter alia at Shahdara, Vivek Vihar, Anand Vihar, GTB Enclave, Farsh Bazar, Harsh Vihar, Nand Nagari, Jyoti Nagar, Welcome, Jagat Puri, Jafrabad, Madhu Vihar, Seemapuri, M.S. Park, etc. which is within the jurisdiction of this Hon'ble Court. The plaintiff has tremendous goodwill and reputation in its said  trademark within the jurisdiction of this Hon•ble Court on account of voluminous sales and distribution. The Plaintiff actually and voluntarily resides and carries on business and works for gain within the jurisdiction of this Hon•ble Court and therefore the Hon•ble Court has a jurisdiction to try and adjudicate the present suit by virtue of Section 62 (2) of the Copyright Act, 1957.  Thus, this Hon•ble Court has jurisdiction to entertain and try the present suit under Section 19, 20 of the Code of Civil Procedure and under Section 62 (2)) of the Copyright Act, 1957 as the plaintiff is carrying on the business within the jurisdiction of this Hon•ble Court. This Hon•ble Court thus has the jurisdiction to try and adjudicate the suit.•",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 16,
+                        "content": "The learned Commercial Court held that the pleadings were made in a mechanical manner and a bald statement that the respondents (defendants) were distributing and selling goods under an infringing mark in various markets within its territorial jurisdiction was insufficient for maintaining the action for passing off.",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 17,
+                        "content": "The learned Commercial Court reasoned that the appellant (plaintiff) had not disclosed any specific instances of sale of goods or produced any documents to evidence that the goods had been sold in various markets, as pleaded; therefore, the court would not have the territorial jurisdiction to entertain the suit.",
+                        "reference": "17."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 20,
+                        "content": "In Exphar Sa and Anr. v. Eupharma Laboratories Ltd. and Anr.:  (2004) 3 SCC 688, the Supreme Court observed as under:  •9. Besides, when an objection to jurisdiction is raised by way of demurrer and not at the trial, the objection must proceed on the basis that the facts as pleaded by the initiator of the impugned proceedings are true. The submission in order to succeed must show that granted those facts the court does not have jurisdiction as a matter of law. In rejecting a plaint on the ground of jurisdiction, the Division Bench should have taken the allegations contained in the plaint to be correct...•",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 21,
+                        "content": "In M/s RSPL Limited v. Mukesh Sharma & Anr.: 2016 SCC OnLine Del 4285, a Coordinate Bench of this Court, in a similar context, observed as under:  •27. Coming back to the facts of the present case, the plaintiff/appellant in paragraph 36 set out the nature of the cause of action, namely, the defendants/respondents were engaged in providing services under the impugned trade name •GHARI TRADEMARK COMPANY•. In paragraph 37 of the plaint, it has been averred, first of all, that this Court has the territorial jurisdiction to try and adjudicate the present suit. But, this by itself, would not be sufficient because merely quoting the words of a section or the ingredients of a provision like the chanting of a mantra would not amount to stating material facts as noted by the Supreme Court in Hari Shanker Jain (supra). The material facts would, inter alia, have to include positive statement of facts. In the present case, paragraph 37 of the plaint contains the positive statement of fact that the defendants are committing the impugned acts within the jurisdiction of this Court by •conducting, soliciting, rendering the impugned services under the impugned trade name•. Further statements are made in the very same paragraph that the plaintiff has its corporate office in Delhi and carries out its business activity in Delhi under its trade mark/label through its dealers/distributors located in Delhi. A specific averment has also been made that the plaintiff's  goodwill and reputation is being tarnished by the alleged activities of the defendants, particularly in North-East Delhi as also in other parts of the country and that the plaintiff/appellant's proprietary rights are being prejudicially affected in the Delhi area due to the said activities. While considering an application under Order 7 Rule 10 CPC, these statements would have to be taken as correct. This would mean that this Court would have jurisdiction to try and adjudicate the present suit by virtue of Section 134(2) of the Trade Marks Act, 1999 read with Section 20 CPC. The material fact that has been pleaded by the plaintiff is that the defendants/respondents are conducting, soliciting, rendering the impugned services under the trade name -GHARI TRADEMARK COMPANY -within the jurisdiction of this Court. In case the defendants/respondents deny this averment (as they have done in their written statement but, which cannot be looked into at the stage of Order 7 Rule 10 CPC), the issue would arise as to whether the respondents/defendants are conducting, soliciting, rendering the impugned services under the trade name-GHARI TRADEMARK COMPANY-within the jurisdiction of this Court? Obviously, the onus of proof would lie on the appellant/plaintiff and at the stage of trial, evidence would have to be placed to substantiate this plea. But, at this stage, in our view, it is not necessary as Lord Denman, C.J. in Williams v. Wilcox (supra), to set out the subordinate facts which are the means of proving the material fact or the evidence to sustain the allegation contained in the material fact. We, therefore, do not agree with the view taken by the learned Single Judge that the plaint is bereft of any particulars with regard to territorial jurisdiction. We may observe that the learned Single Judge has also looked at the written statement and even at the replication in the course of arriving at his decision. This, in the context of an Order 7 Rule 10 CPC application, cannot be done as already pointed out by us above. Taking the objection of territorial jurisdiction raised in the Order 7 Rule 10 CPC application, by way of a demurrer, as it must, the facts pleaded by the appellant/plaintiff must be taken to be true. Therefore, if we take the statement of the appellant/plaintiff in paragraph 37 to the effect that the defendants/respondents are committing the impugned acts within the jurisdiction of this Court  by conducting, soliciting, rendering the impugned services under the impugned trade name to be correct, then, it follows that this Court would have to proceed with the trial of the suit and cannot return the plaint under Order 7 Rule 10 CPC.•  (underlined for emphasis)",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 23,
+                        "content": "As is apparent from a plain reading of paragraph 41 of the plaint, the appellant (plaintiff) has averred that the respondents (defendants) were offering to sell and were distributing and supplying their goods bearing the impugned mark DEVARPAN in •markets of inter alia Shahdara District i.e. in Shahdara, Vivek Vihar, Anand Vihar, GTB Enclave, Farsh Bazar, Harsh Vihar, Nand Nagari, Jyoti Nagar, Welcome, Jagat Puri, Jafrabad, Madhu Vihar, Seemapuri, M.S. Park, etc.• Concededly, if the said statement is accepted as correct, the learned Commercial Court would have the jurisdiction to entertain the suit for passing off.",
+                        "reference": "23."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 24,
+                        "content": "At this stage, it is not permissible for the court to qualitatively examine the merits of the said statement or to proceed on the basis that the appellant (plaintiff) would fail to establish the same. It is possible that the appellant (plaintiff) may not be able to substantiate the averments made in the plaint. However, at this stage, for the purpose of jurisdiction, the only question to be considered was whether the plaint had disclosed the cause of action within the territorial jurisdiction of the learned Commercial Court. Undisputedly, it did.",
+                        "reference": "24."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 25,
+                        "content": "In M/s Allied Blenders & Distillers Pvt. Ltd. v. Prag Distillery Pvt.  Ltd. and Anr.: 2017 SCC OnLine Del 7225, the Division Bench of this Court set aside an order of the learned Single Judge (Vibhu Bakhru J), allowing an application under Order VII Rule 10 of the CPC. In that case, the plaintiff had filed the suit for restraining infringement of a trademark, copyright and passing off. The averments under the heading •cause of action• did not include any averment that the defendant was selling its products in the National Capital Territory of Delhi. It included a statement that the defendant was selling its products in the State of Andhra Pradesh. However, the plaintiff did aver in another paragraph (under the heading •Jurisdiction•) that it had a strong apprehension that the defendant would launch its offending products in Delhi. The learned Single Judge had considered the plaint as a whole and found that there was no foundation in the entire plaint for the averment that the cause of action had arisen within the territorial jurisdiction of the Court. On the principle that the plaint must be read as a whole, the application under Order VII Rule 10 of the CPC was allowed.",
+                        "reference": "25."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 26,
+                        "content": "The Division Bench, observed as under:  •10. If an application under Order VII Rule 10 of the Code is to be decided on the assumption that the averments made in the plaint are correct, then, it will have to be assumed that there is a reasonable apprehension that the defendants would sell their product in Delhi bearing the impugned mark and label•..",
+                        "reference": "26."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 27,
+                        "content": "We are of the view that the learned single Judge fell in error when he took the view that although the appellant / plaintiff had averred that it had an apprehension that the defendants would sell their product in Delhi, the said apprehension was not substantiated by any material which would indicate a reasonable ground for the plaintiff to  apprehend the same. We may point out that substantiation of an averment in a plaint by other material would come later. At the stage of filing of the plaint, it is only the averment that has to be made with regard to a material fact. Substantiation is a part of evidence.  xxxx  xxxx",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 28,
+                        "content": "In these circumstances, we are of the view that considering the plaint on a demurrer, it will have to be accepted, for the purposes of considering an application under Order VII Rule 10 of the Code that the averment of the plaintiff of the imminent and credible threat or apprehension that the defendants would launch the product in Delhi, is correct. If this be the case, then, surely a part of the cause of action has allegedly arisen in Delhi. But, this is only for the purposes of considering whether a plaint should be returned or not.•  [underlined for emphasis]",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 29,
+                        "content": "It is important to mention that whilst for the purposes of an application under Order VII Rule 10 of the CPC, only the averments made in the plaint are to be considered; there is no such restriction in considering an application under Order XXXIX Rules 1 and 2 of the CPC. The issue regarding jurisdiction would be material while considering an application under Order XXXIX Rules 1 and 2 of the CPC.  Thus, although a suit cannot be rejected in view of the averments made in the plaint, it is open for the court to prima facie examine the quality of those averments including that regarding jurisdiction of the court to entertain the suit while deciding an application under Order XXXIX Rules 1 and 2 of the CPC.",
+                        "reference": "27."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 30,
+                        "content": "In view of the above, on the anvil that the application under Order VII Rules 10 and 11 of the CPC is to be considered on a demurrer, the impugned order cannot be sustained.  The impugned order is, set aside.",
+                        "reference": "28."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "SC 435/2022",
+            "title": "M/S GLOBUS SPIRITS LTD. VS WILD BERRIES BOTTLING PVT. LTD.",
+            "date": "08/08/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/17-08-2022//PMS08082022SC4352022_132411.pdf&ID=838337168_7",
+            "document_path": "data\\judgments\\DHC Judgments\\838337168_7.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 2,
+                        "content": "The present suit has been filed seeking permanent injunction restraining the infringement of trademark, design, and copyright, passing off, damages, delivery up, and other reliefs. The Plaintiff – M/s. Globus Spirits Ltd. is engaged in the business of manufacture, marketing and sale of industry alcohol comprising rectified spirit and extra-neutral alcohol country liquor and Indian Made Foreign Liquor (IMFL), such as whisky, brandy, rum, gin, vodka, wine, etc. The Plaintiff has a brand portfolio of its own in the country liquor segment such as ‘WHITE LACE’ Gin, ‘WHITE LACE’ Vodka, etc.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 1,
+                        "paragraph_number": 3,
+                        "content": "The case of the Plaintiff is that it has coined and adopted the mark ‘WHITE LACE’ for gin in the year 2000. The said mark was also adopted for its vodka products in the year 2019. The Plaintiff is stated to be selling its goods bearing the mark ‘WHITE LACE’ in Delhi, Haryana and  Rajasthan. On account of the long, continuous and extensive use of the trade mark ‘WHITE LACE’ in relation to alcoholic beverages, it is submitted that the Plaintiff has attained immense goodwill and reputation for its mark ‘WHITE LACE’. In the year 2021-22, the Plaintiff is stated to have sold 94,050 cases of 750 ml. liquor and 25,81,102 cases of 180 ml. liquor. The Plaintiff has also obtained various registrations in respect of the trademark/label ‘WHITE LACE’ without and in conjunction with other words. The details of the said registrations have been set out in the Plaint.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 4,
+                        "content": "The Plaintiff claims rights in the distinctive label for its products branded under the mark ‘WHITE LACE’. The said label has been set out below:",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 5,
+                        "content": "On the other hand, the Defendant – Wild Berries Bottling Pvt. Limited is engaged in the identical business of marketing and sale of alcoholic beverages. It is the case of the Plaintiff that the Defendant has been selling its identical products under the impugned marks ‘WILD LAKE’ and ‘WHITE LACE’ which are identical and deceptively similar to the Plaintiff’s registered mark ‘WHITE LACE’. The Defendant’s impugned product label is depicted below:",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 6,
+                        "content": "The Defendant applied for the mark ‘WHITE LACE’, vide Trademark Application No.4960980 in Class 33, in respect of “Alcoholic beverages (except beer) being Goods included in Class 33” on a ‘proposed-to-be-used basis’. The said application has been opposed. The Defendant further applied for the mark ‘WILD LAKE’, vide Trademark Application No.4979638 in Class 33, in respect of “Alcoholic beverages (except beer) being Goods included in Class 33” on a ‘proposed-to-be-used basis’. The said application has also been opposed by the Plaintiff.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 7,
+                        "content": "Vide order dated 15th June, 2022, an ex parte ad-interim injunction was granted in the present suit. On the said date, a Local Commissioner was also appointed to visit the premises of the Defendant. The relevant portion of the order dated 15th June, 2022 is set out below:  “24. Having heard learned counsel for the Plaintiff, this Court is of the view that Plaintiff has made out a prima facie case for grant of ex parte ad-interim injunction. Balance of convenience lies in favour of the Plaintiff and it is likely to suffer irreparable harm in case the injunction, as prayed for, is not granted.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 8,
+                        "content": "Accordingly, Defendant, its officers, servants, agents, dealers, distributors and all other are restrained from manufacturing, exporting, selling, offering for sale, exhibiting, advertising, directly or indirectly dealing in goods bearing the trademarks WILD LACE and WILD LAKE or from doing any other thing as is likely to lead to confusion or deception, thereby resulting in infringement of Plaintiffs registered trademarks bearing registration nos. 1565317, 4215690, 4949964, 4956373 and 5224218 in class 33.",
+                        "reference": "25."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 9,
+                        "content": "Defendant, its officers, servants, agents, dealers, distributors and all other are further restrained from manufacturing, exporting, selling, offering for sale, exhibiting, advertising, directly or indirectly dealing in goods such as Whisky, Brandy, Rum, Gin, Vodka, Wine, and other Alcohol Beverages and other cognate/allied goods under the trademark WILD LACE or WILD LAKE or any other identical/deceptively similar trademark to the Plaintiff s trademark WHITE LACE or from doing any other thing as is likely to lead to confusion or deception thereby resulting in passing off of the Defendant's goods as those of the Plaintiff.",
+                        "reference": "26."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 10,
+                        "content": "Defendant, its officers, servants, agents, dealers, distributors and all other are further restrained from manufacturing, exporting, selling, offering for sale, exhibiting, advertising, directly or indirectly dealing in goods bearing the trademarks WILD LACE and WILD LAKE or from doing any other thing as is likely to lead to confusion or deception thereby resulting in infringement of copyright of the label.  xxx xxx  xxx",
+                        "reference": "27."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 11,
+                        "content": "Accordingly, Mr. Amit Acharya, Advocate (Mobile No. 9873024619) is appointed as Local Commissioner, who shall visit the premises of the Defendant at the following address:- M/s Wild Berries Bottling Pvt. Ltd.  E-16, 16-A, 17 Ricco Industrial Area,  Sotnala, Behror, Distt, Alwar  Rajasthan, 301701",
+                        "reference": "31."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 12,
+                        "content": "Local Commissioner shall visit the aforesaid premises, search and take into custody the infringing products bearing the Plaintiff s  registered trademarks, in finished or unfinished condition, including packaging material, label, printing material, etc. and make an inventory of the same.”",
+                        "reference": "32."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 13,
+                        "content": "Thereafter, the Defendant filed an application under Order XXXIX Rule 4 CPC seeking the setting aside of the ex parte ad-interim order dated 15th June, 2022. On the last date of hearing i.e., 3rd August, 2022, notice was issued in the said application and the Defendant was directed to file a statement of the existing stock lying with it.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 14,
+                        "content": "Pursuant to the order dated 3rd August, 2022, a stock statement as to the existing stock lying with the Defendant has been produced by the Defendant, as per which, the Defendant currently is in possession of a stock worth Rs.2,44,550/-only. In addition, the Defendant is stated to have a stock of around 97,000 caps.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 15,
+                        "content": "There is a substantial stock lying with the Rajasthan State Ganganagar Sugar Mills Ltd., which is the procurer on behalf of the local government. The said stock is permitted to be cleared by the said company, which has already been billed by the Defendant.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 16,
+                        "content": "In addition, the Defendant has also suggested a new proposed label and mark ‘WILD BERIES ORANGE VODKA’ which the Defendant intends to adopt. The same has been handed over to the Court and is set out hereinbelow:",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 17,
+                        "content": "Accordingly, in respect of the existing stock lying with the Defendant, the new label and mark shall be used. The Defendant is further permitted to proceed with the manufacture and sale of its orange vodka product, under the new mark and label.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 18,
+                        "content": "It is submitted that the parties wish to explore an amicable resolution of the disputes and discuss the settlement terms. Accordingly, the matter is referred to the Delhi High Court Mediation and Conciliation Centre.",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 19,
+                        "content": "Parties to appear before the Mediation Centre, either virtually or physically, subject to convenience of all concerned. It shall be ensured that competent officials on behalf of the Plaintiff and the Defendant shall be present in the mediation proceedings.",
+                        "reference": "14."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 20,
+                        "content": "I.A.12275/2022 is disposed of, in the above terms, permitting the Defendant to adopt the new mark ‘WILD BERIES ORANGE VODKA’ along with the new label handed over to the Court today, which is extracted above, subject to deposit of Rs.5 lakhs, with the Registrar General of this Court, within four weeks. The said amount be retained in FDR on auto-renewal mode.",
+                        "reference": "15."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "CAT 146/2022",
+            "title": "SUN PHARMA LABORATORIES LTD. VS DABUR INDIA LTD. & ANR.",
+            "date": "08/08/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/16-08-2022//PMS08082022CAT1462022_152124.pdf&ID=838337168_8",
+            "document_path": "data\\judgments\\DHC Judgments\\838337168_8.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 2,
+                        "content": "Allowed, subject to all just exceptions. Applications are disposed of.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 1,
+                        "paragraph_number": 3,
+                        "content": "This is an appeal filed under Section 91 of the Trade Marks Act, 1999 (hereinafter ‘Act’) challenging the order of the Trademark Registry dated 21st July, 2022 dismissing opposition no.204995 of the Appellant/Opponent (hereinafter ‘Opponent’) against trade mark application no.1309040 of Respondent No.1/ Applicant (hereinafter ‘Applicant’) for the mark ‘Dabur Glucorid KP (Label)’ in class 5. Vide the said order, the extension of time  sought by the Appellant for taking the evidence on record under Rule 50(3) of the Trade Marks Rules, 2002, (hereinafter ‘2002 Rules’), after delay in service of evidence to the Applicant, was rejected and in effect the opposition has been deemed to have been abandoned under Rule 50(2) of 2002 Rules.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 4,
+                        "content": "In the opinion of the Court, the appeal raises an important question as to the time limit within which evidence is to be filed in opposition proceedings before the Trademark Registry. As per Section 21(1) of the Act, the time limit for opposing a trademark which is advertised is clearly prescribed as four months from the date of advertisement. As per Section 21(2) of the Act, upon the statement of opposition being served to the Applicant, the counter-statement has to be filed within two months from the receipt of the notice of opposition.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 5,
+                        "content": "Section 21 of the Act contemplates filing of evidence by the Opponent and the Applicant. However, time limits for filing of evidence are not prescribed in the Act and the same are laid down in the Rules. Rule 45 of the Trade Marks Rules, 2017 (hereinafter ‘2017 Rules’), which are currently in place, requires the Opponent to file evidence by way of affidavit within two months from the service of the copy of the counter-statement. The position under Rule 50 of the erstwhile 2002 Rules was that apart from the two-month period, an extension of one month could be granted by the Registrar if the same was sought under Form TM -56 in terms of Rule 50(3) of the 2002 Rules. The corresponding provision in 2017 Rules, i.e., Rule 45, however, has omitted the one-month extension period. As per Rule 46 of the 2017 Rules, evidence has to be adduced by the Applicant within two months of the receipt of the evidence of the Opponent. Under Rule 47 of the 2017  Rules, within one month, the evidence in reply has to be filed by the Opponent. Under Rule 48 of the 2017 Rules, further evidence can be entertained if leave is sought by either of the parties. This is usually done, as per the practice of Registrar of Trademarks, by filing of an Interlocutory Petition (I.P.). The time period for filing pleadings and evidence in opposition proceedings is therefore as under:  Notice of Opposition to Registration -Four months [Section 21(1) of the Act] Counter-statement-Two months [Section 21(2) of the Act] Evidence in support of Opposition -Two months [Section 21(4) of the Act r/w Rule 45(1) of the 2017 Rules] Evidence in support of Application-Two months [Section 21(4) of the Act r/w Rule 46(1) of the 2017 Rules]  Evidence in Reply by the Opponent-One month  [Section 21(4) of the Act r/w Rule 47 of the 2017 Rules]",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 6,
+                        "content": "In the present case, the counter statement was served on the Opponent on 12th June, 2007. This position is not disputed by either of the parties. Evidence was filed by the Opponent with the Trade Marks Registry on 10th August, 2007. The error / lapse on behalf of the Opponent was that before filing the hard copy of the evidence in support of the opposition in the Trademark Registry, a copy of the same was not served on the Applicant within the prescribed time. The same was only served by courier sent on 14th  August, 2007 and received by the Applicant on 16th August, 2007. So, at best, there was a delay of a couple of days in the service of the evidence upon the Applicant, though the same was filed with the Trade Mark Registry within the timeline prescribed.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 7,
+                        "content": "The present case would be governed by Rule 50 of the 2002 Rules. Thus, under Rule 50(3) of the 2002 Rules, prima facie, one month period extension could have been granted by the Registrar, however, the same was rejected as the extension of time was sought by the Opponent only on 21st July, 2022, just after the hearing was held.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 8,
+                        "content": "Apropos the above legal position, ld. Counsel for the parties have brought to the notice of the Court, the judgment of the IPAB in Sahil Kohli v. Registrar of Trade Mark 2018 SCC OnLine IPAB 55. In the said case, the ld. IPAB has taken a view that under Rule 45 of the 2017 Rules read with Sections 21 & 131 of the Act, the Registrar has the discretion to extend the time period for filing the evidence in support of the opposition.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 9,
+                        "content": "Ld. Counsels for the parties submit that they would like to cite case law to assist the Court in this regard. Ld. Counsel for the Registrar of Trademarks to also assist the Court on the next date on the interpretation of Rules in this regard. Since the same would also have bearing on a large number of opposition proceedings and the manner in which they are dealt with, if any ld. Counsels wish to assist the Court, they are free to file written submissions on record.",
+                        "reference": "9."
+                    }
+                ]
+            }
+        }
+    ]
+}

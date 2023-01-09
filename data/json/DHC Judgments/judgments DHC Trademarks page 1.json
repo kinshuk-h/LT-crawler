@@ -1,0 +1,1121 @@
+{
+    "meta": {
+        "directory": "data\\judgments\\DHC Judgments",
+        "request": {
+            "query": "Trademarks",
+            "page": 1,
+            "court": "DHC",
+            "start_page": 1,
+            "req_pages": 5,
+            "req_total": null,
+            "start_date": null,
+            "end_date": null
+        },
+        "response": {
+            "entry_start": 1,
+            "entry_end": 10,
+            "entry_total": 1572,
+            "page": 1,
+            "page_total": 157,
+            "page_next": 2,
+            "page_processed": 1,
+            "saved_total": 6,
+            "generated_at": "2023-01-05T23:16:36"
+        },
+        "filters": {
+            "sent_count": {
+                "min_sents": "2",
+                "min_words": "20",
+                "tokenizer_path": null
+            }
+        }
+    },
+    "data": [
+        {
+            "case_number": "SC 675/2019",
+            "title": "DHANI LOANS AND SERVICES LIMITED & ANR. VS WWW.DHANIFINANCE.COM & ORS.",
+            "date": "12/10/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/NAC/judgement/12-10-2022//NAC12102022SC6752019_183633.pdf&ID=160214431_1",
+            "document_path": "data\\judgments\\DHC Judgments\\160214431_1.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 2,
+                        "content": "The present suit has been filed by the plaintiffs inter-alia seeking a decree of permanent injunction restraining the defendant no. 1, its family members, partners/promoters, directors, servants, agents, franchisees or any one acting for and on their behalf in any manner using the impugned  www.dhanifinance.com  trade mark/logo or the domain name or any identical or deceptively similar trade mark/name/logo or domain name either as a trade mark, trading style, logo, domain name or in any other manner which is identical or deceptively similar to the plaintiffs’ trade marks 'DHANI' or the  www.indiabullsdhani.com ‘POTLI’ device stand-alone or in any combination thereof and/or domain name , in relation to any services especially for financial and transaction services and assistance thereto.",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 3,
+                        "content": "The plaintiffs further prayed for a direction to the defendant nos. 2 and 3 to provide all the details of the registrant of the domain name of the defendant no. 1; including the name, address, contact number, e-mail ID, including its whereabouts and other such relevant details disclosing the identity of the registrant of the domain name of the defendant no. 1, along with the Internet Protocol (in short, ‘IP’) address of the domain name of the defendant no.1.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 4,
+                        "content": "As far as the defendant nos.2 and 3 are concerned, vide order of this Court dated 22.09.2022, while passing certain directions, with the consent of the plaintiffs and the defendant nos. 2 and 3, they were deleted from the array of parties.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 5,
+                        "content": "As far as the defendant no. 1 is concerned, it was proceeded ex-parte vide order of this Court dated 22.08.2022. The defendant no. 1, despite service, had neither entered appearance in the suit nor filed its written statement.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 6,
+                        "content": "It is the case of the plaintiffs that the plaintiffs are a part of the Indiabulls Group, which has been providing financial services in India as well as internationally since the year 1994. The Indiabulls Group, as on",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 7,
+                        "content": "2018, had a combined revenue of over Rs. 22,114.9 Crore (Rupees Twenty-Two Thousand One Hundred Fourteen and Nine Crore only) and PAT of Rs. 6,072.2 Crore (Rupees Six Thousand Seventy-Two and Two Crore only). The plaintiff no. 1 alone had a combined revenue of over Rs. 1650 Crore (Rupees One Thousand Six Hundred Fifty Crore only) and PAT of over Rs. 400 Crore (Rupees Four Hundred Crore only) as on 31.03.2019.",
+                        "reference": "31.03."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 8,
+                        "content": "The plaintiffs assert that the plaintiff no. 1 is a non-banking finance company and is a wholly owned subsidiary of the plaintiff no. 2. The plaintiff no. 1 is inter-alia engaged in the business of providing personal loans, business loans and various other financial facilities through its array of products.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 9,
+                        "content": "It is further asserted that the plaintiff no. 2 is one of India's leading capital market companies providing securities and derivative brokering services. The plaintiff no. 2 was the first company to be assigned a BQ-1 Grading by the CRISIL, which is the highest broker quality grading. Brickworks Ratings has also assigned a strong credit rating of BWR A+ and BWR A1+ for the plaintiff no.2’s fund and non-fund-based facilities.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 10,
+                        "content": "www.indiabullsdhani.com The plaintiffs further assert that in September 2017, the plaintiffs launched its services for ‘IndiabullsDhani’ and along with the domain name , a mobile and web-based loan application developed to offer personal financing solutions. The mobile application, ‘Indiabullsdhani‟ was ranked as among the top three downloaded mobile applications in the financial services sector, having more than 11.5 million downloads as of September 2018.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 11,
+                        "content": "It is asserted that the plaintiff no. 1 is the registered proprietor of  the trade mark/logo/device of ‘POTLI’/ in Class 9 and is the registered proprietor of the trade mark/logo/device of the marks ‘DHANI’ and its variations thereof with the ‘POTLI’ device mark  in Classes 9, 35, 36 and 42. The details of the plaintiffs’  registrations for and bearing the ‘POTLI’ device mark under the provisions of the Trade Marks Act, 1999 (in short, ‘the Act’) are set out hereunder:",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 12,
+                        "content": "The plaintiffs in the plaint have also given details of the trade mark applications with the mark ‘DHANI’ as also the ‘POTLI’ device mark  , which are pending at various stages before the Trade Marks  Registry. The plaintiffs assert that these applications are being proactively pursued by the plaintiffs before the Trade Marks Registry.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 13,
+                        "content": "The plaintiffs assert that all their marks bear the word ‘DHANI’  along with the ‘POTLI’ device mark . They give the screenshots of the services provided by them under the Dhani services/applications, reproduced here under:",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 14,
+                        "content": "The plaintiffs claim that they have been promoting their trade  marks ‘DHANI’ as also the ‘POTLI’ device mark through extensive advertisements, publicity, promotions, conferences through various media including print and electronic media. The plaintiffs claim to have incurred an expenditure of Rs. 5.94 Crore (Rupees Five Crore Ninety-Four Lakh only) in advertising/publicising their said trade marks within the period of 01.08.2017 to 30.09.2019.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 15,
+                        "content": "www.indiabullsdhani.com  The plaintiffs’ domain name has been registered since the year 2017 and the same is fully operational. Through the said domain name, the public at large can get exclusive information about the plaintiffs and the services they currently have on offer for availing home loans, personal loans, securities advice, and investment relations.",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 16,
+                        "content": "The plaintiffs further state that the original artistic works in the device marks are a subject matter of protection under Section 2(c) of the Copyright Act, 1956 (in short, ‘Copyright Act’) and the copyright therein is exclusively owned by the plaintiffs. Further, the plaintiff no. 1 is the  registered copyright owner of bearing regisration no. A130733/2019 dated 02.09.2019, filed on 26.12.2017, of which the  ‘POTLI’ device mark forms a prominent and essential part.",
+                        "reference": "14."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 17,
+                        "content": "It is the case of the plaintiffs that the defendant no. 1, deliberately and in brazen disregard to the plaintiffs’ statutory and common law  www.dhanifinance.com rights, started using the impugned mark as well as operating a website under the impugned domain name , offering identical services as that of the plaintiffs.",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 18,
+                        "content": "The plaintiffs assert that the adoption of the plaintiffs’ marks by the defendant no. 1 is mala fide and aimed at establishing an illegal association with the plaintiff no. 2 by seemingly coming across as just another website/portal of the plaintiff no. 2. The screenshots of the defendant no. 1’s website are reproduced herein below:",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 19,
+                        "content": "The plaintiffs assert that the adoption of the deceptively similar mark by the defendant no. 1 and also for the domain name of its website amounts to infringement of the registered trade marks of the plaintiffs as also passing off and unfair trade practice and therefore, the defendant no. 1 is liable to be restrained from using the impugned domain name.",
+                        "reference": "17."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 20,
+                        "content": "This Court, vide order dated 10.12.2019, passed an ex-parte ad-interim injunction restraining the defendant no. 1 from using the  plaintiffs’ trade marks ‘DHANI’ or the ‘POTLI’ device mark  www.dhanifinance.com  and the logo and domain name – , separately or in any combination. The defendant no. 1 was further restrained from adopting any other marks, logos and domain names which were deceptively similar to the plaintiffs.",
+                        "reference": "18."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 21,
+                        "content": "www.dhanifinance.com With respect to defendant nos. 2 and 3, this Court vide the same order had issued a direction to suspend the operation of the domain name .",
+                        "reference": "19."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 22,
+                        "content": "As noted herein above, vide order of this Court dated 22.08.2022, the defendant no. 1 has been proceeded ex-parte, while by the order of this Court dated 22.09.2022, the defendant nos.2 and 3 were deleted from the arrary of the parteis with inter-alia a direction to transfer the domain name of the defendant no.1 to the plaintiffs.",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 23,
+                        "content": "The learned counsel for the plaintiffs submits that the defendant no.1, by using the impugned marks ‘DHANI’ with and/or without the  www.dhanifinance.com ‘POTLI’ device mark and by creating and operating the impugned domain name , which is not only deceptively similar to the plaintffs’ registered trade marks but also is offering services identical to those of the plaintiffs, is intending to deceive unwary consumers. The learned counsel for the plaintiffs submits that such use amounts to infringment of the plaintiffs’ registered trade marks and also results in passing off services of the defendant no. 1 as that of the plaintiffs.",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 24,
+                        "content": "The learned counsel for the plaintiff states that the act of the defendant no. 1 of using a mark/logo deceptively similar to the logo  amounts to infringment of the plaintiffs’ registered copyright.",
+                        "reference": "22."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 25,
+                        "content": "The learned counsel for the plaintiffs submits that as the defendant no. 1 has neither filed the written statement nor entered apperance, this is fit case for passing of a Summary Judgment under Order XIII-A of the Code of Civil Procedure, 1908, as applicable to the commercial disputes of a specified value (in short, ‘CPC’).",
+                        "reference": "23."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 27,
+                        "content": "From the above narration of facts, it is apparent that the plaintiffs are the registered proprieotors of the mark containing the word ‘DHANI’  as also the ‘POTLI’ device mark  . The defendant no. 1 has  adopted a deceptively similar mark . The services provided by the the plaintiffs and those of the defendant no. 1 are common. Such adoption of the mark would therefore amount to infringment of the registered trade marks of the plaintiffs. The same would also result in passing off of the services of the defendant no. 1 as that of the plaintiffs or as having some association with the plaintiffs. It would amount to unfair trade practices as also lead to the dilution of the  plaintiffs’ mark ‘DHANI’ and the ‘POTLI’ device mark",
+                        "reference": "25."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 28,
+                        "content": "The plaintiffs have been able to establish their reputation in the subject marks through their turnover figures and the amount spent on advertising the marks. The plaintiffs shall therefore suffer grave irreparable injury in case the defendant no. 1 is not restrained from using its deceptively similar mark.",
+                        "reference": "26."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 29,
+                        "content": "www.indiabullsdhanifinance.co  Recently, in Indiabulls Housing Finance Ltd. & Ors. v. & Anr., CS(COMM) 674/2019, vide  judgment and order dated 31.05.2022, a Coordinate Bench of this Court has held as under with respect to the subject marks of the plaintiffs:  “14. This Court finds merit in the contention of the Plaintiffs that Defendant No. 1 by using the trademarks „INDIABULLS‟, „DHANI‟ and  (device), which are identical to the Plaintiffs‟ registered trademarks as well as by creating and operating the impugned domain name www.indiabullsdhanifinance.co, which is deceptively similar to Plaintiffs‟ domain names www.indianbulls.com and www.indiabullsdhani.com, is infringing the statutory rights of the Plaintiffs. Defendant No. 1, under the aforesaid trademarks is providing services relating to financial transactions, personal loans etc., which are similar to those of the Plaintiffs and the consumer base is also the same. Therefore, in my view, the triple identity test of identical/deceptively similar trademarks, identical services and trade channels stands satisfied and use of the impugned trademarks/domain name by Defendant No. 1 constitutes infringement of the Plaintiffs‟ registered trademarks...  xxxxx",
+                        "reference": "27."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 30,
+                        "content": "From the plaint and the documents placed on record, it is evident that impugned marks are similar to Plaintiffs‟ trademarks/device mark and are indubitably used with an intent to misrepresent, exploit and encash the formidable goodwill as well as reputation of the Plaintiffs. Plaintiffs have been continuously and extensively using the trademarks for their financial services, which is evident from the combined revenue of over Rs.14,640 crores as on 31.03.2019 of Plaintiff No. 1 and over Rs.1650 crores as on 31.03.2019 in respect of Plaintiff No. 2. Promotional and advertisement expenses run into Rs.47,24,92,990 for the financial years 2017-2019. The website as displayed is likely to lead the  unwary consumers to assume a business connection between Defendant No. 1 and the Plaintiffs. Documents further evidence that Defendant No. 1 has been sending messages/e-mails to potential customers, portraying itself as a part of Plaintiffs‟ companies and was also sending links for payments for loan applications with bank account details. Defendant No. 1 has also published a number on its website which, according to the averment in the plaint, though unrebutted, on the TrueCaller shows as „India Bulls Tollfree‟. In light of the said facts and the settled law, this Court finds that Defendant No. 1 has committed the tort of passing off.",
+                        "reference": "17."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 31,
+                        "content": "Plaintiffs have claimed copyright in their logo comprising of Potli device mark, the words „INDIABULLS‟ and „DHANI‟ i.e.  . Plaintiff No. 2 is the registered copyright owner of the said logo bearing the registered copyright owner of the said logo bearing registration no. A-130733/2019 dated 02.09.2019 in „original artistic work‟ under Section 2(c) of the Copyright Act, 1957 and the copyright subsists in the said artistic work under Section 13(1) of the Copyright Act. Plaintiffs have copyright ownership in get-up, look, layout and arrangement on their websites and Defendant No. 1 is using the copyrighted logo of the Plaintiffs with a similar layout etc., thereby infringing on the Plaintiffs‟ copyright.”",
+                        "reference": "18."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 33,
+                        "content": "As far as the domain name/website of the defendant no. 1 is concerned, the same is also deceptively similar to that of the plaintiffs. It is likely to deceive an unwary consumer of its association with the plaintiffs. Recently, this Court in Anugya Gupta v. Ajay Kumar and Anr., 2022 SCC OnLine Del 1922 has held that the right of a proprietor  in a domain name and its protection, applying the principles of the trade mark law, is no longer res integra. The use of the same or similar domain name may lead to diversion of users, which could result from such users mistakenly accessing one domain name instead of another. Therefore, a domain name may have all the characteristics of a trade mark and could found an action for passing off. While the registration of a domain name with such Domain Name Registrars may not have the same consequences as registration under the Act, nevertheless, it at least evidences recognised user of a mark.",
+                        "reference": "29."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 34,
+                        "content": "Referring to the Uniform Domain Name Disputes Resolution Policy, the Supreme Court in Satyam Infoway Ltd. v. Siffynet Solutions (P) Ltd., (2004) 6 SCC 145 observed that the said rules grant protection to the intellectual property in a domain name. A prior registrant can protect its domain name against the subsequent registrants. The confusing similarity in domain names may be a ground for complaint and similarity is to be decided on the possibility of deception amongst potential customers. The defences available to a complaint are also substantially similar to those available to an action for passing off under trade mark law.",
+                        "reference": "30."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 35,
+                        "content": "Placing further reliance on Info Edge (India) Pvt. Ltd. v. Shailesh Gupta, 2002 SCC OnLine Del 239, this Court in Anugya Gupta (supra) observed that internet domain names are valuable properties and are of importance to the parties registering the same. It is entitled to equal protection as a trade mark. In NRB Bearings Limited v. Windsor Export, 2014 SCC OnLine Del 1672, this Court reiterated that a domain name serves the same function as the trade mark and is not a mere address or  like-finding number on the internet and, therefore, is entitled to equal protection as a trade mark. Where there is a probability of confusion in business, an injunction will be granted even though the defendants adopted the name innocently.",
+                        "reference": "31."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 36,
+                        "content": "In the present case, the defendant no. 1 has chosen neither to file its written statement nor to enter apperance in the suit to defend the same. This is in spite of the ad-interim order dated 10.12.2019, not only restraining the defendant no.1 from using the trade marks ‘DHANI’ or  www.dhanifinance.com  the ‘POTLI’ device mark and the logo and domain name – and directing defendant nos.2 and 3 to suspend its website. In my opinion, therefore, this is a fit case where a Summary Judgment in terms of Order XIII-A of the CPC, as applicable to commercial disputes of a specified value, read with Rule 27 of the Delhi High Court Intellectual Property Rights Division Rules, 2022 deserves to be passed in favour of the plaintiffs and against the defendant no. 1.",
+                        "reference": "32."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 37,
+                        "content": "In view of the above, the plaintiffs have been able to make out a case for grant of a permanent injunction restraining the defendant no. 1, its family members, partners/promoters, directors, servants, agents, franchisees or any one acting for and on their behalf in any manner using  www.dhanifinance.com  the impugned trade mark/logo or the domain name or any identical or deceptively similar trade mark/name/logo or domain name either as a trade mark, trading style, logo, domain name or in any other manner which is identical or  deceptively similar to the plaintiffs' trade marks 'DHANI' or the  www.indiabullsdhani.com ‘POTLI’/ device stand-alone or in any combination thereof and/or domain name , in relation to any services especially for financial and transaction services and assistance thereto.",
+                        "reference": "33."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 38,
+                        "content": "As far as the relief of damages and rendition of accounts is concerned, this Court in Intel Corporation v. Dinakaran Nair & Ors., 2006 SCC OnLine Del 459 has held as under:  “13. The only other question to be examined is the claim of damages of Rs. 20 lakh made in para 48(iii) (repeated) of the plaint. In this behalf, learned Counsel has relied upon the judgments of this Court in Relaxo Rubber Limited v. Selection Footwear, 1999 PTC (19) 578; Hindustan Machines v. Royal Electrical Appliances, 1999 PTC (19) 685; and CS (OS) 2711/1999, L.T. Overseas Ltd. v. Guruji Trading Co., 123 (2005) DLT 503 decided on 7.9.2003. In all these cases, damages of Rs. 3 lakh were awarded in favour of the plaintiff. In Time Incorporated v. Lokesh Srivastava, 2005 (30) PTC 3 (Del) apart from compensatory damages even punitive damages were awarded to discourage and dishearten law breakers who indulge in violation with impunity. In a recent judgment in Hero Honda Motors Ltd. v. Shree Assuramji Scooters, 125 (2005) DLT 504 this Court has taken the view that damages in such a case should be awarded against defendants who chose to stay away from proceedings of the Court and they should not be permitted to enjoy  the benefits of evasion of Court proceedings. The rationale for the same is that while defendants who appear in Court may be burdened with damages while defendants who chose to stay away from the Court would escape such damages. The actions of the defendants result in affecting the reputation of the plaintiff and every endeavour should be made for a larger public purpose to discourage such parties from indulging in acts of deception.",
+                        "reference": "34."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 39,
+                        "content": "A further aspect which has been emphasised in Time Incorporated case (supra) is also material that the object is also to relieve pressure on the overloaded system of criminal justice by providing civil alternative to criminal prosecution of minor crimes. The result of the actions of defendants is that plaintiffs, instead of putting its energy for expansion of its business and sale of products, has to use its resources to be spread over a number of litigations to bring to book the offending traders in the market. Both these aspects have also been discussed in CS(OS) No. 1182/2005 titled Asian Paints (India) Ltd. v. Balaji Paints and Chemicals decided on 10.3.2006. In view of the aforesaid, I am of the considered view that the plaintiff would also be entitled to damages which are quantified at Rs. 3 lakh.”",
+                        "reference": "14."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 40,
+                        "content": "In the case of Hindustan Lever Ltd. and Anr v. Satish Kumar, 2012 SCC OnLine Del 1378, this Court again held as under that:  “23. One of the reasons for granting relief of punitive damages is that despite of service of summons/notice, the defendant had chosen not to appear before the court. It shows that the defendant is aware of the illegal activities otherwise, he ought to have attended the proceedings and give justification for the said illegal acts. Since, the defendant has maintained  silence, therefore, the guilt of the defendant speaks for itself and the court, under these circumstances, feels that in order to avoid future infringement, relief of punitive damages is to be granted in favour of the plaintiff.”",
+                        "reference": "35."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 41,
+                        "content": "In Indiabulls Housing Finance Ltd. & Ors. (supra) this Court, on the question of damages, has held as under:  “19. Learned counsel for the Plaintiffs has also pressed for punitive damages and cost. Insofar as the award of punitive damages is concerned, I may only refer to a passage from the judgment by a Co-ordinate Bench of this Court in Proctor & Gamble Company v. Joy Creators & Others, 2011 SCC OnLine Del 929, as follows:  “27. In Larsen and Toubro Limited v. Chagan Bhai Patel: MIPR 2009 (1) 194, this Court observed that it would be encouraging the violators of intellectual property, if the defendants notwithstanding having not contested the suit are not burdened with punitive damages.",
+                        "reference": "36."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 42,
+                        "content": "Also, the Court needs to take note of the fact that a lot of energy and resources are spent in litigating against those who infringe the trademark and copyright of others and try to encash upon the goodwill and reputation of other brands by passing of their goods and/or services as those of that well known brand. If punitive damages are not awarded in such cases, it would only encourage unscrupulous persons who actuated by dishonest intention, use the well-reputed trademark of another person, so as to encash on the goodwill and reputation which that mark enjoys in the market, with impunity, and then avoid payment of damages by remaining absent from the Court, thereby depriving the plaintiff an opportunity to establish actual profit earned by him from use of the infringing mark, which can be computed  only on the basis of his account books. This would, therefore, amount to putting premium on dishonesty and give an unfair advantage to an unscrupulous infringer over those who have a bona fide defence to make and therefore come forward to contest the suit and place their case before the Court.”",
+                        "reference": "28."
+                    },
+                    {
+                        "page": 18,
+                        "paragraph_number": 43,
+                        "content": "This Court is in agreement with the submissions of learned counsel for the Plaintiffs that in the instant case, punitive damages must be awarded against Defendant No. 1, who has infringed the trademarks as well as the copyright of the Plaintiffs and has attempted to pass off its services as that of the Plaintiffs and has chosen to stay away from the proceedings of the Court, despite service. It has been held in various judgments that a Defendant who chooses to stay away from the Court proceedings, should not be permitted to escape the liability when found guilty of committing a wrongful act. It would be in public interest if parties indulging in acts of deception are penalised by punitive damages, in order to discourage such acts. As a result the Court awards damages to the tune of Rs. 3,00,000/-in favour of the Plaintiffs.”",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 18,
+                        "paragraph_number": 44,
+                        "content": "Following the above, the plaintiffs are held entitled to damages to the tune of Rs. 3,00,000/-(Rupees Three Lakh only) from the defendant no. 1.",
+                        "reference": "37."
+                    },
+                    {
+                        "page": 18,
+                        "paragraph_number": 46,
+                        "content": "Accordingly, a decree of permanent injunction in terms of prayers (a) to (c) of the plaint is passed in favour of the plaintiffs and against the defendant no. 1. The plaintiffs are held entitled to damages quantified at Rs. 3,00,000/-as also the costs of the suit to be recovered from the defendant no. 1. Let a decree-sheet be drawn accordingly.",
+                        "reference": "39."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "SC 617/2022",
+            "title": "SUNSHINE TEAHOUSE PVT. LTD. VS MTRM GLOBAL PVT. LTD.",
+            "date": "11/10/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/12-10-2022//PMS11102022SC6172022_171801.pdf&ID=160214431_4",
+            "document_path": "data\\judgments\\DHC Judgments\\160214431_4.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 2,
+                        "content": "The present suit has been filed by the Plaintiff, seeking permanent injunction restraining infringement of its registered trademark and the unauthorised use of the trade name etc. relating to the competing trademarks ‘CHAAYOS’ and ‘CHAIOPS’. The Plaintiff -M/s Sunshine Teahouse Pvt. Ltd. is a company registered under the Companies Act, 1956 having its registered office based out of New Delhi. It is the trademark owner of the brand ‘CHAAYOS’ which it claims to be using since the year 2012 and became the registered owner of the trademark in the year 2017. The Plaintiff claims to be the leading chain of Chai Cafes in India operating in various states across the country offering customised Chai in over 12,000 ways in more than 200 outlets across the country. Further, where the physical stores are not present, the Plaintiff has reached out to its customers through its  www.chaayos.com  www.amazon.in www.flipkart.com website offering delivery services and e-marketplaces like , , Bigbasket, Instamart, Grofers, etc. The Plaintiff has a number of registered trademarks in various Classes as set out below:",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 3,
+                        "content": "The Defendant -MTRM Global Pvt. Ltd., which was incorporated on 10th March, 2017 has its registered office based out of Ghaziabad, UP. The Defendant conceptualised and adopted the mark  sometime in July, 2020 for selling tea products through  a cafe under the name and style of ‘CHAIOPS’.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 4,
+                        "content": "The case of the Plaintiff is that the Defendant adopted the mark ‘CHAIOPS’ for offering products and services identical to that of the Plaintiff which is a violation of the Plaintiff’s registered trademark ‘CHAAYOS’. Ms. Sukumar, ld. Counsel for the Defendant submits that the Defendant already had 37 outlets.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 5,
+                        "content": "The present suit was first listed on 6th September, 2022, on which date considering the prayer for interim injunction that had been made, this Court was of the opinion that an amicable resolution ought to be explored between the parties considering the status of the businesses of the Plaintiff and the Defendant. The Plaintiff had about 200 outlets and the Defendant had already opened 37 outlets by that date. Since the dispute primarily was on the word mark and the device and the logo were not objected to, the parties explored various options for the word mark, which the Defendant could have adopted. However, the mediation proceedings failed and on the next date of hearing, i.e., 23rd September, 2022 further options were explored.",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 6,
+                        "content": "Yesterday, i.e., on 10th October, 2022 in the presence of Mr. Satvir Singh on behalf of the Defendant, it was finally agreed that the Defendant would change its word mark to ‘ChaiApps’ instead of ‘CHAIOPS’. This was acceptable to the Plaintiff. Ld. Counsels for the parties were requested to finalise the consented settlement terms and place the same before Court.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 7,
+                        "content": "Draft consent terms are stated to have been exchanged between counsel for the parties. Today, submissions have been heard on the consent terms as well. There is some dispute as to what timeline should be given to the Defendant to give effect to changeover the word mark. After hearing the submissions and considering the fact that the legal notice was exchanged  between the parties in August, 2021 and the suit was filed one year later, this Court is of the view that some reasonable time can be granted to the Defendant to give effect the changeover. The Court then put to the counsels for both the parties as to whether the parties would be satisfied if the Defendant effects the change to its existing centres, physical boards, stationery etc. by 1st April, 2023 and in respect of online platforms and/or any new outlets to be opened, the change would be immediate. This is acceptable to both parties. Draft consent terms which were exchanged between counsel in track change mode have been handed over to the Court. On the basis of the same and the submissions made today, the following consent terms are recorded as a full and final settlement of all the disputes that have arisen between the parties in the present suit:",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 9,
+                        "content": "The Defendant confirms and declares that it will change its mark ‘CHAIOPS’ to ‘ChaiApps’ (New Word Mark). Accordingly, the new mark/logo of the Defendant will be as follows:",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 10,
+                        "content": "The change to the new mark ‘ChaiApps’ as set out above shall be effected in the following manner.  (i)  For all new outlets to be opened with effect from today, the new name and logo shall be used by the Defendant, its  franchisees and/or licensees.  (ii)  In respect of usage on all online platforms including the website, email addresses, social media handles like Twitter, Facebook, Linkedin etc. the Defendant shall within one month inform its customers that it has now changed over to the new name “ChaiApps” as set out above. Upon the expiry of the one month period, the Defendant shall cease all use of Chaiops on all online platforms;  (iii)  In respect of all physical outlets of the Defendant, i.e., 37 outlets, which have already been opened by the Defendant, the change in the display boards outside the physical premises shall be effected with effect from 1st April, 2023. In the meantime, in all the said outlets the stationery etc. shall be removed in a phased manner so that the customers are informed that the earlier name ‘CHAIOPS’ has been changed to the new name ‘ChaiApps’. With effect from 1st April 2023, all use of the mark CHAIOPS even in existing outlets shall be ceased.  (iv) The Defendant agrees that it will change the marks in the existing outlets, shops, kiosks, cafes etc., menu cards, pamphlets, labels, stationery articles, flyers, façades and destroy all pending inventory or stocks bearing the mark “Chaiops” by 1st April, 2023. The Defendant also agrees that subsequent to the said date, it will neither be in possession of nor in power or control of any pending stock, stationery items, advertisement or promotional or any  materials, or otherwise any item of any nature bearing the mark “Chaiops”.  (v) The terms of this agreement shall be duly informed to all the Defendant’s franchisees, affiliates and subsidiaries, which are operating the existing outlets so that they are made aware of the terms of settlement and they can prepare their respective activities so as to be in compliance with the deadlines specified above.  (vi)  Hence, the Defendant agrees that w.e.f 1st April, 2023, it will cease use of the mark ‘CHAIOPS’. However, subsequently, in case any such material comes to the notice of the Plaintiff, the Plaintiff undertakes to bring such material immediately to the knowledge of the Defendant wherein the Defendant shall take down boards, signage, destroy such goods, materials, online or otherwise, not later than within one week of receipt of such notice, failing which the defendant shall be liable to damage to the tune of Rs.50,000/-for each day, the default continues.  (vii)  The Defendant agrees to change its domain name and emails and remove all references of the earlier mark ‘CHAIOPS’ from the World Wide Web including websites, social media platforms, food delivery platforms, e-commerce websites or any other third party websites managed, operated, owned or dealt by the Defendant or on their behalf directly or indirectly in any manner whatsoever within one month from today.  (viii)  The Defendant shall take down, remove and delete all the posts, videos, photos, reels etc. bearing or containing reference of earlier mark ‘CHAIOPS’, posted by the Defendant on any social media platforms including but not limited to Instagram, Facebook, Twitter, LinkedIn, Youtube etc. within one month from the date of settlement. The Defendant shall further immediately stop all their promotional activities, promotions, advertisements relating to earlier mark ‘CHAIOPS’ being run on any platform, whether online or offline, within one month of signing the settlement agreement.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 12,
+                        "content": "The Defendant shall withdraw their currently pending trademark applications before the Trademark Registry for the trademark “Chaiops” or its variants within one week of this settlement and e-mail the proof of having done so to the counsel for the Plaintiff.",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 13,
+                        "content": "The Defendant hereby declares and undertakes that it shall destroy all hoardings, boards, signage etc. that may have been put up by or on behalf of the Defendant bearing the mark ‘CHAIOPS’ and/or its variations by 31st March, 2023, of the present suit being decreed and share the proof of the same to the counsel of the Plaintiff.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 15,
+                        "content": "The Parties agree that the settlement terms provided herein are final and binding on both Parties and their respective partners, servants, agents, licensees, assigns in business and/or any person directly or indirectly related to them in their ordinary course of business activities or even otherwise.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 16,
+                        "content": "The present settlement terms shall be confidential to the Parties and shall not be disclosed to third parties without the written consent of the other party. The Defendant may disclose the essence of this Agreement to its franchisees to enable them to change their existing branding.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 17,
+                        "content": "The above consent terms shall be binding on the parties and anyone acting on their behalf. In view of the undertakings and assurances given by the Defendant, as recorded above, the Plaintiff does not press for damages and rendition of accounts.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 18,
+                        "content": "The suit shall stand decreed in the terms captured above. Decree sheet be drawn accordingly. All pending applications are also disposed of.",
+                        "reference": "12."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "SC 474/2022",
+            "title": "PIONEER NUTS AND BOLTS PRIVATE LIMITED VS TUFFBRACE FASTENERS PRIVATE LIMITED",
+            "date": "10/10/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/12-10-2022//PMS10102022SC4742022_124501.pdf&ID=160214431_5",
+            "document_path": "data\\judgments\\DHC Judgments\\160214431_5.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 2,
+                        "content": "The Plaintiff-Pioneer Nuts and Bolts Private Limited has filed the present suit seeking permanent injunction restraining infringement of trademark, passing off and rendition of accounts in respect of the mark •TUFF•. The case of the Plaintiff is that it is was incorporated in 1996 and it is engaged in the manufacture and sale of various types of Fastener, Nuts, Bolts, Screws, Rivet, Plain & Machined Washer, Taper Washers, Machined Washers, Flat Washer, Shafts, Studs and other hardware goods which are sold under the mark •TUFF•. The Plaintiff claims that it first registered the mark •TUFF• under registration number 791109 in Class 6 in 1998. The details of the registrations of the Plaintiff have been placed on record:  registered owner of the domain name www.tuffbolt.com and the same has been registered since 2001. The Plaintiff has various customers including Public Sector Undertakings (PSUs), Indian Railways, Ministry of Defence, BHEL, etc. The sales of the Plaintiff as of 2019-2020 is approximately to the tune of Rs.25 crores. A substantial amount is also stated to have been spent by the Plaintiff on advertisement and promotion of the mark.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 3,
+                        "content": "The Plaintiff claims that the Defendant-Tuffbrace Fasteners Private Limited has adopted the mark •TUFFBRACE• as part of its trading name and company name. Moreover, various documents on record show that the Defendant is advertising itself on social media and through its website. The Defendant is also using the domain name http://tuffbrace.in/ and operating its website under the said domain name. The Defendant is stated to have been incorporated in 2016. The Defendant•s listing on Indiamart, which is placed on record, shows that it is in the identical business as that of the Plaintiff, manufacturing nuts and bolts and other fasteners. The Defendant is using the name •Tuffbrace Fasteners Private Limited• and it is an Ahmedabad, Gujarat based company.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 4,
+                        "content": "There is a series of correspondence which has been entered into between the Plaintiff and the Defendant when the Plaintiff issued cease and desist notice on 20th January, 2021. A reply to the cease and desist notice was issued by the Defendant•s counsel on 1st February, 2021. In reply, the Defendant raised various defences including reliance on a search report containing registered trademarks which comprise of the prefix and/or suffix •TUFF• to argue that there are various third parties using the name •TUFF•. A caveat was also filed by the Defendant before the District Judge, Ludhiana which has also been placed on record. In view of these facts, the present suit  was filed by the Plaintiff seeking injunction against use of the mark / name •TUFFBRACE• as part of the Defendant•s trading name & company name, and as part the domain name-http://tuffbrace.in/.",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 5,
+                        "content": "The suit was listed on 19th July, 2022. The original products of the Plaintiff have been physically produced before the Court and the same show that the mark •TUFF• is used prominently, both on the packaging, as well as the actual physical product on which the mark •TUFF• is embossed. This Court observed that use of the registered mark as part of the corporate name or trading style would also be a violation of the Plaintiff•s rights in the registered mark in terms of Section 29(5) of the Trade Marks Act, 1999. Notice was issued to the Defendant as the word •TUFFBRACE• was a part of the corporate name of the Defendant.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 6,
+                        "content": "On the next date, i.e., 22nd September, 2022, it was submitted on behalf of the Defendant that it is willing to change its name and remove the word •TUFF• from the corporate name provided that it is given six months• time to do so. The relevant portion of the said order reads as under:  •2. Mr. Kapil Wadhwa, ld. Counsel, has entered appearance today for the Defendant and submits that the Defendant is willing to change its corporate name-•TUFFBRACE FASTENERS PRIVATE LIMITED•, and remove the word •TUFF• from its corporate name. However, he prays that six months time may be given for the said purpose as it would require various formalities to be completed with the authorities. Ld. counsel for the Plaintiff wishes to seek instructions in the matter.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 7,
+                        "content": "Let ld. Counsel for the Plaintiff wishes to seek instructions on the stand taken by the Defendant before the Court. The above stand of the Defendant, however, would be without prejudice to its rights and  contentions.•",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 8,
+                        "content": "Today, ld. counsel for the Plaintiff submits that he has received instructions that the Plaintiff would be satisfied if a permanent injunction is granted in its favour and he has no objection if the Defendant is granted six months• time to change its corporate name. The Plaintiff further has no objection if the Defendant is using the mark •TBF• on products of its manufacture and sale so long as the mark and name •TUFF• is not used by the Defendant. Ld. Counsel for the Defendant submits that the suit may be decreed accordingly, giving time to the Defendant to change its name.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 9,
+                        "content": "Under these circumstances, a decree of permanent injunction is granted in terms of paragraph 51(A), (B) and (E) of the plaint. Reliefs of rendition of accounts, damages/costs are not pressed by the Plaintiff. The permanent injunction in so far as the corporate name of the Defendant is concerned, shall come into effect from 1st April 2023.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 10,
+                        "content": "The suit is decreed. Decree sheet be drawn accordingly. All pending applications are disposed of.",
+                        "reference": "10."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "FAC 94/2020",
+            "title": "PEPS INDUSTRIES PRIVATE LIMITED VS KURLON LIMITED",
+            "date": "07/10/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/595/judgement/08-10-2022//59507102022FAC942020_191733.pdf&ID=160214431_7",
+            "document_path": "data\\judgments\\DHC Judgments\\160214431_7.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 1,
+                        "content": "The appellant, Peps Industries Private Limited (hereafter ‘PEPS’) has filed the present appeal impugning the judgment dated 16.03.2020 (hereafter ‘the impugned judgment’) passed by the learned Single Judge of this Court in IA No. 4871/2019 & IA No. 6715/2019 in CS (COMM) No. 174/2019 dismissing the application filed by PEPS under Order XXXIX Rule 1 & 2 of the Code of Civil Procedure, 1908 (CPC).",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 2,
+                        "content": "PEPS claims that it has been using the mark ‘NO TURN’ in respect of mattresses, wall beds etc. since 15.01.2008. The mark ‘NO TURN’ is registered in favour of PEPS by a registration dated 04.02.2011 in respect of goods falling under Class 20 for mattresses, wall beds, adjustable beds, coir mats, spring mattresses, sofas, pillows, cushions, seats and other related products.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 3,
+                        "content": "Kurlon Limited (hereafter ‘KURLON’) is also using the same mark ‘NO TURN’ in respect of mattresses and claims to be using it since the year 2007. PEPS, on becoming aware about the use of the same mark ‘NO TURN’ on the same product by KURLON, filed a suit seeking permanent injunction against KURLON from the use of the said mark.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 4,
+                        "content": "KURLON took a stand that they have been using the mark ‘NO TURN’ from prior in time than the PEPS. It claimed a defence under Section 34 of the Trade Marks Act, 1999 which does not entitle the proprietor or a registered user of a registered trademark to interfere with or restrain the use by any person of a trademark identical with the said registered trademark, if the said person has been continuously using the mark from a date prior to the user / registration of the trademark.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 5,
+                        "content": "For the ease of reference, Section 34 of the Trade Marks Act, 1999 is reproduced as under:  “34. Saving for vested right.--Nothing in this Act shall entitle the proprietor or a registered user of registered trade mark to interfere with or restrain the use by any person of a trade mark identical with or nearly resembling it in relation to goods or services in relation to which that person or a predecessor in title of his has continuously used that trade mark from a date prior-- (a)  to the use of the first-mentioned trade mark in relation to those goods or services be the proprietor or a predecessor in title of his; or  (b)  to the date of registration of the first-mentioned trade mark in respect of those goods or services in the name of the proprietor of a predecessor in title of his;  whichever is the earlier, and the Registrar shall not refuse (on such use being proved), to register the second mentioned trade mark by reason only of the registration of the first-mentioned trade mark.”",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 6,
+                        "content": "The learned Single Judge, vide impugned judgment, dismissed the application under Order XXXIX Rule 1 & 2 of CPC on the ground that the mark ‘NO TURN’ is a descriptive mark in relation to its use on mattresses”. Dismissal of the application under Order XXXIX Rules 1 & 2, CPC led to filing of the present appeal.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 7,
+                        "content": "The learned Single Judge held as under:  “21. From the facts as noted above, it is thus evident that the plaintiff has a registered trade mark ‘NO TURN’ in its favour, the mark ‘NO TURN’ is being used by the plaintiff as a trade mark. The plaintiff has been in continuous use of this trade mark ‘NO TURN’ since 15th January, 2008. Defendant is the prior user of the mark since the year 2007 however since the use of the mark by the defendant is intermittent and not voluminous so as to establish the defence under Section 34 of the Trade Marks Act. However, the plaintiff would still not be entitled to the relief of injunction for the reason the mark “NO TURN” is a descriptive mark. The plaintiff has placed no material on record to show that on the date of application or even on the date of registration plaintiff’s trademark ‘NO  TURN’ had acquired the distinctiveness to achieve the status of a well known mark. Hence, no interim injunction is granted in favour of the plaintiff. Consequently, IA 4871/2019 is dismissed and IA 6715/2019 is disposed of.”",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 8,
+                        "content": "It is contended by PEPS that the impugned judgment is erroneous, as despite accepting that PEPS is the registered owner of the trademark ‘NO TURN’ and has been using it continuously since 15.01.2008; the Court declined to restrain KURLON who is admittedly using the same mark in respect of the product in question and also has not been able to prove the prior use.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 9,
+                        "content": "It further contended that once it was held that KURLON was using the said mark only intermittently and the sales was also not voluminous so as to establish the defence under Section 34, the injunction should have followed because if the same mark is allowed to be used for the same product, it is bound to lead to confusion in the minds of consumers.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 10,
+                        "content": "It is further contended that KURLON had not taken any defence or raised any issue that the mark ‘NO TURN’ was a descriptive mark for which no registration could have been granted in favour of PEPS. Thus, in the absence of any challenge to the validity of the registration of the mark in favour of PEPS on the ground of being descriptive, the learned Single Judge could not have denied an interim injunction on the ground of mark being descriptive.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 11,
+                        "content": "Learned counsel appearing for KURLON, on the other hand, defended the impugned judgment and contended that even if it had not  taken the objection that the impugned mark was generic or descriptive, the Court can still examine the issue whether the plaintiff’s mark is descriptive or not. He also relied upon the judgment passed by the learned Single Judge of this Court in the case of Phonepe Private Limited v. EZY Services and Another : 2021 SCC OnLine Del 2635, in support of his contention. The learned Single Judge, in the facts of the said case, had held as under:  “63. Mr. Mehta sought to place reliance on the observation, in this decision, that that the defendant was estopped from contending that the plaintiff's mark was generic or descriptive, as it had applied for registration of a similar mark. There are two reasons why this observation, though it unquestionably finds place in the judgement, cannot help Mr. Mehta's client. Firstly, even if the defendant were to be estopped taking such a defence, the Court, adjudicating the claim of infringement, cannot ignore either Section 9(1)(b) (which prohibits registration of descriptive trade marks) or 30(2)(a) (which postulates that there can be no infringement of a descriptive trade mark), which are in the nature of statutory interdictions. Secondly, the defendant, in the present case, has applied for registration of the entire ‘BharatPe’ mark, and not merely of the suffix ‘Pe’. No plea of estoppel can, therefore, inhibit the defendant from contending that the suffix ‘Pe’ is generic and descriptive in nature.” (emphasis supplied)",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 12,
+                        "content": "From the facts of the present case, it is, prima facie, evident that PEPS has been using the mark ‘NO TURN’ since 15.01.2008. It is also evident from the pleadings filed in the suit that the ground taken by KURLON for denial of injunction in favour of PEPS was its claim of prior user.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 13,
+                        "content": "The stand of KURLON since the beginning, as is evident from not only the written statement but also its application for rectification /  removal of PEPS’s registration in respect of the mark ‘NO TURN’, was its claim of a prior user. A specific stand has been taken that the mark ‘NO TURN’ is a coined word and because of its long usage by KURLON, is being associated with it.",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 15,
+                        "content": "The questions, therefore, which fall for consideration before this Court are threefold: first, whether KURLON who had itself applied for registration of the mark ‘NO TURN’ claiming it to be a distinctive mark is estopped from raising the issue of validity of the same mark on the ground of being descriptive; second, whether the learned single Judge was correct in adjudicating an issue, which was not raised by the parties; and third, whether the descriptive mark can also be entitled for protection and whether the mark ‘NO TURN’ is descriptive.",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 16,
+                        "content": "It is a settled law that a party cannot approbate and reprobate at the same time. KURLON having itself applied for the registration of the mark, ‘NO TURN’ and contending the same to be a coined word, now cannot take an inconsistent plea and argue that the mark is descriptive. Further, in the present case, KURLON did not object in its written statement that the mark is a descriptive mark and, therefore, registration in favour of PEPS is not valid. KURLON has adopted the said argument for the first time before this Court, in order to support the impugned judgment.",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 17,
+                        "content": "The consistent stand of KURLON in its pleadings as well as the documents including the reply to the Examination Report objecting to its application for registration of the mark ‘NO TURN’ is that the mark is a coined term, is distinctive, and inherently unique.",
+                        "reference": "17."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 20,
+                        "content": "In relation to the inconsistent pleas being taken by the litigant, the Hon’ble Supreme Court in Kiran Devi v. Bihar State Sunni Wakf Board & Ors.: 2021 SCC OnLine SC 280, held as under:",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 21,
+                        "content": "We find merit in the argument raised by Mr. Sanyal that the nomenclature of the title of the petition filed before the High Court is immaterial. In Municipal Corporation of the City of Ahmedabad v. Ben Hiraben Manilal, this Court held that wrong reference to the power under which an action was taken by the Government would not per se vitiate the action, if the same could be justified under some other power whereby the Government could lawfully do that act. The Court held as under:  “5. ….It is well settled that the exercise of a power, if there is indeed a power, will be referable to a jurisdiction, when the validity of the exercise of that power is in issue, which confers validity upon it and not to a jurisdiction under which it would be nugatory, though the section was not referred, and a different or a wrong section of different provisions was mentioned. See  in this connection the observations in Pitamber Vajirshet v. Dhondu Navlapa [ILR (1888) 12 Bom 486, 489]. See in this connection also the observations of this Court in the case of L. Hazari Mal Kuthiala v. ITO, Special Circle, Ambala Cantt. [AIR 1961 SC 200 : (1961) 1 SCR 892 : (1961) 41 ITR 12, 16 : (1961) 1 SCJ 617] This point has again been reiterated by this Court in the case of Hukumchand Mills Ltd. v. State of M.P. [AIR 1964 SC 1329 : (1964) 6 SCR 857 : (1964) 52 ITR 583 : (1964) 1 SCJ 561] where it was observed that it was well settled that a wrong reference to the power under which action was taken by the Government would not per se vitiate that action if it could be justified under some other power under which Government could lawfully do that act. See also the observations of the Supreme Court in the case of Nani Gopal Biswas v. Municipality of Howrah [AIR 1958 SC 141 : 1958 SCR 774 : 1958 SCJ 297 : 1958 Cri LJ 271].”",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 22,
+                        "content": "In Suzuki Parasrampuria Suitings (P) Ltd. v. Official Liquidator, (2018) 10 SCC 707, the Hon’ble Supreme Court held as under:  “12. A litigant can take different stands at different times but cannot take contradictory stands in the same case. A party cannot be permitted to approbate and reprobate on the same facts and take inconsistent shifting stands. The untenability of an inconsistent stand in the same case was considered in Amar Singh v. Union of India [Amar Singh v. Union of India, (2011) 7 SCC 69: (2011) 3 SCC (Civ) 560], observing as follows: (SCC p. 86, para 50)  “50. This Court wants to make it clear that an action at law is not a game of chess. A litigant who comes to court and invokes its writ jurisdiction must come with clean  hands. He cannot prevaricate and take inconsistent positions.”",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 23,
+                        "content": "A similar view was taken in Joint Action Committee of Air Line Pilots' Assn. of India v. DGCA [Joint Action Committee of Air Line Pilots' Assn. of India v. DGCA, (2011) 5 SCC 435], observing: (SCC p. 443, para 12)  “12. The doctrine of election is based on the rule of estoppel—the principle that one cannot approbate and reprobate inheres in it. The doctrine of estoppel by election is one of the species of estoppels in pais (or equitable estoppel), which is a rule in equity. … Taking inconsistent pleas by a party makes its conduct far from satisfactory. Further, the parties should not blow hot and cold by taking inconsistent stands and prolong proceedings unnecessarily.”",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 24,
+                        "content": "In Telefonaktiebolaget LM Ericsson v. Intex Technologies (India) Limited: 2015 SCC OnLine Del 8229, the learned Single Judge of this Court held as under:  “144. It is equally well-settled that the party cannot be allowed to approbate or reprobate at the same time so as to take one position, when the matter is going to his advantage and another when it is operating to his detriment and more so, when there is a same matter either at the same level or at the appellate stage.",
+                        "reference": "22."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 25,
+                        "content": "In the case of Dwijendra Narain Roy v. Joges Chandra De, AIR 1924 Cal 600, the Division Bench of the Calcutta High Court has succinctly held:  “It is an elementary rule that a party litigant cannot be permitted to assume inconsistent positions in Court, to play fast and loose, to blow hot and cold, to approbate and  reprobate to the detriment of his opponent. This wholesome doctrine, the learned Judge held, applies not only to successive stages of the same suit, but also to another suit than the one in which the position was taken up, provided the second suit grows out of the judgment in the first.” (Emphasis Supplied)  Applying the said principles of law to the present case, it is apparent that if the defendant is allowed to re-agitate, it would also lead to allowing the party to approbate and reprobate at the same time which is clearly impermissible. The plea is thus barred by way of principle of approbate or reprobate which is a facet of estoppels as the defendant had accepted the findings of the Division Bench and Single Judge. There are no subsequent events which have changed warranting re-adjudication of the matter.”",
+                        "reference": "145."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 27,
+                        "content": "This Court, in the case of Mind Gym Ltd. v. Mindgym Kids  Library Pvt. Ltd. : 2014 SCC OnLine Del 1240, held as under:  “11. In the present case, it is admitted by the defendant that MIND GYM is a coined mark and even the defendant itself has applied for registration of the trademark MINDGYM. At this stage, I am of the considered view that once the defendant has sought the registration on the basis of distinctive mark, he is stopped from raising the validity of the same trade mark in an infringement action. Two contrary pleas are raised by the defendant, who now cannot be allowed to take the benefit of the same if any action is taken by the registered proprietor.”",
+                        "reference": "24."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 28,
+                        "content": "This Court in the case of Automatic Electric Ltd. v. R.K.  Dhawan & Anr. 1999 SCC Online DEL 27, in Paragraph No.16, held as under:  “16. The defendants got their trade mark “DIMMER DOT” registered in Australia. The fact that the defendant itself has sought to claim trade proprietary right and monopoly in “DIMMER DOT”, it does not lie in their mouth to say that the word “DIMMER” is a generic expression. User of the word “DIMMER” by others cannot be a defence available to the defendants, if it could be shown that the same is being used in violation of the statutory right of the plaintiff. In this connection, reference may be made to the decision of this Court in Prakash Roadline Ltd. v. Prakash Parcel Service (P) Ltd., 1992 (2) Arbitration Law Reporter page 174. Reference may also be made to the decision in P.M. Diesels Ltd. v. S.M. Diesels, 53 (1994) Delhi Law Times 742. It was held in those decision that if the plaintiff is a proprietor of the registered trade mark, the same gives to the proprietor of the registered trade mark the exclusive right to use the trade mark with relation to goods in respect of which the trade mark is registered under the provisions of Section 28 of the Trade and Merchandise Marks Act. It was also held that such statutory right cannot be lost merely on the question of principles of delay, laches or acquiescence. It was also held that in general mere delay after knowledge of infringement does not deprive the registered proprietor of a trade mark of his statutory rights or of the appropriate remedy for the enforcement of those rights so long as the said delay is not an inordinate delay. In my considered opinion, the ratio of the aforesaid decisions are squarely applicable to the facts of the present case.”  (Emphasis supplied)",
+                        "reference": "25."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 29,
+                        "content": "The reliance placed by KURLON on the judgment passed by the learned Single Judge in the case of Phonepe Private Limited v.  EZY Services and Another (supra), is misplaced. The learned Single Judge in the facts of the said case had not agreed with the contention that the defendant was estopped from urging that the term ‘Pe’ was generic for the reason that the defendant, in the said case, had applied for registration of the mark ‘BharatPe’ and not merely of the suffix ‘Pe’. It is relevant to note that the plaintiff’s mark, in the said case, was ‘PhonePe’. The learned Single Judge, therefore, in the facts of the said case held that the defendant was not precluded from raising the objection that the suffix ‘Pe’ is generic and descriptive in nature and, therefore, the plaintiff could not claim monopoly over the said term.",
+                        "reference": "26."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 30,
+                        "content": "The facts in the case of Phonepe Private Limited (supra), are even otherwise distinguishable. In the present case, admittedly, KURLON had not taken an objection to the grant of injunction on the ground that the mark ‘NO TURN’ is descriptive, before the learned Single Judge.",
+                        "reference": "27."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 32,
+                        "content": "It is well settled that in a Civil Suit, it is the pleadings that lead to framing of the issues and a trial is confined to the issues so framed. The entire object of framing of issues is that the parties get an  opportunity to lead evidence on such issues, which may ultimately lead to either grant or denial of a decree.",
+                        "reference": "29."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 34,
+                        "content": "The Hon’ble Supreme Court, in the case of Bachhaj Nahar v. Nilima Mandal And Another : (2008) 17 SCC 491, held as under:  “23 [Ed. : Para 23 corrected vide Official Corrigendum No. F.3/Ed.B.J./89/2009 dated 17-7-2009.] . It is fundamental that in a civil suit, relief to be granted can be only with reference to the prayers made in the pleadings. That apart, in civil suits, grant of relief is circumscribed by various factors like court fee, limitation, parties to the suits, as also grounds barring relief, like res judicata, estoppel, acquiescence, non-joinder of causes of action or parties, etc., which require pleading and proof. Therefore, it would be hazardous to hold that in a civil suit whatever be the relief that is prayed, the court can on examination of facts grant any relief as it thinks fit. …………..”",
+                        "reference": "31."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 35,
+                        "content": "This Court, in the case of Communication Components Antenna Inc. v. Mobi Antenna Technologies (Shenzhen) Co. Ltd. and Others : 2021 SCC OnLine Del 5471, held as under:  “5. It is settled law that the Civil Procedure Code is an elaborate codification of the principles of natural justice to be applied to civil litigation. The object and purpose of pleadings and issues is  to ensure that the litigants come to trial with all issues clearly defined and to prevent cases being expanded or grounds being shifted during trial. Its object is also to ensure that each side is fully alive to the questions that are likely to be raised or considered so that they may have an opportunity of placing the relevant evidence appropriate to the issues before the Court for its consideration. The object of issues is to identify from the pleadings the questions or points required to be decided by the Courts so as to enable parties to let in evidence thereon. (See Bachhaj Nahar v. Nilima Mandal, (2008) 17 SCC 491).”",
+                        "reference": "32."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 36,
+                        "content": "There are certain matters in respect of which a court is required to take a decision notwithstanding that no such defence has been raised. As a matter of illustration, by virtue of Section 3 of the Limitation Act, 1963, a court is required to dismiss a suit instituted, appeal preferred, an application made after the prescribed period although, limitation has not been set up as a defence. The court is, thus, required to decide whether, in fact, a suit or an appeal has been filed within the period of limitation. The court may also examine other jurisdictional issues as the same relate to the power of the court to entertain the suit/appeal. However, absent any statutory mandate, it would not be apposite for the court to examine any question of fact that may be disputed, unless such facts are brought in issue.",
+                        "reference": "33."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 37,
+                        "content": "In PhonePe (supra) it is held that Court, adjudicating the claim of infringement, cannot ignore either Section 9(1)(b) (which prohibits registration of descriptive trade marks) or 30(2)(a) (which postulates  that there can be no infringement of a descriptive trade mark), which are in the nature of statutory interdictions. We are unable to concur with the said view.  Section 9(1) of the Trade Marks Act, 1999 sets out the grounds on which the Registrar may refuse registration of a trademark. In the event the Registrar is of the prima facie view that the mark cannot be registered, the applicant is required to be afforded an opportunity to be heard and the Registrar is thereafter, required to take an informed view. By virtue of Section 31 of the Trade Marks Act, 1999 the original registration of the trademark is prima facie evidence of the validity thereof.",
+                        "reference": "34."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 38,
+                        "content": "Section 9 of the Trade Marks Act, 1999 does not embody any statutory interdictions at the post registration stage. If the validity of the registration of the trademark is not brought in issue, the statutory assumption that the marks are valid must be accepted. It is not open for a court to suo motu question the validity of the registration of the trademark if the same is not disputed by the defendant. However, insofar as Section 30(2)(a) of the Trade Marks Act, 1999 is concerned, we are refraining from making any observations in that regard as the applicability of the said question does not arise in the facts of the present case.",
+                        "reference": "35."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 39,
+                        "content": "The Division Bench of this Court in Procter & Gamble Manufacturing (Tianjin) Co. Ltd. & Ors. v. Anchor Health & Beauty Care Pvt. Ltd. : 2014 SCC OnLine Del 3374, in an appeal filed by the defendant against the interim injunction restraining the  defendant from using the trademark “ALL-AROUND PROTECTION / ALLROUNDER”, being deceptively similar to the plaintiff’s trademark “ALLROUND”, in relation to its use for toothpaste, held as under:",
+                        "reference": "36."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 40,
+                        "content": "We have weighed the rival contentions aforesaid and do not find any merit in this appeal for the following reasons:  (i)  Neither the Registrar of Trademarks nor anyone else, at the time when the respondent/plaintiff applied for registration of the trademark “ALLROUND” objected thereto on any of the grounds mentioned in Section 9 of the Act;  (ii)  Even when the appellant/defendant applied for registration of the trademark “ALLROUNDER” for the same goods, though objection on the ground of the trade mark “ALLROUNDER” being not capable of distinguishing the goods of the appellant/defendant from goods of another was raised by the Registrar but in the context of the same being similar/identical to the respondent/plaintiff's registered mark “ALLROUND” with respect to the same goods;  (iii)  Not only the Registrar of Trademarks in India but even the Registrar of Trademarks in US did not consider that the trademark “ALLROUND” in relation to toothpaste was devoid of any distinctive character or was not capable of distinguishing the said goods or was descriptive;  (iv)  Even if it were to be held that others interested in opposing the registration of such a trademark were not vigilant, it is primarily the duty of the Registrar of Trademarks to ensure that the trademarks which are not distinctive and which are devoid of any distinctive character are not registered; the factum of the Registrar of Trademarks in India and in US, at neither of the aforesaid times having raised any such objection, will have weightage at least at this stage of grant of interim relief, to hold that the said marks are prima facie not considered by the authorities having expertise in the matter as being descriptive of the said goods and being incapable of distinguishing such goods of one from another;”",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 41,
+                        "content": "Therefore, once the mark has been registered, it is accepted as, prima facie, valid unless an objection is raised questioning the validity of the registration and is adjudicated by the Court. As mentioned above, no such objection was raised by KURLON before the learned Single Judge. Further, no such objection was taken before the Registrar of trademarks either at the time of registration or, thereafter, by way of filing of an application for rectification.",
+                        "reference": "37."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 42,
+                        "content": "It is apparent from various documents on record that the consistent stand of KURLON has been that the mark ‘NO TURN’ is a coined term, is distinctive, and inherently unique. Therefore, the learned Single Judge has fallen in error in holding that the mark ‘NO TURN’ is descriptive and therefore, KURLON is not liable to be  restrained from using the mark notwithstanding that it has never raised any objection as to the validity of the said mark on the ground of it being descriptive.",
+                        "reference": "38."
+                    },
+                    {
+                        "page": 18,
+                        "paragraph_number": 43,
+                        "content": "Section 9 (1) (b) of the Trade Marks Act, 1999, read as under:  “9.Absolute grounds for refusal of registration.  (1)  The trade marks-- (b)  which consist exclusively of marks or indications which may serve in trade to designate the kind, quality, quantity, intended purpose, values, geographical origin or the time of production of the goods or rendering of the service or other characteristics of the goods or service;  shall not be registered:  Provided that a trade mark shall not be refused registration if before the date of application for registration it has acquired a distinctive character as a result of the use made of it or is a well-known trade mark.”",
+                        "reference": "39."
+                    },
+                    {
+                        "page": 18,
+                        "paragraph_number": 44,
+                        "content": "The law recognises that even a descriptive mark can be registered and exclusivity can be claimed if before the date of application for registration, it has acquired a distinctive character as a result of its use made or is a well-known trademark. Thus, even if a mark which is descriptive in nature can acquire distinctiveness by virtue of being in use for a long period of time.",
+                        "reference": "40."
+                    },
+                    {
+                        "page": 19,
+                        "paragraph_number": 45,
+                        "content": "The Hon’ble Apex Court in the case of Godfrey Philips India Ltd. v. Girnar Food &amp; Beverages (P) Ltd.: (2004) 5 SCC OnLine 257 held as under:  “4. ….. A descriptive trade mark may be entitled to protection if it has assumed a secondary meaning which identifies it with a particular product or as being from a particular source……”",
+                        "reference": "41."
+                    },
+                    {
+                        "page": 19,
+                        "paragraph_number": 47,
+                        "content": "There is another aspect of the case, whether the mark ‘NO TURN’ is descriptive or not. In the present case, the mark ‘NO TURN’ has been used in relation to mattresses, which is, prima facie, not descriptive generally of the mattresses but can be called to be communicating a peculiar quality or feature of a mattress, which is that it is not required to be “TURNED” on account of its use.",
+                        "reference": "43."
+                    },
+                    {
+                        "page": 19,
+                        "paragraph_number": 48,
+                        "content": "The Division Bench of this Court in the case of Procter & Gamble (supra), held as under:  “10. We have weighed the rival contentions aforesaid and do not find any merit in this appeal for the following reasons:  (xvi) There is a difference between words/marks which would classify as descriptive, generally of the goods or services, whosoever may be provider thereof and words/marks which communicate the particular/peculiar quality/qualities or  features of product of one and which may not exist or do not exist in the same product being provided by others. In our opinion, it is only the former which are not registrable as trademark and which are not protected, and not the latter. The words “marks or indications which may serve in trade to designate the kind, quality, quantity, intended purposes, values…of the goods” in Section 9(1)(b) cannot be read to include words/marks which designate the quality, intended purpose or values, not generic to the goods and services but unique to the goods of one and which may not be present in the same goods and services provided by another. Such words/marks, highlight and communicate to the consumer the difference claimed from the same goods or services of others, also available in the market. of course, such words or marks would also be, in a sense descriptive of those unique features, quality, character, intended purpose of goods/services of one; however they will still classify as distinctive so long as none other till then has described those as unique to the product.  (xxii) As far as the reliance on Marico Limited (supra) is concerned, the decision of the Division Bench therein turned on the finding of the trade mark “LOW-ABSORB” being descriptive of the product in that case. We have herein above held that the words “ALLROUND PROTECTION” in relation to the product with which this case is concerned are not descriptive generally of toothpastes, by whosoever manufactured/supplied but show the  peculiar quality, features/advantages in the product of the respondent/plaintiff which may not be present in the same product of others.",
+                        "reference": "44."
+                    },
+                    {
+                        "page": 21,
+                        "paragraph_number": 49,
+                        "content": "In view of the law as discussed above, since we have held that it was not apposite for the learned Single Judge to return a finding on the aspect of the mark being descriptive, as no such objection was taken by the defendant; we refrain from expressing any view on the questions, whether the mark ‘NO TURN’ is descriptive and whether its registration is valid.",
+                        "reference": "45."
+                    },
+                    {
+                        "page": 21,
+                        "paragraph_number": 50,
+                        "content": "It is not necessary for this Court to speculate whether PEPS could claim any exclusivity in respect of the trademark notwithstanding that the same was found to be descriptive. Since no issue that the trademark was not descriptive was raised, there was no occasion for PEPS to respond to the said defence.",
+                        "reference": "46."
+                    },
+                    {
+                        "page": 21,
+                        "paragraph_number": 51,
+                        "content": "Thus, in view of the case set up by the appellant and the defence as pleaded by the respondent (defendant), the appellant was entitled to an ad interim injunction restraining the defendant from using the trademark in question. In the given facts, denial of such relief, in our view, is unjustified.",
+                        "reference": "47."
+                    },
+                    {
+                        "page": 21,
+                        "paragraph_number": 52,
+                        "content": "Therefore, on the facts pleaded by the defendant, the interim injunction prayed for by PEPS on the ground of being the owner of the registered trade mark could not have been denied and the learned Single Judge was not correct in giving a finding, even though, prima facie, on an issue which was never raised in defence by KURLON.",
+                        "reference": "48."
+                    },
+                    {
+                        "page": 22,
+                        "paragraph_number": 53,
+                        "content": "Once the learned Single Judge had come to the conclusion that there was no merit in the defence raised by the defendant that he is entitled to use the mark, being a prior user in terms of Section 34 of the Trade Marks Act, 1999, the statutory right in respect of the registered mark was liable to be protected and the interim injunction should have followed.",
+                        "reference": "49."
+                    },
+                    {
+                        "page": 22,
+                        "paragraph_number": 54,
+                        "content": "In view of the above, the present appeal is allowed and the impugned judgment dated 16.03.2020 passed by the learned Single Judge in IA No.4871/2019 and IA No.6715/2019 in CS(COMM) No.174/2019 titled Peps Industries Private Limited v. Kurlon Limited, is set aside. KURLON is restrained from using the mark ‘NO TURN’ or any other trademark deceptively similar thereto, till the disposal of the suit.",
+                        "reference": "50."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "SC 281/2022",
+            "title": "PHILLIPS 66 COMPANY VS RAAJ UNOCAL LUBRICANTS LIMITED",
+            "date": "06/10/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/ABL/judgement/09-10-2022//ABL06102022SC2812022_071717.pdf&ID=160214431_8",
+            "document_path": "data\\judgments\\DHC Judgments\\160214431_8.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 1,
+                        "content": "The present application has been filed on behalf of the applicant/defendant seeking reclassification of the present suit from a commercial suit to an ordinary suit. Reply has been filed on behalf of the plaintiff, which is not on record. However, a copy of the same has been handed over in Court and taken on record.",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 1,
+                        "paragraph_number": 2,
+                        "content": "The present suit has been filed seeking recovery of USD 1,039,268.85/-(Rs.7,72,17,675.5/-) from the defendant on the basis of judgment dated 30th September, 2021 passed by the United States District  Court for the Southern District of Texas, Houston Division (hereinafter “US District Court”) in Civil Action No.4:21-cv-00279 titled Phillips 66 Company v. Raaj Unocal Lubricants Limited. The said suit was filed by the plaintiff for the enforcement of its intellectual property rights against the defendant in the United States of America.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 3,
+                        "content": "Senior counsel appearing on behalf of the applicant/defendant submits that the present suit does not fall within the definition of ‘commercial dispute’ under Section 2(1)(c) of the Commercial Courts Act, 2015. It is stated that the present suit does not fall in any of the categories mentioned in Section 2(1)(c) of the Commercial Courts Act and consequently, cannot be treated as a commercial suit. Reliance in this regard is placed on the judgment of the Supreme Court in Ambalal Sarabhai Enterprises Limited  v.  K.S. Infraspace LLP and Another, (2020) 15 SCC 585 and order dated 26th April, 2017 passed by a Coordinate Bench of this Court in CS(COMM) 52/2017 titled Qatar Airways Q.C.S.C v. Airports Authority of India & Anr. It is further contended that the present suit is not based on intellectual property rights in India, which are being litigated between the parties by way of other suits that are pending adjudication before this Court. The suit before the US District Court was based purely on the infringement of intellectual property rights in United States of America and unconnected with the intellectual property rights in India.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 4,
+                        "content": "Senior counsel appearing on behalf of the plaintiff relies upon the words ‘arising out of’ occurring in Section 2(1)(c) of the Commercial Courts Act to submit that all disputes that are relatable to intellectual property rights would be covered under Section 2(1)(c)(xvii) of the Commercial Courts Act and therefore, would qualify as a commercial suit. It is further submitted  that the present application has been filed only to circumvent the mandatory maximum statutory time limit of 120 days for filing of written statement in commercial suits.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 6,
+                        "content": "At the outset, it is deemed apposite to refer to the relevant part of Section 2(1)(c)(xvii) of the Commercial Courts Act, which is set out below:  “2. Definitions.—(1) In this Act, unless the context otherwise requires,–– …  (c)  “commercial dispute” means a dispute arising out of––  …  (xvii)  intellectual property rights relating to registered and unregistered trademarks, copyright, patent, design, domain names, geographical indications and semiconductor integrated circuits;”",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 7,
+                        "content": "It is evident from the wording of Section 2(1)(c) of the Commercial Courts Act that a commercial dispute includes a dispute that arises out of intellectual property rights of a party. The words ‘arising out of’ used in Section 2(1)(c) have to be given their natural and ordinary meaning, which would mean to include all disputes involving intellectual property rights of a party. In the present case, the suit filed by the plaintiff before the US District Court was based on infringement of intellectual property rights of the plaintiff in the United States, wherein the US District Court passed an order of permanent injunction and awarded damages to the plaintiff amounting to USD 1,000,000/-along with attorney fees of USD 39,268/-.  The present suit has been filed seeking recovery of the aforesaid amount. Since the United States of America is not a reciprocating territory under Section 44A of the Code of Civil Procedure, 1908 (CPC), the plaintiff has filed the present suit seeking of recovery of amounts awarded by the US  District Court. Further, as is evident from the judgment of the US District Court placed on record by the plaintiff, the entire cause of action for filing of the present suit is based on the infringement of intellectual property rights of the plaintiff by the defendant in the United States of America. Therefore, in my view, the present suit would be covered within the definition of ‘commercial dispute’ in terms of Section 2(1)(c)(xvii) of the Commercial Courts Act.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 8,
+                        "content": "Reliance placed by the senior counsel for the defendant on the judgment in Ambalal Sarabhai Enterprises Limited (supra) is completely misplaced as in the said case, the Supreme Court was seized of a dispute concerning the interpretation of Section 2(1)(c)(vii) of the Commercial Courts Act. The Supreme Court in Ambalal Sarabhai Enterprises Limited (supra) has also observed that the provisions of the Commercial Courts Act have to be strictly construed. Even if that be so, the provisions of the Commercial Courts Act have to be given their full effect. Further, the use of the words ‘arising out of’ in Section 2(1)(c) leaves no doubt in my mind that all suits based on enforcement of intellectual property rights would be covered under sub-clause (xvii) of Section 2(1)(c). Similarly, the observations of the Coordinate Bench in Qatar Airways Q.C.S.C (supra) would be of no assistance to the defendant as the present suit falls within the category of transactions listed under Section 2(1)(c) of the Commercial Courts Act.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 10,
+                        "content": "This application has been filed on behalf of the defendant under Order  VIII Rule 1 of the CPC seeking condonation of delay in filing the written statement and affidavit of admission/denial of documents. Reply has been filed on behalf of the plaintiff, which is not on record. However, a copy of the same has been handed over in Court and taken on record.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 12,
+                        "content": "1  The written statement in the present case was filed on 17th August, 2022, which was within the maximum condonable period of 120 days as prescribed under Order VIII Rule 1 of the CPC applicable to commercial suits.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 13,
+                        "content": "2  Once the written statement has been filed, the date of such filing has to be considered for calculating whether or not the written statement has been filed within the condonable period and the fact that the same has not been taken on record would not be relevant. Reliance in this regard is placed on the judgment dated 6th April, 2022 passed by this Court in CS(COMM) 1052/2018 titled Cosco International Pvt. Ltd. v. Jagat Singh Dugar.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 14,
+                        "content": "3  The only defect pointed out by the Registry in the written statement filed on 17th August, 2022 was that the affidavit filed along with the written statement was not attested and there was no proof of service. The said defects were pointed out by the Registry on 29th August, 2022 and being merely procedural in nature, were promptly rectified by the defendant on 30th August, 2022.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 17,
+                        "content": "1  The written statement was served by the counsel for the defendant to the counsel for the plaintiff first time on 30th August, 2022 and the application seeking condonation of delay in filing the written statement was served on the plaintiff on 7th September, 2022.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 18,
+                        "content": "2  The defendant is bound to bring on record the written statement within the maximum permissible condonable period, failing which the defendant forfeits the right to file the written statement. Reference in this regard is made to the judgment of the Supreme Court in SCG Contracts (India) Private Limited v. K.S. Chamankar Infrastructure Private Limited and Others, (2019) 12 SCC 210.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 19,
+                        "content": "3  Where a written statement has been filed without an application seeking condonation of delay, the same cannot be permitted to be taken on record. In the present case, the application for condonation of delay was filed beyond the maximum condonable period and therefore, the written statement should not be taken on record. Reliance in this regard is placed on OK Play India Pvt. Ltd. v. A.P. Distributors and Anr., 2021 SCC OnLine Del 4079 and the judgment dated 5th July, 2022 passed by a Coordinate Bench of this Court in CS(COMM) 144/2019 titled 3M Company v. Mr. Vikas Sinha. Reliance is also placed on my judgments in Rachna Overseas v. Printech System, 2021 SCC OnLine Del 5332 and Intiyaz Sheikh v. Puma SE, 2021 SCC OnLine Del 4679 in this regard.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 23,
+                        "content": "1  On 29th April, 2022, summons in the suit were issued and accepted on behalf of the defendant by their counsel in Court. Thirty days’ time was given to the defendant to file written statement.",
+                        "reference": "14."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 30,
+                        "content": "In Cosco International Pvt. Ltd (supra), a Coordinate Bench of this Court noted the difference between ‘filing of the written statement’ and  ‘taking on record of the written statement’. The relevant observations of the said judgment, as noted in paragraphs 15 and 16 are set out below:  “15. Upon a conspectus of the timelines as set-out above and in light of the provisions of the CPC as amended by the Commercial Courts, Commercial Division & Commercial Appellate Division Of High Courts (Amendment) Act, 2018read in conjunction with the Delhi High Court (Original Side) Rules 2018, as also the judicial precedents referred to by the parties, this court is of the view that written statement having been filed within the statutory period; and the defect of non-filing of the affidavit of admission/denial also having been cured well within the permissible time period, nothing further stands in the way of the written statement being taken on record.",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 31,
+                        "content": "For clarity, it is reiterated that what Order V Rule 1(1) and Order VIII Rule 1 CPC provide is the outer time-limit for filing of the written statement of defence. The filling by the defendant of an affidavit of admission/denial of the plaintiff’s documents, is a separate requirement under Chapter VII Rule 3 and 4 of the Delhi High Court (Original Side) Rules, 2018; and the consequence for not filing such affidavit is that the written statement shall not be taken on record and that the plaintiff’s documents shall be deemed to be admitted by the defendant. However, the filing of a written statement within the prescribed time but without an accompanying affidavit of admission/denial of documents, does not amount to non-est filing, since it cannot be said that nothing was filed at all. It would, however, amount to a defect, that is required to be cured after it is brought to the attention of the party by the Registry. Chapter VII Rule 3 only bars taking on record a written statement that is filed without an accompanying affidavit of admission/denial of documents. Filing of the written statement and it being taken on record are two separate and distinct matters.”",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 32,
+                        "content": "The dicta of the aforesaid judgment would also be applicable to the facts of the present case. As per the e-filing log of the case, the written statement was filed on behalf of the defendant on 17th August, 2022, which  was within the maximum condonable statutory period of 120 days prescribed under the second proviso to Order VIII Rule 1 of the CPC applicable to commercial suits. On 29th August, 2022, the Registry pointed out only two defects in respect of the said filing, that (i) the affidavit was not attested; and, (ii) the proof of service was not attached. Again, from the e-filing log, it appears that the aforenoted two defects were removed by the defendant on the very next day i.e., 30th August, 2022 and a written statement along with an attested affidavit and an affidavit of admission/denial of documents notarized on 29th August, 2022 along with proof of service were filed. Thereafter, the Registry did not mark any further defects. Therefore, in the present case, the written statement was filed within the maximum condonable statutory period, even if the same was not taken on record within the said period. Further, the defects were also cured within the permissible time period prescribed under the Delhi High Court (Original Side) Rules, 2018.",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 33,
+                        "content": "There is nothing to suggest from the e-filing log that the filing of the written statement by the defendant on 17th August, 2022 was a non-est filing. The defects pointed out by the Registry, as noted above, were procedural defects and the same were duly rectified. Thereafter, there is no impediment on the written statement being taken on record.",
+                        "reference": "17."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 34,
+                        "content": "Senior counsel on behalf of the plaintiff has vehemently contended that since the written statement was not accompanied by an application for condonation of delay and the said application was filed only on 7th September, 2022, after the expiry of the maximum condonable period of 120 days, the written statement cannot be permitted to be taken on record.",
+                        "reference": "18."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 35,
+                        "content": "Per contra, senior counsel for the defendant has placed reliance on the  order dated 12th September, 2022 passed by the Supreme Court in SLP(C) Nos.9733-9734/2022 titled A. P. Distributors & Anr. v. OK Play India Pvt. Ltd., wherein the judgment in OK Play India Pvt. Ltd. v. A. P. Distributors, 2021 SCC OnLine Del 4079 has been set aside.",
+                        "reference": "19."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 36,
+                        "content": "The relevant observations of the Coordinate Bench in OK Play India (supra) are set out below:  “12. Since the written statement has to be filed within 120 days from the date of service of summons, and a filing beyond 30 days of service of summons is a delayed filing of the written statement, it is crystal clear that the application accompanying the belated filing of the written statement must necessarily have to be filed within the same time period, that is, 120 days. There is nothing in Order VIII C.P.C. to suggest otherwise.",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 37,
+                        "content": "To sum up, when a written statement is filed after 30 days of service of summons but before the expiry of further 90 days, the filing of the written statement must be accompanied with a written application setting out the reasons for the delay to allow the court to consider the reasons so given, to condone delay and receive the belated written statement giving reasons for granting such leave and enabling the court to impose appropriate costs. No application can be filed, seeking condonation of delay in filing the written statement after 120 days have elapsed from the date of service of summons.  …",
+                        "reference": "14."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 38,
+                        "content": "The learned Commercial Court erred in observing that the written statement and affidavit had been filed before the expiry of the 120 days' time that is available to the court to allow the filing of the written statement and use its inherent powers under Section 151 C.P.C. and to set at naught the mandatory provisions for filing of the written statement within 30 days or within the further period of 90 days allowed under Order VIII Rule 1 C.P.C., accompanied with an application seeking condonation of delay.”",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 39,
+                        "content": "The Supreme Court vide order dated 12th September, 2022, while setting aside the judgment of the Coordinate Bench in OK Play India  (supra), made the following observations:  “Having heard learned counsel for the respective parties and in the facts and circumstances of the case and considering the fact that the written statement was filed on the 34th day of the service of notice of summons, however, the application for condonation of delay was filed which was beyond the period of 120 days, the High Court has taken too technical view in setting aside the order passed by the learned Commercial Court directing to accept the written statement filed on behalf of the appellants/defendants. The High Court was not justified in setting aside the order passed by the learned Trial court directing to take the written statement on record.  In view of the above and for the reasons stated hereinabove, the present appeals succeed. The impugned judgment and orders passed by the High Court are hereby quashed and set aside and the order passed by the learned Trial Court directing to take written statement on record after condoning the delay in submitting the written statement is hereby restored.”",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 40,
+                        "content": "The judgments in Intiyaz Sheikh (supra), Rachna Overseas (supra) and 3M Company (supra) relied on by the plaintiff followed the dicta of OK Play India Pvt. Ltd. (supra), which has since been set aside by the Supreme Court. Further, in all the three aforesaid judgments, the defendants could not make out a case on merits for seeking condonation of delay in filing the written statement. Consequently, the aforesaid judgments do not advance the case of the plaintiff.",
+                        "reference": "22."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 41,
+                        "content": "Senior counsel for the plaintiff has also placed reliance on the judgment in SCG Contracts (India) Private Limited (supra) in support of his contention that the written statement has to come on record within 120 days from the date of service of summons. What has been observed by the Supreme Court in SCG Contracts (India) Private Limited (supra) is that  beyond 120 days from the date of accepting summons, the defendant shall forfeit the right to file the written statement and if the defendant fails to file the written statement within maximum condonable period of 120 days, the court shall not allow the written statement to be taken on record. Both in the second proviso to Order VIII Rule 1 and in the proviso to Order VIII Rule 10 of the CPC, which were considered by the Supreme Court in SCG Contracts (India) Private Limited (supra), the time limit prescribed is in respect of filing the written statement and not in respect of the written statement to be brought on record.",
+                        "reference": "23."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 42,
+                        "content": "On merits, the defendant has stated in its application seeking condonation of delay in filing the written statement that since the suit pertains to a judgment passed by a foreign court, substantial amount of time was spent seeking opinions from the foreign counsels and collating documents and during the said period, the concerned officers of the defendant as well as the counsel had also contracted COVID-19. Therefore, taking into account the facts and circumstances of the present case, it is a fit case for condoning the delay in filing of the written statement.",
+                        "reference": "24."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 43,
+                        "content": "However, there is no justification given by the defendant for not serving an advance copy of the written statement on the counsel for the plaintiff or for not filing a notarized affidavit in support of the written statement as well as the affidavit of admission/denial of documents. Therefore, the delay in filing the written statement is condoned and the written statement filed by the defendant is permitted to be taken on record, subject to costs of Rs.1,00,000/-to be paid by the defendant to the plaintiff.  Costs shall be paid within a period of two weeks from today.",
+                        "reference": "25."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "SC 281/2021",
+            "title": "TTK PRESTIGE LIMITED VS BAGHLA SANITARYWARE PRIVATE LIMITED  & ORS.",
+            "date": "06/10/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/ABL/judgement/08-10-2022//ABL06102022SC2812021_162047.pdf&ID=160214431_9",
+            "document_path": "data\\judgments\\DHC Judgments\\160214431_9.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 1,
+                        "content": "The present application has been filed on behalf of the applicant/defendant seeking reclassification of the present suit from a commercial suit to an ordinary suit. Reply has been filed on behalf of the plaintiff, which is not on record. However, a copy of the same has been handed over in Court and taken on record.",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 1,
+                        "paragraph_number": 2,
+                        "content": "The present suit has been filed seeking recovery of USD 1,039,268.85/-(Rs.7,72,17,675.5/-) from the defendant on the basis of judgment dated 30th September, 2021 passed by the United States District  Court for the Southern District of Texas, Houston Division (hereinafter “US District Court”) in Civil Action No.4:21-cv-00279 titled Phillips 66 Company v. Raaj Unocal Lubricants Limited. The said suit was filed by the plaintiff for the enforcement of its intellectual property rights against the defendant in the United States of America.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 3,
+                        "content": "Senior counsel appearing on behalf of the applicant/defendant submits that the present suit does not fall within the definition of „commercial dispute‟ under Section 2(1)(c) of the Commercial Courts Act, 2015. It is stated that the present suit does not fall in any of the categories mentioned in Section 2(1)(c) of the Commercial Courts Act and consequently, cannot be treated as a commercial suit. Reliance in this regard is placed on the judgment of the Supreme Court in Ambalal Sarabhai Enterprises Limited v. K.S. Infraspace LLP and Another, (2020) 15 SCC 585 and order dated 26th April, 2017 passed by a Coordinate Bench of this Court in CS(COMM) 52/2017 titled Qatar Airways Q.C.S.C v. Airports Authority of India & Anr. It is further contended that the present suit is not based on intellectual property rights in India, which are being litigated between the parties by way of other suits that are pending adjudication before this Court. The suit before the US District Court was based purely on the infringement of intellectual property rights in United States of America and unconnected with the intellectual property rights in India.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 4,
+                        "content": "Senior counsel appearing on behalf of the plaintiff relies upon the words ‗arising out of‘ occurring in Section 2(1)(c) of the Commercial Courts Act to submit that all disputes that are relatable to intellectual property rights would be covered under Section 2(1)(c)(xvii) of the Commercial Courts Act and therefore, would qualify as a commercial suit. It is further submitted  that the present application has been filed only to circumvent the mandatory maximum statutory time limit of 120 days for filing of written statement in commercial suits.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 6,
+                        "content": "At the outset, it is deemed apposite to refer to the relevant part of Section 2(1)(c)(xvii) of the Commercial Courts Act, which is set out below:  ―2. Definitions.—(1) In this Act, unless the context otherwise requires,––  …  (c)  ―commercial dispute‖ means a dispute arising out of–– …  (xvii)  intellectual property rights relating to registered and unregistered trademarks, copyright, patent, design, domain names, geographical indications and semiconductor integrated circuits;‖",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 7,
+                        "content": "It is evident from the wording of Section 2(1)(c) of the Commercial Courts Act that a commercial dispute includes a dispute that arises out of intellectual property rights of a party. The words ‗arising out of‘ used in Section 2(1)(c) have to be given their natural and ordinary meaning, which would mean to include all disputes involving intellectual property rights of a party. In the present case, the suit filed by the plaintiff before the US District Court was based on infringement of intellectual property rights of the plaintiff in the United States, wherein the US District Court passed an order of permanent injunction and awarded damages to the plaintiff amounting to USD 1,000,000/-along with attorney fees of USD 39,268/-. The present suit has been filed seeking recovery of the aforesaid amount. Since the United States of America is not a reciprocating territory under Section 44A of the Code of Civil Procedure, 1908 (CPC), the plaintiff has filed the present suit seeking of recovery of amounts awarded by the US  District Court. Further, as is evident from the judgment of the US District Court placed on record by the plaintiff, the entire cause of action for filing of the present suit is based on the infringement of intellectual property rights of the plaintiff by the defendant in the United States of America. Therefore, in my view, the present suit would be covered within the definition of ‗commercial dispute‘ in terms of Section 2(1)(c)(xvii) of the Commercial Courts Act.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 8,
+                        "content": "Reliance placed by the senior counsel for the defendant on the judgment in Ambalal Sarabhai Enterprises Limited (supra) is completely misplaced as in the said case, the Supreme Court was seized of a dispute concerning the interpretation of Section 2(1)(c)(vii) of the Commercial Courts Act. The Supreme Court in Ambalal Sarabhai Enterprises Limited (supra) has also observed that the provisions of the Commercial Courts Act have to be strictly construed. Even if that be so, the provisions of the Commercial Courts Act have to be given their full effect. Further, the use of the words ‗arising out of‘ in Section 2(1)(c) leaves no doubt in my mind that all suits based on enforcement of intellectual property rights would be covered under sub-clause (xvii) of Section 2(1)(c). Similarly, the observations of the Coordinate Bench in Qatar Airways Q.C.S.C (supra) would be of no assistance to the defendant as the present suit falls within the category of transactions listed under Section 2(1)(c) of the Commercial Courts Act.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 10,
+                        "content": "This application has been filed on behalf of the defendant under Order  VIII Rule 1 of the CPC seeking condonation of delay in filing the written statement and affidavit of admission/denial of documents. Reply has been filed on behalf of the plaintiff, which is not on record. However, a copy of the same has been handed over in Court and taken on record.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 12,
+                        "content": "1  The written statement in the present case was filed on 17th August, 2022, which was within the maximum condonable period of 120 days as prescribed under Order VIII Rule 1 of the CPC applicable to commercial suits.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 13,
+                        "content": "2  Once the written statement has been filed, the date of such filing has to be considered for calculating whether or not the written statement has been filed within the condonable period and the fact that the same has not been taken on record would not be relevant. Reliance in this regard is placed on the judgment dated 6th April, 2022 passed by this Court in CS(COMM) 1052/2018 titled Cosco International Pvt. Ltd. v. Jagat Singh Dugar.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 14,
+                        "content": "3  The only defect pointed out by the Registry in the written statement filed on 17th August, 2022 was that the affidavit filed along with the written statement was not attested and there was no proof of service. The said defects were pointed out by the Registry on 29th August, 2022 and being merely procedural in nature, were promptly rectified by the defendant on 30th August, 2022.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 17,
+                        "content": "1  The written statement was served by the counsel for the defendant to the counsel for the plaintiff first time on 30th August, 2022 and the application seeking condonation of delay in filing the written statement was served on the plaintiff on 7th September, 2022.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 18,
+                        "content": "2  The defendant is bound to bring on record the written statement within the maximum permissible condonable period, failing which the defendant forfeits the right to file the written statement. Reference in this regard is made to the judgment of the Supreme Court in SCG Contracts (India) Private Limited v. K.S. Chamankar Infrastructure Private Limited and Others, (2019) 12 SCC 210.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 19,
+                        "content": "3  Where a written statement has been filed without an application seeking condonation of delay, the same cannot be permitted to be taken on record. In the present case, the application for condonation of delay was filed beyond the maximum condonable period and therefore, the written statement should not be taken on record. Reliance in this regard is placed on OK Play India Pvt. Ltd. v. A.P. Distributors and Anr., 2021 SCC OnLine Del 4079 and the judgment dated 5th July, 2022 passed by a Coordinate Bench of this Court in CS(COMM) 144/2019 titled 3M Company v. Mr. Vikas Sinha. Reliance is also placed on my judgments in Rachna Overseas v. Printech System, 2021 SCC OnLine Del 5332 and Intiyaz Sheikh v. Puma SE, 2021 SCC OnLine Del 4679 in this regard.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 23,
+                        "content": "1  On 29th April, 2022, summons in the suit were issued and accepted on behalf of the defendant by their counsel in Court. Thirty days‟ time was given to the defendant to file written statement.",
+                        "reference": "14."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 30,
+                        "content": "In Cosco International Pvt. Ltd (supra), a Coordinate Bench of this Court noted the difference between ‗filing of the written statement‘ and  ‗taking on record of the written statement‘. The relevant observations of the said judgment, as noted in paragraphs 15 and 16 are set out below:  ―15. Upon a conspectus of the timelines as set-out above and in light of the provisions of the CPC as amended by the Commercial Courts, Commercial Division & Commercial Appellate Division Of High Courts (Amendment) Act, 2018read in conjunction with the Delhi High Court (Original Side) Rules 2018, as also the judicial precedents referred to by the parties, this court is of the view that written statement having been filed within the statutory period; and the defect of non-filing of the affidavit of admission/denial also having been cured well within the permissible time period, nothing further stands in the way of the written statement being taken on record.",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 31,
+                        "content": "For clarity, it is reiterated that what Order V Rule 1(1) and Order VIII Rule 1 CPC provide is the outer time-limit for filing of the written statement of defence. The filling by the defendant of an affidavit of admission/denial of the plaintiff’s documents, is a separate requirement under Chapter VII Rule 3 and 4 of the Delhi High Court (Original Side) Rules, 2018; and the consequence for not filing such affidavit is that the written statement shall not be taken on record and that the plaintiff’s documents shall be deemed to be admitted by the defendant. However, the filing of a written statement within the prescribed time but without an accompanying affidavit of admission/denial of documents, does not amount to non-est filing, since it cannot be said that nothing was filed at all. It would, however, amount to a defect, that is required to be cured after it is brought to the attention of the party by the Registry. Chapter VII Rule 3 only bars taking on record a written statement that is filed without an accompanying affidavit of admission/denial of documents. Filing of the written statement and it being taken on record are two separate and distinct matters.‖",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 32,
+                        "content": "The dicta of the aforesaid judgment would also be applicable to the facts of the present case. As per the e-filing log of the case, the written statement was filed on behalf of the defendant on 17th August, 2022, which  was within the maximum condonable statutory period of 120 days prescribed under the second proviso to Order VIII Rule 1 of the CPC applicable to commercial suits. On 29th August, 2022, the Registry pointed out only two defects in respect of the said filing, that (i) the affidavit was not attested; and, (ii) the proof of service was not attached. Again, from the e-filing log, it appears that the aforenoted two defects were removed by the defendant on the very next day i.e., 30th August, 2022 and a written statement along with an attested affidavit and an affidavit of admission/denial of documents notarized on 29th August, 2022 along with proof of service were filed. Thereafter, the Registry did not mark any further defects. Therefore, in the present case, the written statement was filed within the maximum condonable statutory period, even if the same was not taken on record within the said period. Further, the defects were also cured within the permissible time period prescribed under the Delhi High Court (Original Side) Rules, 2018.",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 33,
+                        "content": "There is nothing to suggest from the e-filing log that the filing of the written statement by the defendant on 17th August, 2022 was a non-est filing. The defects pointed out by the Registry, as noted above, were procedural defects and the same were duly rectified. Thereafter, there is no impediment on the written statement being taken on record.",
+                        "reference": "17."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 34,
+                        "content": "Senior counsel on behalf of the plaintiff has vehemently contended that since the written statement was not accompanied by an application for condonation of delay and the said application was filed only on 7th September, 2022, after the expiry of the maximum condonable period of 120 days, the written statement cannot be permitted to be taken on record.",
+                        "reference": "18."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 35,
+                        "content": "Per contra, senior counsel for the defendant has placed reliance on the  order dated 12th September, 2022 passed by the Supreme Court in SLP(C) Nos.9733-9734/2022 titled A. P. Distributors & Anr. v. OK Play India Pvt. Ltd., wherein the judgment in OK Play India Pvt. Ltd. v. A. P. Distributors, 2021 SCC OnLine Del 4079 has been set aside.",
+                        "reference": "19."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 36,
+                        "content": "The relevant observations of the Coordinate Bench in OK Play India (supra) are set out below:  ―12. Since the written statement has to be filed within 120 days from the date of service of summons, and a filing beyond 30 days of service of summons is a delayed filing of the written statement, it is crystal clear that the application accompanying the belated filing of the written statement must necessarily have to be filed within the same time period, that is, 120 days. There is nothing in Order VIII C.P.C. to suggest otherwise.",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 37,
+                        "content": "To sum up, when a written statement is filed after 30 days of service of summons but before the expiry of further 90 days, the filing of the written statement must be accompanied with a written application setting out the reasons for the delay to allow the court to consider the reasons so given, to condone delay and receive the belated written statement giving reasons for granting such leave and enabling the court to impose appropriate costs. No application can be filed, seeking condonation of delay in filing the written statement after 120 days have elapsed from the date of service of summons.  …",
+                        "reference": "14."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 38,
+                        "content": "The learned Commercial Court erred in observing that the written statement and affidavit had been filed before the expiry of the 120 days' time that is available to the court to allow the filing of the written statement and use its inherent powers under Section 151 C.P.C. and to set at naught the mandatory provisions for filing of the written statement within 30 days or within the further period of 90 days allowed under Order VIII Rule 1 C.P.C., accompanied with an application seeking condonation of delay.‖",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 39,
+                        "content": "The Supreme Court vide order dated 12th September, 2022, while setting aside the judgment of the Coordinate Bench in OK Play India  (supra), made the following observations:  ―Having heard learned counsel for the respective parties and in the facts and circumstances of the case and considering the fact that the written statement was filed on the 34th day of the service of notice of summons, however, the application for condonation of delay was filed which was beyond the period of 120 days, the High Court has taken too technical view in setting aside the order passed by the learned Commercial Court directing to accept the written statement filed on behalf of the appellants/defendants. The High Court was not justified in setting aside the order passed by the learned Trial court directing to take the written statement on record.  In view of the above and for the reasons stated hereinabove, the present appeals succeed. The impugned judgment and orders passed by the High Court are hereby quashed and set aside and the order passed by the learned Trial Court directing to take written statement on record after condoning the delay in submitting the written statement is hereby restored.‖",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 40,
+                        "content": "The judgments in Intiyaz Sheikh (supra), Rachna Overseas (supra) and 3M Company (supra) relied on by the plaintiff followed the dicta of OK Play India Pvt. Ltd. (supra), which has since been set aside by the Supreme Court. Further, in all the three aforesaid judgments, the defendants could not make out a case on merits for seeking condonation of delay in filing the written statement. Consequently, the aforesaid judgments do not advance the case of the plaintiff.",
+                        "reference": "22."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 41,
+                        "content": "Senior counsel for the plaintiff has also placed reliance on the judgment in SCG Contracts (India) Private Limited (supra) in support of his contention that the written statement has to come on record within 120 days from the date of service of summons. What has been observed by the Supreme Court in SCG Contracts (India) Private Limited (supra) is that  beyond 120 days from the date of accepting summons, the defendant shall forfeit the right to file the written statement and if the defendant fails to file the written statement within maximum condonable period of 120 days, the court shall not allow the written statement to be taken on record. Both in the second proviso to Order VIII Rule 1 and in the proviso to Order VIII Rule 10 of the CPC, which were considered by the Supreme Court in SCG Contracts (India) Private Limited (supra), the time limit prescribed is in respect of filing the written statement and not in respect of the written statement to be brought on record.",
+                        "reference": "23."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 42,
+                        "content": "On merits, the defendant has stated in its application seeking condonation of delay in filing the written statement that since the suit pertains to a judgment passed by a foreign court, substantial amount of time was spent seeking opinions from the foreign counsels and collating documents and during the said period, the concerned officers of the defendant as well as the counsel had also contracted COVID-19. Therefore, taking into account the facts and circumstances of the present case, it is a fit case for condoning the delay in filing of the written statement.",
+                        "reference": "24."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 43,
+                        "content": "However, there is no justification given by the defendant for not serving an advance copy of the written statement on the counsel for the plaintiff or for not filing a notarized affidavit in support of the written statement as well as the affidavit of admission/denial of documents. Therefore, the delay in filing the written statement is condoned and the written statement filed by the defendant is permitted to be taken on record, subject to costs of Rs.1,00,000/-to be paid by the defendant to the plaintiff. Costs shall be paid within a period of two weeks from today.",
+                        "reference": "25."
+                    }
+                ]
+            }
+        }
+    ]
+}

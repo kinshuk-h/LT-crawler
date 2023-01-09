@@ -1,0 +1,562 @@
+{
+    "meta": {
+        "directory": "data\\judgments\\DHC Judgments",
+        "request": {
+            "query": "Infringement",
+            "page": 5,
+            "court": "DHC",
+            "start_page": 1,
+            "req_pages": 5,
+            "req_total": null,
+            "start_date": null,
+            "end_date": null
+        },
+        "response": {
+            "entry_start": 41,
+            "entry_end": 50,
+            "entry_total": 2884,
+            "page": 5,
+            "page_total": 288,
+            "page_previous": 4,
+            "page_next": 6,
+            "page_processed": 5,
+            "saved_total": 16,
+            "generated_at": "2023-01-05T23:18:39"
+        },
+        "filters": {
+            "sent_count": {
+                "min_sents": "2",
+                "min_words": "20",
+                "tokenizer_path": null
+            }
+        }
+    },
+    "data": [
+        {
+            "case_number": "CW 3982/2019",
+            "title": "SECURITY AND INTELLIGENCE SERVICES (INDIA) LTD. AND ORS. VS UNION OF INDIA AND ORS.",
+            "date": "14/09/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/SMP/judgement/16-09-2022//SMP14092022CW39822019_110016.pdf&ID=781752438_2",
+            "document_path": "data\\judgments\\DHC Judgments\\781752438_2.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 1,
+                        "content": "The instant Writ Petition has been filed under Article 226 of the Constitution of India, seeking issuance of a writ of mandamus or any other appropriate writ to set aside/quash the Office Memorandum dated 13.09.2018 (“Impugned O.M.”) issued by the Union of India/Department of  Public Enterprises, Ministry of Industries and Heavy Industries & Public Enterprises (“Respondent No. 1”) and the tender dated 07.03.2019 (“Impugned Tender I”), tender dated 29.03.2019 for Haryana Region I (“Impugned Tender II”), tender dated 29.03.2019 for Haryana Region II (“Impugned Tender III”) and tender for Punjab Region (“Impugned Tender IV”) (hereinafter collectively referred to as “Impugned Tenders”) by GAIL (India) Limited (“Respondent No. 4”).The Petitioner No. 1 is a private security agency established in 1974 and is licensed under the Private Security Agencies (Regulation) Act, 2005 (“PSARA”). Petitioner Nos. 2 to 7 are Ex-Servicemen who are employed with Petitioner No. 1 after their service in the Indian Armed Forces.",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 2,
+                        "content": "The relevant facts leading to the filing of the instant Writ Petition are as follows: - i.  On 19.05.1992 the Directorate General of Resettlement (“DGR” or “Respondent No. 5”) which functions under the Department of Ex-Servicemen Welfare (Ministry of Defence) issued guidelines titled “Guidelines for Sponsoring & Creating of Security Agencies & Related Activities” which laid down general norms for sponsoring security agencies for award of security contracts and the modus operandi of their functioning.  ii.  Thereafter, the Ministry of Defence issued an Office Memorandum dated 04.02.1994 addressed to the Secretaries of all Ministries and Departments of Government of India, stating that Respondent No. 5 has evolved a scheme to maintain a panel of retired Service officers, State Ex-Servicemen Corporation and Ex-Servicemen Cooperative Societies who are desirous of obtaining security work on contract basis.  iii.  Subsequently, on 11.11.1994, Respondent No. 1 issued an Office Memorandum requesting all administrative Ministries/Departments of the Government of India to issue instructions to public sector undertakings under their administrative control to obtain contract security services from Respondent No. 5 or the State Ex-Servicemen Security Corporation for sponsoring Ex-Servicemen Security Agencies on their panel without engaging security agencies on contract through open tender. Subsequently, Respondent No. 1 on 18.03.1996 issued another O.M. reiterating the request made in the earlier O.M. dated 11.11.1994.  iv.  On 10.12.1997, Respondent No.1, while noting the need for granting greater operational freedom to the public sector enterprises and a view to rationalise and simplify the existing set of guidelines to public sector enterprises, issued an O.M. cancelling the previous O.M.’s dated 11.11.1994 and 18.03.1996 amongst other guidelines/memoranda.  v.  Thereafter on 01.02.1999, Respondent No. 1 issues an O.M. restoring the earlier cancelled Office Memoranda dated 11.11.1994 and 18.03.1996, modifying them to the extent that the Respondent No. 5 would sponsor more than one security agency so that Central Public Sector Enterprises (“CPSEs”) concerned would have a choice in choosing a suitable outfit keeping in view their specific requirements and the service chargeable by the security agencies will be negotiable. Subsequently, Respondent No. 1 issued O.M.’s dated 27.01.2003, 11.02.2005 and 04.10.2005 reiterating its request made in the restored O.M.’s.  vi.  Thereafter on 11.02.2005, Respondent No. 1 issued an O.M. making Respondent No. 5, the nodal authority to sponsor security agencies including State Ex-Servicemen Security Corporations to all Public Sector Undertakings.  vii.  On 23.06.2005, PSARA came into force, which is a legislation enacted with the objective of regulating private security agencies (“PSAs”).  viii.  The Respondent No. 4, on 30.04.2016, awarded to the Petitioner No. 1 a composite contract for Pipeline RoU surveillance including Foot Patrolling and Watch and Ward Services for various installations under NCR Gas O&M for a period of three years expiring on 30.04.2019. The selection of Petitioner No. 1 for the composite contract was done through an open tender process involving competitive bidding.  ix.  Thereafter, the Department of Expenditure, Ministry of Finance, Government of India published the General Financial Rules, 2017 on 11.02.2017 and a Manual for Procurement of Consultancy and Other Services, 2017 on 18.04.2017 which dealt with selection methods for engagement of service providers.  x.  On 13.09.2018, Respondent No. 1 issued Impugned O.M., directing all administrative Ministries/Departments to issue instructions to the CPSEs under their administrative control requiring manpower of security services to obtain a panel of qualified Ex-Servicemen Security Service Providers only from Respondent No. 5, without resorting to the open tender process. The relevant portion of the Impugned O.M. reads as follows:  “2. It is proposed to merge the provisions of the main guidelines of 1994 and its amendments issued from time to time into one comprehensive guideline as follows:  (i)  In order to prevent exploitation of Ex-servicemen (ESM) and to effectively implement their rehabilitation process, the Directorate General of Resettlement (DGR) has evolved a scheme whereby retired service officers and State Ex-servicemen Security Corporations desirous of obtaining contracts from CPSEs to provide manpower for security are empaneled. In this system, DGR provides a panel of qualified Ex-servicemen Security Agencies and State ESM Security Corporations functioning under the directives of Ministry of Defence.  (ii)  All administrative Ministries / Departments are requested to issue necessary instructions to the CPSEs under their administrative control requiring manpower for security services, to obtain a panel of qualified Ex-Servicemen Security Service Providers only from the Directorate General of Resettlement (DGR). West Block – IV, R.K. Puram, New Delhi without going to open tendering process.  (iii)  However, to ensure that CPSEs get more cost effective and efficient security agencies, DGR will sponsor more than one security agency so that the CPSE concerned would have a choice in choosing a suitable outfit keeping in view their specific requirements.  (iv)  The service charges chargeable by security agency will be negotiable between the CPSE and the agency concerned subject to guidelines issued vide MoD OM No. 28(3)/2012-D (Res-1) dated 09.07.2012 and amendments made therein from time to time  (v)  Ministry of Defence, Department of Ex-Servicemen Welfare is the nodal Ministry / Dept. for issuance of comprehensive guidelines on the subject matter.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 3,
+                        "content": "These guidelines supersede all earlier guidelines issued by DPE in this regard. All administrative Ministries / Departments are requested to kindly issue necessary instruction to the CPSEs accordingly.” (emphasis supplied)  xi.  The Petitioner No. 1 sent a representation on 26.02.2019 to the Respondent No. 4 calling upon them to not give effect to the Impugned O.M. as process of selection from panel of names given by Respondent No. 5 instead of open tender process.  xii.  Thereafter on 07.03.2019, Respondent No. 4 issued a tender bearing E-Tender No. 8000014720 (“Impugned Tender I”), inviting bids from security agencies which are sponsored by Respondent No. 5.  xiii.  The Respondent No. 4 floated three other tenders, namely, Tender No. GAIL/NCR/C&P/S96/2K18/HARYANA (REGION-1) (“Impugned Tender II”), Tender No. GAIL/NCR/C&P/S97/2K18/ HARYANA (REGION-2) (“Impugned Tender III”), and Tender No. GAIL/NCR/C&P/S98/2K18-19/PUNJAB (“Impugned Tender IV”). Impugned Tender II has been issued for hiring of security, care taking and loss prevention services for natural gas pipeline and LPG Pipeline in the State of Haryana (Region 1). Impugned Tender III has been issued for hiring of security, care taking and loss prevention services for natural gas pipeline and LPG Pipeline in the State of Haryana (Region 2).Impugned Tender IV has been issued for hiring of security, care taking and loss prevention services for natural gas pipeline Chandigarh Zonal Offices in the State of Punjab.  xiv.  On 29.04.2019, the Respondent No. 4 issued a letter extending the duration of the contract awarded to Petitioner No. 1 till 29.08.2019.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 4,
+                        "content": "It is submitted by Mr. Darpan Wadhwa, Learned Senior Counsel for the Petitioners, that the Impugned O.M. and Impugned Tenders are violative of Articles 14 and 19(1)(g) of the Constitution of India, 1950 as they completely exclude the Petitioners from participating in the process of selection of security agencies for CPSEs. Further, the Impugned O.M. and Impugned Tenders by exclusively confining the right of selection to only a select group of PSAs empanelled with Respondent No. 5, discriminate against Petitioners without any reasonable or rational basis.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 5,
+                        "content": "Mr. Wadhwa further submits that the Impugned O.M. and Impugned Tenders are in contravention of the scheme, mandate and intent of the PSARA. It is contended by the Ld. Counsel for the Petitioners that all PSAs, after obtaining a license in accordance with the PSARA, are required to be treated as equals under the law and no discrimination between them is permissible by public authorities.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 6,
+                        "content": "Further, it is submitted by the Ld. Senior Counsel for the Petitioners that the Impugned O.M. classifies all licensed PSAs into sub-classes, i.e. (i) security agencies empanelled with Respondent No. 5 and (ii) security agencies not empanelled with Respondent No. 5. The Petitioners contend that such a classification created by the Impugned O.M. is wholly arbitrary, capricious and unreasonable as it is not based on any real and substantial distinction bearing a just and reasonable connection to the object sought to be achieved by the impugned O.M. and is thereby violative of Article 14 of the Constitution of India, 1950.He places reliance upon the judgment in Comptroller & Auditor-General v. Kamlesh Vadilal Mehta, (2003) 2 SCC  349, to support this argument. The relevant paragraphs of the judgment read as under:  “8. It is not disputed that the Chartered Accountants having qualification are eligible for being considered for entrustment of audit work for public sector undertakings or government concerns. Once it is accepted that these Chartered Accountants are qualified and eligible for the audit work and are also eligible for being brought on the panel of audit work for public sector undertakings and government concerns, there appears no valid reason why the impugned advertisement has created a sub-classification from the general class of eligible Chartered Accountants which relates to a smaller group of Chartered Accountants who form partnership concerns only.”",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 7,
+                        "content": "The Ld. Senior Counsel for the Petitioners further submits that the Impugned O.M. and Impugned Tenders are manifestly arbitrary as they bear no direct relation to the ostensible object of welfare of ex-servicemen and ignores the interest of a significant number of ex-servicemen employed with the Petitioner No. 1, who depend on the Petitioner No. 1 for their livelihood. Additionally, the Impugned O.M. and Impugned Tenders do not bear any reasonable nexus to advancing the commercial interests of the CPSEs either, as that can only be achieved through either the Least Cost Selection (“LCS”) method or through the Quality and Cost Based Selection (“QCBS”) method but not through Single Source Selection (“SSS”) method. Further, it is submitted that the Impugned O.M. and Impugned Tenders change the previous policy of open tendering to the present one without any justification and in an arbitrary manner, thereby violating Article 14 of the Constitution of India, 1950.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 8,
+                        "content": "The Ld. Senior Counsel for the Petitioners submits that the Impugned  O.M. and Impugned Tenders fails the test regarding the discretion of the Government in grant of Government largess as laid down in Ramana Dayaram Shetty v. International Airports Authority, (1979) 3 SCC 489.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 9,
+                        "content": "The Ld. Senior Counsel has further submitted that the Supreme Court in various decisions has held that contracts by the State and its instrumentalities must be normally granted through public tender process from eligible persons as this ensures transparency, provides fair and equitable treatment of all tenderers and eliminates irregularities, interferences and corrupt practices by the concerned authorities. He has placed reliance upon Nova Ads v. Metropolitan Transport Corporation, (2015) 13 SCC 257,which refers to the Supreme Court’s decision in Nagar Nigam, Meerut v. Al Faheem Meat Exports (P) Ltd. and Ors., (2006) 13 SCC 382, to support this submission.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 10,
+                        "content": "Further, the Ld. Senior Counsel for the Petitioners places reliance upon the Central Vigilance Commissions (“CVC”) Office Order No. 23/7/07 dated 05.07.2017 wherein it is stated that as per circulars issued by the CVC, an award of contract on nomination basis violates Article 14 of the Constitution. The Office Order further states that award of contract on nomination basis can only be done in exceptional circumstances and adequate justification for the same must be provided.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 11,
+                        "content": "The Ld. Senior Counsel for the Petitioners has also relied upon the General Financial Rules, 2017 and Manual for Procurement of Consultancy & Other Services, 2017 which provides that the general norm and consistent practice in procurement of security contracts is through QCBS or LCS method and SSS method is only permissible in exceptional circumstances.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 12,
+                        "content": "Mr. Chetan Sharma, Learned Additional Solicitor General for Respondent Nos. 1 to 3 & 5, submits that earlier, a number of security  agencies employed by various Ministries and Departments of Government of India would employ ex-servicemen and were exploited by PSAs by not paying them reasonable wages. In order to prevent such exploitation, Respondent No. 5has evolved a scheme to maintain a panel of retired Service officers, State Ex-Servicemen Corporation and Ex-Servicemen Cooperative Societies who are desirous of obtaining security work on contract basis. Respondent No. 5 has also ensured that these ex-servicemen are paid as per the wage formula promulgated by Respondent No. 5 which has been evolved keeping in view the provisions of the Minimum Wages Act, 1948 and Variable Dearness Allowance promulgated by Ministry of Labour / State Government as revised from time to time. The Ld. Counsel for the Respondent relies upon O.M. dated 04.02.1994 issued by the Ministry of Defence to support this contention.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 13,
+                        "content": "The Ld. ASG submits that the Respondent No. 1 issued O.M. from time to time requesting the administrative Ministries/Departments of the Government of India to issue instructions to CPSEs under their administrative control to obtain security services on a contract basis from Respondent No. 5 or State Ex-Servicemen Security Corporation for sponsoring Ex-Servicemen Security Agencies on their panel. The Impugned O.M. is a consolidation of these guidelines issued in several O.M.’s issued by Respondent No. 1 since 11.11.1994 which has been done in pursuance of the policy of the Government of India for the welfare of ex-servicemen as stated in the O.M. dated 04.02.1994. Further, it is an established principle that judicial interference is uncalled for in contractual matters in the absence of irrationality on the face of the record and deference is owed to the Executive in matters of economic policies.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 14,
+                        "content": "The Ld. ASG submits further that the Impugned O.M. achieves two  important state objectives i.e., firstly, it provides specially trained security personnel to strategically important national assets held by CPSEs. Secondly, it makes provisions for resettlement of ex-servicemen by promoting their right to work which is a constitutionally sanctioned State goal under Article 41 of the Constitution of India, 1950.",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 15,
+                        "content": "It is further submitted by the Ld. ASG that the classification envisioned under the Impugned O.M. is based on cogent intelligible differentia which is as follows:  i.  Ex-Servicemen are in a class of their own as they receive intensive and specialised training under the armed forces.  ii.  Ex-Servicemen are subject to intense scrutiny throughout their years of service which requires them to maintain the highest standards of conduct and their antecedents are scrupulously verified.  iii.  There is a need for specialised security for national assets under the control of CPSEs as several of them are strategically important for the State.",
+                        "reference": "14."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 16,
+                        "content": "The Ld. ASG has further submitted that a security agency which provides employment to ex-servicemen is entitled to approach Respondent No. 5 for empanelment and ex-servicemen have an option to approach Respondent No. 5 to register them and allot them to an empanelled service provider. The Impugned O.M. does not make any distinction among different classes of security agencies which employ Ex-Servicemen.",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 17,
+                        "content": "It is submitted by the Ld. ASG that the objective of PSARA is to regulate PSAs so that they operate within a legal framework and PSARA does not aim to classify all PSAs as one class.",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 18,
+                        "content": "It is further submitted by the Ld. ASG that the Impugned O.M does  not violate Article 19(1)(g) of the Constitution of India, 1950. It is stated by him that issuance of licenses under PSARA does not result in any vested right within the PSAs to be eligible for providing security services to CPSEs. Further, the Impugned O.M. does not prohibit the proprietor petitioner to do business with all bodies which are not CPSEs/State PSUs.",
+                        "reference": "17."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 19,
+                        "content": "Mr. Sandeep Mahapatra, Ld. Counsel for Respondent No. 4, has submitted that Respondent No. 4 is a CPSE and is governed by various O.M.’s, guidelines and instructions issued from time to time by Respondent Nos. 1 and 2, in relation to engaging services of security agencies. It is on the basis of these binding O.M.’s, guidelines and instructions that Respondent No. 4 issued Impugned Tender I. Further, Impugned Tender I has been finalised and awarded to successful bidders on 29.06.2019 and so the relief claimed by the Petitioners qua setting aside Impugned Tender I has become infructuous.",
+                        "reference": "18."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 20,
+                        "content": "It is further submitted by Mr. Mahapatra that the Impugned Tender II, Impugned Tender III and Impugned Tender IV floated by Respondent No. 4 and formed part of the composite contract awarded to Petitioner No. 1 earlier have also been issued in compliance with the Impugned O.M. and guidelines issued by Respondent No. 1. Further, in respect of these tenders, Fax of Acceptance has been issued to successful parties with their commencement date being effective from 30.08.2019 i.e., on expiry of the extended period of existing composite contract awarded to Petitioner No. 1. The proprietor Petitioner is thus not entitled to any relief as doing so would severely jeopardise operations of Respondent No. 4 and also compromise security of pipelines under its control.",
+                        "reference": "19."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 21,
+                        "content": "In rejoinder, it is submitted by Mr. Wadhwa, Ld. Senior Counsel, that subsequent to the enactment of PSARA, the various O.M.’s issued by  Respondent No. 1 have outlived their utility and purpose. To buttress this argument, the Learned Senior Counsel has highlighted Section 4 of PSARA which provides that all PSAs are required to obtain a license to provide security services. Further, Sections 9(5) and 10(3) of PSARA provides that PSAs must give preference to ex-servicemen in matters of employment of private security guards. It is further submitted that Section 13(1)(j) of PSARA read with its Schedule provides that a private security agency must comply with all labour legislations, failing which the license of security agency can be cancelled. It is therefore submitted by the Learned Counsel for the Petitioner that PSARA mandates that PSAs provide statutory benefits like bonus, gratuity, provident fund and minimum wages to its employees, regardless of whether they are empanelled with DGR or not.",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 22,
+                        "content": "The Ld. Senior Counsel for the Petitioners in their rejoinder has also placed reliance upon the judgment of the Hon’ble Orissa High Court in Pratap Ghose Security Agency v. IOCL & Ors., W.P. (C) No. 23362/2017 dated 16.08.2018. It is stated that the High Court in this case was dealing with a challenge to an open tendering process for deployment of security on the ground it was in violation of an O.M. dated 04.10.2005 modelled on the same lines as the Impugned O.M. Petitioner No. 1 was one of the Respondents in this case and the High Court dismissed the writ petition and refused to interfere with the open tendering process for deployment of security at terminals under the jurisdiction of Indian Oil Corporation Ltd.",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 23,
+                        "content": "In rejoinder, Ld. Senior Counsel for the Petitioners has also placed reliance upon a decision of the Hon’ble Orissa High Court dated 14.07.2009 passed in W.P. (C) No. 10517/2008, titled as G4S Security vs. DGR & Ors. It is stated by the Learned Counsel for the Petitioner that the Court in the aforesaid case was dealing with a challenge to an O.M. which is similar to  the Impugned O.M. in the present case. In the aforesaid case, the Hon’ble Orissa High Court held that the O.M. under challenge in those proceedings, frustrated the purpose of PSARA and was violative of Article 14 of the Constitution of India, 1950.",
+                        "reference": "22."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 24,
+                        "content": "It is further argued by the Ld. Senior Counsel for the Petitioners that the Central Government has framed Private Security Agencies Central Model Rules, 2006 (“Model Rules”) which provides safeguards for adequate security training of security guards and for verification of character and antecedents to persons being employed by PSAs.",
+                        "reference": "23."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 26,
+                        "content": "The Petitioners have challenged the Impugned O.M. on the ground that it is violative of Article 14 of the Constitution of India, 1950 inasmuch as it creates a sub-classification amongst all PSAs which is not based on any intelligible differentia and bears no rational nexus with the object sought to be achieved and the same is wholly arbitrary, capricious and unreasonable. The Petitioners have also challenged the tender which has been issued pursuant to the Impugned O.M. To appreciate the arguments advanced by the Petitioners, it is necessary to discuss the test of reasonable classification under Article 14 of the Constitution as laid down in various judgments of the Hon’ble Supreme Court.",
+                        "reference": "25."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 27,
+                        "content": "A 7-Judge Constitution Bench of the Supreme Court in State of W.B.  vs. Anwar Ali Sarkar, 1952 SCR 284, was dealing with a challenge to the West Bengal Special Courts Act, 1950 on the ground that it offends Article 14 of the Constitution of India. The Court interpreted Article 14 of the Constitution and analysed the scope, meaning and effect of Article 14. It is in this case that the test of reasonable classification was first defined. The  relevant paragraph of the judgment reads as follows:  “55... It is now well established that while Article 14 is designed to prevent a person or class of persons from being singled out from others similarly situated for the purpose of being specially subjected to discriminating and hostile legislation, it does not insist on an “abstract symmetry” in the sense that every piece of legislation must have universal application. All persons are not, by nature, attainment or circumstances, equal and the varying needs of different classes of persons often require separate treatment and, therefore, the protecting clause has been construed as a guarantee against discrimination amongst equals only and not as taking away from the State the power to classify persons for the purpose of legislation. This classification may be on different bases. It may be geographical or according to objects or occupations or the like. Mere classification, however, is not enough to get over the inhibition of the Article. The classification must not be arbitrary but must be rational, that is to say, it must not only be based on some qualities or characteristics which are to be found in all the persons grouped together and not in others who are left out but those qualities or characteristics must have a reasonable relation to the object of the legislation. In order to pass the test, two conditions must be fulfilled, namely, (1) that the classification must be founded on an intelligible differentia which distinguishes those that are grouped together from others and (2) that that differentia must have a rational relation to the object sought to be achieved by the Act. The differentia which is the basis of the classification and the object of the Act are distinct things and what is necessary is that there must be a nexus between them. In short, while the Article forbids class legislation in the sense of making improper discrimination by conferring privileges or imposing liabilities upon persons arbitrarily selected out of a large number of other persons similarly situated in relation to the privileges  sought to be conferred or the liability proposed to be imposed, it does not forbid classification for the purpose of legislation, provided such classification is not arbitrary in the sense I have just explained. The doctrine, as expounded by this Court in the two cases I have mentioned, leaves a considerable latitude to the Court in the matter of the application of Article 14 and consequently has the merit of flexibility.”  (emphasis supplied)",
+                        "reference": "26."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 28,
+                        "content": "The Hon’ble Supreme Court in Special Courts Bill, 1978, In re, (1979) 1 SCC 380, dealt with a reference by the President of India for considering the constitutional validity of the Special Courts Bill, 1978. The Court undertook an exhaustive review of decisions dealing with the scope, content and meaning of Article 14 [See Budhan Choudhry v. State of Bihar, (1955) 1 SCR 1045; Ram Krishna Dalmia v. S.R. Tendolkar, 1959 SCR 279; C.I. Emden v. State of U.P., (1960) 2 SCR 592; Kangsari Haldar v. State of W.B., (1960) 2 SCR 646; Jyoti Pershad v. Administrator for Union Territory of Delhi, (1962) 2 SCR 125 and State of Gujarat v. Shri Ambica Mills Ltd., (1974) 4 SCC 656] and reiterated the test for reasonable classification in the following words:  “(7) The classification must not be arbitrary but must be rational, that is to say, it must not only be based on some qualities or characteristics which are to be found in all the persons grouped together and not in others who are left out but those qualities or characteristics must have a reasonable relation to the object of the legislation. In order to pass the test, two conditions must be fulfilled, namely, (1) that the classification must be founded on an intelligible differentia which distinguishes those that are grouped together from others and (2) that that differentia must have a rational relation to the object sought to be achieved by the Act.  (8)  The differentia which is the basis of the classification and the object of the Act are distinct things and what is necessary is that there must be a nexus between them. In short, while Article 14 forbids class discrimination by conferring privileges or imposing liabilities upon persons arbitrarily selected out of a large number of other persons similarly situated in relation to the privileges sought to be conferred or the liabilities proposed to be imposed, it does not forbid classification for the purpose of legislation, provided such classification is not arbitrary in the sense abovementioned.  ***  (12)  Whether an enactment providing for special procedure for the trial of certain offences is or is not discriminatory and violative of Article 14 must be determined in each case as it arises, for, no general rule applicable to all cases can safely be laid down. A practical assessment of the operation of the law in the particular circumstances is necessary.”  (emphasis supplied)",
+                        "reference": "27."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 29,
+                        "content": "In Natural Resources Allocation, In re, Special Reference No. 1 of 2012, (2012) 10 SCC 1, the Hon’ble Supreme Court while dealing with a reference by the President of India under Article 143 of the Constitution was considering the validity of the policy of having auctions as the only permissible method for disposal of all natural resources across all sectors and in all circumstances. The Court in its decision discussed the mandate of Article 14, including the test of “classification” and reiterated that Article 14 permits reasonable classification. The following excerpt from the judgment is of relevance:  “183. The parameters laid down by this Court on the scope of applicability of Article 14 of the Constitution of India, in matters where the State, its instrumentalities, and their functionaries, are engaged in contractual  obligations (as they emerge from the judgments extracted in paras 159 to 182, above) are being briefly paraphrased. For an action to be able to withstand the test of Article 14 of the Constitution of India, it has already been expressed in the main opinion that it has to be fair, reasonable, non-discriminatory, transparent, non-capricious, unbiased, without favouritism or nepotism, in pursuit of promotion of healthy competition and equitable treatment. The judgments referred to, endorse all those requirements where the State, its instrumentalities, and their functionaries, are engaged in contractual transactions. Therefore, all “governmental policy” drawn with reference to contractual matters, it has been held, must conform to the aforesaid parameters. While Article 14 of the Constitution of India permits a reasonable classification having a rational nexus to the object sought to be achieved, it does not permit the power of pick and choose arbitrarily out of several persons falling in the same category. Therefore, criteria or procedure have to be adopted so that the choice among those falling in the same category is based on reason, fair play and non-arbitrariness. Even if there are only two contenders falling in the zone of consideration, there should be a clear, transparent and objective criteria or procedure to indicate which out of the two is to be preferred. It is this, which would ensure transparency.” (emphasis supplied)",
+                        "reference": "28."
+                    },
+                    {
+                        "page": 18,
+                        "paragraph_number": 30,
+                        "content": "From the aforementioned decisions of the Hon’ble Supreme Court, it is clear that Article 14 permits reasonable classification and State action which satisfies the test for reasonable classification would not be in violation of Article 14. The twin requirements of the test of reasonable classification are reiterated as follows:  i.  The classification must be founded on an intelligible differentia which distinguishes persons or things that are grouped together  from others left out of the group; and  ii.  The differentia must have a rational relation to the object sought to be achieved",
+                        "reference": "29."
+                    },
+                    {
+                        "page": 19,
+                        "paragraph_number": 31,
+                        "content": "The principle of equality enshrined within Article 14 of the Constitution is based upon the treatment of equals equally or treating likes as alike. This has been held to mean that even among likes, if a classification has been made on real and intelligible criteria, then they can be treated differently. The principles governing reasonable classification which have been stated hereinabove are thus also applicable to sub-classes which have been created within a class. The Hon’ble Supreme Court in the case of State of W.B. v. Rash Behari Sarkar, (1993) 1 SCC 479 was dealing with a challenge to a notification issued under the Bengal Amusements Tax Act, 1922. The notification exempted from payment of entertainment tax, any performance by a bona fide group theatre, amateur theatre or amateur jatra, formed exclusively for purposes of cultural activities and not for monetary gains. This tax exemption was not given to theatre groups which performed for monetary gains. Even though both groups were theatre groups, the Hon’ble Court in this case held that this classification was reasonable, not arbitrary and thus not in violation of Article 14. The Court stated the following:  “4. Equality means equality in similar circumstances between same class of persons for same purpose and objective. It cannot operate amongst unequals. Only likes can be treated alike. But even amongst likes the legislature or executive may classify on distinction which are real. A classification amongst groups performing shows for monetary gains and cultural activities cannot be said to be arbitrary. May be that both the groups carry out the legislative objective of promoting social and educational activities and,  therefore, they are likes but the distinction between the two on monetary gains and otherwise is real and intelligible. So long the classification is reasonable it cannot be struck down as arbitrary. Likes can be treated differently for good and valid reasons. The State in treating the group performing theatrical shows for advancement of social and educational purpose, differently, on basis of profit-making from those formed exclusively for cultural activities cannot be said to have acted in violation of Article 14.”  (emphasis supplied)",
+                        "reference": "30."
+                    },
+                    {
+                        "page": 20,
+                        "paragraph_number": 32,
+                        "content": "In State of Kerala vs. Aravind Ramakant Modawdakar, (1999) 7 SCC 400, the Apex Court was concerned with an appeal arising out of a decision of the Appellate Bench of the Kerala High Court. The case was concerning a challenge to an amendment to the Schedule of the Kerala Motor Vehicles Taxation Act, 1976 which enhanced the rate of quarterly tax in respect of inter-State carriage operators. The challenge was based on the ground that the reduction of tax liability in favour of the vehicles covered by intra-State contract carriage permit without granting the same to inter-State contract carriages amounted to a violation of Article 14 of the Constitution. The Court in this case noted that even though both inter-State and intra-State operators, were in a generic sense, State carriage operators, there was a reasonable distinction between the two. The Court in this regard held as follows:  “10. The validity of Section 22 of the Act has not been questioned which section empowers the State in public interest to grant exemptions in such a manner as it deems fit to a class of people. Once we hold that the contract carriages covered by intra-State permits and inter-State permits can form two distinct and separate classes within the larger class of contract carriages, we find it difficult to hold that this classification is either unreasonable or it lacks a nexus to the object or  is violative of Article 14. The opinion as to public interest contemplated under Section 22 of the Act will have to be formed by the State after taking into consideration the various factors which affect the public at large. Definitely, in the absence of a challenge to this decision-making process on facts, it will not be open to us to substitute our views in this matter to that of the opinion formed by the State. For the reasons stated above, with respect, we are unable to concur with the judgment of the Appellate Bench of the Kerala High Court which is impugned before us and the same is set aside.”  (emphasis supplied)",
+                        "reference": "31."
+                    },
+                    {
+                        "page": 21,
+                        "paragraph_number": 33,
+                        "content": "The Apex Court, recently, in Manish Kumar v. Union of India, (2021)  5  SCC 1 after analysing various decisions has held that the law permits the creation of a sub-class within a class and the same is not antithetical to the guarantee of equality under Article 14 of the Constitution. It further held that the principles which govern the legitimacy of a sub-class are the same as those governing reasonable classification permissible under Article 14 of the Constitution. The relevant paragraph from the judgment is reproduced as under:  “231.We are of the view that the principles, which governed the legitimacy of the sub-class within a class, is based, essentially, on the very principles, which are discernible in regard to reasonable classification under Article 14. It is clear that the law does not interdict the creation of a class within a class absolutely. Should there be a rational basis for creating a sub-class within a class, then, it is not impermissible. This is the inevitable result of an analysis of the judgments relied upon by the petitioner themselves viz. Sansar Chand Atri v. State of Punjab [Sansar Chand Atri v. State of Punjab, (2002) 4 SCC 154 : 2002 SCC (L&S) 770] . The decisions, which have been relied upon by the Union and which we  have adverted to, clearly indicate that a class within a sub-class, is indeed not antithetical to the guarantee of equality under Article 14.” (emphasis supplied)",
+                        "reference": "32."
+                    },
+                    {
+                        "page": 22,
+                        "paragraph_number": 34,
+                        "content": "From the discussion above, it is abundantly clear that there exists no absolute bar on the creation of a sub-class within a class and the same is permissible under Article 14 of the Constitution. The principles on which the test of reasonable classification has been formulated apply equally to sub-classes, meaning thereby, the validity of a sub-class must also be based on the twin test of reasonable classification formulated under Article 14.",
+                        "reference": "33."
+                    },
+                    {
+                        "page": 22,
+                        "paragraph_number": 35,
+                        "content": "A 5-Judge Bench of the Supreme Court in the case of Confederation of Ex-Servicemen Assns. v. Union of India, (2006) 8 SCC 39 had an opportunity to discuss the classification of Ex-Servicemen and whether the same was reasonable. The Court in this case was concerned with a Public Interest Litigation to recognise the right of full and free medical care of ex-servicemen, their families and dependents. The Court in this case held that a classification between in-service employees and retirees (ex-servicemen) was legal, valid and a reasonable classification. The Court further held that a classification between defence personnel and persons other than defence personnel is also a reasonable and valid classification.",
+                        "reference": "34."
+                    },
+                    {
+                        "page": 22,
+                        "paragraph_number": 36,
+                        "content": "Having discussed the law on the subject, let us at this juncture analyse as to whether the Impugned O.M. and the Impugned Tenders create a classification which is reasonable and permissible under Article 14 of the Constitution. In the facts of the present case, the Impugned O.M. provides that a CPSE may obtain security services only from PSAs empanelled with Respondent No. 5. A PSA which provides employment to ex-servicemen is entitled to empanelment with the Respondent No. 5. The basis of creating a  classification between agencies which employ ex-servicemen and those which do not employ ex-servicemen has been explained by the Respondents as follows:  i.  Ex-Servicemen are in a class of their own as they receive intensive and specialised training under the armed forces.  ii.  Ex-Servicemen are subject to intense scrutiny throughout their years of service which requires them to maintain the highest standards of conduct and their antecedents are scrupulously verified.  iii.  There is a need for specialised security for national assets under the control of CPSEs as several of them are strategically important for the State.",
+                        "reference": "35."
+                    },
+                    {
+                        "page": 23,
+                        "paragraph_number": 37,
+                        "content": "The Impugned O.M. has been issued with the objective of laying down guidelines for appointment of security personnel in CPSEs which are in control of national assets of strategic importance to the State and are thus in need for specialised security. Ex-Servicemen, by virtue of having received specialised training as part of their service are better suited to provide specialised security services to CPSEs qua civil guards employed by PSAs who have not received such intensive training. Ex-Servicemen are also subject to extensive scrutiny vis-à-vis their conduct and antecedents while they are in service. Additionally, the Impugned O.M. furthers the cause of welfare of ex-servicemen by providing them an opportunity to provide security to CPSEs. The decision of the government to evolve a scheme to empanel only those security agencies which are managed/operated/run by Ex-Army personnel, who will give more importance and would be more sensitive to the needs of Ex-Army personnel cannot be found fault with.",
+                        "reference": "36."
+                    },
+                    {
+                        "page": 23,
+                        "paragraph_number": 38,
+                        "content": "In our view, the aforementioned criterion provides for intelligible  differentia on the basis of which a classification has been made between PSAs which employee ex-servicemen and those which do not employee ex-servicemen. The objective of the Impugned O.M. is to provide specialised security to national assets under the control of CPSEs as well as the welfare of Ex-Servicemen. The differentia therefore bears reasonable nexus with the object sought to be achieved by it. The classification is also in consonance with the decision of the Supreme Court in Confederation of Ex-Servicemen Assns. (supra). The Impugned O.M. therefore satisfies the twin requirements of the test of reasonable classification under Article 14. Resultantly, the Impugned Tenders, having been framed in consonance with the Impugned O.M. also satisfy the test for reasonable classification under Article 14 of the Constitution.",
+                        "reference": "37."
+                    },
+                    {
+                        "page": 24,
+                        "paragraph_number": 39,
+                        "content": "We find no merit in the Petitioner’s contention that sub-classification is impermissible under Article 14 of the Constitution. The reliance placed by the Petitioners upon the decision in Comptroller & Auditor-General (supra) does not aid their case as it is now well settled that sub-classification is not antithetical to Article 14 of the Constitution as per the law analysed and laid down by the Hon’ble Supreme Court in Manish Kumar (supra). The twin test of intelligible differentia and reasonable nexus which is used to determine whether a classification is reasonable are applicable in determining the validity of a sub-classification.",
+                        "reference": "38."
+                    },
+                    {
+                        "page": 24,
+                        "paragraph_number": 40,
+                        "content": "The judgment in Comptroller & Auditor-General (supra) is also distinguishable on facts and is not applicable to the facts of the present case. Firstly, the decision in Comptroller & Auditor-General (supra) does not state that there is an absolute bar on the creation of a sub-class under Article 14 of the Constitution. The sub-classification in that case was struck down on the basis that it was not made on a rational basis and was not reasonable. In that  case, the Auditors were “qualified and eligible” to be appointed as Auditors but were not appointed as they worked in a proprietary firm and not a partnership firm. Regardless of whether an auditor worked at a proprietary firm or a partnership firm, the training undergone remained the same between the two persons and thus a differentiation based on whether the auditor works at a proprietary or a partnership firm was held not to be reasonable. In the present case the Petitioners are not qualified and eligible for being appointed to provide security services to CPSEs as per the Impugned O.M. and the Impugned Tenders. In the present case, the level of training, standards of conduct and scrutiny of antecedents which persons who are ex-servicemen and persons who are not ex-servicemen undergo are starkly different and thus there is a reasonable distinction in their qualifications even though both work for licensed PSAs. As stated above, the distinction created by the Impugned O.M. between PSAs which employ ex-servicemen and PSA which do not employ ex-servicemen is based on intelligible differentia which has reasonable nexus with the object sought to be achieved by it. Therefore, the Impugned O.M. and the Impugned Tenders create a reasonable classification which is not in violation of Article 14 of the Constitution.",
+                        "reference": "39."
+                    },
+                    {
+                        "page": 25,
+                        "paragraph_number": 41,
+                        "content": "As the Petitioners have also presented a challenge the Impugned Tenders for being violative of Article 14 and 19(1)(g) of the Constitution, this Court, at this juncture deems it appropriate to delineate the scope of interference by a Court exercising power of judicial review in respect of contract entered into on behalf of the State. It has been observed consistently by the Supreme Court in a number of judgments that the Court may interfere in an administrative decision, if and only if the same is arbitrary, irrational, unreasonable, mala fide or biased. The Hon’ble Supreme Court in Tata  Cellular v. Union of India, (1994) 6 SCC 651, has stated as follows:  “70. It cannot be denied that the principles of judicial review would apply to the exercise of contractual powers by Government bodies in order to prevent arbitrariness or favouritism. However, it must be clearly stated that there are inherent limitations in exercise of that power of judicial review. Government is the guardian of the finances of the State. It is expected to protect the financial interest of the State. The right to refuse the lowest or any other tender is always available to the Government. But, the principles laid down in Article 14 of the Constitution have to be kept in view while accepting or refusing a tender. There can be no question of infringement of Article 14 if the Government tries to get the best person or the best quotation. The right to choose cannot be considered to be an arbitrary power. Of course, if the said power is exercised for any collateral purpose the exercise of that power will be struck down.”",
+                        "reference": "40."
+                    },
+                    {
+                        "page": 26,
+                        "paragraph_number": 42,
+                        "content": "The Hon’ble Supreme Court in Central Coalfields Ltd. v. SLL-SML (Joint Venture Consortium), (2016) 8 SCC 622, relying upon Tata Cellular (supra) and Jagdish Mandal v. State of Orissa, (2007) 14 SCC 517, has held that the if an administrative decision is not arbitrary, irrational, unreasonable, mala fide or biased, the Courts will not sit as an appellate authority and interfere with the decision. A contract is a commercial transaction, meaning thereby that evaluating tenders and awarding contracts are essentially commercial functions and principles of equity and natural justice stay at a distance. If the decision relating to award of contract is bona fide and in public interest, the courts will not, in exercise of power of judicial review, interfere even if a procedural aberration or error in assessment or prejudice to a tenderer, is made out. The power of judicial review cannot be permitted to be invoked to protect private interest at the  cost of public interest or to decide contractual disputes.",
+                        "reference": "41."
+                    },
+                    {
+                        "page": 27,
+                        "paragraph_number": 43,
+                        "content": "Summing up the principles laid down in Tata Cellular (supra), Jagdish Mandal (supra), Dwarkadas Marfatia and Sons v. Board of Trustees of the Port of Bombay, (1989) 3 SCC 293, and Central Coalfields (supra), the Hon’ble Supreme Court in Afcons Infrastructure Ltd. v. Nagpur Metro Rail Corpn. Ltd., (2016) 16 SCC 818, stated:  “13. In other words, a mere disagreement with the decision-making process or the decision of the administrative authority is no reason for a constitutional court to interfere. The threshold of mala fides, intention to favour someone or arbitrariness, irrationality or perversity must be met before the constitutional court interferes with the decision-making process or the decision.”  (emphasis supplied)",
+                        "reference": "42."
+                    },
+                    {
+                        "page": 27,
+                        "paragraph_number": 44,
+                        "content": "In (2020) 16 SCC 489, the Hon’ble Supreme Court has followed the aforesaid judgments and  “19. This Court being the guardian of fundamental rights is duty-bound to interfere when there is arbitrariness, irrationality, mala fides and bias. However, this Court in all the aforesaid decisions has cautioned time and again that courts should exercise a lot of restraint while exercising their powers of judicial review in contractual or commercial matters. This Court is normally loathe to interfere in contractual matters unless a clear-cut case of arbitrariness or mala fides or bias or irrationality is made out. One must remember that today many public sector undertakings compete with the private industry. The contracts entered into between private parties are not subject to scrutiny under writ jurisdiction. No doubt,  the bodies which are State within the meaning of Article 12 of the Constitution are bound to act fairly and are amenable to the writ jurisdiction of superior courts but this discretionary power must be exercised with a great deal of restraint and caution. The courts must realise their limitations and the havoc which needless interference in commercial matters can cause. In contracts involving technical issues the courts should be even more reluctant because most of us in Judges' robes do not have the necessary expertise to adjudicate upon technical issues beyond our domain. As laid down in the judgments cited above the courts should not use a magnifying glass while scanning the tenders and make every small mistake appear like a big blunder. In fact, the courts must give “fair play in the joints” to the government and public sector undertakings in matters of contract. Courts must also not interfere where such interference will cause unnecessary loss to the public exchequer.”",
+                        "reference": "43."
+                    },
+                    {
+                        "page": 28,
+                        "paragraph_number": 45,
+                        "content": "From the aforestated judgments, it is clear that the scope of interference by way of judicial review in commercial matters is extremely limited and can only be justified when a case of arbitrariness, unreasonableness, mala fide, bias or irrationality is clearly made out. In the absence of the same, the Courts should exercise restraint and not interfere even if a procedural aberration or error in assessment or prejudice to a tenderer is made out.",
+                        "reference": "44."
+                    },
+                    {
+                        "page": 28,
+                        "paragraph_number": 46,
+                        "content": "It is the case of the Petitioners that the method of selection used by the Respondent in selecting PSAs for providing security services to CPSEs is unreasonable and arbitrary and thus violative of Article 14. In support of this contention the Petitioner has relied upon CVC’s Office Order No. 23/7/07 dated 05.07.2017, the General Financial Rules, 2017 and the Manual for Procurement of Consultancy & Other Services, 2017.These documents  reiterate the principles laid down in Nova Ads (supra), which relies upon Ramana Dayaram Shetty (supra) and Nagar Nigam, Meerut (supra).The relevant extract from Nova Ads (supra) reads as follows:  “56. It is well settled in law that wherever a contract is to be awarded or a licence is sought to be given, it is obligatory on the part of the public authority to adopt a transparent and fair method. It serves two purposes, namely, participation of all eligible competitors and giving a fair opportunity to them and also generating maximum revenue. In this context, we may profitably refer to a two-Judge Bench in Nagar Nigam, Meerut v. Al Faheem Meat Exports (P) Ltd. [(2006) 13 SCC 382] , wherein it has been held as follows : (SCC p. 395, para 16)  “16. The law is well settled that contracts by the State, its corporations, instrumentalities and agencies must be normally granted through public auction/public tender by inviting tenders from eligible persons and the notification of the public auction or inviting tenders should be advertised in well-known dailies having wide circulation in the locality with all relevant details such as date, time and place of auction, subject-matter of auction, technical specifications, estimated cost, earnest money deposit, etc. The award of government contracts through public auction/public tender is to ensure transparency in the public procurement, to maximise economy and efficiency in government procurement, to promote healthy competition among the tenderers, to provide for fair and equitable treatment of all tenderers, and to eliminate irregularities, interference and corrupt practices by the authorities concerned. This is required by Article 14 of the Constitution.””",
+                        "reference": "45."
+                    },
+                    {
+                        "page": 29,
+                        "paragraph_number": 47,
+                        "content": "Undoubtedly, grant of Government largesse by the State, its  corporations, instrumentalities and agencies through contracts must be done through a transparent and fair method. As a general rule, this must be done through the process of public auction/public tender by inviting tenders from eligible persons. However, the present case is not one of grant of government largesse. As far as providing security to the administrative Ministries/Departments is concerned, a scheme has been evolved by the government that security to such offices will be provided by the security agencies which are run by Ex-servicemen and employs only Ex-servicemen.",
+                        "reference": "46."
+                    },
+                    {
+                        "page": 30,
+                        "paragraph_number": 48,
+                        "content": "The Impugned O.M. and Impugned Tenders are in consonance with the law laid down by the Hon’ble Supreme Court in the aforementioned decisions. In the present case the contracts for security of CPSEs have been granted by issuing tenders and inviting bids by eligible PSAs following a competitive bidding method for selection. The Impugned O.M. expressly states that in order to get cost effective and efficient security, Respondent No. 5 will sponsor more than one security agency so that the concerned CPSE has a choice in choosing a suitable PSA as per their specific requirements. Similarly, the Impugned Tenders issued invite bids from PSAs which are eligible as per the Bid Evaluation Criteria provided for in the Tender Notice. The Bid Evaluation Criteria in clear terms states that the bidding agency must be empanelled with/sponsored by Respondent No. 5 in order to be eligible to bid for the Impugned Tenders, and is in consonance with the Impugned O.M. The Impugned Tenders provide for a well-defined evaluation procedure on the basis of which Letter of Acceptance will be issued, thereby removing any scope of arbitrariness in the manner in which the Respondent exercises its choice. It is thus clear that both the Impugned O.M. and Impugned Tenders have followed the law laid down by the Hon’ble Supreme Court and follow a transparent, reasonable and fair  method which is in conformity with Article 14 of the Constitution.",
+                        "reference": "47."
+                    },
+                    {
+                        "page": 31,
+                        "paragraph_number": 49,
+                        "content": "The Petitioners also placed reliance upon the decision of the Hon’ble Orissa High Court in Pratap Ghose Security Agency (supra) wherein an O.M. modelled on similar lines as the impugned O.M. was challenged and the Petitioner No. 1 was one of the Respondents in the case. The High Court in this case observed that the contract awarded to the petitioner therein was awarded with the specific condition that it can be foreclosed at any time. It further observed that there existed an arbitration clause and the petitioner therein could claim damages by going to arbitration. The Court dismissed the case without entering into the merits of the challenge to O.M. and refused to exercise its discretionary jurisdiction under Article 226 of the Constitution. In our view, this judgment does not come to the rescue of the Petitioners as it is wholly inapplicable to the facts of the present case as the same was dismissed without entering into a discussion on the merits of the challenge to the O.M. and was dismissed as the petitioner therein could avail a remedy by initiating arbitration proceedings.",
+                        "reference": "48."
+                    },
+                    {
+                        "page": 31,
+                        "paragraph_number": 50,
+                        "content": "The Petitioner has also submitted that subsequent to the enactment of PSARA and the Private Security Agencies Central Model Rules, 2006 framed there under, the Impugned O.M. has lost its utility and purpose. The Petitioner has relied upon the judgment of the Hon’ble Orissa High Court in G4S Security Services v. Director General of Resettlement, W.P. (C) 10517/2008 to support this contention. In this case, the O.M. impugned provided that CPSEs must obtain security services from the Directorate General of Resettlement or State ESM Corporations for sponsoring Ex-Servicemen Security Agencies on the Panel. The Court therein, held that the O.M. discriminates against ex-servicemen engaged by PSAs not empanelled with DGR which would frustrate the purpose of PSARA and violate Article  14  of the Constitution.",
+                        "reference": "49."
+                    },
+                    {
+                        "page": 32,
+                        "paragraph_number": 51,
+                        "content": "In view of the reasoning given in this Judgment, this Court is not persuaded to follow the view taken by the High Court of Orissa. The objective behind the enactment of PSARA and Model Rules framed thereunder is to regulate private security agencies so they are run within legal parameters and are accountable to a regulatory mechanism. The Impugned O.M. on the other hand has been issued to provide necessary guidelines to be followed by CPSEs when appointing security personnel in CPSEs and the same is limited to CPSEs only. Further, the enactment of PSARA does not vest a right in any PSA to be appointed by CPSEs. The aims and objectives sought to be achieved by PSARA and the Impugned O.M. are distinct and therefore it cannot be said that the enactment of PSARA has rendered otiose the utility and purpose of the Impugned O.M.",
+                        "reference": "50."
+                    },
+                    {
+                        "page": 32,
+                        "paragraph_number": 52,
+                        "content": "The Petitioners’ contention that the Impugned O.M. and Impugned Tenders violate their fundamental right under Article 19(1)(g) of the Constitution is also without merit. It has been held in Michigan Rubber (India) Ltd. v. State of Karnataka, (2012) 8 SCC 216, that when the State or its instrumentalities act reasonably, fairly and in public interest in awarding a Contract, interference by Court is very restrictive and no person can claim a fundamental right to carry business with the Government. The Petitioners herein cannot claim a right to provide security for CPSEs when they are not eligible for the same as per the Impugned O.M. and the Impugned Tender. Furthermore, the Petitioners are not prohibited from providing security services for all bodies which are not CPSEs. The Impugned O.M. and the Impugned Tenders therefore do not violate Article 19(1)(g) of the Constitution.",
+                        "reference": "51."
+                    },
+                    {
+                        "page": 32,
+                        "paragraph_number": 53,
+                        "content": "At this juncture, it is pertinent to state that, the Impugned Tender has  been finalised and awarded to successful bidders on 29.06.2019.Similarly, the Impugned Tender II, Impugned Tender III and Impugned Tender IV have also been allotted to successful bidders. Further, the successful bidders have not been made a party to the proceedings before us.",
+                        "reference": "52."
+                    },
+                    {
+                        "page": 33,
+                        "paragraph_number": 54,
+                        "content": "In light of the foregoing, it is held that the Impugned O.M. and the Impugned Tenders are not in violation of Article 14 and Article 19(1)(g) of the Constitution of India, 1950. No case of arbitrariness, unreasonableness, mala fide, bias or irrationality has been made out by the Petitioners in the present case.",
+                        "reference": "53."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "CW 12643/2022",
+            "title": "MAYANK GARG VS DELHI HIGH COURT THROUGH ITS REGISTRAR GENERAL",
+            "date": "12/09/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/VIB/judgement/12-09-2022//VIB12092022CW126432022_173736.pdf&ID=781752438_6",
+            "document_path": "data\\judgments\\DHC Judgments\\781752438_6.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 1,
+                        "content": "The petitioner has filed the present petition under Article 226 of the Constitution of India, inter alia, praying that direction be issued to the respondent (hereafter ‘DHC’) to ‘recheck/re-examine/reassess’ the petitioner’s answer-sheets in respect of examination paper, Law-III. The petitioner has scored 89 marks out of the maximum of 200 marks in the said paper. This is one mark short of qualifying threshold of 45%. The petitioner’s aggregate marks of all papers is 437 marks out of a  maximum of 750 marks. This is the highest amongst all unsuccessful candidates and is significantly higher than the qualifying cut off of 50%. The petitioner has been eliminated from the competitive examination for appointment to Delhi Higher Judiciary Services, solely on account of not securing 45% marks in the examination paper, Law-III.",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 5,
+                        "content": "The petitioner is a practicing advocate and met the eligibility criteria for participating in the selection process for being appointed to Delhi Higher Judicial Service (hereafter ‘DHJS’). The selection for DHJS is a competitive one. The DHJS examination is a three-tier process. First tier is the DHJS Preliminary examination. The second is the candidates taking the DHJS Main (written) examination. And the third is a viva voce test.",
+                        "reference": "3.2."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 6,
+                        "content": "The DHJS Preliminary examination is a screening test comprising of one paper of multiple choice based objective type questions, carrying a maximum of 150 marks. The minimum qualifying  marks for a general category candidate is fixed at 50% and for those of the reserved categories is fixed at 45%. Those candidates, securing the minimum qualifying marks in the preliminary examination, are eligible to be admitted to undertake the DHJS Main (written) examination. It is also stipulated that the number of candidates to be admitted to the DHJS Main (written) examination shall not be more than twenty times the total number of advertised vacancies in each category. The candidates qualifying the DHJS Main (written) examination are admitted to viva voce.",
+                        "reference": "3.3."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 7,
+                        "content": "In all 1909 (one thousand nine hundred and nine) number of candidates appeared in the DJHS preliminary examination held on 03.04.2022 and 123 (one hundred and twenty three) number of general category candidates secured the minimum qualifying marks. These candidates were admitted to the DHJS Main (written) examination.",
+                        "reference": "3.4."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 8,
+                        "content": "The DHJS Main (written) examination comprises of four papers. The brief description of the papers along the maximum marks, as set out in the Appendix to the Delhi Higher Judicial Service Rules, 1970 is set out below-:",
+                        "reference": "3.5."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 9,
+                        "content": "In all 140 candidates appeared in all papers of DHJS Main (written) examination. The minimum qualifying marks as prescribed in respect of the DHJS Main (written) examination is 45% in each paper and 50% in aggregate for the general category. The qualifying marks are 5% less for the candidates belonging to the reserved category (SC, ST and Persons with Disability).",
+                        "reference": "3.6."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 10,
+                        "content": "Out of the 140 candidates, who appeared in the DHJS Main (written) examination, 45 (forty five) candidates were short-listed as they met the criteria of the minimum qualifying marks. Nine candidates did not appear in all papers and thus, did not qualify the said examination. 86 (eighty-six) number of candidates, who appeared in all papers, were found to be unsuccessful.",
+                        "reference": "3.7."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 11,
+                        "content": "The marks awarded to the qualifying candidates have not been disclosed, however, the marks awarded to the unsuccessful candidates, in the DHJS Main (written) examination, have been declared. The petitioner has scored an aggregate of 437 marks in all papers, which is significantly higher than the qualifying threshold of 50% or 375 marks.  The petitioner’s score is the highest amongst the unsuccessful candidates whose marks have been disclosed.",
+                        "reference": "3.8."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 13,
+                        "content": "It is apparent from the above that the petitioner has secured marks significantly higher than the qualifying marks in the examination papers of general knowledge and language, Law-I and Law-II. He has not met the qualifying threshold in Law-III.",
+                        "reference": "3.10."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 14,
+                        "content": "Ms. Trivedi, learned senior counsel appearing on behalf of the petitioner, submitted that in terms of paragraph XV of the Appendix to the Delhi Higher Judicial Service Rules, 1970, if there is any litigation that involves totaling, evaluation or re-evaluation of the answer-sheets; the answer-sheets are required to be preserved. She contended that this clearly implies that in certain cases where litigation is instituted, the court can direct re-evaluation of the answer sheets.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 15,
+                        "content": "Further, she also submitted that in rare and special circumstances, the courts have directed re-evaluation of the answer-sheets and the  present case is one that qualifies to be considered as one such case. She referred to the decision of the High Court of Orissa in Amitav Tripathy  v.  Orissa High Court: (2022) SCC OnLine Ori 1920 and the Supreme Court in High Court of Tripura v. Tirtha Sarathi Mukherjee & Ors.: (2019) 16 SCC 663, in support of her contention. She submitted that the courts, in several decisions, had directed re-evaluation of the answer-sheets. She referred to Pranav Verma & Ors v. Registrar General of the High Court of Punjab and Haryana & Anr.: (2020) 15 SCC 377 and contended that in special circumstances, the courts can grant grace marks.",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 16,
+                        "content": "Undisputedly, the petitioner is a meritorious candidate and the same is evidenced by the fact that he has scored significantly higher marks in all papers other than the examination paper of Law-III. He was short by only one mark, which translates to 0.5%. He has secured 44.5% in paper of Law-III, which is below the qualifying marks as stipulated. There is no cavil with the provision that in cases where the court finds that there is manifest error in the marking system; failure to follow the procedure; or a systemic failure of the examination/selection scheme, the court can exercise the powers under Article 226 of the Constitution of India to remedy the same.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 17,
+                        "content": "Undoubtedly, this is a hard case where a meritorious candidate has not met the requisite cut-off. However, this Court is unable to accept that there is any manifest error in the marking system or any systematic  failure. There is no credible challenge to the relevant rules or any allegation that the procedure as prescribed has not been followed. Undeniably, the marking in examination of paper Law-I and Law-III has been strict. In the case of Law-I paper, only 68 (sixty-eight) candidates have secured the qualifying marks; 64(sixty-four) candidates could not clear the same. In Law-III paper, 77(seventy-seven) candidates have secured the qualifying marks but 54(fifty-four) candidates had failed to do so. It is apparent that even though the marking has been somewhat strict, sufficient number of candidates have secured the qualifying marks.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 18,
+                        "content": "In Pranav Verma & Ors v. Registrar General of the High Court of Punjab and Haryana & Anr (supra), the Supreme Court found that 14301 (fourteen thousand three hundred and one) numbers of candidates had appeared for the preliminary examination and only 9 (nine) candidates were found fit for viva voce. Only 0.702% of the candidates had cleared the DHJS Main (written) examination and the rest 99.298% had failed. This was against the 107 (one hundred and seven) vacancies that were notified. In the circumstances, the Supreme Court exercised its power under Article 142 of the Constitution of India and directed awarding of grace marks to candidates to ensure that a larger number of candidates qualify to appear for the viva voce.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 19,
+                        "content": "At this point, it is relevant to refer to paragraphs XII and XV of the Appendix to the Rules that sets out the scheme of the DHJS examination. Paragraph XII of the Appendix to the Delhi Higher Judicial Service Rules, 1970 expressly provides that re-evaluation of  the answer-sheets would not be permissible. Paragraph XV of the Appendix provides that all examination material including answer-sheets of the main examination would be destroyed one year after declaration of the final result. However, it also posits that if there is any litigation pending in respect of the said examination, which concerns the answer-sheets of the candidates including evaluation or reevaluation, the same shall be preserved till the decision is pronounced.  Paragraph XII and XV of the said appendix to the rules is set out below:- There shall be no re-evaluation of answer sheets in respect of Preliminary Examination and Mains Examination. No request for re-evaluation of answer sheets shall be entertained and the same shall be liable to be rejected without any notice to the candidates.  All Examination material including OMR answer sheets relating to Preliminary Examination, answer sheets of Main Examination, award sheets of viva voce, etc. in relation to each recruitment examination for Delhi Higher Judicial Services (25% direct recruitment quota) will be destroyed one year after the declaration of the final result.  However, if any litigation pertaining to any examination is pending before any Court, and the question/issue involved in the lis touches upon the answer sheets of the candidate(s) i.e. totalling, evaluation, re-evaluation, etc., the Registry shall preserve such answer sheets before initiating the process of destruction in terms of the above decision.”",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 20,
+                        "content": "It is clear from the paragraph XII of the Appendix to the Rules as set out above that the Delhi Higher Judicial Service Rules, 1970  expressly prohibit re-evaluation of the answer-sheets. The contention that the paragraph XV of the Appendix to the said rules indicates that re-evaluation is permissible in certain cases where litigation is instituted, is unpersuasive. A plain reading of paragraph XV provides that the answer-sheets and the examination material would be preserved in case of any litigation that may involve reference to the said material. The said paragraph cannot be construed to mean that it would be permissible for the courts to direct re-evaluation of answer-sheets contrary to the relevant rules.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 21,
+                        "content": "The decision in the case of Amitabh Tripathy v. Orissa High Court (supra), is also of little assistance to the petitioner. In that case, there was no rule, which prohibited re-evaluation of the answer-sheets. The establishment of High Court of Orissa had relied upon the general principle of law that in case where re-evaluation is not expressly permissible, it must be proscribed. In that case, the court found that there was an error in respect of two questions and therefore, directed that answers in respect of the two specified questions be re-evaluated by an expert of law. The court observed that in rare and exceptional cases, the power of the court to order the re-evaluation is not diluted. According to the court, the said case fell into the category of rare and exceptional cases.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 22,
+                        "content": "In Maharashtra State Board of Secondary and Higher Secondary Education & Anr. v. Paritosh Bhupeshkumar Seth & Ors.: (1984) 4 SCC 27, the Supreme Court set aside the order of the High Court striking down the rule that provided that no re-evaluation of  answer-book or supplement would be done and no candidate shall claim or be entitled to claim re-evaluation of answer books. In that case, certain students had filed a writ petition praying that they may be allowed to inspect the answer-sheets and the appellant (Maharashtra State Board of Secondary and Higher Secondary Education) be directed to re-evaluate the answer-sheets. They challenged the validity of the rules proscribing the same. The High Court partly allowed the petition. Resultantly, the examinees were entitled to seek a disclosure, inspection and re-evaluation of the answer-sheets. In the aforesaid background of the facts, the Supreme Court observed as under:  “20. We consider that the above approach made by the High Court is totally fallacious and is vitiated by its failure to follow the well-established doctrine of interpretation that the provisions contained in a statutory enactment or in rules/regulations framed thereunder have to be so construed as to be in harmony with each other and that where under a specific section or rule a particular subject has received special treatment, such special provision will exclude the applicability of any general provision which might otherwise cover the said topic…..Clause (1) of the said regulation states that any candidate who has appeared at the HSC examination may apply to Divisional Secretary for verification of marks, particularly in any subject, but such verification will be restricted to check whether all the answers have been examined and whether any mistake has been committed in totalling of marks in that subject or in transferring marks correctly on the first cover page of the answer book as well as whether the supplements attached to the answer books as mentioned by the candidates are intact. Clause (3) of the said regulation imposes the further limitation that no candidate shall claim or be entitled to revaluation of his answer book or  disclosure or inspection of the answer book or further documents as these are to be treated by the Divisional Boards as most confidential. It is obvious that clauses (1) and (3) have to be read together and not in isolation from each other as has apparently been done by the High Court. The right of verification conferred by clause (1) is subject to the limitation contained in the same clause that no revaluation of the answer books or supplements shall be done and the further restriction imposed by clause (3), prohibiting disclosure or inspection of the answer books.  xxxx  xxxx  xxxx",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 23,
+                        "content": "We are unable to agree with the further reasons stated by the High Court that since “every student has a right to receive fair play in examination and get appropriate marks matching his performance” it will be a denial of the right to such fair play if there is to be a prohibition on the right to demand revaluation and unless a right to revaluation is recognized and permitted there is an infringement of rules of fair play……..The candidates have taken the examination with full awareness of the provisions contained in the Regulations and in the declaration made in the form of application for admission to the examination they have solemnly stated that they fully agree to abide by the regulations issued by the Board. In the circumstances, when we find that all safeguards against errors and malpractices have been provided for, there cannot be said to be any denial of fair play to the examinees by reason of the prohibition against asking for revaluation.”",
+                        "reference": "26."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 24,
+                        "content": "In Pramod Kumar Srivastava vs. Chairman, Bihar Public Service Commission, Patna: (2004) 6 SCC 714, the Supreme Court referred to the earlier decision in Maharashtra State Board of Secondary and Higher Secondary Education & Anr. v. Paritosh Bhupeshkumar Seth & Ors. (supra) and observed as under:- “7. …There is no dispute that under the relevant rule of the Commission there is no provision entitling a candidate to have his answer-books reevaluated. In such a situation, the prayer made by the appellant in the writ petition was wholly untenable and the learned Single Judge had clearly erred in having the answer-book of the appellant re-evaluated.",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 25,
+                        "content": "Adopting such a course as was done by the learned Single Judge will give rise to practical problems. Many candidates may like to take a chance and pray for re-evaluation of their answer-books. Naturally, the Court will pass orders on different dates as and when writ petitions are filed. The Commission will have to then send the copies of individual candidates to examiners for reevaluation which is bound to take time. The examination conducted by the Commission being a competitive examination, the declaration of final result will thus be unduly delayed and the vacancies will remain unfilled for a long time. What will happen if a candidate secures lesser marks in re-evaluation? He may come forward with a plea that the marks as originally awarded to him may be taken into consideration. The absence of clear rules on the subject may throw many problems and in the larger interest, they must be avoided.”",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 26,
+                        "content": "In Himachal Pradesh Public Service Commission v. Mukesh Thakur & Anr.: (2010) 6 SCC 759, the Supreme Court considered the case which is somewhat similar to the present case. In that case, the respondent (Mukesh Thakur) had participated in the examination for selection of a Civil Judge (Junior Division). He had secured the required  50% marks in aggregate but had failed to secure 45% marks in the paper of Civil Law-II. Resultantly, he did not meet the qualifying criteria for being short-listed for viva voce. In the writ petition filed by respondent no.1, the High Court passed an order directing the appellant (Himachal Pradesh Public Service Commission) to arrange a special interview for the respondent as the court found that there were some inconsistencies in framing two questions. The High Court also directed that the answer-sheets be sent to another re-examiner of a rank of reader-in-law of Himachal Pradesh University, for re-evaluation. On re-evaluation, the marks awarded to the candidate were higher than the qualifying threshold and the High Court directed Himachal Pradesh Public Commission to issue an appointment letter. The Supreme Court faulted the High Court for taking upon itself the task of examining the two questions and observed as under:- “16. It is a settled legal proposition that the court cannot take upon itself the task of the statutory authorities.  xxxx  xxxx  xxxx",
+                        "reference": "14."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 27,
+                        "content": "In view of the above, it was not permissible for the High Court to examine the question papers and answer sheets itself, particularly, when the Commission had assessed the inter se merit of the candidates. If there was a discrepancy in framing the question or evaluation of the answer, it could be for all the candidates appearing for the examination and not for Respondent 1 only. It is matter of chance that the High Court was examining the answer sheets relating to Law. Had it been other subjects like Physics, Chemistry and  Mathematics, we are unable to understand as to whether such a course could have been adopted by the High Court. Therefore, we are of the considered opinion that such a course was not permissible to the High Court.”",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 28,
+                        "content": "In a more recent decision, a Coordinate Bench of this Court in Subhash Chand v. High Court of Delhi: 2019 SCC OnLine Del 8132 referred to the various decisions including Board of Secondary Education v. Pravas Ranjan Panda: (2004) 13 SCC 383; Himachal Pradesh Public Service Commission v. Mukesh Thakur: (2010) 6 SCC 759; and Central Board of Secondary Education v. Khushboo Shrivastava: (2014) 14 SCC 523 and observed that “a long line of authority lays down that no re-evaluation can be ordered by the court in absence of rules providing the same.”",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 29,
+                        "content": "The proposition that absent specific provisions permitting reevaluation of examination answer-sheets, the same is impermissible, is not without exception. In Ran Vijay Singh & Ors. v. State of Uttar Pradesh & Ors.: (2018) 2 SCC 357, the Supreme Court had observed as under: - “30.2 If a statute, Rule or Regulation governing an examination does not permit re-evaluation or scrutiny of an answer sheet (as distinct from prohibiting it) then the court may permit re-evaluation or scrutiny only if it is demonstrated very clearly, without any “inferential process of reasoning or by a process of rationalisation” and only in rare or exceptional cases that a material error has been committed;”",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 31,
+                        "content": "Thus, in rare and exceptional cases where it is established that there is a manifest error in evaluation of examination papers, the court may exercise powers under Article 226 of the Constitution of India to provide appropriate relief. In cases where it is established that the right of candidates for a fair evaluation in accordance with the specified procedure has been impinged, it may be necessary for the courts to exercise power to ensure that the rights of examinees are preserved.",
+                        "reference": "18."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 32,
+                        "content": "The present case is undoubtedly a hard case but we are unable to accept that there is any manifest error in evaluation of the answer sheets that warrants any interference by this Court. It is relevant to note that answers to the questions set in the paper for Law-III were essay type questions and were evaluated subjectively. This Court is informed that to ensure consistency, the answer-sheets were evaluated by the same examiner.",
+                        "reference": "19."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 33,
+                        "content": "It is possible that on a re-evaluation, the petitioner may secure higher marks. However, absent circumstances that indicate any flaw in the marking system or the procedure followed for evaluation of answer sheets, this Court is unable to lend any assistance to the petitioner.",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 34,
+                        "content": "In terms of the selection scheme, a number of candidates equaling three times the number of vacancies can be admitted to appear in viva voce. In the present case, the number of vacancies for the general candidates is 32 and therefore, as many as 96 candidates of the general  category could have been admitted for viva voce. Had the marking been any more lenient, a larger number of candidates would have qualified.",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 35,
+                        "content": "In the present case there are at least five candidates, whose marks are falling short of the qualifying marks by two marks or less. One of the candidates has not been short-listed because he has secured 67 marks in the paper of general knowledge and language, which is 0.5 marks less than the qualifying cut-off. Marks of another candidate are short by 1.5 marks in the same paper. There is also a similarly placed candidate as the petitioner, who has secured 89 marks in Law-III and has not been selected even though his aggregate marks in all papers is above 50%.",
+                        "reference": "22."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 37,
+                        "content": "In the given facts, this Court is unable to accept that any interference in the marks awarded to the petitioner is permissible, or any direction can be issued for revaluation of answer sheets, in exercise of its power under Article 226 of the Constitution of India.",
+                        "reference": "24."
+                    }
+                ]
+            }
+        }
+    ]
+}

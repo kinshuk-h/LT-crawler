@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "directory": "data\\judgments\\DHC Judgments",
+        "request": {
+            "query": "Licensing",
+            "page": 3,
+            "court": "DHC",
+            "start_page": 1,
+            "req_pages": 5,
+            "req_total": null,
+            "start_date": null,
+            "end_date": null
+        },
+        "response": {
+            "entry_start": 21,
+            "entry_end": 30,
+            "entry_total": 1161,
+            "page": 3,
+            "page_total": 116,
+            "page_previous": 2,
+            "page_next": 4,
+            "page_processed": 3,
+            "saved_total": 5,
+            "generated_at": "2023-01-05T22:51:29"
+        },
+        "filters": {
+            "sent_count": {
+                "min_sents": "2",
+                "min_words": "20",
+                "tokenizer_path": null
+            }
+        }
+    },
+    "data": []
+}

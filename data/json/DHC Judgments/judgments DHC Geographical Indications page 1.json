@@ -1,0 +1,799 @@
+{
+    "meta": {
+        "directory": "data\\judgments\\DHC Judgments",
+        "request": {
+            "query": "Geographical Indications",
+            "page": 1,
+            "court": "DHC",
+            "start_page": 1,
+            "req_pages": 5,
+            "req_total": null,
+            "start_date": null,
+            "end_date": null
+        },
+        "response": {
+            "entry_start": 1,
+            "entry_end": 10,
+            "entry_total": 26,
+            "page": 1,
+            "page_total": 2,
+            "page_next": 2,
+            "page_processed": 1,
+            "saved_total": 6,
+            "generated_at": "2023-01-05T23:21:56"
+        },
+        "filters": {
+            "sent_count": {
+                "min_sents": "2",
+                "min_words": "20",
+                "tokenizer_path": null
+            }
+        }
+    },
+    "data": [
+        {
+            "case_number": "SC 551/2021",
+            "title": "T. V. TODAY NETWORK LIMITED VS NEWS LAUNDRY MEDIA PRIVATE LIMITED  & ORS.",
+            "date": "29/07/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/AMN/judgement/29-07-2022//AMN29072022SC5512021_144230.pdf&ID=1427045228_2",
+            "document_path": "data\\judgments\\DHC Judgments\\1427045228_2.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 2,
+                        "paragraph_number": 5,
+                        "content": "Mr. Saurabh Kirpal, learned senior counsel for the defendants No.1 to 9, had raised an objection that the suit is not a „commercial suit‟. If that be so, the application would be unnecessary. However, since the suit has been filed as a „commercial suit‟ and in view of the fact that the urgent reliefs of injunction against infringement of copyright has been sought, the application is allowed and the plaintiff is exempted from exhausting the remedy of the pre-institution mediation.",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 7,
+                        "content": "These applications have been filed by the plaintiff seeking permission to place on the record, the transcripts of the videos, in respect of which, the plaintiff has sought relief, which are allegedly containing infringing material and defamatory/derogatory material against the plaintiff.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 8,
+                        "content": "The objection raised by the learned senior counsel for the defendants No.1 to 9 was that neither provision was applicable. However, since the videos have been produced before the court, the transcripts would only assist the court, for which reason the plaintiff is allowed to place the same on the record. Accordingly, these transcripts are taken as part of the record, subject to any objection that the defendants may raise in respect of the correctness of the transcripts during trial, as such a comparison is not possible at this stage.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 10,
+                        "content": "The application has been moved by the plaintiff under Order XI Rule 1 of the Code of Civil Procedure, 1908 (for short, “CPC”) as amended by the Commercial Courts Act, 2015 seeking permission to place on record additional documents, namely, screenshots of the tweets/posts appearing on the websites of the defendant No.11 i.e., www.facebook.com and www.instagram.com and the website of the defendant No.12 i.e., www.twitter.com, as listed in the plaint, allegedly containing defamatory/infringing content.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 11,
+                        "content": "Since these are only screenshots of details already listed in the plaint, in the interest of justice, as it would only assist the court in appreciating the contents as to whether they contain infringing/defamatory material, the application is allowed and these screenshots mentioned in para No. 9 of the present application are taken  on record.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 14,
+                        "content": "The plaintiff is a Company incorporated under the Companies Act, 1956 having its registered office at F-26, First Floor, Connaught Circus, New Delhi-110001 and operates prominent television channels, namely, „AajTak‟, „AajTak HD‟, „India Today Television‟ and „Good News TV‟ and is part of the prestigious „INDIA TODAY GROUP‟. Its business interests are in broadcasting, publishing, e-commerce, etc., through its constituent companies, like Living Media India Limited. The India Today Group claims to have created an enviable legacy of trust and leadership since it was established in 1975.",
+                        "reference": "14."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 15,
+                        "content": "The plaintiff also claims to have created and maintained highly credible and accurate, active and updated profiles, accounts and handles on social-media and content-sharing platforms, such as, Facebook, Twitter, YouTube and Instagram. It is claimed that there are 14.7 million followers on plaintiff‟s Twitter handle „@aajtak‟ and about 5.8 million followers on the Twitter handle „@indiatoday‟. The YouTube channel under the name „AajTak‟ created in August, 2009 has close to 47.9  million subscribers and over 15,834,300,322 views as on date. The YouTube channel under the name „India Today‟ has around 5.09 million subscribers and has over 1,207,603,938 views as on date. The YouTube channel „AajTak HD‟ created in November, 2018 also has over 4.11 million subscribers and has over 1,346,500,992 views as on date. Similarly, the plaintiff‟s primary profile pertaining to „AajTak‟ on Facebook being „@aajtak‟ created in December, 2009 has over 25,513,703 likes and 30,828,524 followers as on date.",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 16,
+                        "content": "Thus, in short, according to the plaintiff, the plaintiff‟s channels and allied services have become household names. They have been given due recognition inasmuch as their channel „AajTak‟ has been voted the best Hindi News channel continuously from 2001-2015 by Indian Television Academy. Other awards such as, Exchange4media News Broadcasting Award and other awards totaling 48, have been shared between „India Today Television‟ and „AajTak‟. Two of these awards have also been awarded to a digital platform „Lallan Top‟ and one award each has gone to „News Tak‟ and „AajTak HD‟. Thus, the presence of the plaintiff was not only in the „print‟, but also „electronic‟ as well as „social-media‟.",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 17,
+                        "content": "It was submitted that the plaintiff has spent huge resources in terms of time, human intellect and money, to promote its various brands and its services, which only for advertisement, in the year 2015-16, totalled Rs.45.26 crores and which rose to Rs.50.94 crores in 2019-20. The revenue generated through services has risen from Rs.577.76 lakhs in 2015-16 to Rs.899.57 lakhs in 2019-20.",
+                        "reference": "17."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 18,
+                        "content": "It was further submitted that on 5th September, 2021, the plaintiff company launched a new channel named „Good News Today‟ or „GNT‟, which was a 24x7 Hindi News Channel to broadcast true stories that foster goodwill and enrich the lives of the audiences. The channel intended to focus sharply. on solutions and celebrate the narratives of the glass half full, showcasing stories of hope, human triumph, innovation, inspiration from different walks of life and different parts of India and the world. A sum of Rs.30,23,483/-(approx.) had been spent towards operating expenses of this news channel and Rs.28,94,774/-was spent towards the Capital expenses. A sum of Rs.1,19,33,420/-was the revenue generated from this channel, as it had been widely applauded and accepted. The GNT was also available on social-media platforms through GNT YouTube channel, GNT Facebook profile and GNT Twitter handle.",
+                        "reference": "18."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 19,
+                        "content": "The plaintiff also submitted that the Management and the News Anchors of the plaintiff company were people with recognition, and with great talent, which has been acknowledged by the various awards that Ms. Kalli Purie, the Vice-Chairman and Group Editorial Director (Broadcast and News Media), Mr.Rahul Kanwal, News Director, Mr.Gaurav C. Sawant (Senior Executive Editor, India Today Television), Ms.Anjana Om Kashyap (Editor, Special Projects and Executive Editor, AajTak) and Ms. Shweta Singh (Senior Executive Editor, Special Programming) had all received over a period of time for their excellent news coverage, reporting, creative programming, anchoring, etc..",
+                        "reference": "19."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 20,
+                        "content": "It is in this background that the plaintiff has filed this suit submitting that the defendants No.1 to 9 have, by their various  programmes on their social-media platforms and through their Digital News Platform, namely, “Newslaundry”, from its website, having domain name www.newslaundry.com, had tarnished its reputation. It was also submitted that this tarnishing is accompanied with the infringement of the copyrighted content of the plaintiff. According to the plaintiff, the defendants have ridiculed and defamed the plaintiff company, its news channels, its employees and Management, and have published various videos and articles containing false, malicious, defamatory and derogatory information on their website as well as on various social-media platforms. The attempts through these videos and articles of the defendants No.1 to 9 were to consistently denigrate, deprecate, ridicule and derogate the news broadcast by the plaintiff‟s channels as well as the anchors who hosted these news broadcasts. Thus, the false and defamatory statements have lowered the reputation of the plaintiff in the eyes of the right-thinking members of the society as also caused defamation to the plaintiff, its news channels, its anchors, its employees and its Management and have seriously caused prejudice to their commercial reputation and goodwill.",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 21,
+                        "content": "In the reply filed by the defendants No.1 to 9 to the interim application, the preliminary objection taken by them is that the suit filed by the plaintiff is not maintainable as the same is not a “commercial suit”. It is also submitted that the plaintiff has not been able to demonstrate that the videos posted/uploaded by the defendants No.1 to 9 are defamatory and that the plaintiff has failed to disclose any case for grant of interim protection and that if such protection is granted at this interim stage, the  same will amount to decreeing the suit and awarding of the final relief claimed in the plaint, which is not permissible in law. It is further submitted that the issues, as raised in the plaint, are triable issues, which can only be considered after evidence is led and cannot be adjudicated at this stage. Furthermore, since the plaintiff has suppressed material facts by editing and showing only that portion of the videos that helps its case, the plaintiff cannot be granted any protection. It is also submitted that the use of the plaintiff‟s content by them is covered under „Fair Use‟ inasmuch as they give due credit to the plaintiff and in no manner, try to portray to its subscribers/viewers/customers that the video/copyrighted material used of the plaintiff is of the defendants. It is stated that since their business and work model is unique, their actions do not constitute commercial disparagement, also because their content includes original reportage, interviews and podcasts and in no way, amounts to the infringement of the copyrighted work of the plaintiff. Additionally, it is submitted that the plaintiff has made misrepresentation to this court and therefore, cannot be entitled to any discretionary relief.",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 22,
+                        "content": "In reply filed to the interim application, the defendant No.12/Twitter Inc. has submitted that since it qualifies as an “intermediary” within the meaning of Section 2(1)(w) of the Information Technology Act, it is exempted from any liability in relation to any third-party information or data made available or hosted by it. It is submitted that the dispute at hand is essentially between the plaintiff and the entities/persons against and by whom the defamation/infringement is alleged, and in the light of the judgment of the Supreme Court in Shreya  Singhal v. Union of India AIR 2015 SC 1523, any relief of prospective injunction vis-à-vis unidentified future content cannot be sought against an intermediary.",
+                        "reference": "22."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 24,
+                        "content": "Mr. Hrishikesh Baruah, learned counsel for the plaintiff, submitted that the defendants No.1 to 9 had utilized the content created by the plaintiff and broadcast on its various channels and reproduced the same in their own programmes, namely, „TV Newsance‟, „Criticles‟, and „NL Tippani‟, etc., and published various videos and articles, which they broadcast on their social-media platforms, and if a chart was to be prepared, it would show that 90% of the programme comprised of the content taken from the plaintiff‟s news channels or similar other channels and it was less than 10% that constituted the programming of the defendants No.1 to 9. It was submitted that as observed in Hubbard v. Vosper, [1972] 2 Q.B. 84 and accepted by a Co-ordinate Bench of this court in Super Cassettes Industries Ltd. v. Hamar Television Network Pvt. Ltd., 2010 SCC OnLine Del 2086, a reproduction of a small part of the content may not amount to a copyrighted infringement, but the reproduction of large portions of the plaintiff‟s content to create a programme by the defendants No.1 to 9 on their platform, clearly was impermissible.",
+                        "reference": "24."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 25,
+                        "content": "The learned counsel for the plaintiff submitted that the transcripts  of the videos in question also sufficiently reflected that the content of the programmes of the defendants No.1 to 9 was formed majorly out of the content produced by the plaintiff. It was submitted that the plaintiff had to spend money and effort to create content and in order to protect such creation, copyright protection was available to it. It was further submitted that unlicensed reproduction in the manner that the defendants No.1 to 9 were doing, infringed the broadcasting rights of the plaintiff and had to be straightaway injuncted. Reliance has been placed on the decision of a Coordinate Bench of this Court in Super Cassettes Industries Limited v. Chintamani Rao, 2011 SCC OnLine Del 4712. The learned counsel submitted that despite the conclusion being disagreed to by the Division Bench of this court in India TV Independent News Service Pvt. Ltd. v. Yashraj Films Pvt. Ltd., 2012 SCC OnLine Del 4298, nevertheless, the observations, particularly in respect of the ―violation of copyright‖ and ―fair dealing‖, had not been disturbed.",
+                        "reference": "25."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 26,
+                        "content": "The further contention of the learned counsel for the plaintiff was that the remarks and the language used in the videos of the defendants No.1 to 9 reflected defamatory content. It was submitted that specific words were used which resulted in ―commercial disparagement‖, particularly, the description of the programme as a “shit programme”, the capacity of an anchor to create a riot, to derisively comment on a new channel called „Good News Today‟, which has intended only to disseminate positive news, since in usual course, these do not get reported. Also, an attempt has been made to disparage the revenue model of the plaintiff by proclaiming that they were an „ad-free‟ news channel.  It was submitted that if the content had some problem, a complaint redressal structure under the Cable Television Networks (Amendment) Rules, 2021 was available where the defendants No.1 to 9 could have filed a complaint, but they had no right or authority to take on the mantle of a Regulator. It was submitted that the provision of Section 52 of the Copyright Act, 1957 was not available to the defendants No.1 to 9 as, firstly, the broadcasting on social-media was not included in Section 52 and even if it was, the programmes of the defendants No.1 to 9 did not reflect ―fair comment‖ and amounted to „commercial disparagement‟, which also ought to be straightaway injuncted.",
+                        "reference": "26."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 27,
+                        "content": "Reliance has been placed by the learned counsel on decisions in Hindustan Unilever Limited v. Gujarat Co-operative Milk Marketing Federation 2017 SCC OnLine Bom 2572, Karamchand Appliances Pvt. Ltd. v. Adhikari Brothers, 2005 SCC OnLine Del 1427, Dabur India Ltd. v. Colortek Meghalaya (P) Ltd., 2010 SCC OnLine Del 391, Reckitt Benckiser India V. Hindustan Unilever Limited 2021 SCC OnLine Del 4896, Anhueser Busch LLC v. Rishav Sharma [Order dated 20th July 2020 in CS(COMM) 288/2020], T.V. Today Network Ltd. v. COGNATE, 2021 SCC OnLine Del 3244, Lakshmi Murdeshwar Puri v. Saket Gokhale, 2021 SCC OnLine Del 3675, Subramanium Swamy v. Union of India (2016) 7 SCC 221 and Swami Ramdev v. Juggernaut Books Pvt. Ltd., 2018 SCC OnLine Del 11549.",
+                        "reference": "27."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 28,
+                        "content": "Mr.Saurabh Kirpal, learned senior counsel for the defendants No.1 to 9, submitted that the present suit was itself not maintainable as the suit had been filed as a „commercial suit‟, but the dispute was not a  „commercial dispute‟. It was urged that when there was a composite suit, only a suit, which related to immovable property, would be maintainable as a commercial suit and none others. Thus, if a suit was a composite one, it had to go before the ordinary civil court. According to the learned senior counsel, though the prayer „a‟ would make out a commercial suit, since prayers „b‟ to „h‟ would make out only a civil suit for defamation and damages, therefore, this was a „composite suit‟, and had to be tried only in the ordinary civil jurisdiction and not in the special jurisdiction of the commercial courts.",
+                        "reference": "28."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 29,
+                        "content": "Reliance has been placed on Ambalal Sarabhai Enterprises Ltd. v. K.S. Infraspace LLP, (2020) 15 SCC 585 to submit that the very intent and purpose of having a special enactment, like the Commercial Courts Act, 2015, was to fast-track pure commercial suits and if the other suits were also inducted into the category of „commercial suits‟ by this method of composite filing, the very system would get clogged and the purpose of the special enactment frustrated. It was submitted that where the words used were very clear, there was no occasion for interpretation. Therefore, the only exception created by way of the Explanation to Section 2(1)(c) had to be read in a restrictive manner to the effect that where a commercial dispute also entailed a dispute with regard to immovable property, then alone could the suit continue before the commercial courts and not otherwise. In the present case, as there was no issue relating to immovable property and what is alleged is only defamation for which damages could be awarded, the plaint must be returned for proper filing.",
+                        "reference": "29."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 30,
+                        "content": "On the question of grant of interim relief, it was submitted by the  learned senior counsel that though it was not disputed that the reference to the content of the plaintiff was there in the programmes of the defendants No.1 to 9, however, it was covered by the provisions of Section 52 of the Copyright Act, being ―fair dealing‖. In this context, it was submitted that the judgment of the learned Single Judge in Super Cassettes Industries Limited v. Chintamani Rao, 2011 SCC OnLine Del 4712, relied upon by the plaintiff, was inapplicable not only because it was overruled by the Division Bench of this court, but also because of the amendment to Section 52. It was submitted that the judgment rendered by the learned Single Judge was when “fair dealing” with “literary”, “dramatic”, “musical” or “artistic” work would not constitute infringement in certain situations, but after 2012, this protection was available to “fair dealing” with “any” work. It was also argued that what the defendants No.1 to 9 had done was to „comment‟ on the reporting quality of the plaintiff and therefore, the content that may have been created by the plaintiff was being used only for criticism or review and thus, protected. Hence, no case for infringement was made out.",
+                        "reference": "30."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 31,
+                        "content": "As regards “defamation”, it was submitted by the learned senior counsel that the defendants No.1 to 9 were raising the “defence of truth”, which was an absolute defence and no interim injunction could be issued. In any case, damages were also being sought, which would offset the absence of interim injunction, were the suit to be finally decreed in favour of the plaintiff. It was also submitted that fair criticism in harsh words would not amount to defamatory statements. Moreover, “satire” was the flavour of the programming of the defendants No.1 to 9 and there can be  no plea of “defamation” against “satire”.",
+                        "reference": "31."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 32,
+                        "content": "It was also submitted that the plaintiff was not entitled to any injunction, also because of misrepresentation of facts. It was contended that the chart that was being used to show that the content of the plaintiff was being reproduced by the defendants No.1 to 9, was in fact false, as the videos clearly show the anchor of the defendants No.1 to 9 making her comments even in the backdrop of the footage of the plaintiff‟s programme and therefore, there was no copying and it was an original piece of programming that was being aired by the defendants No.1 to 9. It was submitted that the programme comprised of, what were the words being used by the anchor as a comment on the small footage that was taken as a context for the comment, which would not amount to any infringement of copyright or defamation, but the improper depiction in the chart showing large sections in red as if the entire programme of the defendants No.1 to 9 constituted a complete copy of the contents of the plaintiff‟s programming, disentitled them to any discretionary relief.",
+                        "reference": "32."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 33,
+                        "content": "It was further submitted by the learned senior counsel that even the plea of „commercial disparagement‟ was not made out. It was the case of the learned senior counsel for the defendants No.1 to 9 that the plaintiff and the defendants No.1 to 9 operate in different spheres inasmuch as the plaintiff was in the Electronic Media of TV news and News based programmes, whereas the defendants No.1 to 9 operated only on social-media platforms. Further, there was nothing in the videos that would show “disparagement”, as whatever was being said was to indicate that the plaintiff‟s channels had a bias, including of hesitancy to criticize the  Government, and that all that the defendants No.1 to 9 were doing was to show them the mirror. It was further submitted that when the aim of the defendants No.1 to 9 was only to critique and point out the flaws in the reporting on the plaintiff‟s channels, there could be no evident malice. Moreover, the defendants No.1 to 9 must be given an opportunity to establish this defence during trial, that the comments were based on truth.",
+                        "reference": "33."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 34,
+                        "content": "It was further submitted by the learned senior counsel that the right of the defendants No.1 to 9 to create such programmes was based on their Fundamental Right to free speech and the same could not be curtailed even without any specifics being pleaded in the plaint as to in which way, „commercial disparagement‟ had occurred. It was urged by the learned senior counsel that when the balance was to be sought between the „pecuniary loss‟, if at all that may have resulted, and the „freedom of speech‟, then the latter must be upheld.",
+                        "reference": "34."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 35,
+                        "content": "It was submitted that though the print-media had a watchdog, since the electronic media had none, persons like the defendants No.1 to 9 actually acted in public interest, by keeping a check on the news channels. According to the learned senior counsel, on account of one such programme criticizing an anchor of the plaintiff, namely, Anjana Om Kashyap, she faced a lot of backlash, after which she herself publicly apologized. Thus, the interest of the public being served by the programmes of the defendants No.1 to 9, there was no ground at all to direct the taking down of these videos. In any case, it was emphasized that each video would have to be considered independently to know whether it contained any disparaging material. Thus, without trial, no  injunction could be issued to direct the taking down of the existing programmes. Further, no urgency was declared as these videos relate to a period since 2018, and injunction restraining future publication could not be issued, as has been held in Khushwant Singh Vs. Maneka Gandhi AIR (2002) Del. 58.",
+                        "reference": "35."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 36,
+                        "content": "Reliance has been placed by the learned senior counsel for the defendants No.1 to 9 on a compilation of case law viz. Reckitt Benckiser (India) Ltd. v. Hindustan Unilever Ltd., 2013 SCC OnLine Del 1928; Reckitt Benckiser (India) Limited v. Naga Limited, 2003 SCC OnLine Del 365 and Gillette India Limited v. Reckitt Benckiser (India) Private Limited, 2018 SCC OnLine Mad 1126; Pepsi Co., Inc. v. Hindustan Coca Cola Ltd., 2003 SCC OnLine Del 802; Dabur India Ltd. v. Colortek Meghalaya Pvt. Ltd., 2010 SCC OnLine Del 391; Colgate Palmolive Company v. Hindustan Unilever Ltd., 2013 SCC OnLine Del 4986; Procter & Gamble Home Products Private Limited v. Hindustan Unilever Ltd., 2017 SCC OnLine Del 7072; Hindustan Unilever Limited vs. Reckitt Benckiser India Limited207 (2014) DLT 713; United States Healthcare, Inc. vs. Blue Cross of Greater Phila. 898 F.2d 914 and Hurlbut vs. Gulf Atlantic Life Ins. Co. 749 S.W.2d 762 (Tex. 1998); Patient Transfer Sys vs. Patient Handling Solutions 1999 U.S. Dist. LEXIS 19296; Frank Flaman Wholesale Ltd. v. Firman [1982] S.J. No. 279; American Legacy Foundation vs. National Union Fire Insurance Company 623 F.3d 135 and Hipsaver, Inc. vs. Kiel 464 Mass. 517 (Mass. 2013); Khushwant Singh (supra); Tata Sons Limited v. Greenpeace International, 2011 SCC OnLine Del 466andPushp Sharma v. D.B.  Corp. Ltd., 2018 SCC OnLine Del 11537 were relied on. Reliance has also been placed on the decisions in Mittal Electronics v. Sujata Home Appliances (P.) Ltd., 2021 SCC OnLine Del 1401;Indibily Creative Private Limited Vs. Government of West Bengal and Others(2020) 12 SCC 436; L. Usha Rani v. State of Kerala, 2013 SCC OnLine Ker 22118; Shreya Singhal v. Union of India AIR 2015 SC 1523; M/s Seemax Construction (P) Ltd. Vs. State Bank of India & Anr. AIR (1992) Delhi 197; Distillers Co. (Biochemicals) Ltd. Vs. Times Newspapers Ltd. (1974) 3 W.L.R. 728; Indian Express Newspaper (Bombay) Pvt. Ltd. Vs. Union of India (1985) 1 SCC 641; Subramanian Swamy (supra); Surya Prakash Khatri Vs. Madhu Trehan(2001) 92 DLT 665; Khushwant Singh (supra); Campbell, Aka Skywalker Vs. Accuffrose Music, Inc. 510 U.S. 569 (1994); Beloff Vs. Pressdram Ltd.(1973) RPC 765 and Hubbard Vs. Vosper (1972) 2 W.L.R. 689.",
+                        "reference": "36."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 37,
+                        "content": "In rejoinder, learned counsel for the plaintiff submitted that the suit could be tried as a „commercial suit‟ despite inclusion of reliefs of „infringement of copyright‟ and „commercial disparagement‟ since it was covered under the definition of a „commercial dispute‟ as arising out of intellectual property rights relating to copyright. It was submitted that it was only a „dispute‟ that has been defined under Section 2(c), but it is on the basis of the relief that the defendants No.1 to 9 were seeking to obtain a direction for the re-registration of the case as a „non-commercial suit‟, the relief being related to “defamation”. It was contended by the learned counsel for the plaintiff that commercial reputation was being sought to be protected, which would be covered under Section 2(c) as arising out of  the rights vested in intellectual property. Reliance has been placed on Jasper Infotech Pvt. Ltd. v. Deepak Anand, 2015 SCC OnLine Del 14398 to submit that ―arising out of‖ would include a dispute relating to „commercial disparagement‟.",
+                        "reference": "37."
+                    },
+                    {
+                        "page": 18,
+                        "paragraph_number": 38,
+                        "content": "Relying on Tarapore & Co. v. Cochin Shipyard Ltd., (1984) 2 SCC 680, it was submitted that ―arising out of‖ would mean ―in relation to‖ or ―in reference to‖ any of the classes mentioned in Section 2(c). According to the learned counsel for the plaintiff, the ―classes‖ of disputes have been defined in the nature of „arrangements‟, „transactions‟ or „rights‟ and any dispute arising out of such „arrangements‟, „transactions‟ or „rights‟ would come within the four corners of „commercial dispute‟. To merely refer to the reliefs that were claimed would, therefore, be improper. Furthermore, the reliefs could not be bifurcated as it would contravene the provisions of Order II Rules 1 and 2 CPC. Thus, it was submitted that the suit was maintainable as a „commercial suit‟. Arguments on merits were reiterated to urge for an injunction against the defendants No.1 to 9.",
+                        "reference": "38."
+                    },
+                    {
+                        "page": 18,
+                        "paragraph_number": 39,
+                        "content": "Ms. Mamta Jha, the learned counsel for the defendant No. 10/Google LLC and Mr. Deepak Gogia, the learned counsel for the defendant No.12/Twitter Inc., submitted that they were only intermediaries and as has been held in Abhishek Verma (supra), the first onus to take down the material would be on the defendants No.1 to 9 and in case they do not do so, then alone should the intermediaries be asked to step in and in which event, the URLs may be also indicated.",
+                        "reference": "39."
+                    },
+                    {
+                        "page": 19,
+                        "paragraph_number": 41,
+                        "content": "According to Mr. Saurabh Kirpal, learned senior counsel for the defendants No.1 to 9, the instant suit could not be considered a „commercial suit‟ since it was not covered under any of the clauses of Section 2(1)(c) of the Act, considering that relief not only pertaining to copyright violations had been claimed, but a relief qua defamation was also claimed. It was urged that the Explanation limited the expansion of the definition of a commercial dispute only in respect of an immovable property and therefore, the present suit is not maintainable as a „commercial suit‟ and had to be heard by a regular civil court.",
+                        "reference": "41."
+                    },
+                    {
+                        "page": 19,
+                        "paragraph_number": 42,
+                        "content": "Per contra, the contention of the learned counsel for the plaintiff was that all disputes ―arising out of‖ the various clauses of Section 2(1)(c) would also be covered as a „commercial dispute‟. Section 2(1)(c) may be reproduced for ready reference: - ―2. Definitions  (1)  In this Act, unless the context otherwise requires,-- (a)  xxx xxx  (b)  xxx xxx  (c)  \"commercial dispute\" means a dispute arising out  of—  (i)  ordinary transactions of merchants, bankers, financiers and traders such as those relating to mercantile documents, including enforcement and interpretation of such documents; (ii) export or import of merchandise or services;  (iii)  issues relating to admiralty and maritime law;  (iv)  transactions relating to aircraft, aircraft engines, aircraft equipment and helicopters, including sales, leasing and financing of the same;  (v)  carriage of goods;  (vi)  construction and infrastructure contracts, including tenders;  (vii)  agreements relating to immovable property used exclusively in trade or commerce;  (viii)  franchising agreements;  (ix)  distribution and licensing agreements;  (x)  management and consultancy agreements;  (xi)  joint venture agreements;  (xii)  shareholders agreements;  (xiii)  subscription and investment agreements pertaining to the services industry including outsourcing services and financial services;  (xiv)  mercantile agency and mercantile usage;  (xv)  partnership agreements;  (xvi)  technology development agreements;  (xvii)  intellectual property rights relating to registered and unregistered trademarks, copyright, patent, design, domain names, geographical indications and semiconductor integrated circuits;  (xviii)  agreements for sale of goods or provision of services;  (xix)  exploitation of oil and gas reserves or other natural resources including electromagnetic spectrum;  (xx)  insurance and re-insurance;  (xxi)  contracts of agency relating to any of the above; and  (xxii)  such other commercial disputes as may be notified by the Central Government.  Explanation.–A commercial dispute shall not cease to be a commercial dispute merely because—  (a)  it also involves action for recovery of immovable property or for realisation of monies out of immovable property given as security or involves any other relief pertaining to immovable property;  (b)  one of the contracting parties is the State or any of its agencies or instrumentalities, or a private body carrying out public functions.‖",
+                        "reference": "42."
+                    },
+                    {
+                        "page": 21,
+                        "paragraph_number": 43,
+                        "content": "The words used in a statute are to be read and understood in their ordinary meaning. Section 2(1)(c) does comprise of a list. But, it would  be incorrect to hold that it sets out an exhaustive list of disputes that qualify as commercial disputes. If that was the intent, the words used would simply have been – ―the following are commercial disputes‖. Instead, the words used are ―arising out of‖. That is, the source of the dispute must be one of the clauses listed in Section 2(1)(c) of the Act. The clauses do not limit the contours of the dispute that may arise. What would be the actual dispute in respect of ordinary transactions of merchants, or export and import of merchandise, or carriage of goods, or construction and infrastructure, and so on and so forth, would remain what would arise in ordinary course between two parties in the course of these engagements and activities. Thus, such a dispute could be a breach of contract or the enforcement of terms of contract entailing recovery not only of the price, but possibly damages; disputes may relate to mutual rights or obligations under Joint Venture Agreements or rights and obligations in respect of Consultancy Agreements; disputes arising out of technology development agreements could entail rights to the sharing of the know-how and/or confidentiality, and so on and so forth. In short, if the disputes were relatable to any of the clauses, the disputes would be clothed with the additional adjective of being „commercial‟ in nature. The classification has been given to make available a special procedure for trial and speedy disposal of such disputes that impact economic activity.",
+                        "reference": "43."
+                    },
+                    {
+                        "page": 22,
+                        "paragraph_number": 44,
+                        "content": "The Explanations have been incorporated to ensure that only because a certain relief is joined, the dispute does not get excluded from the special procedure. According to the learned senior counsel for the defendants No.1 to 9, Explanation-A restricts additional reliefs to only  those connected with immovable property, which was why the joining of the relief of defamation in the present suit took it out of the commercial court‟s jurisdiction. This Court is unable to accept this argument.",
+                        "reference": "44."
+                    },
+                    {
+                        "page": 23,
+                        "paragraph_number": 45,
+                        "content": "In fact, the Division Bench of this court in Jagmohan Behl v. State Bank of Indore, 2017 SCC OnLine Del 10706 and the Supreme Court in Ambalal Sarabhai (supra) have interpreted Explanation-A differently. Where disputes arose out of Agreements relating to immovable property used exclusively in trade and commerce i.e., under Section 2(1)(c)(vii) and where that dispute also additionally involved action for recovery of immovable property or realization of monies out of immovable property given as security or involved any other relief pertaining to immovable property, such immovable property referred to in the Explanation-A would have to be one that was in ‗actual‘ and exclusive use in trade or commerce. That alone would not render a dispute not commercial in the light of Explanation-A read with Section 2(1)(c)(vii). It is crystal clear that these decisions do not conclude that the Explanation-A is to be read with every clause under Section 2(1)(c). This Court is also not convinced otherwise.",
+                        "reference": "45."
+                    },
+                    {
+                        "page": 23,
+                        "paragraph_number": 46,
+                        "content": "The Supreme Court further guided the commercial courts to carefully examine and entertain only disputes which actually answer the definition of commercial disputes as provided under the Act. It was held by the Supreme Court that a narrow interpretation alone would give effect to the object for which the Commercial Courts Act, 2015 was enacted and by allowing all sorts of disputes in respect of all immovable property, which was not in the presenti in actual use exclusively in trade or  commerce, the very purpose would be defeated. The observations may be reproduced fruitfully as under:- ―14. In that view it is also necessary to carefully examine and entertain only disputes which actually answers the definition ―commercial disputes‖ as provided under the Act. In the instant case, as already taken note neither the agreement between the parties refers to the nature of the immovable property being exclusively used for trade or commerce as on the date of the agreement nor is there any pleading to that effect in the plaint. Further the very relief sought in the suit is for execution of the mortgage deed which is in the nature of specific performance of the terms of Memorandum of Understanding without reference to nature of the use of the immovable property in trade or commerce as on the date of the suit. Therefore, if all these aspects are kept in view, we are of the opinion that in the present facts the High Court was justified in its conclusion arrived through the order dated 1-3-2019 [K.S. Infraspace LLP v. Ambalal Sarabhai Enterprises Ltd., 2019 SCC OnLine Guj 1926] impugned herein. The Commercial Court shall therefore return the plaint indicating a date for its presentation before the Court having jurisdiction.‖  (emphasis added)",
+                        "reference": "46."
+                    },
+                    {
+                        "page": 24,
+                        "paragraph_number": 47,
+                        "content": "In Ambalal Sarabhai (supra), the Supreme Court indicated that a „commercial dispute‟ must be a dispute that is covered by one of the clauses and therefore, just as in that case the pleadings were referred to, to consider whether the dispute set out in the plaint took the nature of a „commercial dispute‟ and fitted into one of the clauses, that exercise could be profitably undertaken in the present case.",
+                        "reference": "47."
+                    },
+                    {
+                        "page": 24,
+                        "paragraph_number": 48,
+                        "content": "A perusal of the plaint would disclose that consistently the plaintiff  has alleged that the defendants No.1 to 9 have infringed their copyright in content created by them for their own programme by investing human and material resources and that a mandatory injunction be issued to restrain the defendants No.1 to 9 from using the content so created by the plaintiff and in which, under law, they were entitled to copyright protection. The plaintiff has additionally submitted that while so infringing the rights of the plaintiff in its created content, the defendants No.1 to 9 had made defamatory and derogatory statements on the programming content, quality of the content, the anchors, reporters and editors of the plaintiff and the revenue model of the plaintiff, which also amounted to commercial disparagement.",
+                        "reference": "48."
+                    },
+                    {
+                        "page": 25,
+                        "paragraph_number": 49,
+                        "content": "It is therefore, evident that the suit is not just for relief against defamation, which would certainly not constitute a „commercial suit‟, but is one in which the violation of the intellectual property rights, namely, in copyright, has allegedly resulted in defamation/commercial disparagement also. It is clear that the cause of action is the same, namely, the uploading of the videos on YouTube and articles and other content on the website of the defendants No.1 to 9 as well as on Facebook, Twitter and Instagram. To hold that the plaintiff would have to limit its relief before the commercial court only to the extent of violation of intellectual property rights and must be asked to approach the civil court for relief qua defamation, etc., would be against the objective of Order II Rule 2 CPC, particularly to avoid conflicting judgments. The purpose of procedure is to facilitate disposal and cannot be intended to complicate matters for a litigant.",
+                        "reference": "49."
+                    },
+                    {
+                        "page": 25,
+                        "paragraph_number": 50,
+                        "content": "Learned counsel for the plaintiff submitted that a Co-ordinate  Bench of this Court in Jasper Infotech (supra) while dealing with a suit seeking permanent and mandatory injunction restraining disparagement, defamation, passing off, treated that suit to be a „commercial dispute‟. Since a case for protection against commercial disparagement has been pleaded in the instant plaint, a different yardstick need not be adopted here.",
+                        "reference": "50."
+                    },
+                    {
+                        "page": 26,
+                        "paragraph_number": 51,
+                        "content": "It is clear that relief in respect of copyright violations can be sought only before the commercial court in view of the clause (xvii) of Section 2(1)(c) of the Commercial Courts Act. If the other reliefs claimed by the plaintiff ―arise‖ out of such intellectual property rights, clearly the commercial court would have the jurisdiction to try the suit. ―Arising out of‖, on a plain reading, would cover situations such as in the present case, where the reliefs are so closely intertwined, where disparagement is alleged by the very use and portrayal of the copyrighted content of the plaintiff by the defendants No.1 to 9.",
+                        "reference": "51."
+                    },
+                    {
+                        "page": 26,
+                        "paragraph_number": 53,
+                        "content": "The plaintiff has set up a case of copyright infringement on the basis that work of the plaintiff is covered as a „cinematographic film‟ involving visual and sound recording accompanying such visual recording. Broadcasting rights have also been asserted. Section 13 in Chapter-III of the Copyright Act defines the “works” in which copyright would subsist, namely, (a) original literary, dramatic, musical and artistic  works; (b) cinematograph films; and (c) sound recording. The meaning of copyright is explained in Section 14 as comprising of the exclusive rights subject to the provisions of the Act to do or authorize, inter alia, the reproduction of the work.",
+                        "reference": "53."
+                    },
+                    {
+                        "page": 27,
+                        "paragraph_number": 54,
+                        "content": "However, the present case would more appropriately be covered under “broadcasting rights”. The plaintiff creates programmes for broadcast on its television channels and the social-media. A similar exercise is undertaken by the defendants No.1 to 9 on their social-media platforms. They communicate with the public and are broadcasters. Broadcast is defined under Section 2(dd) of the Act, as below:- ―(dd) broadcast means communication to the public-- (i)  by any means of wireless diffusion, whether in any one or more of the forms of signs, sounds or visual images; or  (ii)  by wire, and includes a re-broadcast;‖",
+                        "reference": "54."
+                    },
+                    {
+                        "page": 27,
+                        "paragraph_number": 55,
+                        "content": "Chapter-VIII of the Act deals with the rights of „broadcasting organization‟. Section 37 provides that every broadcasting organisation shall have a special right to be known as ―broadcast reproduction right‖ in respect of its broadcasts. To assert rights of exclusivity to content in respect of programmes created by a T.V. channel or a Social-Media channel on YouTube or other similar platforms, in the considered opinion of this Court, recourse need not be taken to the definition of „cinematographic film‟ to enforce copyright. The question whether there can be copyright within such programmes, is not being considered here as it is not in issue.",
+                        "reference": "55."
+                    },
+                    {
+                        "page": 28,
+                        "paragraph_number": 56,
+                        "content": "An infringing copy has been defined under Section 2(m), to also include a copy of a programme in which broadcasting reproduction right exists. Section 2(m)(iv) is reproduced for ready reference, as under:- ―2(m) infringing copy means-- (i)  to (iii) xxx xxx  (iv)  in relation to a programme or performance in which such a broadcast reproduction right or a performer's right subsists under the provisions of this Act, the sound recording or a cinematographic film of such programme or performance,;  if such reproduction, copy or sound recording is made or imported in contravention of the provisions of this Act.‖ (emphasis added)",
+                        "reference": "56."
+                    },
+                    {
+                        "page": 28,
+                        "paragraph_number": 57,
+                        "content": "Broadcast reproduction right, though limited for 25 years under Section 37(2), prohibits the re-broadcast or reproduction of such programmes without licence under Section 37(3) during the subsistence of these special rights called broadcast reproduction rights. However, Section 39 exempts certain acts as not infringing the broadcast reproduction rights. In view of the language used, it would be akin to Section 52, which also provides that certain acts would not be infringement of copyright. Both sections prescribe that use which amounts to ―fair dealing‖ would not amount to infringement of either broadcast reproduction rights or copyright.",
+                        "reference": "57."
+                    },
+                    {
+                        "page": 28,
+                        "paragraph_number": 58,
+                        "content": "It may be useful to reproduce these provisions at this juncture, as below:  “Section 39. Acts not infringing broadcast reproduction right or performer’s right.--No broadcast reproduction  right or performer's right shall be deemed to be infringed by-- (a)  the making of any sound recording or visual recording for the private use of the person making such recording, or solely for purposes of bona fide teaching or research; or  (b)  the use, consistent with fair dealing, of excerpts of a performance or of a broadcast in the reporting of current events or for bona fide review, teaching or research; or  (c)  such other acts, with any necessary adaptations and modifications, which do not constitute infringement of copyright under section 52.‖  “Section 52. Certain acts not to be infringement of copyright.—  (1)  The following acts shall not constitute an infringement of copyright, namely:  (a)  a fair dealing with a literary, dramatic, musical or artistic work not being a computer programme for the purposes of—  (i)  Private use including research;  (ii)  criticism or review, whether of that work or of any other work;  (iii)  the reporting of current events and current affairs, including the reporting of a lecture delivered in public;‖",
+                        "reference": "58."
+                    },
+                    {
+                        "page": 29,
+                        "paragraph_number": 59,
+                        "content": "Turning to the case at hand, it is clear from the videos/transcripts that the content broadcast by the plaintiff on its news channels as well as a new channel named as „Good News Today‟ or „GNT‟, has been reproduced by the defendants No.1 to 9 in their programmes, namely, „TV Newsance‟, „Criticles‟, and „NL Tippani‟ (some videos of ‗TV  Newsance‘ were played in court). While the plaintiff claims that these programmes are a complete reproduction of the programmes of the plaintiff, the defendants No.1 to 9 submit that excerpts have been used of these broadcasts of the plaintiff in relation to the reporting of current events for bona fide review and criticism and thus, were protected under Section 52 as a ―fair dealing‖. This argument would also be relevant for determining „use‟ under Section 39. Hence, the arguments advanced by both sides would be taken as arguments for the applicability of Section 39 and not just Section 52 of the Act.",
+                        "reference": "59."
+                    },
+                    {
+                        "page": 30,
+                        "paragraph_number": 60,
+                        "content": "The programmes produced by the plaintiff, as well as the defendants No.1 to 9, whether through T.V. channels or on YouTube, are clearly ―communication to the public‖. For the purpose of such a communication, sound and visual images are used. It needs no stating that the one who first creates a programme for ―communication to the public‖ would be the original creator and would be entitled to the same protection against unauthorized reproduction as in respect of a “literary”, “dramatic”, “musical” or “artistic” work. The original creator being the first broadcaster would be vested with the reproduction rights and no one else can reproduce it without licence. The exception would be Section 39 read with Section 52 of the Act. Undoubtedly, the decisions of the courts in respect of “literary”, “dramatic”, “musical” or “artistic” work, „cinematographic film‟ or „sound recording‟, particularly, to determine the question of infringement of rights and defence of “fair dealing”, may be looked into profitably, even while considering ―broadcasting rights‖ and ―fair dealing‖ under Section 39.",
+                        "reference": "60."
+                    },
+                    {
+                        "page": 31,
+                        "paragraph_number": 61,
+                        "content": "A T.V. news programme would, of necessity, relate to current events and current affairs. Criticism or review of such programmes would be both on content and the reporting of such current events and current affairs. Reporting would, obviously, entail the coverage of current events and current affairs in a particular manner and style, in keeping with the philosophy of the T.V. channel or social-media channel. It is clear that to comment on the act of reporting itself would be covered under ―criticism‖ or ―review‖ under Section 52 and Section 39 of the Copyright Act and would be protected against allegations of infringement. But, it would be a question of fact whether the reproduction, which is alleged to be an infringing copy, is protected under Section 39 and/or Section 52 of the Act and is actually in the nature of review and criticism.",
+                        "reference": "61."
+                    },
+                    {
+                        "page": 31,
+                        "paragraph_number": 62,
+                        "content": "To reproduce content that is broadcast, a licence would be required from the owner of the rights. The only exceptions recognized to this need for licence before reproduction, are provided under Section 39 as noticed hereinabove. Thus, excerpts of a broadcast could be re-broadcast if the use is consistent with ―fair dealing‖ and is in respect of reporting of current events or for bona fide review or teaching or research. The broadcast reproduction right would not be infringed even on account of re-broadcast with any necessary adaptations and modifications, which do not constitute infringement of copyright under Section 52. In other words, the provisions of Section 39 will need to be read along with Section 52 whereunder, ―fair dealing‖ for private or personal use, for criticism or review of that work or any other work, or reporting of current events and  current affairs, have also been excluded from acts of infringement. Of course, there are several other provisions which exclude acts as non-infringing, but in respect of broadcasting, the additional provisions would be Section 52(1)(z)(za) and (zb), but these two have no immediate bearing on the issue involved in the present matter.",
+                        "reference": "62."
+                    },
+                    {
+                        "page": 32,
+                        "paragraph_number": 63,
+                        "content": "What is, therefore, relevant to the determination of infringement of copyright and broadcast rights would be whether there has been ―fair dealing‖. What constitutes ―fair dealing‖ and ―fair comment‖ has been a matter of discussion in several cases.",
+                        "reference": "63."
+                    },
+                    {
+                        "page": 32,
+                        "paragraph_number": 64,
+                        "content": "One of the earliest decisions was by the Court of Appeal in Slim and Others v. Daily Telegraph Ltd. and Others [1968] 2 Q.B. 157. ―Fair comment‖ in that case was being determined in the context of ―libel‖ and ―slander‖ and while considering the plea of ―justification‖ and ―fair comment‖ raised by the defendants, as in the present case, Lord Denning MR opined that the question of such defences of ―justification‖ and ―fair comment‖ would have to be founded on an absence of dishonest motives and bad faith. The questions that the court would have to consider would be whether the comment was actuated by malice, or was an honest and genuine opinion of the one expressing it and was in public interest.",
+                        "reference": "64."
+                    },
+                    {
+                        "page": 32,
+                        "paragraph_number": 65,
+                        "content": "The view taken was that even if the words conveyed derogatory imputations or the information was exaggerated or prejudiced or very badly expressed, allowing the people (here the viewers/users) to read all sorts of innuendos into the badly expressed opinion, nevertheless, the  defence of “fair comment” would be a good defence. A caution may be flagged here, that reputation cannot be thereby harmed, as discussed later.",
+                        "reference": "65."
+                    },
+                    {
+                        "page": 33,
+                        "paragraph_number": 66,
+                        "content": "In Hubbard (supra), the question related to copyright and the question of ―fair comment‖ in respect of alleged copyright infringement. Lord Denning MR observed as below:- ―It is impossible to define what is ―fair dealing.‖ It must be a question of degree. You must consider first the number and extent of the quotations and extracts. Are they altogether too many and too long to be fair? Then you must consider the use made of them. If they are used as a basis for comment, criticism or review, that may be fair dealing. If they are used to convey the same information as the author, for a rival purpose, that may be unfair. Next, you must consider the proportions. To take long extracts and attach short comments may be unfair. But, short extracts and long comments may be fair. Other considerations may come to mind also. But, after all is said and done, it must be a matter of impression. As with fair comment in the law of libel, so with fair dealing in the law of copyright. The tribunal of fact must decide. In the present case, there is material on which the tribunal of fact could find this to be fair dealing.‖",
+                        "reference": "66."
+                    },
+                    {
+                        "page": 33,
+                        "paragraph_number": 67,
+                        "content": "Two decisions of Co-ordinate Benches of this Court have been relied upon by the plaintiff, namely, (i) Super Cassettes Industries Ltd. v. Hamar Television Network Pvt. Ltd., 2010 SCC OnLine Del 2086 and (ii) Super Cassettes Industries Limited v. Chintamani Rao, 2011 SCC OnLine Del 4712, to contend that the use by the defendants No.1 to 9 of the contents created and produced by the plaintiff do not fit the bill of  ―fair dealing‖. The learned Single Judge in Super Cassettes Industries Ltd. v. Hamar Television Network Pvt. Ltd., 2010 SCC OnLine Del 2086 discussed various decisions and summarized the broad principles of law in para No.8, as below:- ―8. If I may summarise the broad principles of law which have enunciated in the judgments cited before me on the aspect of ―fair dealing‖. These appear to be as follows:—  (i)  It is neither possible nor advisable to define the exact contours of fair dealing;  (ii)  It is a question of fact, degree, and at the end of the day overall impression carried by the court;  (iii)  In ascertaining whether extracts taken from copyrighted work have been put to fair use, the extent and the length of the extracts may be relevant. Long extracts followed by short comments may in certain circumstances be unfair, while short extracts followed by long comments may be fair. In certain circumstances even small extracts, which are taken, on regular basis may point to unfair use of the copyrighted work.  (iv)  The right to make fair use or to deal fairly with the copyrighted work includes the right to criticize not only the style, but also as the underlying doctrine or philosophy of the copyrighted work. In this regard criticism could be both ―strong‖ and ―unbalanced‖. Such criticism by itself will not result in forfeiture of the defence of fair dealing. Malicious and unjustified criticism may give to the aggrieved party a cause for instituting an action for defamation but it would certainly not confer a right founded in copyright.  (v)  In ascertaining as to what would constitute reportage of ―current events‖ or would fall within the ambit of ―criticism‖ or ―review‖, Courts ought to adopt a liberal approach;  (vi)  In discerning as to whether a person has made fair use of copyrighted work, the standard employed ought to be that of a ―fair minded‖ and ―honest person‖. In the case of musical works the test would be that of a ―lay hearer‖  (vii)  While examining the defence of fair dealing, the length and the extent of the copyrighted work which is made use of, as indicated in clause 3 above, is important, however, it cannot be reduced just a quantitative test without having regard to the qualitative aspect. In other words, enquiry ought to be made as to whether the impugned extract forms an essential part of the work of the person in whom inheres the copyright. This may be particularly true in the case of musical works where a few notes may make all the difference;  (viii)  Even though copyrighted work may contain confidential information, the courts would desist from injuncting the use of such work if it is in public weal. Though there is a difference between a breach of confidence as against infringement of copyright, the Court would not grant an injunction in favour of the person in whom inheres the copyright if it is contrary to public policy, that is, is:  (a)  immoral;  (b)  scandalous;  (c)  contrary to family life;  (d)  injurious to public life, public health, safety or, is inimical to administration of justice; and  (e)  incites an action which endangers (c) and (d) above.  (ix)  The principle of freedom of expression will protect both information and ideas. Freedom of expression includes the right to publish and receive information. Public interest may in certain circumstances be so overwhelming that courts would not refrain from injuncting use of even ―leaked information‖ or even the right to use the ―very words‖ in which the aggrieved person has copyright, as at times, public interest may demand the use of the ―very words‖ to convey the message to public at large. While the courts may desist from granting injunction based on the principle of freedom of expression, this would, however, not necessarily protect the infringer in an action instituted on behalf of the person in whom the copyright vests for damages and claim for an account of profits;  (x)  Public interest and what the interests the public need not be the same:  (xi)  The motive of the user shall play an important role in assessing as to whether injunction ought to be granted;  (xii)  Commercial use of copyrighted work cannot simplicitor make it unfair; and  (xiii)  Lastly, ―transformative use‖ may be deemed in certain situations as fair use of copyrighted work;‖",
+                        "reference": "67."
+                    },
+                    {
+                        "page": 36,
+                        "paragraph_number": 68,
+                        "content": "Though it was urged by the learned senior counsel for the defendants No.1 to 9 that the decision in Super Cassettes Industries Limited v. Chintamani Rao, 2011 SCC OnLine Del 4712 had been set  aside, there is force in the submissions made by learned counsel for the plaintiff that the discussion on ―fair dealing‖ could be referred to profitably even if the final relief was declined. It is considered apposite to reproduce para No.27 thereof as below:- ―27. Before I proceed to deal with the case law cited by the parties and examine the position on facts, I think it appropriate to make a few preliminary observations according to my understanding of the statutory position on a plain reading of Section 52 of the Act. What Section 52(1)(a) permits is that the literary, dramatic, musical or artistic work may be reproduced without fear of infringement of copyright in such works, if such reproduction is a fair dealing of the copyright work in question, for the purpose of criticism or review whether of that work or any other work. Therefore, firstly it has to be ―fair dealing‖ of the work in question. This means that the dealing with the copyrighted work is not an unfair dealing. Only that part of the literary, dramatic, musical or artistic work may be utilized for the purpose of criticism or review, which is absolutely necessary, and no more. The purpose -ostensibly or obliquely, should not be to ride piggy back on the work of another. The focus of attention, and interest of the producer/author of the work and the viewer/listener should not be the work of another, but the work created by the person who may, bona fide be using the work of another for the specific purpose of criticism or review of that work, or of any other work. The work of another cannot be used for any other purpose. The copyright protected work of another cannot be used out of context. There has to be an intellectual input and an original mental exercise undertaken by the person bona fide lifting or copying the literary, dramatic, musical or artistic work, which should involve either the  criticism or review of the lifted/copied work, or of any other work. Copying of the work of another for any other purpose, such as, to make one's own programme more interesting, attractive or enjoyable is not permitted. The underlying theme and focus of; and, in substance, the new work should necessarily be an exercise to either criticize or review either the bona fide copied work, or any other work. A person cannot, in the name of ―fair dealing‖, lift or copy literary, dramatic, musical or artistic work of another to such an extent that it ceases to be a ―fair dealing‖ and becomes a blatant act of copying the work of another.‖",
+                        "reference": "68."
+                    },
+                    {
+                        "page": 38,
+                        "paragraph_number": 69,
+                        "content": "It is evident from these decisions that when work that is subject to copyright or broadcast rights, is used, and a plea of infringement of those rights is raised in a suit, the defence of ―fair dealing‖ by use of excerpts is a plausible defence to such a plea. The court would then look into the validity of the defence raised on parameters, such as, whether the comments were devoid of malice; they were honestly made; and in public interest; the reproduction was of short excerpts; there was some creative input of the copier/reproducer; they constituted criticism and review, and there was no blatant act of copying. But as observed in Hubbard (supra), these are all questions of fact and have to be decided by the Trial Court. One of the pleas urged by the defendants No.1 to 9 is that though they were using excerpts from the programmes of the plaintiff, they were doing so with an intent to comment and remove bias from reporting, which was in public interest, and there was „transformative use‟ inasmuch as the excerpts were superimposed with the comments by the defendant No.5/Manisha Pandey (Newsance) and the defendant No.8/Atul Chaurasia (Tippani). This defence raised will also have to be established  on the support of facts that would need to be proved.",
+                        "reference": "69."
+                    },
+                    {
+                        "page": 39,
+                        "paragraph_number": 70,
+                        "content": "It is the contention of the plaintiff that not only are the defendants infringing the copyright of the plaintiff, but were portraying the content in such a manner, with comments, that amounted to commercial disparagement. Reputation, to put simply, is life itself. The high test laid down in Bonnard v. Perryman, [1891] 2 Ch. 269 before an injunction could be granted restraining publication affecting reputation, has since been eased in England in Taveta Investments Limited Vs. The Financial Reporting Council, [2018] EWHC 1662 (Admin). In India too, it has been held that right to reputation is sacrosanct. In Subramanium Swamy (supra), the Supreme Court while dealing with the constitutional validity of Section 499 and Section 500 IPC has recognized „reputation‟ as being an inherent component of Article 21 of the Constitution and that no one could be allowed to sully the reputation of another by claiming the right to freedom of speech and expression guaranteed under the Constitution of India.",
+                        "reference": "70."
+                    },
+                    {
+                        "page": 39,
+                        "paragraph_number": 71,
+                        "content": "There is no gainsaying that the plaintiff and the defendants No.1 to 9 are competitors inasmuch as both are available to social-media users, apart from the fact that the plaintiff is also broadcasting through television channels. ―Commercial Disparagement‖ would occur when one player in the field derides a rival and belittles or discredits or detracts from the reputation of such a rival in respect of its products, services or business. While claiming to be the best, any statement about a competitor‟s goods, which could be untrue or misleading and is made to  influence or tend to influence the public, would amount to disparagement. This has been the view taken in Reckitt Benckiser India Private Limited Vs. Hindustan Unilever Limited 2021 SCC OnLine Del 4896, though in the context of comparative advertisements. Competitive advertisements are permissible as held in Tata Press Limited Vs. Mahanagar Telephone Nigam Limited and Others (1995) 5 SCC 139, as advertising is essential for economic activity. It informs the consumers of the existence of various goods and services, the quality of these products and services, the product origin etc. It also builds up reputation. It is in this context that the Supreme Court held that ―commercial speech‖ is a part of the freedom of speech and expression guaranteed under Article 19(1) (a) of the constitution.",
+                        "reference": "71."
+                    },
+                    {
+                        "page": 40,
+                        "paragraph_number": 72,
+                        "content": "Similar view was taken by a Co-ordinate Bench of this court in Dabur India Limited v. Emami Ltd., 2019 SCC OnLine Del 9022. That was a suit filed by the plaintiff seeking permanent injunction against the defendant from broadcasting, printing and publishing the „ZANDU CHYAVANPRASHAD‟ advertisement which they felt was disparaging of and injurious to its own goodwill and reputation. This Court had the occasion to deal with a similar issue in Fiitjee Ltd. v. Vidya Mandir Classes Ltd., 2022 SCC OnLine Del 484, where it held as below:  - “26. Since it is the case of the plaintiff that the video is in response to the advertisement of the plaintiff, the video though of some length can also be considered as an audiovisual advertisement of the defendants, to assure their students and their parents of the quality of education imparted in their institutions. The content of the video would then have to be assessed on the three Tests that have been  laid down by the Division Bench of this court in Pepsi Co., Inc. v. Hindustan Coca Cola Ltd., 2003 SCC OnLine Del 802 to decide the question of disparagement, namely (i) intent of the commercial; (ii) manner of the commercial; (iii) storyline of the commercial and the message sought to be conveyed by the commercial. A fourth factor has been included by the Co-ordinate Bench of this court in Reckitt Benckiser India Private Limited v. Hindustan Unilever Limited, 2021 SCC OnLine Del 4896 viz., (iv) while glorifying its product, an advertiser may not denigrate or disparage a rival product.",
+                        "reference": "72."
+                    },
+                    {
+                        "page": 41,
+                        "paragraph_number": 73,
+                        "content": "While some latitude is to be given for hyperbole and commendatory expression for oneself with an attempt to show down the competitor, there can be no license to anyone to denigrate the competitor. The courts have protected parties who have been at the receiving end of such negative advertisements.",
+                        "reference": "27."
+                    },
+                    {
+                        "page": 41,
+                        "paragraph_number": 74,
+                        "content": "There can be no doubt that justification would require to be established by evidence. What would be the impact of a video being shown on social media and shared and viewed by people several times over, on a common and ordinary person who is an anxious parent wanting to send his/her child to enter the portals of reputed engineering colleges and looking for a coaching institute, may have to be considered. But the view taken by this court in Tata Sons Limited v. Greenpeace International (supra) is that wider viewership or a degree of permanence characteristic of publication on the internet would not change the essential fact that it too is but a medium of expression and calls for no different standards for grant of interlocutory injunction. There is no reason for this Court to take a different view.‖",
+                        "reference": "28."
+                    },
+                    {
+                        "page": 41,
+                        "paragraph_number": 75,
+                        "content": "A question may arise as to the relevance of these decisions relating  to advertisement to the issue at hand. For one, they recognize the right of an organization to proclaim before the public their superiority over rivals. What is however prohibited is to call the rival‟s products or services as poor or make untrue statements or mis-statements about the rival‟s products or services. So also in the field of copyright and broadcast rights, where a plea is taken of fair dealing, for if the rubicon is crossed, the comment would make the defendant liable for defamation, harm to reputation and disparagement. In other words, the programmes of the defendants No.1 to 9 must not be showing the plaintiff‟s programmes in poor light, asking viewers to stop watching the plaintiff‟s channels while claiming their own to be the best. This, of course, will again be a question of fact as to whether commercial disparagement has occurred or not. The ―defence of truth‖, it may be noted, would be available as an absolute defence to the plea of defamation/disparagement. This defence too is to be established during trial.",
+                        "reference": "73."
+                    },
+                    {
+                        "page": 42,
+                        "paragraph_number": 76,
+                        "content": "When a court is to consider the grant or refusal of interim injunction, the court would have to consider whether the plaintiff has made out a ―prima facie case‖ in its favour. Even if such a case has been disclosed, the plaintiff would also have to establish what ―irreparable harm and injury‖ is suffered by the plaintiff, entitling it to interim protection and which has to be then balanced with the injury that the defendants could suffer, if, after the interim protection is granted against the defendants, the plaintiff loses the suit. It would, therefore, be necessary to determine whether the plaintiff in the present case has  succeeded in meeting these three cardinal requirements, namely, ―prima facie case‖, ―irreparable loss and injury‖ and ―balance of convenience‖, to be entitled to the injunctions as prayed for.",
+                        "reference": "74."
+                    },
+                    {
+                        "page": 43,
+                        "paragraph_number": 77,
+                        "content": "On this aspect, the pertinent observations of the Supreme Court in Wander Ltd. v. Antox India (P) Ltd., 1990 Supp SCC 727 may be reproduced profitably, which are as follows:  “9. Usually, the prayer for grant of an interlocutory injunction is at a stage when the existence of the legal right asserted by the plaintiff and its alleged violation are both contested and uncertain and remain uncertain till they are established at the trial on evidence. The court, at this stage, acts on certain well settled principles of administration of this form of interlocutory remedy which is both temporary and discretionary. The object of the interlocutory injunction, it is stated  ―...is to protect the plaintiff against injury by violation of his rights for which he could not adequately be compensated in damages recoverable in the action if the uncertainty were resolved in his favour at the trial. The need for such protection must be weighed against the corresponding need of the defendant to be protected against injury resulting from his having been prevented from exercising his own legal rights for which he could not be adequately compensated. The court must weigh one need against another and determine where the ‗balance of convenience‘ lies.‖  The interlocutory remedy is intended to preserve in status quo, the rights of parties which may appear on a prima facie case. The court also, in restraining a defendant from exercising what he considers his legal right but what the plaintiff would like to be prevented, puts into the scales,  as a relevant consideration whether the defendant has yet to commence his enterprise or whether he has already been doing so in which latter case considerations somewhat different from those that apply to a case where the defendant is yet to commence his enterprise, are attracted.‖",
+                        "reference": "75."
+                    },
+                    {
+                        "page": 44,
+                        "paragraph_number": 78,
+                        "content": "Having considered the law regarding ―copyright/broadcast infringement‖, ―fair dealing/fair comment‖, ―commercial disparagement‖ and the ―principles governing grant of interim relief of injunction‖, we may now determine whether the plaintiff is entitled to the interim injunctions as prayed for.",
+                        "reference": "76."
+                    },
+                    {
+                        "page": 44,
+                        "paragraph_number": 79,
+                        "content": "The right to free speech and expression has been enshrined in our Constitution as a Fundamental Right. The right to free expression has therefore been stoutly protected by the courts. No doubt, the right to free speech is not unbridled nor is it recognized as absolute. It is subject to reasonable restrictions, which includes the right to reputation, as has been recognized in several judgments, particularly, Subramanium Swamy (supra). In Secy., Ministry of Information & Broadcasting, Govt. of India v. Cricket Assn. of Bengal, (1995) 2 SCC 161, the right to freedom of speech and expression has been found to include the right to acquire information and disseminate it and includes the right to disseminate ideas. Quite clearly, the right to broadcast programmes would be included in the right to free speech and expression. As has been held in Sakal Papers (P) Ltd. v. Union of India, (1962) 3 SCR 842, the right to free speech and expression carries with it the right to publish and circulate one‟s ideas, opinions and views with complete freedom and by resorting to the  available means of publication, which, in the opinion of this Court, would also mean and include not only the electronic media and T.V. channels, but also the social-media platforms as the object of publication and broadcast is the same i.e., to reach out to the public.",
+                        "reference": "77."
+                    },
+                    {
+                        "page": 45,
+                        "paragraph_number": 80,
+                        "content": "As observed by the Supreme Court in Subramanium Swamy (supra) reputation is an integral part of the dignity of an individual and if reputation is damaged, society as well as the individual would be the loser. The old Bonnard Principle which set the high thresh-hold for grant of injunction restraining publications on the ground of defamation and harm to the reputation, has been watered-down by the courts, as noticed above. The right to free speech is an important right, but reputation is an equally important right. The courts, over a period of time, have pronounced that reputation is an internal and central facet of right to life, as protected under Article 21 of the Constitution. Thus, a balance would have to be struck between the two rights, one under Article 19(1)(a) and the other under Article 21 of the Constitution.",
+                        "reference": "78."
+                    },
+                    {
+                        "page": 45,
+                        "paragraph_number": 81,
+                        "content": "The defendants No.1 to 9, in the present case, have however asserted another right and that is the unrestricted „right to comment‟. This right to comment on the content created by others is claimed by them as an exercise in public interest. It was the submission of the learned senior counsel for the defendants No.1 to 9 that since the media had unbridled power on account of the impact of its broadcast and reach, and since unlike the print media, there was no regulation of the T.V. channels and also the social-media, an unrestricted right to comment on each other‟s content would steer the media into communicating and disseminating  information correctly, without bias.",
+                        "reference": "79."
+                    },
+                    {
+                        "page": 46,
+                        "paragraph_number": 82,
+                        "content": "This Court cannot accept this self appointment by the defendants No.1 to 9 as a „Regulator‟ of the content of the media, for the reason that mechanisms exist for redressal of grievances relating to content of news channels and for social-media content, set-up statutorily, including by the platforms themselves. It is obvious that there can be no “free for all” in the regulatory sphere. Every individual or organization cannot claim authority to regulate – the chaos can be imagined – there will be only regulators and none willing to bide by regulations!! But, dehors this claim to the status of a regulator, albeit an informal one, what is seen is that basically, the defendants No.1 to 9 disapprove of the coverage of current news both, in the style, as well as its prioritization, by the main stream media and T.V. channels or even the social-media platforms. But that would be the opinion of the defendants No.1 to 9. The plaintiff may have a contrary view regarding the prioritization and presentation of current events by the defendants No.1 to 9. Therefore, ex facie, there is no public interest in the particular programming of the content and broadcast of such content by the defendants No.1 to 9. Every media house and channel on T.V. or the social-media platforms, including that of the defendants No.1 to 9, have their own philosophy, which gets reflected in the manner of reportage and content of the programmes and that is not necessarily a bad thing.",
+                        "reference": "80."
+                    },
+                    {
+                        "page": 46,
+                        "paragraph_number": 83,
+                        "content": "What is not acceptable is the assertion of a supervisory right by one media over another, as is the claim of the defendants No.1 to 9 in the present case. Also hyperbolic is their claim that it is their criticism of the  programmes of the main stream media, including of the plaintiff, that push them into rectifying mistakes and that therefore, their programmes were invaluable in public interest, and as a corollary, therefore, their right to comment and criticize cannot be restricted.",
+                        "reference": "81."
+                    },
+                    {
+                        "page": 47,
+                        "paragraph_number": 84,
+                        "content": "Leaving aside such assertions, this Court would accept that the right to comment on content created on social-media or on T.V. channels has also to be recognized as a facet of the right to free speech and expression under Article 19(1)(a). In fact, the availability of a multitude of reporting styles, prioritization and presentation of events that occur daily, would always be in public interest, since broadcast is intended to communicate to the public. Dissemination of a spectrum of information by many players would result in a better informed society. Different priorities would result in a range of information being readily available with regard to current events. Varied presentations and discussions would result in the availability of several shades of opinion before the public, which can then come to its own conclusion. It would definitely be in the interest of the public that every broadcaster has the right of fair comment on current events and of criticism and review, including of the programmes created by others.",
+                        "reference": "82."
+                    },
+                    {
+                        "page": 47,
+                        "paragraph_number": 85,
+                        "content": "However, once again, if the right is one to be protected under Article 19(1)(a), it will have to be subjected to reasonable restrictions under Article 19(2). The possible exceptions to this free expression of opinion, if one may venture in that direction, would obviously be those that threaten national security and law and order, which would need some monitoring of content or are ex facie false, defamatory, derogatory or  disparaging in content and/or presentation. Of course, the right to privacy and reputation cannot be violated in the garb of freedom to comment. Other than that, the ability to express an opinion must be freely available for all who hold an opinion.",
+                        "reference": "83."
+                    },
+                    {
+                        "page": 48,
+                        "paragraph_number": 86,
+                        "content": "It is the case of the plaintiff that the programmes of the defendants No.1 to 9 actually use words that portray the plaintiff in very poor light that they are engaging anchors who could ―create a riot‖ or ―their business model was below par‖, since the defendants No.1 to 9 did not seek advertisement and so on. This is countered by the defendants No.1 to 9 saying that they were justified in their comment. It is trite that while determining whether the broadcast or the telecast contained defamatory or disparaging content, it would be necessary to examine the intent and the absence of malice as also the overall effect of the programme commented upon, not just on the subscribers/loyal viewers of the television or the social-media channels, but its impact on a reasonable person, who is generally interested in viewing such programmes. Or to put it succinctly, it is a question to be determined by the trial judge, whether or not the comments and programmes are ―fair comment‖ or not and that determination can be only after the conclusion of the trial.",
+                        "reference": "84."
+                    },
+                    {
+                        "page": 48,
+                        "paragraph_number": 87,
+                        "content": "Turning to the next submission made on behalf of the defendants No.1 to 9 that the content of their programme was satirical in nature, and relying on Indibily Creative (P) Ltd. v. State of W.B., (2020) 12 SCC 436 sought the fullest liberty to critique and criticize, through satire, the programmes of the plaintiff. While freedom of expression would include the art of satire, it must be evident that what was being presented is  indeed satire. It must be self-evident and by its very character can never be a case of copyright infringement or defamation or even disparagement. Satire cannot be explained or else it would lose its flavour. Satire allows the satirist to criticize in the harshest of terms and critique actions of all, particularly of those in positions of power and/or authority and leadership. The intention of the satirist is to simultaneously highlight an action and its negative fallout, so that rectificatory action could be taken. It is never intended to disparage or harm reputation and thus is completely devoid of malice. Satirists, at all times in our culture, have been greatly respected and there are several art forms in this country that allowed such criticism of even the Rulers in the heydays of Monarchy and which art forms still exist. Examples, that come to mind are “Ottamthullal” and the “Chakiyaarkoothu”, both in Kerala. Sharp use of language conveys the message intended by the artists, but in a cultured and nuanced manner. Such creative genre must, without doubt, be encouraged and protected. Since the defendants No.1 to 9 claim their programme is satire, they need to explain which one of their programmes is “satire”, what portion is “comment” and what justified “criticism”. But whether the comment is satirical or malicious would have to be established as a fact and therefore, would require trial and a presumption either way cannot be drawn at this stage.",
+                        "reference": "85."
+                    },
+                    {
+                        "page": 49,
+                        "paragraph_number": 88,
+                        "content": "In this background, it would be necessary to determine whether the plaintiff has satisfied the three cardinal principles for grant of interim injunction. It may be mentioned that the interim injunction is sought at a time when the rival claims are yet to be determined for their merit.  Additionally, in the case of defamation, it is also to be seen, what is the defence raised, and if the defence is of ―truth‖ or ―justification‖ that has been raised, ordinarily, no injunction would follow as the defendant has to get the opportunity to prove such a defence. In the present case, ―truth‖ was pleaded, but without disclosing whether the ―truth‖ relates to the events covered, or the ―truth‖ of the manner of coverage of current events by the plaintiff, or the ―truth‖ of the comments of the defendants No.1 to 9. It does not seem that in the present case, truth is available as a defence. At best, what is portrayed in the programmes of the defendants No.1 to 9 is an opinion. That opinion is claimed to be, firstly, in the public interest and, secondly, an honest and fair comment. The comments do not seem strictly in public interest, except as part of the larger picture of the right to express an opinion adding to the availability of myriad such opinions to the public at large. Whether the comments constitute honest and fair comment will require trial.",
+                        "reference": "86."
+                    },
+                    {
+                        "page": 50,
+                        "paragraph_number": 89,
+                        "content": "As regards the existence of a ―prima facie case‖, the plaintiff has shown that the content created by them is protected by the statute under broadcast rights and the defendants No.1 to 9 have not sought nor have been granted any licence for reproduction. The extracts given in the written submissions in a tabular form may be conveniently looked into, to determine whether a case of disparagement is made out. Some of the contents, as listed, are ex-facie defamatory/disparaging of the programme of the plaintiff. The use of words such as, “shit standards”, “shit playing” on the channel, “shit reporters”, “shit show”, would show, that the words are intended by the defendants No.1 to 9 to indicate, that the  programmes/shows of the plaintiff are bad. The other extracts may, at this stage, appear as criticism and an opinion that the defendants No.1 to 9 could seek to justify. Again, to say that one of the anchors was engaged as she had great potential for starting a riot, would seem disparaging of the capacity of the plaintiff to engage capable anchors apart from a questioning of the anchors own capabilities, and how such statements would be justified by the defendants No.1 to 9, is not evident.",
+                        "reference": "87."
+                    },
+                    {
+                        "page": 51,
+                        "paragraph_number": 90,
+                        "content": "The other suggestive comments, that seeking advertisements was bad as a revenue model and that the model of the defendants No.1 to 9 of seeking subscriptions alone ensured a free and unbiased reporting, would be commercial disparagement, as advertisements on T.V. channels or even social-media cannot be a ground for rejecting a channel‟s view point or reporting. There is no gainsaying that advertisements plays a significant role in informing the public of availability of goods and services and the wide reach of the electronic media and T.V. channels as also the social-media, often lead manufacturers of goods and services to advertise on these platforms and thus, expand their own business. These statements call for justification by the defendants No.1 to 9.",
+                        "reference": "88."
+                    },
+                    {
+                        "page": 51,
+                        "paragraph_number": 91,
+                        "content": "On these facts, which have been noted, it cannot be denied that a ―prima facie case‖ is disclosed. But disclosure of a prima facie case alone will not entitle a plaintiff to interim injunction. The other two requirements of ―balance of convenience‖ and ―irreparable loss and injury‖ will need to be established before such injunction can be granted. Since ―justification‖ and ―fair dealing‖ have been pleaded as defence, and such defence is based on facts, the defendants No.1 to 9 have to be  given an opportunity to prove justification during trial. Furthermore, the extent of infringement or fair use for fair comment and criticism would also be a matter of trial as each video would have to be considered to determine whether the excerpts are significant to be outright copying, or constitute fair use without infringement. The contents of the individual videos, the articles, the Facebook and Instagram posts will have to be looked into individually to determine if they contain malicious, dishonest, defamatory and disparaging statements or constitute honest and possible satirical opinion. In short, the decision has to be deferred till after the conclusion of the trial.",
+                        "reference": "89."
+                    },
+                    {
+                        "page": 52,
+                        "paragraph_number": 92,
+                        "content": "The ―balance of convenience‖ would, therefore, tilt in favour of the defendants No.1 to 9 as, in the event they are able to establish justification and fair comment and fair dealing, the plaintiff would fail, both in respect of their claim against copyright infringement/broadcast right violation as also defamation/disparagement. If there is no justification, there could probably be no fair comment either and thus no defence against defamation either. Moreover, no injunction in futuro can be issued, as has been held in Khushwant Singh (supra) and R. Rajagopal v. State of T.N., (1994) 6 SCC 632. Admittedly, some of the videos and articles and posts in question, have been in existence since 2018 and hence, no real urgency has been shown even for the removal of even those words noted hereinbefore, by issuing mandatory injunctions to take them down. It must be kept in mind that a mandatory injunction is issued at the interim stage only in rare and extraordinary situations. It would be useful to reproduce the guidelines of the Supreme Court  recorded in its decision in Dorab Cawasji Warden v. Coomi Sorab Warden, (1990) 2 SCC 117, which are as under:  ―16. The relief of interlocutory mandatory injunctions are thus granted generally to preserve or restore the status quo of the last non-contested status which preceded the pending controversy until the final hearing when full relief may be granted or to compel the undoing of those acts that have been illegally done or the restoration of that which was wrongfully taken from the party complaining. But since the granting of such an injunction to a party who fails or would fail to establish his right at the trial may cause great injustice or irreparable harm to the party against whom it was granted or alternatively not granting of it to a party who succeeds or would succeed may equally cause great injustice or irreparable harm, courts have evolved certain guidelines. Generally stated these guidelines are:  (1)  The plaintiff has a strong case for trial. That is, it shall be of a higher standard than a prima facie case that is normally required for a prohibitory injunction.  (2)  It is necessary to prevent irreparable or serious injury which normally cannot be compensated in terms of money.  (3)  The balance of convenience is in favour of the one seeking such relief.",
+                        "reference": "90."
+                    },
+                    {
+                        "page": 53,
+                        "paragraph_number": 93,
+                        "content": "Being essentially an equitable relief the grant or refusal of an interlocutory mandatory injunction shall ultimately rest in the sound  judicial discretion of the court to be exercised in the light of the facts and circumstances in each case. Though the above guidelines are neither exhaustive nor complete or absolute rules, and there may be exceptional circumstances needing action, applying them as prerequisite for the grant or refusal of such injunctions would be a sound exercise of a judicial discretion.‖ (emphasis added)",
+                        "reference": "17."
+                    },
+                    {
+                        "page": 54,
+                        "paragraph_number": 94,
+                        "content": "The existence of a few videos with use of words listed in the written submissions of the plaintiff or articles and posts which have been in circulation for a few years now, do not, in the opinion of this Court, constitute exceptional circumstances for the issuance of directions in the nature of mandatory injunction. Were the defendants No.1 to 9 to succeed in their defence, the harm caused to the defendants No.1 to 9 would outweigh the loss caused to the plaintiff. This is so also because the plaintiff would be entitled to be compensated with damages, which the plaintiff has actually quantified to the tune of Rs.2,00,00,100/-(Rupees Two crores and one hundred). Thus, no ―irreparable loss or injury‖ that cannot be recompensed by damages will be caused to the plaintiff in the absence of the interim injunction.",
+                        "reference": "91."
+                    },
+                    {
+                        "page": 54,
+                        "paragraph_number": 95,
+                        "content": "Though submissions were made regarding mis-representation, in the light of the view taken, it is considered unnecessary to go into that issue at this stage. Suffice it to observe that during trial, both sides would have ample opportunity to show the extent of reproduction made by the defendants No.1 to 9 of the content of the plaintiff, in their own shows/programmes. The Trial Court would be in a better position to  consider whether there has been misrepresentation of facts.",
+                        "reference": "92."
+                    },
+                    {
+                        "page": 55,
+                        "paragraph_number": 96,
+                        "content": "In the light of the foregoing discussion, the application [I.A. 14237/2021] under Order XXXIX Rules 1 and 2 CPC stands dismissed.",
+                        "reference": "93."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "W.P.(C)-IPD 5/2021",
+            "title": "VS",
+            "date": "21/10/2021",
+            "document_href": "https://delhihighcourt.nic.in/writereaddata/OrderSAN_PDF/jan/2021/1635315337851_2021.pdf",
+            "document_path": null
+        },
+        {
+            "case_number": "W.P.(C) 4312/2021",
+            "title": "VS",
+            "date": "16/07/2021",
+            "document_href": "https://delhihighcourt.nic.in/writereaddata/OrderSAN_PDF/prj/2021/1626532285216_21352_2021.pdf",
+            "document_path": null
+        },
+        {
+            "case_number": "W.P.(C) 6647/2021",
+            "title": "VS",
+            "date": "16/07/2021",
+            "document_href": "https://delhihighcourt.nic.in/writereaddata/OrderSAN_PDF/prj/2021/1626532286313_3180_2021.pdf",
+            "document_path": null
+        },
+        {
+            "case_number": "CS(COMM) 120/2019",
+            "title": "VS",
+            "date": "12/04/2021",
+            "document_href": "https://delhihighcourt.nic.in/writereaddata/OrderSAN_PDF/chs/2021/1618383339712_9531_2021.pdf",
+            "document_path": null
+        },
+        {
+            "case_number": "CW 4846/2011",
+            "title": "PM DIESELS PVT LTD VS THUKRAL MECHANICAL WORKS AND ORS",
+            "date": "09/10/2020",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/VIB/judgement/09-10-2020//VIB09102020CW48462011_181025.pdf&ID=1427045228_9",
+            "document_path": "data\\judgments\\DHC Judgments\\1427045228_9.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 1,
+                        "content": "The petitioner has filed the present writ petition impugning an order dated 27.01.2011 (hereafter •the impugned order•) passed by the Intellectual Property Appellate Board (hereafter •IPAB•) whereby the application filed by the petitioner (M.P. No 161/2009) to implead M/s Jain Industries as a respondent to the rectification petition (CO No. 6/1987) filed by it, was rejected.",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 3,
+                        "content": "1  The petitioner is a company incorporated under the Companies Act, 1956 and claims that it is engaged in the business of manufacturing, marketing and exporting diesel oil engines and its parts, since the year 1963. The petitioner claims that it adopted the trademark •Fieldmarshal• for its products, which stands registered in its name under nos. 224879, 252070 and 252071 in Class 7. The petitioner further started manufacturing and selling monoblock pumps and motors including centrifugal pumps and their parts under the said trademark in or around the year 1973.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 4,
+                        "content": "2  Thukral Mechanical Works Ltd (hereafter •Thukral•) is a company registered under the Companies Act, 1956 and is also engaged in a similar business. In 1985, the petitioner filed a suit (suit no. 2408/1985) against Thukral (respondent no. 1), inter alia, alleging infringement and passing of and praying for a decree of perpetual injunction restraining Thukral from using the trademark •Fieldmarshal• or any other mark or tradename similar to it. This Court, by an order dated 19.12.1985, passed an ex parte ad interim injunction against Thukral, restraining it from using the said mark.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 5,
+                        "content": "3  The petitioner claims that, thereafter, it became aware that the trade mark •Fieldmarshal• bearing registration no. 228867 in respect of flour mills, circulating and centrifugal pumps, coupling for machines, pulleys and valves in class 7 was registered in the name of  Pooran Chand Jain and Kailash Chand Jain trading as M/s Jain Industries.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 6,
+                        "content": "4  The said trademark was stated to be used by Jain Industries only with respect to flour mills. This led the petitioner to file a rectification application under Sections 46, 56 and 107 of the Trade and Merchandise Marks Act, 1958 (hereafter •the Act•), being CO no. 9/1986 in November, 1986. The petitioner contended that M/s Jain Industries had not used the mark with regard to circulating or centrifugal pumps for a period of more than five years and one month preceding the filing of the said application and sought expunging the said items • circulating or centrifugal pumps • from the description of the goods in respect of which the trademark in question was registered.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 7,
+                        "content": "5  Notice of the said petition was issued to M/s Jain Industries, however, none appeared on behalf of the said firm on the returnable date, that is, on 16.01.1987. However, Thukral • although not arrayed as a party to the said petition • was represented on the said date and it filed a reply, inter alia, stating that the trademark •Fieldmarshal• stood assigned to it by virtue of an Assignment Deed dated 30.05.1986 (hereafter •Assignment Deed•) and the request for recording the name of Thukral as the subsequent proprietor of the trademark had already been made before the Registrar of Trade Marks.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 8,
+                        "content": "6  On 16.01.1987, the petitioner sought to withdraw the rectification petition (CO no.9/1986) with liberty to file a fresh on the  same cause if action. Its request was allowed and this Court passed the following order:- •This petition has been filed by M/s PM Diesels Pvt. Ltd. against M/s Jain Industries and the Dy. Registrar of Trade Marks under Section 46, 56 and 107 of the Trade and Merchandise Marks Act, 1958 for rectification of entry relating to the Registered Trade Mark No.228867in Class 7. After the notice was served upon the respondent no.1, a reply has been filed by M/s Thakural Mechanical Works bringing out therein that they are now the registered proprietors of said Trade Mark No.228867. In this view of the matter learned counsel for the petitioner has submitted that he may be permitted to withdraw this petition with permission to file a fresh petition on this very cause of action. The request is not opposed on behalf of M/s Thakural Mechanical Works. In these circumstances the request of the plaint is granted and petitioner is permitted to withdraw this petition and file a fresh petition on this very cause of action. The petition is accordingly filed as withdrawn leaving the parties to bear their own costs.•",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 9,
+                        "content": "7  Thereafter, the petitioner filed another petition (being CO no. 6/1987) against Thukral for rectification of the entry relating to the trademark •Fieldmarshal• on the same ground as pleaded in CO no. 9/1986. M/s Jain Industries was not arrayed as a party to this petition. Further the petitioner pleaded the cause of action for filing the petition in the following words:- •That the cause of action for the present petition arose in favour of the petitioner and against the respondents in the month of January, 1987 when the respondent informed this Hon•ble Court that they have been recorded as subsequent proprietors of the impugned  registered trade mark No.228867 in Class 7 in C.O. No.9 of 1986, whereupon the petitioner withdrew the said earlier petition C.O. No.9 of 1986 with permission of this court to file the present petition, because of the changed circumstances. The cause of action is continuous from day to day till the impugned registration is cancelled/rectified.•",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 10,
+                        "content": "8  This court clubbed CO no. 6/1987 with suit no. 2408/1985.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 11,
+                        "content": "9  Subsequently, by an order dated 19.01.1988, the ex parte injunction granted against Thukral was vacated, albeit, on certain terms, as the Court noticed that Thukral was registered as the proprietor of the trade mark in question.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 12,
+                        "content": "10  The aforesaid petition (CO No. 6/1987) was transferred to IPAB on the enactment of the Trade Marks Act, 1999. IPAB dismissed the said petition by an order dated 27.10.2004. The petitioner impugned the said order by filing a writ petition in this court being W.P. (C) No. 19632/2004 captioned •P.M Diesels Pvt Ltd. v Thukral Mechanical Works & Anr.•. The petitioner also filed an application (C.M. No. 14450/2004) seeking interim relief, which was rejected by an order dated 05.07.2005.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 13,
+                        "content": "11  Aggrieved by the said order date 05.07.2005, the petitioner filed an appeal being L.P.A No. 2063 of 2005 captioned •P.M Diesels Pvt Ltd. v Thukral Mechanical Works & Anr. •.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 16,
+                        "content": "13  Aggrieved by the said decision, Thukral filed a Special Leave Petition (S.L.P. (C) No. 6145/2006) in the Supreme Court. Special leave to appeal was granted and the appeal was numbered as Civil Appeal no. 7404/2008. The Supreme Court allowed the said appeal by an order dated 18.12.2008 and remanded the matter to IPAB to determine the petitioner•s application afresh in light of the principles set out by the Court.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 17,
+                        "content": "14  Thereafter, the petitioner filed an application (MP no. 161/2009) • under Order I Rule 10 of the Code of Civil Procedure, 1908 • in the rectification petition (C.O. No. 6/1987) to implead M/s Jain Industries as respondent no. 2 in the said petition. It also sought to add further to the pleadings by seeking to introduce a paragraph briefly narrating the background in which M/s Jain Industries was being impleaded. According to the petitioner, the Supreme Court had settled the law that in an application under Sections 46(1) and 56 of the Act, it was necessary to implead the original registrant as well as the assignee. Thus, it became necessary to implead Jain Industries as a party to the said petition.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 19,
+                        "content": "IPAB held that no cause of action against M/s Jain Industries under Section 46 (1) (b) of the Act survived after a period of twenty- three years had elapsed. The IPAB also referred to the observations made by the Supreme Court and held that the petition for non use of the trademark by M/s Jain Industries, was not maintainable. The IPAB did not accept the petitioner•s contention that in terms of the order of the Supreme Court it was necessary to implead M/s Jain Industries. The IPAB held that it was not the intent of the Supreme Court to allow the impleadment of M/s Jain Industries. Next, the IPAB held that rectification petition (C.O. No.6/1987) was filed pleading a cause of action that was different from the one pleaded by the petitioner in the first rectification petition (C.O. No.9/1986). It held that no relief was sought against M/s Jain Industries and therefore, impleading the said firm was not necessary. The IPAB also held that the petitioner had sought to implead M/s Jain Industries on the ground that it had not used the trademark for a period of five years and one month but it was also stated that M/s Jain Industries was not in existence. The IPAB held that once the petitioner admitted that the proposed respondent was not in existence, the question of impleading it did not arise. Lastly, IPAB held that impleading M/s Jain Industries would imply that the trial would have to be conducted de novo and the same could not be allowed.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 20,
+                        "content": "Mr Agarwal, learned counsel appearing for the petitioner contended that the IPAB had erred in proceedings on the basis that the decision of the Supreme Court restricted the discretion of IPAB to implead M/s Jain Industries to decide the issue of a non-user in accordance with law. He contended that the Supreme Court had  remanded the case to IPAB to decide the same in the light of the principles explained by it. According to him, this enjoined IPAB to determine the applications afresh and if required, to implead all necessary parties. He further submitted that the petitioner could not be faulted for not impleading M/s Jain Industries in the first instance as the Supreme Court had in its decision, for the first time, observed that where an allegation of trafficking are made, both the original registrant as well as assignee are required to be impleaded as a parties. He submitted that prior to the said decision, the law did not require the original registrant to be impleaded as a party in any case where the applicant was challenging the assignment on the ground of trafficking. He submitted that the person who is registered as the proprietor at the material time is required to be arrayed as a respondent. He also stated that the petitioner was not seeking any relief against M/s Jain Industries and the same was also one of the reasons by IPAB had rejected the petitioner•s application for impleading M/s Jain Industries. He submitted that this ran contrary to the decision of the Supreme Court, which required the original proprietor to also be impleaded where an allegation of trafficking was made. He submitted that in this view, the failure of petitioner to implead M/s Jain Industries at the material time could not be held against it. Lastly, he submitted that in terms of Section 46(1)(b) of the Act, a proprietor •for the time being• would alone appear to be a necessary party for adjudication of a rectification application, which is premised on the basis of non-user for a continuous period of five years. He submitted that in this view, M/s Jain Industries was not impleaded as a party at  the material time. However, in view of the decision of the Supreme Court, which was rendered subsequently, it is necessary to implead M/s Jain Industries. He submitted that in terms of Order 1 Rule 10(2) of CPC, the IPAB could suo moto implead M/s Jain Industries as it had power to effectively and completely to adjudicate the disputes.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 21,
+                        "content": "Mr Chander Lall, learned senior counsel who also appeared for the petitioner summarized the contentions advanced on behalf of the petitioner. He referred to the order dated 18.12.2008 passed by the Supreme Court in Civil Appeal no. 7404/2008 and contended that the import of the said order directing the IPAB to consider afresh in terms of the principles laid down in the said decision would also be to consider impleading such parties as are held to be necessary and proper in such proceedings.",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 22,
+                        "content": "In order to address the controversy, it would be relevant to briefly take note of the controversy in the first round. The IPAB had dismissed the rectification petition (C.O. No. 6/1987) by an order dated 27th October, 2004. The petitioner had claimed that since M/s Jain Industries had not used the trademark in question for a period of five years and one month, the registration in its favour was liable to be rectified in accordance with Section 46(1)(b) of the Act, notwithstanding that the said trademark had been assigned to Thukral. The IPAB did not accept the petitioner•s contention and held that Thukral had become the proprietor of the trademark on 30th May, 1986 and the rectification petition was filed on 19th January, 1987, that is, after the period of about seven and a half months of alleged non-use  by Thukral; thus, the requirements of Section 46(1)(b) of the Act were not fulfilled. The IPAB was of the view that period of five years and one month of non use of a trademark, which would give the ground for rectification of the said trademark, was required to be considered with reference to the registered proprietor•s use of the trademark and not the assignor from whom it was acquired. In other words, the IPAB held that the non use of trademark by M/s Jain Industries would not affect the assignment in favour of Thukral and the registration could be rectified under Section 46(1)(b) of the Act, only if the last proprietor (that is, Thukral) had not used the trademark for a period of five years and one month, prior to the date of the application. Admittedly, this condition was not met and therefore, IBAB dismissed the rectification petition.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 23,
+                        "content": "The petitioner impugned the IPAB•s order rejecting the rectification application before this Court by preferring a writ petition (C.W. No. 19632/2004). This Court did not concur with the IPAB•s aforesaid view. It held that the non use of the trademark during the period prior to assignment of the trademark in favour of Thukral was not inconsequential. It held that a plain reading of Section 46(1)(b) of the Act indicated that a registered trademark could be taken off from the register if it had not been used for a minimum continuous period of five years and one month before the date of application of its removal. It held that M/s Jain Industries (the registered proprietor of the trademark) had not used the trademark at all. The trademark in question was only used by the petitioner and Thukral, neither of whom  were proprietors of the trademark except that Thukral claimed to have become the proprietor with effect from 30th May, 1986. The Court held that prior to the said date the use of the trademark by Thukral, if at all, was not legally permissible. This Court did not accept that period of five years and one month was required to be considered from the date on which Thukral became the proprietor of the trademark (that is 30th May, 1986). This Court was of the view that the period of non use would also include the period when M/s Jain Industries was the registered proprietor of the said trademark. Accordingly, this Court, by a judgment dated 18.01.2006 rendered in CW no. 19632/2004 set aside the order dated 27th October, 2004 passed by the IPAB and remanded the matter to the IPAB to be considered on merits. The said judgment also disposed of the appeal (L.P.A. No. 2063/2005) which was filed against an interlocutory order passed in the said writ petition.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 24,
+                        "content": "Aggrieved by the judgment of this Court rendered on 18.01.2006, allowing the writ petition (CW 19632/2004) preferred by the petitioner, Thukral preferred a Special Leave Petition before the Supreme Court. The same was allowed and the Supreme Court considered the resultant appeal (Civil Appeal No. 7404/2008). The Supreme Court did not concur with the view of this Court that the period of five years and one month would also include the period when M/s Jain Industries was the proprietor of the trademark in question. The Supreme Court reasoned that non-user of a trademark entails consequences laid down under Clause (b) of Sub Section (1) of  Section 46 of the Act and when an application seeking rectification of the trademark is filed under the said Section, the proprietor of the trademark has the opportunity to show that his case falls under the purview of Sub-section (3) of Section 46 of the Act. He alone can prove that he has a bona fide intention to use the trademark. The relevant extract of the decision of the Supreme Court is set out below:- •19. There cannot be any doubt or dispute that the registration of a trade mark confers a very valuable right. The person in whose name the trade mark has been registered may take action against any person for passing off the goods as that of the registered owner. It confers an exclusive right of use of the trade mark in relation to the goods in which the trade mark is registered. The same is an assignable right in terms of Section 36 of the Act, whereas an unregistered trade mark is not.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 25,
+                        "content": "Non-user of the said mark, therefore, entails the consequences laid down under clause (b) of Sub-section (1) of Section 46. However, such an application can be filed only by a person aggrieved. When the applicant before the Board establishes the fact in regard to nonuser of the mark for a period of more than five years on the part of the registered owner, the latter may show that his case falls within the purview of sub-section (3) of Section 46.",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 26,
+                        "content": "The question which, therefore, arises is as to who can prove that he had the bona fide intention to use the trade mark on the date of application for registration. Indisputably, it would be the registered proprietor. Section 46 is a penal provision. It provides for civil or evil consequences. It takes away the valuable right of a registered proprietor. It, therefore, can be  taken away only when the conditions laid down therefore are satisfied.",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 27,
+                        "content": "While we say so, we are not oblivious of the fact that trafficking in trade mark is to be discouraged. A registered proprietor of a trade mark should not be permitted to circumvent the law of user of the trade mark for a long time by assigning the same from time to time. But then such a case has to be made out. Allegation of trafficking is a serious one. It must be proved in presence of the person against whom such allegations are made. At the time of grant of original registration, advertisements are issued and objections are called for. Renewal of registration, in a sense, also is not automatic. A person who had been using the said trade mark as a proprietor thereof by user is supposed to keep itself abreast with such applications filed by another either for registration of the trade mark or renewal thereof. The non-user for a long time would disentitle a registered proprietor from renewal of the registration.",
+                        "reference": "22."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 28,
+                        "content": "It must not, however, be forgotten that Section 46(1)(b) provides for a special remedy. As a person obtains a right on and from the date of registration and/or renewal thereof, he can ordinarily be deprived of his right unless it is shown that the assignment thereof by his holder was not a bona fide one or had been made by way of camouflage. If the assignee has obtained assignment for bona fide use, he may not be fastened with any liability owing to non-user on the part of his predecessor. In other words, the mistake of the predecessor should not be visited with non-use of the present registered owner.",
+                        "reference": "23."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 29,
+                        "content": "It must, however, be observed that whether a use is for bona fide purpose would essentially be a question of fact. Whether Section 46(1)(b) read with Section 48 of the Act would bring within its purview, not only a  registered proprietor but also the proprietor who had otherwise acquired a right would depend upon the facts and circumstances of each case.•",
+                        "reference": "24."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 30,
+                        "content": "The Supreme Court also noticed a passage from the text, Law of Trademarks and Geographical Indications by Shri K. C. Kailasam, wherein the author had expressed a view that an assignment of a trademark after five years of its non use would not give it any fresh lease of life. The author had reasoned that a registered proprietor could defeat an application for rectification by assigning the mark to some other person, thereby acquiring a fresh lease of five years from the date of the assignment. And, this would effectively frustrate the very objective of enacting the provision for rectification of the register on account of non use of the trademark. The author reasoned that an assignor could obviously not transfer to the assignee greater rights than he himself possessed under the Act.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 31,
+                        "content": "The Supreme Court did not agree to the aforesaid view and held that non-use does not extinguish the title and the same requires to be adjudicated. Any assignment of the trademark made would be valid, except in the circumstance where it is established that the assignment was for a purpose of frustrating the application for rectification and the assignee had colluded with its predecessor for the purpose of trafficking in the trademark and entering into a deed of assignment, which was otherwise illegal and bad in law. The relevant extract of the decision of the Supreme Court is set out below:- •32. Our attention has again been drawn to a passage from •Law of Trade marks & Geographical  Indications• by Shri K.C. Kailasam, wherein the judgment of the Tribunal has been criticized in the following terms :  •From the above legislative intent, it would seem that the period of non-use of the trade mark is to be reckoned continuously from the date of its registration. In the case of American Home Products Corporation v. Mac Laboratories Pvt. Ltd. Rendered under the 1958 Act, it was held by the Supreme Court that •the person seeking to have the trade mark removed from the register has only to prove such continuous non-user.• It would appear that neither the U.K. Act, nor the Indian Act, at any time envisaged that the commencement of 5 year period of non-use is to be delinked from the date of registration of the mark, so as to give a fresh lease of life to the registration, every-time there is change in the ownership of the mark. If that be so, any registered proprietor could easily defeat an application for rectification by assigning the mark to some other person to have a fresh period of 5 years from the date of assignment and thus effectively frustrate the very object of the provision in section 47(1)(a) and (b). Further, it is to be noted that an assignment is subject to •the provisions of the Act and any rights vested in any other person• --See section 37. The assignor cannot obviously transfer more rights than he himself has to the assignee under the Act.•  •33. We do not think that the approach of the learned author is entirely correct. An assigner can transfer only such right which he possesses. If his title is not extinguished by reason of a provision of a statute for non-user of the trade mark for a period of five years,  any assignment made shall be valid subject to such situation which we have noticed in paragraph 25 supra.•",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 32,
+                        "content": "The observations made by the Supreme Court in paragraph no.  25  of its decision are reproduced below:- •We are not concerned herein as to since when it had been doing so. It obtained an or of injunction. The order of injunction was vacated. For one reason or the other, the said order attained finality. Prima facie, therefore, appellant has been held to be the registered owner of the trade mark. It is one thing to say that for the purpose of frustrating an application for rectification, the appellant had colluded with its predecessor for the purpose of trafficking by entering into the deed of assignment which is otherwise illegal and bad in law but it is another thing to say that the appellant could be proceeded against alone for non-user of the registered trade mark for a period of more than five years. For the purpose of making out such a case, both the original registrants as also the assignee were required to be impleaded as parties.•",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 33,
+                        "content": "It is apparent from the above that an application for rectification of the trademark on account of non-use would not be maintainable if prior to the filing of the said application, the registered proprietor of the trademark has assigned the same and the assignee has acquired it for its bona fide use and in fact, used the same.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 34,
+                        "content": "The Supreme Court set out the principles required to be applied while considering an application for rectification of a Register under Section 46(1)(b) of the Act. The question whether the Register was  required to be rectified on account of non-use of a trademark is required to be considered with reference to the registered owner of the said trademark at the material time. This High Court•s view that if the non-use of the trademark attached a disability to the assignor of a trademark, such disability would also be inherited by the assignee, was not accepted by the Supreme Court. However, the Supreme Court also clarified that if the assignment was merely to frustrate the provision of the law and made as a device to traffic in trademark, such an assignment of a trademark would not frustrate the provisions of Section 46(1)(b) of the Act. Having set out the principles, the Supreme Court remanded the matter to IPAB to decide the same in accordance with the said principles.",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 35,
+                        "content": "In view of the above, the only question to be considered by the IPAB was whether the petitioner had made out a case of trafficking of trademark and had impugned the assignment on the said ground. A clear reading of the application for rectification (C.O. No. 9/1987) indicates that the petitioner had not laid any such challenge in its application. Mr Lall contended that it was the petitioner•s case that the assignment of the trademark was mala fide and to frustrate the provisions of law. However, a bare perusal of the application indicates that the principal ground urged by the petitioner in its application is that the registration of the trademark in favour of M/s Jain Industries was liable to be rectified as the same had not been used for a period of five years and one month. Although the petitioner has also averred that the assignment of the trademark was mala fide, a close examination of the pleadings indicates that it is not the petitioner•s contention that  there was any trafficking of the trademark or that Thukral was squatting on the same. On the contrary, it is an admitted case that Thukral was using the trademark in respect of its goods (although it is contended that the same amounted to infringement of the petitioner•s trademark). The petitioner had alleged that Thukral had secured an assignment of the said trademark to frustrate the petitioner•s suit for infringement. The contention that M/s Jain Industries and Thukral had been trafficking in the trademark and had registered the same without the intention to use it and that the trademark had been assigned only for the purpose of keeping the registration alive without any intention of using the same, is inconsistent with the case set up by the petitioner. Thus, the contention that M/s Jain Industries is required to be impleaded on the basis of the law as laid down by the Supreme Court, is unmerited.",
+                        "reference": "14."
+                    },
+                    {
+                        "page": 18,
+                        "paragraph_number": 36,
+                        "content": "In view of the decision of the Supreme Court, the disability attached to the assignor on account of non-use would not survive once the said trademark has been assigned to a bona fide user prior to the institution of any action for rectification of the Register on account of non-user. In the present case, the fact that Thukral has been using the said trademark in respect of goods manufactured by it, is admitted. Thus, the petitioner•s application for rectification of the trademark solely on the ground that M/s Jain Industries had not used the said trademark for a period of five years and one month after its registration is not sustainable. The observations made by the Supreme Court that a petition for rectification of a registration on account of or non-use by the assignor would not be maintainable without  impleading the assignor is in the context where the petitioner also challenges the assignment as being mala fide and with the view to frustrate the provisions of Section 46(1)(b) of the Act.",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 19,
+                        "paragraph_number": 37,
+                        "content": "In the present case, the petitioner had alleged that the trademark was liable to be rectified as it had been erroneously entered in the Register. The petitioner specifically pleaded that the trademark in question was registered without sufficient cause and is wrongly remaining on the Register of Trademarks. It had further pleaded that the assignment of trademark amounts to a fraud and is also unsustainable in law. Clearly, in order to urge the said ground, it was necessary for the petitioner to have impleaded the assignor (M/s Jain Industries) as well as the assignee (Thukral). Not impleading the assignor would clearly be fatal to this case. However, the petitioner had chosen not to implead M/s Jain Industries at the material time. In the aforesaid circumstances, this Court concurs with the IPAB that impleading M/s Jain Industries at this stage (that is, after twenty-three years) would not be apposite.",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 19,
+                        "paragraph_number": 38,
+                        "content": "The petitioner•s contention that it had become necessary to implead M/s Jain Industries only on account of the decision rendered by the Supreme Court in the matter is erroneous as the observations made by the Supreme Court were in the context of the petitioner•s ground regarding non-use of the trademark and the allegations that it had been fraudulently transferred. There is little doubt that the assignor (M/s Jain Industries) was required to be impleaded in case its original registration in its favour was being questioned as being made without sufficient cause or the assignment made by M/s Jain Industries  was sought to be challenged as fraudulent and a subterfuge to squat on the registration.",
+                        "reference": "17."
+                    }
+                ]
+            }
+        }
+    ]
+}

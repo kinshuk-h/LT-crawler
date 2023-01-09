@@ -1,0 +1,1269 @@
+{
+    "meta": {
+        "directory": "data\\judgments\\DHC Judgments",
+        "request": {
+            "query": "Copyrights",
+            "page": 1,
+            "court": "DHC",
+            "start_page": 1,
+            "req_pages": 5,
+            "req_total": null,
+            "start_date": null,
+            "end_date": null
+        },
+        "response": {
+            "entry_start": 1,
+            "entry_end": 10,
+            "entry_total": 522,
+            "page": 1,
+            "page_total": 52,
+            "page_next": 2,
+            "page_processed": 1,
+            "saved_total": 8,
+            "generated_at": "2023-01-05T22:55:12"
+        },
+        "filters": {
+            "sent_count": {
+                "min_sents": "2",
+                "min_words": "20",
+                "tokenizer_path": null
+            }
+        }
+    },
+    "data": [
+        {
+            "case_number": "SC 478/2021",
+            "title": "VINOD SNACKS AND CONFECTIONERS PRIVATE LIMITED  & ANR. VS VINOD MULTIFOOD PRODUCTS PRIVATE LIMITED & ANR.",
+            "date": "11/10/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/12-10-2022//PMS11102022SC4782021_171710.pdf&ID=237630011_0",
+            "document_path": "data\\judgments\\DHC Judgments\\237630011_0.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 2,
+                        "content": "The Plaintiffs have filed the present suit seeking permanent injunction restraining infringement of trademarks, copyrights, passing off, rendition of accounts, etc. against the use of the Plaintiffs trademark ‘POOJA’ registered vide Trade Mark No. 781390 and ‘SHIV’ registered vide Trade Mark No. 1357957, both in Class 30, respectively, for Namkeen, Sweets, Bakery, Snacks and Confectionary products. Vide Order dated 30th September, 2021 an interim injunction was granted in favour of the Plaintiffs.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 3,
+                        "content": "Thereafter, both the parties have amicably resolved their disputes and entered into a settlement agreement dated 22nd September, 2022 under the aegis of the Delhi High Court Mediation and Conciliation Centre (hereinafter ‘mediation centre’). In the settlement agreement various recitals have been set forth where parties have acknowledged certain positions. The terms and conditions of the settlement agreement deal with the following aspects which parties have agreed:  •  Clause A: Restructuring of Plaintiff No.1 in the manner as contained in the settlement agreement.  •  Clause B: The manner in which raw material, machines and other apparatus of Plaintiff No. 1 is to be dealt with.  •  Clause C: Manner in which existing invoices & liabilities are to be dealt with.  •  Clause D: Loan distribution of Plaintiff No. 1 among the three individuals, Mr. Lalit Yadav, Mr. Vinod Yadav and Mr. Sanjeev Yadav as contained in the settlement agreement.  •  Clause E: Shared use of trademarks, copyrights and other intellectual property rights by all the parties concerned as contained in the settlement agreement.  •  Clause F: Distribution of the property, assets, no objections, transfers and gift/relinquishment of rights over property/assets in respect of the family’s assets including that of the father, brother, mother, etc as contained in the settlement agreement.  It is evident to the Court that the settlement is a comprehensive settlement and not restricted to the trade marks, which were the subject matter of the  suit. The settlement agreement having been entered into between the parties, the Court has perused the said terms.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 4,
+                        "content": "It is the settled position, insofar as the mediation proceedings are concerned that settlement agreements can be entered into even beyond the dispute which is pending before the Court. This is with a view to encourage mediation which is full and final so that parties are not forced to re-litigate. This is also the spirit of the provisions of Section 89 read with Order 32A of the Code of Civil Procedure which specifically requires Courts to encourage settlements involving family members.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 5,
+                        "content": "In the present suit, the parties are family members and have resolved the disputes. The settlement agreement is signed by Mr. Lalit Yadav & Mr. Sanjeev Yadav for himself as Directors of Plaintiff No. 1, Sh. Narain Yadav as Plaintiff No. 2, Mr. Vinod Yadav for himself as Defendant No. 2 as also by the counsels of both the parties, respectively. The ld. Mediator has appended his signatures as well.",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 6,
+                        "content": "After perusing the settlement, the Court is of the opinion that the terms are lawful and there is no impediment in recording the settlement. Parties and all others acting for and on their behalf shall be bound by the terms of the settlement.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 7,
+                        "content": "The suit shall stand decreed in terms of the settlement agreement. The settlement agreement shall form part of the decree. All pending applications also stand disposed of.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 8,
+                        "content": "In view of the settlement entered into, all previous orders shall stand superseded. The terms of settlement shall now be the binding document between the parties which shall regulate their future conduct.",
+                        "reference": "8."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "SC 188/2022",
+            "title": "PHONOGRAPHIC PERFORMANCE LIMITED VS LOOKPART EXHIBITIONS AND EVENTS PRIVATE LIMITED",
+            "date": "10/10/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/12-10-2022//PMS10102022SC1882022_124159.pdf&ID=237630011_1",
+            "document_path": "data\\judgments\\DHC Judgments\\237630011_1.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 2,
+                        "content": "The present suit has been filed by the Plaintiff -Phonographic  Performance Limited (hereinafter, •PPL•) which is engaged in the business of issuance of licenses for public performance/communication to the public of sound recordings on the basis of assignments granted to it by its member record labels, i.e., owners of copyright in sound recordings. The Plaintiff seeks an injunction against the Defendant-Lookpart Exhibitions and Events Private Ltd., which is an event management company, providing various  event management services, including DJ services for various social events, such as weddings.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 3,
+                        "content": "The matter was listed for the first time on 29th March, 2022. On the said date, summons were issued in the present suit. Further, in order to secure the interest of the parties, the Defendant was directed to deposit a sum of Rs.1,00,000/-with the Registrar General of this Court.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 4,
+                        "content": "Thereafter, submissions were heard in part on 11th May, 2022. On the said date, this Court was of the opinion that the dispute raised in the present suit involved an interpretation of Section 52(1)(za) of the Copyright Act, 1957 (hereinafter, •Act•). In view of the significance of the legal issue that had arisen and its large-scale implications for artists, societies and other stakeholders, the competing stands of the parties were recorded. In addition, in terms of Rule 31 of the Delhi High Court Intellectual Property Division Rules, 2022, it was deemed appropriate to appoint Dr. Arul George Scaria, as an expert to assist the Court and file a written note of submissions. The relevant portion of the said order dated 11th May, 2022 is set out below:  •5. The present case involves an interpretation of Section 52(1)(za) of the Copyright Act, 1957 (hereinafter, •Act•). The said provision reads as under:  •(za) the performance of a literary, dramatic or musical work or the communication to the public of such work or of a sound recording in the course of any bona fide religious ceremony or an official ceremony held by the Central Government or the State Government or any local authority.  Explanation.--For the purpose of this clause, religious ceremony includes a marriage procession and other social  festivities associated with a marriage;]•",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 5,
+                        "content": "The case of the Plaintiff is that the Defendant is using sound recordings in respect of which the Plaintiff has rights, at various social events managed and organised by it at commercial venues, on a regular basis. It is submitted that the Defendant, while organising its events, including weddings / marriage ceremonies and other social events, ought to obtain licences for playing music. However, according to the Plaintiff, the Defendant has refused to obtain a license despite correspondence having been addressed to the Defendant.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 6,
+                        "content": "On the other hand, the Defendant relies upon the Explanation to the above provision to argue that when music is to be played for the purposes of marriage ceremonies or other social events connected with marriages, including a marriage procession, the use of music is deemed to be fair use, and hence, no licence would be required.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 7,
+                        "content": "This Court is of the opinion that, in the Indian context, music is an integral part of any wedding or marriage ceremony. The kind of music played typically ranges from devotional or spiritual music for the purposes of the marriage ceremony to popular music in various languages. Apart from the actual marriage ceremony itself, there are other ceremonies such as tilak, sagan, cocktail parties, dinner, mehndi, sangeet, etc., which have become an integral part of the wedding festivities. In all such ceremonies also music is played. The above provision was inserted into the statute by virtue of The Copyright Amendment Act 1994 w.e.f.10th May 1995.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 8,
+                        "content": "The issue which has been raised in the present case would have large scale implications for artists such as lyricists, music composers, singers, sound recording producers and owners on the one hand as also, for entities involved in the organisation and management of weddings and other social events. The  issue would also concern society in general.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 9,
+                        "content": "Rule 31 of the Delhi High Court Intellectual Property Rights Division Rules, 2021 reads as under:  •31. Panel of Experts  The Court may, in any IPR subject matter, seek assistance of expert(s) (including individuals and institutions) relating to the subject matter of the dispute as may be necessary. The opinion of the expert shall be persuasive in nature and shall not be binding on the Court. The IPD may maintain a panel of experts to assist the Court which panel may be reviewed from time to time. The remuneration of the expert(s) shall be decided by the IPD. Prior to appointment, a declaration will be provided by the expert that he or she has no conflict of interest with the subject matter of the dispute and will assist the Court fairly and impartially.  Provided that the protocol to be followed by such expert(s) shall be prescribed by the IPD, from time to time.•",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 11,
+                        "content": "Keeping in mind the significance of the issue to be adjudicated, this Court is of the opinion that the opinion of an expert would be of assistance to the Court. Accordingly, this Court appoints Dr. Arul George Scaria (M: 8527262232) (Email: arulgs@gmail.com), Associate Professor of Law and Co-Director, Centre for Innovation, IP and Competition, National law University, Delhi, who has authored books on Copyright and several articles in the field of IP, as an expert to assist the Court.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 12,
+                        "content": "Let the Registry issue notice to Dr. Arul George Scaria at the email address and phone number. The expert shall file a written note of submissions on the issue raised in the present case. The expert would  consider the legislative history of the provision Section 52(1)(za) of the Copyright Act, 1957, and cite the relevant case law, from India and abroad on the question of fair use and fair dealing. For the said purpose, the Registry to transmit the electronic record of the present case to the expert.•",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 13,
+                        "content": "Pursuant to the above appointment vide order dated 11th May, 2022, Dr. Scaria has filed detailed written submissions, which were placed before this Court on 6th July, 2022. The said written submissions were also served upon the ld. Counsels for the parties. On the said date, M/s. Novex Communications Pvt. Ltd. and The Indian Performing Right Society Limited (IPRS) sought intervention as interested parties in the present suit. As recorded in the order dated 6th July, 2022, both the said parties were permitted to intervene in the present proceedings, considering the nature of issues involved.",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 14,
+                        "content": "Today, ld. Counsel for the Intervenor submits that the legal issue raised in the present case has been considered by other Courts. Reliance is placed upon the judgment of the ld. Single Judge of the Punjab and Haryana High Court in CWP No.28758 of 2019 (O&M) titled Novex  Communications Private Limited v. Union of India & Anr., wherein the Court quashed the impugned public notice exempting the use of copyrights sound recordings for the purposes of marriage functions, and held that the question of fair use under Section 52(1)(za) has to be decided on a case-by-case basis. The relevant extracts from the said judgment are set out below:  •[14]. The question whether certain acts would fall within the exempted categories as enumerated under Section 52(1) of the Act has to be decided according to facts of each case. In view of aforesaid there cannot be general interpretation to the, provision as given in the  impugned public notice/letter. The theory of presumed intention or fair use and infringement, public, interest etc is to be judged on the material available in a given case. When the copyrights are exploited for the commercial purpose, the remedy lies under the Act itself i.e. both under civil as well criminal laws. [15]. The impugned public notice/letter dated 27.08.2019 can be misused by certain notorious elements in order to enrich themselves by playing the sound recordings for commercial gains in commercial spaces after obtaining requisite authorization from the authority. The element of commercial gain cannot be ruled out from the interpretation as given by respondent No.2 to Section 52 the Copyright Act, 1957. Respondent No.2 has no authority under the Act to clarify or interpret applicability of law in the manner as suggested in the impugned public notice/letter. The impugned public notice does not disclose the authority under which the same has been issued. The impugned public notice cannot override the provisions of Copyright Act and cannot take away the statutory right of the petitioner under Section 55 of the Act to initiate civil proceedings in the Court of law for the infringement of Copyright Act, 1957. The impugned interpretation would give rise to a very enormous situation and in such eventuality, the police authorities may refuse to take cognizance of the offence of infringement of copyright, which may be an offence under Section 63 of the Act punishable therein. The impugned public notice is in contravention of the ratio laid down in M/s Phonographic Performance Limited case (supra)  [16]. The impugned public notice is also violative of the doctrine of separation of power as an attempt has been made by respondent No.2 to usurp the legislative power of enactment and judicial power of interpretation. The impugned public notice also infringes the right of the petitioner under Article 19(1  )(g) of the Constitution of India and it overrules the provisions of copyright. The impugned public notice does not provide any such reasonable restrictions in the context of Article 19 of the Constitution of India. Even otherwise, those restrictions ought to be imposed through process of law to be enacted by the Parliament or the State Legislature as the case may be. Such restrictions cannot be imposed by means of executive restrictions and public notice seeking to explain or interpret the provisions of law without sanction and leave of the legislative authorities. The public notice seeks to impinge upon the fundamental rights and protections granted by the Constitution of India and is violative of Articles 13 and 14 of the Constitution of India. The protections granted by the copyright Act are sought to be abridged by the public notice, which is unsustainable. [17]. The defences submitted by respondents No.1 and 2 in the context of relief are not in public interest and the public notice only explained the existing provisions in terms of Section 52(1 )(za) of the Copyright Act are totally fallacious for the reasons recorded hereinabove.  [18]. In view of above, the impugned public notice is quashed. This writ petition is allowed. Consequential action to follow.•",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 15,
+                        "content": "It is submitted by ld. Counsels for the Plaintiff and the Defendant that the parties have resolved their disputes amicably. Accordingly, the Plaintiff wishes to withdraw the present suit.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 16,
+                        "content": "In view of the settlement arrived at between the parties, the present suit is dismissed as withdrawn. The sum of Rs.1,00,000/-deposited by the Defendant with the Registrar General of this Court is directed to be released to the Plaintiff. All pending applications are also disposed of.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 17,
+                        "content": "However, this Court records the valuable assistance rendered by the  Expert -Dr. Scaria. Considering the time and effort expended by Dr. Scaria in addressing the legal issues which have been raised in the present suit, the summary of his written submissions are captured below:",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 18,
+                        "content": "The current international legal instruments on intellectual property, particularly the Berne Convention for the Protection of Literary and Artistic Works, 1886 (•Berne Convention•), the Agreement on Trade-related Aspects of Intellectual Property Rights, 1995 (•TRIPS Agreement•), WIPO Copyright Treaty (•WCT•) and WIPO Performances and Phonograms Treaty (•WPPT•) provide sufficient flexibilities for the member states to provide exceptions and limitations that are fine-tuned to the local social, economic, cultural and legal requirements. The Indian copyright law has made use of the flexibilities available within the international copyright law framework, striking a fair balance between fostering incentives for creativity and ensuring adequate access to copyrighted works for the society through the various exceptions and limitations provided under the Act. S. 52(1)(za) of the Act is one such exception, which comes within the scope of •implied exceptions•/ •minor exceptions•/ •minor reservations• allowed under the international treaties on copyright law.1 As per the TRIPS Agreement, the member states are required to submit their laws to the TRIPS Council to ensure that the provisions are in compliance with the TRIPS Agreement. India has submitted her copyright laws and no objections have been raised by any of the Member States on S. 52(1)(za). This may also be viewed as an affirmation that the Member States of the WTO agree that this provision is in compliance with the Berne Convention and the TRIPS Agreement.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 19,
+                        "content": "S. 52(1)(za), including the explanation provided therein, warrants a broad reading in view of the legislative intention as well as the Indian socio,  economic, legal and cultural context. The following specific aspects may be taken into consideration by the Court while adjudicating the scope of S. 52(1)(za). First, marriage is one of the most important social institutions in India and marriage ceremonies as well as the related festivities are given the highest importance by most communities in India. S. 52(1)(za) needs to be interpreted in a manner that protects and promotes the important constitutional right under Article 21 of the Constitution to perform marriage and engage in marriage related festivities in accordance with one•s own tradition and culture. Second, the existence of criminal remedies for copyright infringement, combined with the fact that copyright owners are not required to go through any formal examination system to claim copyright ownership over any subject matter, makes it important to limit the scope of rights of copyright owners in the context of official and religious ceremonies, and more specifically ceremonies and festivities associated with marriages. As copyright infringement is also now interpreted by the Supreme Court as a cognisable and non-bailable offence under S. 63 of the Act, a narrow reading of the provision may lead to potential harassment by police officers and copyright owners during one or more of the important ceremonies or festivities associated with marriage. Third, potential police intervention during marriage or any social festivities associated with marriage is also a potential threat to the right to privacy guaranteed under the Constitution.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 20,
+                        "content": "As is evident from diverse case-laws and scholarly literature from different jurisdictions including India and the United States, the engagement of a facilitator who empowers a copyright user to exercise their legitimate user rights under copyright law or the commercial character of that facilitating entity, should not prevent the Court from allowing the exercise of a  right provided under copyright law. In the absence of facilitators, most users in India may not be able to exercise their legitimate rights under S. 52(1)(za).",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 21,
+                        "content": "The Court may also examine whether the invitees to a marriage can be considered as •public• under the Act for the purpose of analysing whether there is a violation of right of public performance or right of communication to the public. While the Indian copyright statute does not define the term •public•, relevant case-laws suggest that •public• has to be understood in accordance with the •character of the audience•. In the specific context of marriages in India, invitees are generally limited to those from family and social circles of the partners in the marriage. Hence, there may not be a violation of the right of public performance or right to communicate to the public.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 22,
+                        "content": "Finally, a balanced copyright system necessitates drawing a delicate balance between the rights granted to copyright owners through exclusive rights and the rights provided to the society/ users of copyrighted works through limitations and exceptions. The social, cultural, historical, and legal context of S. 52(1)(za) warrants a balanced interpretation of the provision to ensure protection and promotion of social benefits.•",
+                        "reference": "11."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "RFC 6/2019",
+            "title": "M/S VARUN GEMS VS M/S PRECIOUS JEWELS & ANR",
+            "date": "06/10/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/595/judgement/06-10-2022//59506102022RFC62019_172809.pdf&ID=237630011_3",
+            "document_path": "data\\judgments\\DHC Judgments\\237630011_3.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 1,
+                        "content": "The appellant, M/s. Varun Gems, has filed the present appeal being aggrieved by the impugned judgment and decree dated 06.04.2018, whereby the suit filed by the appellant praying for restraining the respondent from using the name •RAKYAN• and / or any other mark which is identical or deceptively similar to the appellant/ plaintiff•s registered trademark •RAKYAN'S FINE JEWELLERY•, was dismissed.",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 3,
+                        "content": "Mr. Jitendra Kumar Rakyan is the managing partner of the appellant and is the paternal uncle of respondent No. 2 (defendant No. 2).",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 4,
+                        "content": "The facts in the present case relevant for deciding the present appeal are that, in the year 1951, one late Sh. Sital Dass Rakyan (Defendant No. 2•s grandfather and father of Mr. Jitendra Rakyan) started a jewellery business in Connaught Place, New Delhi under the name of M/s. SITAL DASS & SONS. Subsequently, in the year 1961, Mr. Sital Dass Rakyan formed a partnership firm with four partners namely, Mr. Surendra K. Rakyan, Mr. Rajendra K. Raykan, Mr. Virendra K. Rakyan and Mr. Jitendra K. Rakyan as partners.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 5,
+                        "content": "In the year 1962, Mr. Surendra K. Rakyan (now deceased) retired from the family business. He shifted to Jaipur, and opened •RAKYANS JEWELLERS• in partnership with his uncles. While the other partners remained in Delhi and continued with the same jewellery business under different names as each of them constituted different firms over a period of time.",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 6,
+                        "content": "In the year 1978, all the partners of M/s. SITAL DASS & SONS except Mr. Surendra K. Rakyan formed a new partnership firm named Virendra Kumar and Co., which and was subsequently re- constituted as SITAL DASS SONS in the year 1982. This firm was also dissolved in the year 1991. Thereafter each partner of newly constituted SITAL DASS SONS started separate businesses under the same name Sital Dass Jewellers and opened shops at various places within Delhi.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 7,
+                        "content": "Mr. Jitendra K. Rakyan, in the year 2000, opened a shop at M-31 M-Block Market, Greater Kailash-I, New Delhi-110048 and in the year 2005, got the trademark •RAKYAN•S FINE JEWELLERY• registered in the name of partnership firm •Varun Gems•.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 8,
+                        "content": "In the year 2011, Ravi Rakyan, son of Mr. Rajendra K Rakyan, opened a shop at M-32, M-Block Market, Greater Kailash-I, New Delhi-110048 under the name •DIAMEZ•. Subsequently, in the year 2012, they changed the name from •DIAMEZ• to •NEENA & RAVI RAKYAN•.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 9,
+                        "content": "Initially, an interim ex-parte injunction was granted in terms of the order dated 01.06.2012, whereby the respondents were restrained from using the name •RAKYAN• or any other mark which is identical or deceptively similar to the registered trademark •RAKYAN•S FINE JEWELLERY•.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 10,
+                        "content": "The respondents appealed the said decision to the Division Bench and thereafter, to the Supreme Court. The said injunction was vacated by the Hon•ble Apex Court by an order dated August 4, 2014 passed in SLP(C)No.9942 of 2013. The said order reads as under:  •11. We have perused, the hoardings of the shops where they are doing the business and upon perusal of the hoardings, we do not find any similarity between them.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 11,
+                        "content": "In our opinion, looking at the provisions of Section 35 of the Act, there is no prima facie case in favour of the plaintiff and therefore, the defendants could not have been restrained from doing their business. We, therefore, quash and set aside the impugned order granting interim relief in favour of the plaintiff and the appeal is allowed with no order as to costs.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 12,
+                        "content": "We clarify that we have only expressed our prima facie view and the observations, if any, made in this judgment shall not be treated as final and the trial court shall decide the case on the basis of the, evidence which might be adduced before it and on the facts of the case.•",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 13,
+                        "content": "The respondents did not participate in the said proceedings and by an order dated 11.07.2017, proceeded ex-parte. Thereafter, ex-parte evidence was led by the appellant.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 15,
+                        "content": "Notwithstanding that the respondents had not contested the suit, the learned Single Judge dismissed the suit on the ground that the Supreme Court had vacated the interim injunction. The learned Single Judge held as under:  •10. The reason which prevailed with the Supreme Court for vacating the interim injunction granted in the suit and affirmed by the Division Bench was, that the plaintiff was not entitled to injunction in view of Section 35 of the Trade Marks Act which permits anyone to do business in his own name in a bona fide manner and that it was not in dispute that the defendants were doing their business in their own name and the bona fides of the defendants was not in dispute; it was also not in dispute that both parties belong to the same family and the entire family is in the business of jewellery.  No similarity was also found in the hoardings of the shops from where the plaintiff and the defendants were doing their businesses.",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 17,
+                        "content": "Though the Supreme Court in the aforesaid judgment observed, as is ordinarily the rule in relation to judgments pertaining to interim orders, that •nothing contained therein shall have a bearing on the final adjudication of the lis• but in the facts of the present case, the principles laid down by the Supreme Court in the judgment against the interim order would continue to apply at the final stage as well and in view whereof, the plaintiff is not found entitled to any injunction. Resultantly, the question of the plaintiff being entitled to any other relief also does not arise.  Dismissed.  No costs.  Decree sheet be drawn up.•",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 19,
+                        "content": "It is further contended that the judgment passed by the Hon•ble Supreme Court was in relation to disposal of application under Order XXXIX Rule 1 & 2. The Supreme Court had reasoned that, prima facie, the defendant cannot be injuncted from using their own name in view of Section 35 of the Trade Marks Act, 1999 (hereafter •the Act•).",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 22,
+                        "content": "It is settled law that name and surnames are registerable and are liable to be protected under the Act. The definition of the marks contained in Section 2(m) of the Act, specifically includes •name•, if a trademark is used in relation to goods and services for the purpose of indicating a connection in the course of trade with the said person having the right as a proprietor to use the mark.",
+                        "reference": "18."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 24,
+                        "content": "Section 29 of the Act provides that a registered mark is infringed by a person, who not being a registered proprietor or assignee, uses a mark which is identical and deceptively similar in relation to the said goods and services and also if the use of the said mark is likely to cause confusion on the part of the public.",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 25,
+                        "content": "Section 35 of the Act, however, provides that a person who gets the mark registered cannot interfere with or restrain the use of the mark by a person who is bona fide using the identical or nearly resembling mark which is his own name.",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 26,
+                        "content": "Section 35 of the Act reads as under:  •Section 35. Saving for use of name, address or description of goods or services.  Nothing in this Act shall entitle the proprietor or a registered user of a registered trade mark to interfere with any bona fide use by a person of his own name or that of his place of business, or of the name, or of the name of the place of business, of any of his predecessors in business, or the use by any person of any bona fide description of the character or quality of his goods or services.•  (Emphasis supplied)",
+                        "reference": "22."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 27,
+                        "content": "Section 35 of the Act entitles a person to use his own name even if that name is the registered trademark of some other person. However, the pre-condition is that the said person must be using his name bona fide and is not to deceive the public or to create a doubt or confusion in the mind of public. Section 35 of the Act does not permit passing of.",
+                        "reference": "23."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 28,
+                        "content": "The Hon•ble Apex Court had vacated the interim injunction as the Court was of the prima facie view that the defendant cannot be injuncted from use of its own name in view of Section 35 of the Act. It is apparent that the Hon•ble Apex Court•s prima facie conclusion is premised on the basis that the defendant•s use of their name is bona fide. The said finding, however, is only prima facie and the Hon•ble Supreme Court had itself clarified that the views expressed are only prima facie and the observations made shall not be treated as final. The learned single Judge was required to decide the case on the basis of the evidence which might be adduced before it.",
+                        "reference": "24."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 30,
+                        "content": "The bona fide use in terms of Section 35 of the Act would mean an honest use by a person of his own name without any intention to deceive and without any intention to ride on the popularity or goodwill of a registered mark.",
+                        "reference": "26."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 31,
+                        "content": "It is common knowledge that the surname •RAKYAN• is not a commonly adopted/ used surname. The Courts have injuncted even common surnames for the reason of them being identical or deceptively similar to the registered marks on the ground of likelihood of confusion and deception.",
+                        "reference": "27."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 32,
+                        "content": "A party is not required to produce evidence of actual deception in order to prove the case of infringement. In the present case, the plaintiff has specifically led evidence by way of an affidavit where it was specifically affirmed as under:  •54. I state that the trade name of Defendants NEENA & RAVI RAKYAN which incorporates the name RAKYAN, being deceptively similar to that of Plaintiff•s brand name RAKYAN•s and it•s trade mark RAKYAN•S FINE JEWELLERY and also being located right next door to the Plaintiff•s shop at M-31, Greater Kailash-I market, confuses public and buyers with ordinary average intelligence and the same is dangerous to the goodwill and reputation of the Plaintiff Firm as the products of the Defendants are believed / likely to be believed to emanate from the Plaintiff•s manufacture.",
+                        "reference": "28."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 33,
+                        "content": "I state that the defendants have adopted and conceived the said trade name NEENA and RAVI RAKYAN in relation to similar goods as that of the Plaintiff•s Firm knowingly and  deliberately and reeks of malafide, ingenuity and illegality to gain illegal profits by passing off its goods as those of the Plaintiff Firm by deceiving the public at large by creating doubt and confusion in their minds.",
+                        "reference": "55."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 34,
+                        "content": "I state that the Plaintiff and the Defendants are offshoots of the original family business commenced by Mr. Sital Dass. However, Shri. Sital Dass only provided the legacy of business in jewellery but not particular trademark/ trade name RAKYAN•S which brand/ trade name/ trademark has reached a different height only because of my struggle and hardwork.",
+                        "reference": "56."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 36,
+                        "content": "In the present case, it is not in dispute that the plaintiff has a valid registration in respect of the label •RAKYAN'S FINE JEWELLERY•. The word •RAKYAN'S• is the prominent feature of the trademark. The artistic representation of the trade name •RAKYAN'S FINE JEWELLERY• is also registered in favour of the plaintiff under the Copyrights Act, 1957. It is not disputed that use of the word •RAKYAN'S• for similar goods is causing confusion on part of the public.",
+                        "reference": "29."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 37,
+                        "content": "The plaintiff had filed evidence by way of an affidavit and duly exhibited as EX. PW-1/5, the certificate issued by the Trademark Registry certifying registration of label •RAKYAN'S FINE JEWELLERY•. The plaintiff also exhibited as EX. PW-1/7, the certificate issued by the Registrar of Copyrights registering the artistic representation of a trade name •RAKYAN'S FINE JEWELLERY•. The plaintiff also proved the various activities taken up for the promotion of the brand •RAKYAN•S• by exhibiting various  documents as EX. PW-1/8. EX. PW-1/10, also established that originally the defendants had started their business under the name •DIAMEZ• which was later changed to •NEENA & RAVI RAKYAN•. The plaintiff also proved that confusion was caused due to opening of a store of the defendants, by exhibiting e-mail dated 21.05.2015.",
+                        "reference": "30."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 39,
+                        "content": "In view of the specific evidence being filed, which remain uncontroverted, it cannot be said that the use of the name •RAKYAN• by the defendant was bona fide. The very fact that the business was started initially by the defendants under the name •DIAMEZ• and later on changed as •NEENA & RAVI RAKYAN•. This coupled with the fact that the business was commenced from the adjoining premises are sufficient to reach a conclusion that the defendants were not entitled to the benefit of Section 35 of the Act.",
+                        "reference": "32."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 40,
+                        "content": "It is also settled that the findings given by the courts while deciding application under Order XXXIX Rule 1 & 2 are preliminary in nature and do not have any bearing on the final lis which is to be decided on the basis of evidence led by the parties as held in Colgate  Palmolive v. Anchor Health: 2004 SCC ONLine Bom 909.",
+                        "reference": "33."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 41,
+                        "content": "The Courts while considering the applications for temporary injunction adjudicate the matter on three well known principles: (a) whether prima facie case has been made out; (b) whether balance of convenience is in their favour; and (c) whether plaintiff will suffer irreparable injury if the temporary injunction is not granted. Interlocutory orders do not, in that sense, finally decide the merits [Colgate Palmolive supra] of the controversy involved in the suit. Some preliminary findings that may have been given in the interim orders do not impinge upon the legal rights of the parties on the principle of res judicata. (Re: Bhagchand v. Administrator, Municipal Corpn., Indore: AIR 2005 M.P. 159 (165) and Arjun Singh v. Mohinder Kumar: AIR 1964 SC 993.)",
+                        "reference": "34."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 42,
+                        "content": "In our opinion, the learned Single Judge was not correct in holding that the principle laid down by the Hon•ble Supreme Court in its judgment dated August 4, 2014 would, notwithstanding the evidence led, continue to apply at the final stage as well.",
+                        "reference": "35."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 43,
+                        "content": "During the course of the arguments, the learned counsel appearing for the appellant very fairly stated that the appellant has no objection if the respondents continue using the impugned mark/ name, provided that it is not used in connection with business from the adjoining premises or the premises in the same market. The learned counsel further states that he would, therefore, limit his prayer for injuncting the respondent from using the impugned mark/ name from the adjoining shop or from the market where the shop of the appellant is located.",
+                        "reference": "36."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "SC 316/2021",
+            "title": "TATA SONS PRIVATE LIMITED VS HAKUNAMATATA TATA FOUNDERS & ORS.",
+            "date": "27/09/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/04-10-2022//PMS27092022SC3162021_150037.pdf&ID=237630011_5",
+            "document_path": "data\\judgments\\DHC Judgments\\237630011_5.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 2,
+                        "content": "The present suit has been filed by the Plaintiff -Tata Sons Private Limited seeking permanent injunction restraining infringement of registered trademarks, passing off, dilution and tarnishment of trademarks and copyrights, damages, rendition of accounts, delivery up, transfer of domain name, and other reliefs. The dispute in the present suit relates to the well-known mark ‘TATA’.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 1,
+                        "paragraph_number": 3,
+                        "content": "The Plaintiff is the owner and registered proprietor of the mark ‘TATA’, along with several permutations and combinations thereof, both in India and several jurisdictions across the world. Established in the year 1917, the Plaintiff Company is the promoter and principal investment holding company of the ‘TATA’ Group of Companies, which is one of India’s oldest, largest and most trusted business conglomerates. As per the Plaint, the other companies which constitute the ‘TATA’ Group of  Companies are permitted to use the mark ‘TATA’ in one form or the other by virtue of Trademark License Agreements and Brand Equity & Business Promotion Agreements. Thus, the use of the mark ‘TATA’ by the subsidiaries and group companies of the Plaintiff Company enures to the Plaintiff which is the registered proprietor of the said mark.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 4,
+                        "content": "The Plaintiff submits that the mark/name ‘TATA’ is derived from the surname of the Plaintiff’s founder Shri Jamsetji Nusserwanji Tata, which is a rare patronymic name possessing the distinctiveness of an invented word. The use of the mark ‘TATA’ by the predecessors-in-business of the Plaintiff Company dates back to the year 1868. So also, the Plaintiff Company and its group companies and subsidiaries have continuously and uninterruptedly used the mark ‘TATA’ since its inception in the year 1917. The Plaintiff, along with its subsidiaries and group companies is stated to have laid the foundation in the industrial core sector, pioneering textiles, iron and steel, power, chemicals, hotels and automobile industries in India. Over the years, the ‘TATA’ Group of Companies has further ventured into computers and software, electronics, beverages, telecommunications, financial services, mutual funds, insurance, broadcasting, aerospace and defence, retail, etc. In addition, numerous overseas companies, philanthropic bodies and autonomous public institutions are promoted by the House of ‘TATA’. The Plaintiff also claims to be India’s largest private sector employer, comprising of over 100 major operating companies.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 5,
+                        "content": "Owing to the continuous and extensive use by the ‘TATA’ Group of Companies over a long period of time spanning wide geographical area, the mark ‘TATA’ has garnered unparalleled reputation and popularity. The goodwill in the mark ‘TATA’ is sufficiently corroborated by the collective  revenue of the ‘TATA’ Group of Companies for the year 2019-20, which is stated to be around 750,000 crores or approximately USD 106 billion. The ‘TATA’ Group of Companies consists of 29 publicly listed ‘TATA’ companies with a combined market capitalization of about Rs.930,000 crores (i.e., approximately USD 123 billion) as on 31st March, 2020.",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 6,
+                        "content": "Insofar as business activities relating to financial services are concerned, the Plaintiff through its subsidiaries has an irrefutable presence and reputation in the said sector. Some of the Plaintiff’s subsidiaries engaged in providing financial services are enumerated below:  i.  Tata Motors Finance Limited, Tata Motors Finance Solutions Limited and TMF Holdings Limited;  ii.  Tat Capital Financial Services Limited, Tata Capital Ltd. and Tata Cleantech Capital Limited;  iii.  Tata Investment Corporation Limited;  iv.  Tata Industries Limited;  v.  Ewart Investments Limited;  vi.  Panatone Finvest Limited;  vii.  Af-taab Investment Company Limited  viii.  Rujuvalika Investments Limited;  ix  Simto Investment Company Limited;",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 7,
+                        "content": "The Plaintiff has also placed on record documents to show the active involvement of the Plaintiff and its subsidiaries and group companies in the business of financial services including crypto currency, block chain technology and other related activities.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 8,
+                        "content": "As stated in the Plaint, the mark/name ‘TATA’ has been respected in India for over 150 years for its adherence to strong values and business  ethics. The mark ‘TATA’, along with other formative marks, has acquired the status of a well-known mark. In support of these averments, the Plaintiff has placed on record several documents to show that the mark ‘TATA’ has been acknowledged as well-known by the Courts, as well as, the Trademark Registry.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 9,
+                        "content": "On the other hand, the Defendant No,1 – M/s. HakunaMatata $TATA Founders is an entity allegedly based out of Vista Centre, Salisbury Road, Hounslow TW4 6JQ, London, United Kingdom. The grievance of the Plaintiff is that the Defendant No.1 entity and the persons operating the said entity own and operate the two domain names, being ‘www.hakunamatata.finance’ and ‘www.tatabonus.com’ (hereinafter, “impugned websites”), which are the subject matter of the present proceedings. It is the case of the Plaintiff that the Defendant No.1 was dealing in a cryptocurrency called ‘TATA Coin’ / ‘$TATA’ through both of the impugned websites. Defendant No.2 – Automattic Inc. and Defendant No.3 – Godaddy.com, LLC are Domain Name Registrars in respect of ‘www.hakunamatata.finance’ and ‘www.tatabonus.com’ respectively. Defendant No.4 – Hostinger International Limited is the hosting service provider for ‘www.tatabonus.com’ and Defendant No.5 – Binance Holdings Limited operates a blockchain network which allows for the creation of cryptographic, smart-contract based applications such as the impugned ‘TATA Coin’ / ‘$TATA’, which is admittedly a Binance Smart Chain cryptoasset.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 10,
+                        "content": "According to the Plaintiff, the impugned websites were accessible in India, and in fact, were accessed on a daily basis. In order to curb the Defendant No.1’s online trading in cryptocurrency business/services that  were of an infringing nature, the Plaintiff filed the present suit.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 11,
+                        "content": "The application seeking interim injunction was taken up for hearing on 9th July, 2021. Thereafter, vide order dated 26th October, 2021, the application seeking interim injunction was dismissed by the ld. Predecessor Bench on the ground that this Court does not have the territorial jurisdiction to grant an interim relief against the Defendants who are located outside India with, admittedly, no physical presence in India. The operative portion of the said order dated 26th October, 2021 reads as under:  “….30. The operation of the Trademarks Act and the CPC statutorily extend only to the boundaries of India. In the case of internet infringements, no doubt, the decision of the Court may, at times, operate against entities located outside India. That, too, however, would be subject to existence of the necessary connection between the activity of the foreign-seated defendants and India. More specifically, intent, of the defendants, to target India, must be established.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 12,
+                        "content": "The submissions of Mr. Pravin Anand do not, in my considered view, make out the existence of the requisite \"connection\" between the defendants' activities and India.  Conclusion",
+                        "reference": "31."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 14,
+                        "content": "As this is a prima facie view, let the plaint be registered as a suit and summons to be issued thereon, returnable. before the Joint Registrar on 21st December, 2021. Pleadings be completed before the Joint Registrar, and admission and denial of documents carried out, in accordance with the provisions of the CPC read with the Delhi High Court (Original Side) Rules, 2018 and the Commercial Courts Act, 2015.",
+                        "reference": "33."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 15,
+                        "content": "The prayer for interim relief is declined. IA",
+                        "reference": "34."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 16,
+                        "content": "Summons were also directed to be issued to the Defendants, vide order dated 26th October, 2021. The matter was listed before the ld. Joint Registrar on 4th May, 2022, on which date, it was recorded that the previous summons sent to Defendant No.1 as well as Defendant No.4 had been received unserved. No report was received qua Defendant Nos.2 and 5. In view of the same, fresh summons were issued to Defendant Nos.1, 2 and 5.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 17,
+                        "content": "Vide order dated 2nd August, 2022 passed by the ld. Joint Registrar, it was recorded that the Defendant No.3 had been deleted from the array of parties. Affidavit of service was also filed on behalf of the Plaintiff, as per which, the Defendant No.2 had been duly served, and summons could not be served to Defendant Nos.4 and 5. As regards the contesting Defendant No.1, the following was recorded:  “Counsel for plaintiff has submitted that defendant no. 1 is the main defendant while rest of the defendants are merely Performa defendants. It is further submitted that the use of infringing trademark has since been discontinued and the websites of-defendant no 1 is not in use and therefore, the email ID has become redundant and seeks short adjournment.”",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 18,
+                        "content": "In the meanwhile, the order dated 26th October, 2021 passed by the ld. Single Judge was challenged before the ld. Division Bench of this Court in FAO (OS) (COMM) 62/2022 titled Tata Sons Pvt. v. Hakunamatata Tata Founders & Ors. Vide judgment dated 19th September, 2022, the ld. Division has considered the matter and given the following findings:  “5….In short, there are extensive pleadings in the plaint highlighting the reputation, goodwill and recognition of the appellant’s trademarks in India. Even otherwise, we do not have any reason to doubt the pre-eminence of",
+                        "reference": "14."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 19,
+                        "content": "However, “targeting”, as expounded by Banyan Tree Holding (P) Limited (Supra), would include ability of the customers to undertake a commercial transaction on a website within a particular geography. Banyan Tree (Supra) approved of even bonafide trap sales within a particular geography to attract territorial jurisdiction of Courts. In Burger King Corporation (Supra), it was held that even promotion activities undertaken on a website would be enough to attract territorial jurisdiction of Courts where website can be accessed. In Millennium & Copthorne International Limited (Supra), it has been held that the place where injury or deception is caused would have jurisdiction.",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 20,
+                        "content": "We are in complete agreement with the above view of the English Court. Even if a website is not directed at customers in a particular country, the fact that they are not restricted by the website to have access to it, is enough to characterise it as targeting. Targeting need not be a very aggressive act of marketing aiming at a particular set of customers. Mere looming presence of a website in a geography and ability of the customers therein to access the website is sufficient, in a given case. It may not be forgotten that in the matters of infringement of trademark, it is the possibility of confusion and deception in the mind of public due to infringing trademark that is good enough for the Court to grant injunction.",
+                        "reference": "17."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 21,
+                        "content": "According to us, once the learned Single Judge entertained the suit, it is indicative of his positive prima facie view on the maintainability of the suit in Delhi, on the basis of the plaint and documents filed along with it. If it was otherwise, he had the option of not entertaining the suit itself.",
+                        "reference": "23."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 22,
+                        "content": "Disagreeing with the leamed Single Judge on his  view on territorial jurisdiction, according to us there are sufficient indicators, as discussed above, to assume jurisdiction for the purposes of deciding the application for ad-interim injunction. We now examine-the application on the three factors, namely existence of a prima-facie case, balance of convenience and irreparable loss.",
+                        "reference": "24."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 23,
+                        "content": "In India, the trademark TATA is embedded in the sub-consciousness of public. In public consciousness, the word \"TATA\" is only relatable to TATA group of companies. As pleaded, the appellant is the owner of the trademarks in question, and the said marks are used across the board by almost all the group companies of TATA. The pre-eminence of the business reputation of the TATA group and the popularity of the trademarks is beyond contest. There is sufficient pleading in the plaint to reach the said conclusion. Even otherwise, this Court can take judicial notice of the pre-eminence and popularity of the trademarks in question.  The appellant and its group Companies have an all-pervasive presence across various businesses, from automobiles, to telecom, to agriculture, to hospitality, to power, to defence manufacturing, to heavy industries, to retail, including online retail, to name a few. The universal popularity of the appellant's trademark is not confined to a few products or services. As stated above, in public consciousness, TATAs are believed to be ubiquitous across all businesses.",
+                        "reference": "25."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 24,
+                        "content": "At this stage, we do not have any reason to doubt the appellant's right to protect its IP against a very obvious case of infringement by the respondents, intended or otherwise. As stated above, people behind the website, who are the team behind respondent No. 1, are stated to be people of Pakistani origin in the UK. Their awareness: of “TATA” brand cannot be ruled out, which makes their motive suspect. The way trademark “TATA” has been lifted and adopted as it is, without even an attempt to disguise it with a prefix or a suffix to claim distinctiveness, appears to be unscrupulous. It cannot further be ruled out that it could be an attempt by  respondent No.1 to deceive public by selling inferior and dubious products in the name of TATAs.",
+                        "reference": "27."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 25,
+                        "content": "However, as far as domain name www.hakunamatata.finance is concerned, we prima facie find no ground to agree with the appellant that it infringes the appellant's trademark “TATA”. Hakunamatata is a generic word and the word “TATA” is fully coalesced in the word hakunamatata. It does not cause any deception or confusion. There is only partial phonetic overlap with the word “TATA” in Hakunamatata. The appellant cannot prevent adoption by others of names that naturally have alphabets TATA embedded in them.",
+                        "reference": "28."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 26,
+                        "content": "We believe the appellant has a good prima facie case to seek injunction, as far as website www.tatabonus.com, crypto products by the name of $TATA, or any other product of respondent No.1 being sold on the website www.hakunamatata.fmance under the name TATA is concerned, if not for anything else, but just to avoid any confusion likely to be caused in the mind of the public in India, who might be deceived to believe that the respondents’ website in question and products sold therein are the TATA group’s own website or have an association with TATA group. Not granting ad-interim injunction can cause irreparable harm, to the goodwill enjoyed by the appellant's trademark. The appellant is known for the quality of its goods and services. Any dubious and inferior products through the respondents’ website, using the appellant's trademark, can seriously damage its credibility.",
+                        "reference": "29."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 27,
+                        "content": "For the foregoing reasons, the present appeal is allowed in the above terms. We set aside the order dated 26.10.2021 dismissing the appellant's IA No. 8000/2021, and grant ex-parte ad-interim injunctions restraining the respondents, their partners or proprietors from manufacturing, selling, offering for sale, supplying, advertising or unauthorisedly using the appellant's well-known trademark TATA, or any other deceptively similar mark thereto as part of the name of their digital token/cryptocurrency TATA Coin/$TATA  or as part of their corporate name/domain name and websites ‘www.tatabonus.com’/social media pages amounting to infringement/passing off. Further, respondent Nos.1 and 3 are directed to immediately take down the website parked on the domain 'www.tatabonus.com' and to put the said domain on hold till the pendency of the application, with an exception, that use of domain name ‘www.hakunamatata.finance’ by respondent No.1 is not prohibited, at this stage. Further, respondent No.4 is directed to delist the TATA Coin/$TATA and/or any other crypto-assets bearing the mark “TATA” or other deceptively similar mark thereto, from the networks/platforms operated by respondent No.4 including Binance Smart Chain and Binance community.  31  Pending applications being CM APPL. Nos.1310708/2022 stand disposed of.",
+                        "reference": "30."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 29,
+                        "content": "As per the above judgment dated 19th September, 2022, the ld. Division Bench has held as under:  •  The Court has no reason to doubt the pre-eminence of the Plaintiff’s mark/brand ‘TATA’ in India;  •  ‘Targeting’ of a website as expounded by Banyan Tree (supra), would include the ability of customers to undertake a commercial transaction on a website within a particular geography;  •  ‘Targeting’ of a website need not be a conscious act aiming at a specific set of customers. Even a looming presence of a website in a particular territory and the customers’ ability to access the website is sufficient, in a given case;  •  The Plaintiff’s mark ‘TATA’ has a ubiquitous presence across  businesses;  •  The Defendants’ awareness of the ‘TATA’ brand owing to their Pakistani origin, cannot be doubted.",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 30,
+                        "content": "www.tatabonus.com www.hakunamatata.finance A perusal of the above judgment dated 19th September, 2022 shows that, insofar as the use of the domain name ‘’ was concerned, the ld. Division Bench has granted an interim injunction restraining the Defendants. However, insofar as the domain name ‘’ was concerned, the ld. Division Bench has held that the use of the said domain name would not be prohibited at that stage. The ld. Division Bench has further directed the issuance of notice in the application seeking interim injunction being I.A.8000/2021 under Order XXXIX Rules 1 & 2 CPC.",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 31,
+                        "content": "Today, Mr. Anand, ld. Counsel for the Plaintiff submits that, subsequent to the order dated 26th October, 2021 passed by the ld. Single Judge, which was under challenge before the ld. Division Bench, various steps were taken to serve the contesting Defendant No.1. As per the affidavit of service dated 20th July, 2022 filed by the Plaintiff, the Defendant No.1 was repeatedly served on its email addresses, as also, through Solicitors in England as the Defendant No.1 had an address based out of London, U.K.",
+                        "reference": "17."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 32,
+                        "content": "www.hakunamatata.finance www.tatabonus.com www.hakunamatatatoken.com Mr. Anand, further submits that, it has come to the knowledge of the Plaintiff that the Defendant No.1 has taken down the websites ‘’ and ‘’. The Defendant No.1 has now changed its name to Hakumatata Token Ltd. and has started a new website at ‘’ by removing all references to the Plaintiff’s mark ‘TATA’ from its website. The Defendant No.1 has also changed the name of its cryptocurrency to $HKUN Token. Screenshots  of the new websites of the Defendant No.1 have also been placed on record and the same are reproduced below:  ”",
+                        "reference": "18."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 33,
+                        "content": "A perusal of the above screenshots shows that apart from changing the domain name and the name of the crypto currency, even the ‘TATA’ merchandise, which was being sold on the Defendant No.1’s website, has also now been rebranded as ‘HKUN’.",
+                        "reference": "19."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 34,
+                        "content": "The Plaintiff is also stated to have addressed a legal notice dated 4th January, 2022 to the Defendant No.1 through its advocates based in London, wherein it was clearly stated that the Plaintiff understands that the Defendant No.1 has stopped the use of the mark ‘TATA’ in all form and manner. The Defendant No.1 was called upon to sign an undertaking not to use the mark ‘TATA’ in future. Despite having stopped all use of the mark ‘TATA’ and despite receipt of the said legal notice dated 4th January, 2022, the Defendant No.1 has not responded to the same.",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 35,
+                        "content": "Investigations were also conducted by the Plaintiff in respect of Defendant No.1. The said investigation has revealed that one Mr. Khan Jabarkhil, who is stated to be the father of the owner/founder of Defendant No.1 entity, Mr. Ahmed Jabarkhil, was met by the investigator on 28th January, 2022. Mr. Khan Jabarkhil acknowledged the receipt of the legal notice dated 4th January, 2022.",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 36,
+                        "content": "In this background, it is clear that the Defendants have already been served with summons in the present suit and notice in the application seeking interim injunction. As elaborated upon hereinabove, repeated service has been effected on Defendant No.1, which has led to the impugned websites being taken down and all references to the Plaintiff’s mark ‘TATA’ being removed from all the online platforms of the Defendant No.1. The ld. Division Bench too, vide judgment dated 19th September, 2022, has recognized the rights of the Plaintiff in the mark ‘TATA’ and has also opined on the territorial jurisdiction of this Court to hold that this Court is of competent jurisdiction for issuing an injunction restraining the Defendants. As also, the Plaintiff’s investigation has revealed an alternative address of the Defendant No.1 being 4, Vimy Close, Hounslow, Middlesex, TW4 5AF,  which also was the residential address of the Defendant No.1’s father, where the documents relating to the suit have been served. In these circumstances, it appears to this Court and is also reaffirmed by the ld. Counsel for the Plaintiff that the Defendant No.1 is fully aware of the orders that have been passed by this Court and has wilfully chosen not to appear before this Court.",
+                        "reference": "22."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 37,
+                        "content": "This Court has also perused the orders recording the proceedings before the ld. Joint Registrar, extracted hereinabove. The said orders show that the Defendant No.1 was repeatedly served with the summons and notices, subsequent to the order dated 26th October, 2021 passed by the ld. Single Judge dismissing the application seeking interim injunction.",
+                        "reference": "23."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 38,
+                        "content": "Considering that no other email addresses or physical address to contact the Defendant No.1 is available and the impugned websites have also been taken down, issuance of further summons and notice to the Defendant No.1 in the present suit has become an impossibility. Hence, the Defendant No.1 is being proceeded against ex parte.",
+                        "reference": "24."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 39,
+                        "content": "In the peculiar circumstances of the present case, Mr. Anand, ld. Counsel for the Plaintiff submits that the impugned websites currently having been taken down, the interim injunction granted by the ld. Division Bench, vide judgment dated 19th September, 2022, may be made absolute. He also submits that the Plaintiff does not wish to press the reliefs of damages and costs in the circumstances of the present case.",
+                        "reference": "25."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 40,
+                        "content": "Following the judgment in Disney Enterprises Inc. & Anr. v. Balraj Muttneja & Ors. [CS (OS) 3466/2012 decided on 20th February, 2014], no ex parte evidence would be required in this matter. The same has been reiterated by the Court in S. Oliver Bernd Freier GMBH & CO. KG v. Jaikara Apparels and Ors. [210 (2014) DLT 381], as also, in United Coffee  House v. Raghav Kalra and Ors. [2013 (55) PTC 414 (Del)]. The relevant observations from the judgment in Disney Enterprises Inc. (supra), are as under:  “3. Though the defendants entered appearance through their counsel on 01.02.2013 but remained unrepresented thereafter and failed to file a written statement as well. The defendants were thus directed to be proceeded ex-parte vide order dated 04.10.2013and the plaintiffs permitted to file affidavits by way of ex-parte evidence.",
+                        "reference": "26."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 41,
+                        "content": "The plaintiffs, despite having been granted sufficient time and several opportunities, have failed to get their affidavits for leading ex-parte evidence on record. However, it is not deemed expedient to further await the same and allow this matter to languish, for the reason that I have in Indian Performing Rights Society Ltd. Vs. Gauhati Town Club MANU/DE/0582/2013 held that where the defendant is ex parte and the material before the Court is sufficient to allow the claim of the plaintiff, the time of the Court should not be wasted in directing ex parte evidence to be recorded and which mostly is nothing but a repetition of the contents of the plaint.”",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 42,
+                        "content": "Accordingly, in light of the above discussion, the ad-interim injunction granted vide judgment dated 19th September, 2022 passed by the ld. Division Bench, is confirmed. The present suit is liable to be decreed by way of permanent injunction granted in terms of paragraph 30 of the judgment dated 19th September, 2022, passed by the ld. Division Bench of this Court extracted hereinabove. No other reliefs are pressed.",
+                        "reference": "27."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "SC 226/2021",
+            "title": "EUREKA FORBES LIMITED VS NATIONAL INTERNET EXCHANGE OF INDIA & ORS.",
+            "date": "23/09/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/27-09-2022//PMS23092022SC2262021_180514.pdf&ID=237630011_6",
+            "document_path": "data\\judgments\\DHC Judgments\\237630011_6.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 2,
+                        "content": "This is an application filed by Defendant No. 9 under Order XXXIX Rule 4 read with section 151 of the Code of Civil Procedure seeking vacation/modification/variation of the interim order dated 17th May, 2021 and direct Defendant No 2 to unblock Defendant No. 9’s website .",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 1,
+                        "paragraph_number": 3,
+                        "content": "www.aquaeasy.in  It is stated by Defendant No. 9 that it is involved in the business of repair of water purifiers and in the course of its business, created a website/domain name, namely, and adopted the device  mark  . However, pursuant to the Interim Order dated  www.aquaeasy.in  17th May, 2021, that Defendant No. 9’s stated domain name was blocked.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 4,
+                        "content": "Mr. Rajeev Kumar ld. Counsel appearing for the Defendant No. 9 submits that in view of the interim order, the domain name was blocked by Defendant No. 2 -GoDaddy which ought to be unblocked as there is no injunction qua the mark “AQUAEASY”.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 5,
+                        "content": "On the other hand, Mr. Mukund, ld. Counsel for the Plaintiff submits that the Order has been in operation from 17th May, 2021 and in any event, the marks “AQUAGUARD” and “AQUAEASY” are deceptively similar to each other. He further submit that Defendant No. 9 vide I.A. 8283/2021 had filed an earlier application under Order XXXIX Rule 4 of the Code of Civil Procedure which was also withdrawn vide order dated on 15th February, 2020. Ld. Counsel, thus, submits that Defendant No. 9 has already moved on and is willing to use “GETAQUAEASY”, at this stage. Hence, the interim order need not be modified. Relevant portion of the application reads as under:- “That the Defendant No. 9 with a view to settle the matter amicably even proposed settlement to the Plaintiff through its Counsel. However, the Plaintiff wants that the Defendant No. 9 should not use the word “AQUA” in any manner whatsoever. It is further stated that the Defendant No. 9 even proposed that instead of “AQUAEASY” the Defendant No. 9 is ready to use “GETAQUAEASY”. However, the above proposal was not acceptable to the Plaintiff and they continued to be steadfast on their demand that the  Defendant No. 9 should not use the word “AQUA” in any manner whatsoever.”",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 6,
+                        "content": "The Court has considered the matter. At this stage, Defendant No. 9’s business is stated to have adversely impacted due to the blocking of the domain name. The order dated 17th May, 2021 reads as under:- “6. The plaintiff has made out a prima facie case. The defendants No.3 to 13 etc. are restrained by an ex-parte injunction from using/displaying in any manner the corporate name 'Eureka Forbes' and registered trademarks/copyrights of the plaintiff, ‘Aquaguard’, ‘Dr.Aquaguard’, ‘Forbes’, ‘AquaSure’ and 'Aeroguard' or any other similar mark in any manner whatsoever.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 7,
+                        "content": "Defendants No. 1 and 2, on the request of the plaintiff stating the exact domain name/entity violating the interim order of this court, shall block the said domain name.”",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 8,
+                        "content": "The question as to whether the “AQUAEASY” and “AQUAGUARD” are similar or not would be considered by the Court. However, at this stage, the Plaintiff is seeking a monopoly on the word AQUA which means water. A monopoly on the word AQUA would in effect block use of a completely generic word by other businesses, which in the opinion of this Court cannot prima facie be monopolised by anyone, unless there is dishonest or malafides in adoption. The Defendant is engaged in the servicing and repair of water purifiers and cannot be stopped from doing its business. Thus, at this stage, the Court is of the opinion that if the Defendant wishes to use the domain name/mark “GETAQUAEASY”, there ought to be no impediment in the same.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 10,
+                        "content": "The Defendant is accordingly permitted to register the domain name having the mark “GETAQUAEASY” and use the said mark/name for its repair services. In the meantime, issue notice in the application. Let reply be filed within two weeks. Rejoinder if any, be filed within two weeks. The present order shall not impact the adjudication of the injunction application on merits.",
+                        "reference": "9."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "RFC 3/2020",
+            "title": "VIVEK KOCHHER & ANR VS KYK CORPORATION LTD & ORS",
+            "date": "23/09/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/VIB/judgement/28-09-2022//VIB23092022RFC32020_113125.pdf&ID=237630011_7",
+            "document_path": "data\\judgments\\DHC Judgments\\237630011_7.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 1,
+                        "content": "The appellants have filed the present intra-court appeal under Section 13 of the Commercial Courts Act, 2015 impugning a judgment dated 06.11.2019 (hereafter the ‘impugned judgement’) passed by the learned Single Judge. By the impugned judgment, the learned Single Judge had dismissed the suit filed by the appellants/plaintiffs [being CS(COMM) 152/2018] and partly allowed the Counter Claim (being Counter Claim No.77/2009) instituted by respondent no.1 (hereafter ‘KYK Corporation’) and granted the decree of permanent injunction, as sought for, in terms of the prayer clause nos. (i) to (iii).",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 2,
+                        "content": "The learned Single Judge had passed the impugned judgment primarily on the basis of an order dated 10.02.2012, passed by the Intellectual Property Appellate Board (hereafter ‘the IPAB’) allowing KYK Corporation’s application for cancelling the registrations of the trademark “KYK” (hereafter ‘the Trademark’), in favour of the appellants/plaintiffs. The Trademark is a word mark. The impugned judgment also notes that the appellants had preferred a writ petition impugning the order dated 10.02.2012, passed by the IPAB. However, the said petition [being W.P.(C) 2496/2012] was also dismissed by a judgment dated 03.11.2017.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 3,
+                        "content": "The IPAB had allowed KYK Corporation’s application for rectification of the Register by removal of the registrations of the Trademark granted in the appellants’ favour. However, the appellants contend that the same did not establish that they had passed off their goods as that of KYK Corporation. KYK Corporation was required to establish that it is the prior user of the Trademark in question and merely because the IPAB had cancelled the registration in favour of the appellants, it did not entitle KYK Corporation to a decree of permanent injunction restraining the appellants from passing off or using the Trademark. The learned counsel for the appellants also contends that the learned Single Judge had not returned findings on the issues as framed and the same is contrary to the provisions of Order XX Rule 5 of the Code of Civil Procedure, 1908 (hereafter ‘the CPC’).",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 4,
+                        "content": "The appellants state that they are engaged in the business of marketing and selling of automobile parts and fittings including bearings, filters, gear and gear parts, v-belts, fan belts and machinery parts used in motor land vehicles. Appellant no.1 claims that he adopted the Trademark in the year 1996 for automobile parts and fittings. However, the use was extended to cover bearings, filters, gear and gear parts, v-belts, fan belts and machinery parts used in motor land vehicles, as well.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 5,
+                        "content": "On 21.08.2000, the appellants applied for the registration of the Trademark under Class 12 (trademark application no. 949032) claiming use since 10.10.1996. Thereafter, the appellants filed another application for registration of the Trademark under Class 7 (trademark application no. 1291522) on 21.06.2004. The registration certificates were issued on 03.01.2005 and 19.12.2005 under Classes 12 and 7 respectively.",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 6,
+                        "content": "KYK Corporation is a company incorporated under the laws of Japan and engaged in the business of manufacturing, marketing, selling and exporting inter alia all types of bearings, including part of land vehicles, bearing (axle) for vehicle wheels, and bearings (carrying for wheels) since the year 1952. It claims that the Trademark is its house mark and forms a prominent part of its corporate name. KYK Corporation claims that it is a prior user and proprietor of the Trademark internationally in more than fifty countries.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 8,
+                        "content": "Thereafter, on 22.04.2009, the appellants filed a suit before this Court [being CS (OS) 1305/2009 subsequently re-numbered as CS(COMM) 152/2018], inter alia, seeking a decree of permanent injunction restraining infringement, passing off, rendition of account, against KYK Corporation. By an order dated 22.07.2009, the learned Single Judge restrained KYK Corporation from using the Trademark and trade name “KYK Corporation Ltd.” or any other identical or deceptively similar trademarks.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 9,
+                        "content": "On 10.09.2009, KYK Corporation filed a written statement and a counter-claim. Additionally, KYK Corporation also filed an application under Order XXXIX Rules 1 and 2 of the CPC, seeking an ad-interim injunction.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 10,
+                        "content": "Thereafter, by an order dated 01.07.2010, the learned Single Judge modified the order dated 22.07.2009, whereby the appellants were allowed to use the trademark “KYK (India)” and KYK Corporation was allowed to use the trademark “KYK (Japan)” until the suit was disposed. Additionally, the appellants and KYK Corporation were directed to include ‘India’ and ‘Japan’ in their trade names respectively.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 11,
+                        "content": "On 25.03.2011, the Court framed the following issues:  “(1) Who amongst the parties is the true owner and lawful proprietor of the trademark KYK for goods stated in the respective plaints? OPP  (2)  Whether the adoption of trademark KYK and its artistic representation by the plaintiffs is honest, as alleged? OPP  (3)  Who amongst the parties is the prior user of the trademark /trade name KYK for goods, as stated in the respective plaints? OPP  (4)  Whether the plaintiffs have infringed the copyright of the defendant no.1/counter claimant in the said artistic representation of KYK? OPD  (5)  Whether the defendants/counter claimant are liable for infringement of trademark KYK, as stated in the plaint? OPP  (6)  Who amongst the parties is liable for passing off its goods as the goods of the other by using trademark/trade name KYK? OPP  (7)  Whether the suit of the plaintiff is liable to be dismissed on account of delay, latches and acquiescence? OPD  (8)  Whether plaintiff is entitled for permanent and mandatory injunction against the defendant as prayed for in the prayer clause? OPP  (9)  Whether the plaintiff is entitled to the relief of damages, rendition of accounts of profits and delivery up against the defendant as prayed for? OPP  (10)  Relief.”",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 12,
+                        "content": "On 10.02.2012, the IPAB allowed KYK Corporation’s application for revocation of the registrations of the Trademark in  favour of the appellants. The IPAB held that the appellants have not provided sufficient evidence for proving use of the Trademark prior to 2005.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 13,
+                        "content": "The appellants filed a writ petition [being WP(C) 2496/2012] in this Court, impugning the order dated 10.02.2012, passed by the IPAB. By an order dated 03.11.2017, this Court rejected the Writ Petition as it found no fault with the finding of the IPAB that there was no evidence of the appellants’ use of the Trademark, prior to 2005.",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 14,
+                        "content": "On 28.07.2017, KYK Corporation filed two applications; one under Order VIII Rule 1A of the CPC and the other under Order XVIII Rule 17 of the CPC. The learned Single Judge dismissed both the aforementioned applications on 12.10.2017.",
+                        "reference": "14."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 15,
+                        "content": "KYK Corporation filed an appeal against the order dated 12.10.2017. On 29.11.2017, the Division Bench of this Court allowed KYK Corporation’s appeal and permitted leading of evidence in the matter. A Court Commissioner was appointed for recording of evidence and the parties were directed to appear before the Court Commissioner on 16.12.2017 for proceedings in this regard.",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 16,
+                        "content": "The evidence was recorded during the period 22.01.2018 to 02.08.2018. Thereafter, the Court Commissioner placed the matter before the learned Single Judge for further directions. The learned Single Judge, heard oral submissions on 06.11.2019 and disposed of the suit/counter claim.",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 17,
+                        "content": "The learned Single Judge dismissed the commercial suit filed by the appellants and allowed KYK Corporation’s counter-claim for perpetual injunction, restraining the appellants and their affiliates from manufacturing, getting manufactured, marketing, selling, offering for sale, stocking, advertising, exhibiting or otherwise dealing in bearings, parts of land vehicles or any other cognate or allied goods under the Trademark “KYK” or any other deceptively similar trademark. Furthermore, the appellants were restrained from passing-off their goods (bearing, parts of land vehicles and/or any other cognate and allied goods) and from infringing the copyrights of KYK Corporation in the carton/packaging of its products, by using an identical/deceptively similar product packaging with get-up, features and writing style similar to that as used by KYK Corporation or any other colourable imitation thereof.",
+                        "reference": "17."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 18,
+                        "content": "The learned Single Judge examined the order dated 10.02.2012 passed by the IPAB and noted the findings recorded in the said order. The IPAB had, inter alia, held that the appellants had failed to establish the use of the Trademark since the year 1996 and 2000 as claimed by them in respect of goods falling under Classes 12 and 7 respectively. The IPAB also found that certain invoices relied upon by the appellants did not establish use of the Trademark as claimed because the said invoices were issued by another entity and not the entity through which the appellants were claiming rights in respect of the Trademark.",
+                        "reference": "18."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 19,
+                        "content": "The learned Single Judge held that the findings were conclusive inter parties and, therefore, the appellants were precluded from claiming to the contrary. The learned Single Judge held that in view of the findings of the IPAB that the appellants had failed to establish any use prior to the year 2005, they could not succeed in their claim for infringement or passing off against KYK Corporation. The Court also independently examined whether the evidence led by the appellants established use of the Trademark since the year 1996 and found in the negative. The learned Single Judge also noted the finding of the IPAB that KYK Corporation had established trans-border reputation and observed that the same was upheld by this Court by an order dated 03.11.2017, passed in WP(C) 2496 of 2012.",
+                        "reference": "19."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 20,
+                        "content": "The learned Single Judge concluded that in view of the findings of the IPAB, the appellants were not entitled to any relief as claimed in the suit. Axiomatically, the counter claim preferred by KYK Corporation was liable to succeed insofar as the relief of injunction is concerned. The other reliefs claimed by KYK Corporation were rejected.",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 21,
+                        "content": "The controversy in the present case is narrow. The registration of the Trademark in favour of the appellants was cancelled in terms of the order dated 10.02.2012, passed by the IPAB. The only question is whether the findings of the IPAB, as upheld by this Court, are sufficient to grant a decree of permanent injunction, as sought for, in favour of KYK Corporation. A plain reading of the order dated",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 22,
+                        "content": "2012, passed by the IPAB, indicates that the IPAB had examined the material placed by the appellants in support of their claim of use of the Trademark under Classes 7 and 12 from the year 1996 and 2000 respectively. The IPAB found that the appellants had failed to establish the same. The operative part of the IPAB’s order reads as under:  “27. The other issue is regarding the user claimed by the respondents in their application for registration. The respondents claim user since 1996 and 2000 in their application. There is no evidence prior to 2005. It is also the case of the respondent that the manufacturing of bearings were carried out through one M/s. Techno Mark Grindwell Industries. The 1st invoice is dated 2005 by M/s. Techno Mark Grindwell Industries. The respondents have not proved their user as claimed.",
+                        "reference": "10.02."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 23,
+                        "content": "The respondents have claimed user since 10.10.1996 for Class 12 goods and 10.04.2000 for Class 7 goods. The respondent’s contention is that they had been dealing through one M/s. Techno Mark Grindwell Industries. It is not clear as to how long they were carrying on business through M/s. Techno Mark Grindwell Industries. As stated earlier 1st invoice is of the year 2005. In the absence of any documents either from 1996 or at least from 2000 the claim of user before the Registrar is wrong statement for which reason the mark cannot be allowed to continue on the Register.”",
+                        "reference": "28."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 24,
+                        "content": "Before the IPAB, the appellants had relied upon a document showing use of the Trademark by one M/s V.K. Automobiles. However, they had failed to establish that M/s V.K. Automobiles was  a proprietor of the Trademark at any stage. The contention that M/s V.K. Automobiles was the assignee of the Trademark was also disbelieved by the IPAB. The IPAB’s judgment also contains observations regarding trans-border reputation of KYK Corporation’s mark.",
+                        "reference": "22."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 25,
+                        "content": "The writ petition preferred by the appellant [being W.P.(C)2496/2012 captioned Vivek Kochher and Anr. v. M/s. KYK Corporation Ltd. and Anr.] was rejected by a learned Single Judge of this Court as the Court found no infirmity with the findings of the IPAB that the appellants had failed to establish the use of the Trademark, as claimed in their application. Thus, the decision of IPAB to rectify the trademarks register and cancel the registration of the Trademark in favour of the appellants, was upheld. During the course of the said proceedings, the appellants had contended that KYK Corporation had failed to establish a trans-border reputation. Prima facie, the Court found the said contention to be unpersuasive but declined to examine the question in any detail. This was because the IPAB’s order, which was impugned in the said petition, rested on the finding that the appellants had failed to establish the facts on the basis of which the registration of the Trademark was granted in their favour. Thus, the IPAB’s order for rectification of the Trademark could not be faulted. The relevant extract from the judgment dated 03.11.2017 passed by the Court in W.P.(C)2496/2012 is reproduced below:  “20. The contention that KYK Corp has been unable to establish a trans-border reputation is also unpersuasive. KYK Corp had produced evidence to show that its  goods were being sold in India. It had also produced material to show that it was exporting goods to United States to show that it was using the mark in USA since 1953. However, it is not necessary to examine this issue as the conclusion of IPAB that the petitioners were unable to establish the use of the mark as claimed in their application, warranting a rectification of the registered trademark cannot be faulted.”",
+                        "reference": "23."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 27,
+                        "content": "In view of the IPAB rectifying the Register and cancelling the registration in their favour, the fundamental premise on which the appellant’s suit was founded ceased to hold good. The appellants were no longer registered proprietors of the Trademark, as claimed by them. Further, they also failed to establish that they were prior users of the Trademark. Thus, the impugned judgement dismissing the appellants’ suit for infringement of the Trademark cannot be faulted.",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 29,
+                        "content": "KYK Corporation’s counter-claim was premised, essentially, on five assertions. First, that it was a prior adopter, true owner, lawful proprietor and prior user of the Trademark in relation to the goods in question. Second, that it was also the owner of the copyright in the carton tilted “KYK” and the get-up, writing style and related trade dress. Third, that the appellants had adopted the Trademark, which is identical to KYK Corporation’s well-known trademark. Fourth, that  the purchasers of the goods such as bearings and parts of the vehicles are in a class of unwary purchasers, who recognise the goods of KYK Corporation by its trademark, KYK, and are likely to be confused by the deceptive similarity with the Trademark used by the appellants. And fifth, that the use of the Trademark by the appellants for spurious and inferior quality of goods had tarnished and blurred the reputation of KYK Corporation’s trademark.",
+                        "reference": "26."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 30,
+                        "content": "On the basis of the averments to the aforesaid effect as made in the counter-claim, KYK Corporation had sought a decree of perpetual injunction restraining the appellants from, inter alia, dealing with or manufacturing of bearings or part of the land vehicles or any of the allied goods under the Trademark/tradename “KYK” or any other deceptively similar trademark. It had sought a decree of permanent injunction restraining the appellants from passing off their goods by using the Trademark/tradename “KYK”; and restraining the appellants from infringing the copyright in respect of the said trademark.",
+                        "reference": "27."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 31,
+                        "content": "The relief of perpetual injunction for infringement of the Trademark; passing off; and infringement of copyright has been decreed in favour of KYK Corporation and against the appellant. Indisputably, the claims made by KYK Corporation were required to be established independently. The IPAB’s finding that the appellants had failed to establish the user of the marks “KYK” in Classes 7 and 12 from the years 1996 and 2000 – which was sufficient to allow KYK Corporation’s application for rectification of the Register – is  insufficient for allowing KYK Corporation’s claim for passing off or for infringement of the Trademark.",
+                        "reference": "28."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 32,
+                        "content": "It is material to note that KYK Corporation is not a registered proprietor of the Trademark in India. It has applied for registration of the said mark; however, the said application has not been allowed as yet. Thus, KYK Corporation had to establish that it was a prior user of the Trademark and the appellants were passing off their goods.",
+                        "reference": "29."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 33,
+                        "content": "On a pointed query of this Court, the learned counsel appearing for KYK Corporation fairly conceded that the learned Single Judge has not examined KYK Corporation’s claim for passing off or returned any finding in respect of the issue of passing off.",
+                        "reference": "30."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 34,
+                        "content": "In view of the above, the impugned judgment, to the extent that it allows reliefs of perpetual injunction as claimed by KYK Corporation in prayer clause nos. (i) to (iii) of the counter-claim, cannot be sustained.",
+                        "reference": "31."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 35,
+                        "content": "The contention that in terms of Order XX Rule 5 of the CPC, the court is required to state its findings on each of the issues as framed, is merited. However, Order XX Rule 5 of the CPC also makes it clear that it is not necessary for the court to state its findings on each of the issues if the finding upon any one or more of the issues is sufficient for the decision of the suit.",
+                        "reference": "32."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 36,
+                        "content": "In the present case, the Court had found that the findings of the IPAB in its order dated 10.02.2012 were dispositive of the controversy in the suit and the counter-claim. Thus, it was not necessary for the learned Single Judge to record a separate finding in respect of each of  the issues. However, as observed above, the findings of the IPAB are not dispositive of the claim for perpetual injunction as sought by KYK Corporation by way of the counter-claim and thus, this Court considers it apposite to remand the matter to the learned Single Judge for consideration of the said reliefs, afresh.",
+                        "reference": "33."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 37,
+                        "content": "In view of the above, the decrees of perpetual injunction granted against the appellants are set aside. The matter is remanded to the learned Single Judge to consider KYK Corporation’s claim for passing off and prayers for perpetual injunction on the basis of the evidence available on record.",
+                        "reference": "34."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "FAC 62/2022",
+            "title": "TATA SONS PRIVATE LIMITED VS HAKUNAMATATA TATA FOUNDERS & ORS.",
+            "date": "19/09/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/MKO/judgement/19-09-2022//MKO19092022FAC622022_180111.pdf&ID=237630011_8",
+            "document_path": "data\\judgments\\DHC Judgments\\237630011_8.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 1,
+                        "content": "The present appeal has been filed under Section 13(1A) of the Commercial Courts Act, 2015 read with Section 10(1) of the Delhi High Court Act, 1966 read with Order 43(1)(r) and Section 151 CPC on behalf of the appellant assailing judgment dated 26.10.2021 passed by the learned Single Judge of this Court, whereby the appellant/plaintiff’s application under Order 39 Rules 1 and 2 CPC, registered as IA No.8000/2021 in CS(COMM) 316/2021, was dismissed.",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 1,
+                        "paragraph_number": 2,
+                        "content": "The appellant, in a suit for permanent injunction restraining infringement of registered trademarks, passing off, dilution and tarnishing of  trademarks and copyrights etc., has sought ad-interim injunction against the respondents/defendants from using its registered trademark “TATA” for business purposes. It is generally alleged by the appellant in the suit that the respondents are businesses registered in the United Kingdom and the United States, which are using its trademark for doing online trading in cryptocurrency through their website(s) ‘www.tatabonus.com’ and ‘www.hakunamatata.finance’. It is further alleged that the websites are accessible in India and are in fact accessed by visitors from Delhi on daily basis.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 3,
+                        "content": "The learned Single Judge of this Court ran into the question of territorial jurisdiction at the threshold itself and did not agree with the appellant that Courts in Delhi could have jurisdiction over the respondents who are registered and located overseas. Curiously, the learned Single Judge caveated his decision by characterising it as “a prima facie opinion”, agreed to register and proceed with the suit in Delhi, yet declined to grant ad-interim injunction, when he otherwise did not doubt the appellant’s intellectual property rights in the trademark “TATA” vis-a-vis the respondents. According to the learned Single Judge, extra-territorial reach of the jurisdiction of the Court over foreign-seated respondents was an issue, and he thus declined the prayer for grant of ad-interim injunction.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 4,
+                        "content": "The facts of the case, as emerge from the records, are that the appellant was incorporated in the year 1917. Its trade name/trademark “TATA”, stated to have been derived from the surname of its founder-Shri Jamsetji Nusserwanji Tata, is reportedly in continuous and consistent use since then.  Appellant is the holding company of TATA Group of Companies, and claims to be the owner and registered proprietor of the trademark “TATA”, and also its various permutations and combinations. The appellant, and its  group companies, claim to be India’s largest private-sector employer. The group has presence across number of sectors namely, textiles, iron and steel, power, chemicals, hotels and automobile, computers and computer software, electronics, beverages, telecommunications, financial services, mutual funds, insurance, broadcasting, aerospace and retail, etc. The appellant has particularly mentioned about its business of financial services, which includes digital currency, blockchain technologies, etc.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 5,
+                        "content": "The appellant claims that as on March 31, 2021, the market capitalisation of 29 publicly-listed Tata Companies was about Rs.17,80,000 crores and they employed 800,000 people worldwide. It is the appellant’s case that on account of the distinctive nature, the name and the trademark “TATA” have acquired excellent reputation and exclusively denote the conglomeration of Tata companies, also known as ‘House of TATA’. As such, the mark “TATA” and other “TATA” formative marks are well-known marks, which have also been so acknowledged by the Courts. According to the appellant, the word “TATA” exudes quality and trust that the group is known for both within the country and abroad.  In short, there are extensive pleadings in the plaint highlighting the reputation, goodwill and recognition of the appellant’s trademarks in India. Even otherwise, we do not have any reason to doubt the pre-eminence of the trademarks of the appellant in India.",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 6,
+                        "content": "As pleaded in the suit, the appellant discovered the website named ‘www.tatabonus.com’, in June 2021, via which the respondents were found to be offering for sale and exchange cryptocurrency by the name of “TATA” coin. On search, it was revealed that respondent No.1 was the entity behind the website. Besides cryptocurrency, respondent No.1 was found to be selling  merchandise, such as t-shirts, shorts, caps, facemasks etc, under the name ‘TATA’.  The respondents are allegedly using the mark ‘TATA’ for selling their digital and physical merchandise through website ‘www.hakunamatata.finance’, as well as through online portals like Facebook, Twitter, Instagram, etc. which are interactive and accessible in India. It is averred that respondent No.1 unauthorisedly has used the trademark “TATA” in its handle ‘tatatoken’/‘TataToken’ on the following online portals:  i)  Facebook: https://www.facebook.com/HakunaMatataToken  ii)  Twitter: https://twitter.com/tatatoken  iii)  Instagram : https://www.instagram.com/tatatoken  iv)  YouTube: https://www.youtube.com/channel/UC- UUoGWO_MCcPusXptzCmkA  v)  Telegram: https://t.me/tatatoken  vi)  Reddit: https://www.reddit.com/r/TataToken  vii)  Discord: https://discord.com/invite/sfs6MxVkhZ  Further, the respondents’ website(s) is stated to be interactive in nature where the cryptocurrency can be purchased by visitors. The appellant has filed document to show that enquiries emanating from India were posted on the Twitter page of respondent No.1, regarding the cryptocurrency hawked by the respondents on their website. According to the appellant, India statistically ranks 2nd in the list of countries with the highest internet traffic to the website ‘www.hakunamatata.finance’. The appellant has submitted that respondent No.1 has interest in the Indian market and is engaged in business activities in  India. The appellant has referred to a ‘White Paper’ issued by respondent No.1 where, in the list of programmes pursued by respondent No.1, there is a fund called ‘India Development and Relief Fund’.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 7,
+                        "content": "It is the case of the appellant that its well-known trade name/trademark has been illegally adopted by the respondents to defraud customers in India and abroad. Further, it is in the consumer interest of appellant to restrain respondent No.1 from deceiving the unsuspecting public who could be deceived into buying products from the websites in question, believing the same to be TATA products. To make its point, the appellant has referred to posts on respondent No.1’s website and social media platforms where an allegation of fraud and cheating is made against the co-founder of respondent No.1.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 8,
+                        "content": "It is submitted by the appellant that respondent No.1, the stated owner of the websites ‘www.tatabonus.com’ and ‘www.hakunamatata.finance’, has its office based in the UK. Behind the website, there is a team of individuals who are UK nationals of Pakistani origin. According to the appellant, trademark “TATA” is a well-known mark in the Indian sub-continent. It is pointed out that the team behind the website being of Pakistani origin, is likely to be aware of TATA’s brand equity among the Indian public, which does indicate the deliberate intent and unscrupulous motives of respondent No.1 to deceive unsuspecting public using the name of TATA.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 9,
+                        "content": "Before the learned Single Judge, facts pleaded in the plaint were uncontroverted since notice in the suit had yet not been issued by the Court. Though learned Single Judge did not doubt the appellant’s entitlement to file the plaint in Delhi, yet he doubted his extraterritorial jurisdiction to injunct the overseas parties by way of ad-interim order. According to learned Single Judge, there was no evidence of respondents’ targeting the customers in India  to sell their digital and physical merchandise. Further, learned Single Judge found the Indian traffic on the respondents’ website too scant to call it an interactive website, which is an essential factor recognised by Indian Courts for attracting territorial jurisdiction in the cases of online trade. He also did not find any precedential value in the case law cited by the appellant.  The appellant had cited decisions in India TV, Independent News Service Pvt. Ltd. v. India Broadcast Live LLC & Ors. reported as 2007 SCC OnLine Del 960 and Juggernaut Books Pvt. Ltd. v. Inkmango Inc. and Ors., CS(COMM) 421/2019, in support. The decision in India TV, Independent News Service Pvt. Ltd. (Supra) was distinguished by observing that there was an intent on the part of the channel to increase its subscriber base in India and the channel could actually be subscribed in India. As such, there was a conscious targeting of customers in India, which is missing in the present case. Similarly, the decision in Juggernaut Books Pvt. Ltd. (Supra) was distinguished on the same ground of customer targeting and connection with India in the content, which is found missing in the present case.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 11,
+                        "content": "According to us, principles surrounding territorial jurisdiction in the case of online trade via internet websites is fairly well established. In Banyan  Tree Holding (P) Limited v. A. Murali Krishna Reddy & Anr. reported as 2009  SCC OnLine Del 3780, while answering a reference, a Division Bench of this Court has laid down the following principles:  “58. We summarise our findings on the questions referred for our opinion as under:  Question (i): For the purposes of a passing off action, or an infringement action where the Plaintiff is not carrying on  business within the jurisdiction of a court, in what circumstances can it be said that the hosting of a universally accessible website by the Defendants lends jurisdiction to such Court where such suit is filed (“the forum court”)  Answer: For the purposes of a passing off action, or an infringement action where the plaintiff is not carrying on business within the jurisdiction of a court, and in the absence of a long-arm statute, in order to satisfy the forum court that it has jurisdiction to entertain the suit, the Plaintiff would have to show that the Defendant “purposefully availed” itself of the jurisdiction of the forum court. For this it would have to be prima facie shown that the nature of the activity indulged in by the Defendant by the use of the website was with an intention to conclude a commercial transaction with the website user and that the specific targeting of the forum state by the Defendant resulted in an injury or harm to the plaintiff within the forum state.  Question (ii): In a passing off or infringement action, where the defendant is sought to be sued on the basis that its website is accessible in the forum state, what is the extent of the burden on the Plaintiff to prima facie establish that the forum court has jurisdiction to entertain the suit?  Answer: For the purposes of Section 20 (c) CPC, in order to show that some part of the cause of action has arisen in the forum state by the use of the internet by the Defendant the Plaintiff will have to show prima facie that the said website, whether euphemistically termed as “passive plus” or “interactive” was specifically targeted at viewers in the forum state for commercial transactions. The Plaintiff would have to plead this and produce material to prima facie show that some commercial transaction using the website was entered into by the Defendant with a user of its website within the forum state resulting in an injury or harm to the Plaintiff within the forum state.  Question (iii): Is it permissible for the Plaintiff to establish such prima facie case through “trap orders” or “trap transactions”?  Answer: The commercial transaction entered into by the Defendant with an internet user located within the jurisdiction of the forum court cannot possibly be a solitary trap transaction since that would not be an instance of “purposeful” availment by the Defendant. It would have to be a real commercial transaction that the Defendant has with someone not set up by the Plaintiff itself. If the only evidence is in the form of a series of trap transactions, they have to be shown as having been obtained using fair means. The Plaintiff seeking to establish jurisdiction on the basis of such trap transactions would have to aver unambiguously in the plaint, and also place along with it supporting material, to prima facie show that the trap transactions relied upon satisfy the above test.”  (emphasis added)",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 12,
+                        "content": "In Burger King Corporation v. Techchand Shewakramani & Ors. reported as 2018 SCC OnLine Del 10881, a Single Judge of this Court had held the following:  “21. Thus, jurisdiction of a Court in a trade mark action, could be invoked where there is use upon or in relation to goods. The phrase ‘in relation to’ has been interpreted to include advertising, promotion, publicity, etc. Thus, in addition to actual sale of goods and providing services, if a person advertises his or her business under the mark in a territory, promotes his or her business under the mark in a territory or for example invites franchisee queries from a particular territory, sources goods from a particular territory, manufactures goods in a particular territory, assembles goods in a particular territory, undertakes printing of packaging in a particular territory, exports goods from a particular territory, it would constitute ‘use of a mark’.  xxx",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 13,
+                        "content": "Thus, when Section 20 of the CPC provides that a suit could be filed in any place where the cause of action arises, in a suit involving rights in a trademark, cause of action arises in each and every place where there is any form of use  of the said mark. Principles which apply to infringement, actions to determine ‘use’ would equally apply to passing off actions.”  (emphasis added)",
+                        "reference": "23."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 14,
+                        "content": "In Millennium & Copthorne International Limited v. Aryans Plaza Services Private Limited & Ors. reported as 2018 SCC OnLine Del 8260, a Single Judge of this Court further held that what is relevant for determination in an action for infringement and/or passing off is where the injury has been caused to the plaintiff, as the place where deception has been caused to customers, or is likely to be caused, by the offending product of the defendant shall certainly have jurisdiction.",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 16,
+                        "content": "However, “targeting”, as expounded by Banyan Tree Holding (P) Limited (Supra), would include ability of the customers to undertake a commercial transaction on a website within a particular geography. Banyan Tree (Supra) approved of even bonafide trap sales within a particular geography to attract territorial jurisdiction of Courts. In Burger King Corporation (Supra), it was held that even promotion activities undertaken on a website would be enough to attract territorial jurisdiction of Courts where website can be accessed. In Millennium & Copthorne International Limited (Supra), it has been held that the place where injury or deception is caused would have jurisdiction.",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 17,
+                        "content": "We have looked out to find some more useful references and found one in Lifestyle Equities CV and another company v. Amazon UK Services Ltd and other companies, [2022] EWCA Civ 552. In this case, England and Wales  Court of Appeals has discussed in a more incisive way as to what targeting would mean. Following are the useful paragraphs from the said judgment:  “67. In considering those contentions, it is convenient to start near the end of the consumer's journey while keeping firmly in mind the context provided by the preceding stages. I shall take by way of example the “Review your order” page described in paragraphs 20-21 above. There is no dispute that this is an offer (for sale) of the goods within Article 9(3)(b) of the Regulation (whether it would be categorised as an invitation to treat under English contract law is irrelevant for this purpose). If one asks whether that offer was targeted at the UK, in my view it is manifest that the answer is yes. The purchaser is located in the UK, the shipping address is in the UK, the billing address is in the UK, the currency of payment is GBP and Amazon will make all the necessary arrangements for the goods to be shipped to and imported into the UK and delivered to the consumer in the UK. I do not understand how it can seriously be argued that this offer for sale was not targeted at the UK, notwithstanding the valiant attempt of counsel for Amazon to do just that.  xxx",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 18,
+                        "content": "Secondly, the judge accepted Amazon's argument that, because amazon.com was directed at US consumers, the relevant web pages were not targeted at UK/EU consumers. This does not follow:  i)  Even if amazon.com is primarily directed at US consumers, it is plainly not restricted to them. Although the UK user is informed by the amazon.com home page that they can shop at amazon.co.uk and get fast local delivery, it would be easy for the user to miss this statement. Even if they saw it, it is simply offering an alternative to amazon.com. The home page also tells the user that they can shop in eight languages and more than 60 currencies, and more specifically that they can get delivery to the UK. Furthermore, once the user has conducted a search, the message about amazon.co.uk no longer appears.  ii)  In any event, the question is not whether amazon.com as a whole is targeted at the UK/EU, but whether the relevant uses of the sign are. As discussed above, the fact that the generality of a website is not targeted at the UK/EU does not exclude the possibility that specific uses of the sign on that website are.",
+                        "reference": "69."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 19,
+                        "content": "Thirdly, the judge said that targeting “imports the notion of taking deliberate aim at consumers in another country”. This is not correct: the question is whether there is use of the sign in the relevant territory, and there is no requirement for subjective intent on the part of the operator of the website.",
+                        "reference": "70."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 20,
+                        "content": "Fourthly, the judge was persuaded to dismiss the factors relied on by Lifestyle which he discussed at [165]-[167] as “largely irrelevant” because they were said to be explicable as Amazon “mak[ing] the process as painless and easy as possible” after the consumer had already made a decision to buy on the amazon.com website. There was, however, no evidential basis for assuming that such a decision had been made at the initial stage of the process, and for reasons that I have explained, those factors in fact show that, at the “Review your order” stage, Amazon were offering US branded goods for sale to consumers in the UK and the EU.",
+                        "reference": "71."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 21,
+                        "content": "Fifthly, the judge considered it significant that UK and EU consumers who bought US branded goods from amazon.com (i) would have to pay larger shipping costs than if they purchased comparable goods marketed by Lifestyle from the UK website or the German website and (ii) would have to pay import duties which would not be payable in the latter scenario. I disagree. Consumers would not necessarily be aware of these differences unless they made the comparison; and even if they were, the differences might have been offset by the assumed price differentials. I say “might have been offset by the assumed price differentials” because there does not appear to have been any evidence as to the actual price differentials. Still less was there any evidence as to the net difference in cost. In any event, while this might be a relevant factor, it is not a very significant one if the  evidence shows, as in the present case it does, that some consumers were not put off by such higher costs.",
+                        "reference": "72."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 23,
+                        "content": "Given the errors in the judge's approach, it is necessary to reconsider the issue. For the reasons I have already given, I consider it plain that the offer for sale made in the “Review your order” page was targeted at UK consumers. The remaining question is whether the same applies to earlier pages in the process. It is convenient to take them in reverse order, once again bearing in mind that this is not how the consumer would experience them.",
+                        "reference": "74."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 24,
+                        "content": "Taking the full product details page, I consider that this is targeted at the UK. Not only does it state in two different places “Deliver to United Kingdom”, but also it states specifically that “This item ships to United Kingdom”, says that it can be delivered by a specified date and gives the shipping cost. It is fair to say that the price and shipping cost are both quoted in USD. Nevertheless it is plainly telling the UK consumer that they can buy this item and Amazon will arrange for it to be shipped to them in the UK. Moreover, it is clear that from the fact that sales were in fact made to UK consumers that that is precisely how they perceived it. There is no evidence to suggest that such consumers were not average consumers.",
+                        "reference": "75."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 25,
+                        "content": "That leaves the search results page. This is more marginal, but in my view the balance is tipped by the fact that, in addition to the general statement “Deliver to United Kingdom”, which in my view might well not be enough on its own, there is displayed, where applicable, specific statements that the listed item “Ships to United Kingdom”. Again, the message to UK consumers is that they can buy this item and Amazon will arrange for it to be shipped to them in the UK. The fact that some items are not shown as available for shipment to the UK only emphasises this.",
+                        "reference": "76."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 26,
+                        "content": "I do not understand it to be in dispute that the conclusions that I have reached in relation to the Amazon Exports-Retail business model are equally applicable to the other three models. It follows that all of the advertisements and offers for sale in issue amounted to use of the relevant signs in the UK and the EU, and hence infringing uses.”",
+                        "reference": "77."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 27,
+                        "content": "We are in complete agreement with the above view of the English Court. Even if a website is not directed at customers in a particular country, the fact that they are not restricted by the website to have access to it, is enough to characterise it as targeting. Targeting need not be a very aggressive act of marketing aiming at a particular set of customers. Mere looming presence of a website in a geography and ability of the customers therein to access the website is sufficient, in a given case. It may not be forgotten that in the matters of infringement of trademark, it is the possibility of confusion and deception in the mind of public due to infringing trademark that is good enough for the Court to grant injunction.",
+                        "reference": "17."
+                    },
+                    {
+                        "page": 13,
+                        "paragraph_number": 28,
+                        "content": "In the present case in appeal, the existence of appellant’s registered trademark on the respondents’ website is very conspicuous, so much so, that the products have similar sounding and spelled names as appellant’s trademark. In fact, the word “TATA” is used as it is by respondent No.1 without any attempt to disguise the same by adding a prefix or suffix, to claim distinctiveness. It was noticed by the learned Single Judge that there is a fifty-hit-a-day traffic on the respondents’ website, which he found to be inadequate for assuming jurisdiction. However, there is other material produced with the plaint namely respondent’s No.1 ‘White Paper’ and printouts of its social media pages, which show respondents’ looming presence in the virtual world over India, including in the territorial jurisdiction of this Court. The fact that the people behind the offending website are stated to be UK nationals of  Pakistani origin does make the motives suspicious, given the popularity of TATA brand among the people from Indian sub-continent. It is not unreasonable to infer that the objective of respondent No.1 could be to target unsuspecting Indian origin public by doing trade in the name of “TATA”. It does not take much in the virtual world to masquerade as somebody else, unlike physical world, where it would have cost respondent No.1 a huge expense to dress up its business to the quality of a physical TATA store. All it takes is to put up a cleverly designed deceptive website pretending to be a grand and well-established business.",
+                        "reference": "18."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 29,
+                        "content": "According to us, it was open for the learned Single Judge to dismiss the suit wholesale for want of jurisdiction, if he so opined. Once the learned Single Judge could ignore his own self-doubts about the territorial jurisdiction to entertain the suit, he had no reason to persist with those self-doubts for the purposes of deciding the application for ad-interim injunction and reject the same outrightly and conclusively. Learned Single Judge could have deferred a decision on the ad-interim application and awaited respondents’ response to the suit and application after notice. But the learned Single Judge opted to outrightly dismiss the application instead.",
+                        "reference": "19."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 30,
+                        "content": "It is pertinent to note that learned Single Judge otherwise did not doubt the appellant’s claim to the ownership of its IP. He had sufficient material before him to assume territorial jurisdiction to form a prima facie view, both for the purpose of maintainability of suit, which he did, and also for deciding the application for ad-interim injunction, which he did not.",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 32,
+                        "content": "Learned Single Judge, self-doubting his own extraterritorial jurisdiction, has dismissed the interim injunction application on the said sole ground. In effect, the appellant’s application remained unanswered on the aspect of need for interim protection sought by it, against infringement of its right, pending a final decision in the suit. We are of the view that, considerations, while deciding an application for grant of ad-interim injunction could be less stringent than the one for final relief in a suit. Interim decision is required to be made based on probable rather than a definitive view.",
+                        "reference": "22."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 33,
+                        "content": "According to us, once the learned Single Judge entertained the suit, it is indicative of his positive prima facie view on the maintainability of the suit in Delhi, on the basis of the plaint and documents filed along with it. If it was otherwise, he had the option of not entertaining the suit itself.",
+                        "reference": "23."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 34,
+                        "content": "Disagreeing with the learned Single Judge on his view on territorial jurisdiction, according to us there are sufficient indicators, as discussed above, to assume jurisdiction for the purposes of deciding the application for ad-interim injunction. We now examine the application on the three factors, namely existence of a prima facie case, balance of convenience and irreparable loss.",
+                        "reference": "24."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 35,
+                        "content": "In India, the trademark TATA is embedded in the sub-consciousness of public. In public consciousness, the word “TATA” is only relatable to TATA group of companies. As pleaded, the appellant is the owner of the trademarks in question, and the said marks are used across the board by almost all the group companies of TATA. The pre-eminence of the business reputation of the TATA group and the popularity of the trademarks is beyond contest. There is sufficient pleading in the plaint to reach the said conclusion. Even  otherwise, this Court can take judicial notice of the pre-eminence and popularity of the trademarks in question.  The appellant and its group Companies have an all-pervasive presence across various businesses, from automobiles, to telecom, to agriculture, to hospitality, to power, to defence manufacturing, to heavy industries, to retail, including online retail, to name a few. The universal popularity of the appellant’s trademark is not confined to a few products or services. As stated above, in public consciousness, TATAs are believed to be ubiquitous across all businesses.",
+                        "reference": "25."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 36,
+                        "content": "As per the averments made in the plaint, the respondents’ website is accessible in India and is attracting a traffic of fifty hits-a-day. Evidence of possibility of commercial transaction on the respondents’ website by Indian visitors is also pleaded in the plaint. There are other pleadings and documents to show that the offending products in question are accessible on the respondents’ websites for a price.",
+                        "reference": "26."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 37,
+                        "content": "At this stage, we do not have any reason to doubt the appellant’s right to protect its IP against a very obvious case of infringement by the respondents, intended or otherwise. As stated above, people behind the website, who are the team behind respondent No. 1, are stated to be people of Pakistani origin in the UK. Their awareness of “TATA” brand cannot be ruled out, which makes their motive suspect. The way trademark “TATA” has been lifted and adopted as it is, without even an attempt to disguise it with a prefix or a suffix to claim distinctiveness, appears to be unscrupulous. It cannot further be ruled out that it could be an attempt by respondent No.1 to deceive public by selling inferior and dubious products in the name of TATAs.",
+                        "reference": "27."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 38,
+                        "content": "However, as far as domain name www.hakunamatata.finance is concerned, we prima facie find no ground to agree with the appellant that it  infringes the appellant’s trademark “TATA”. Hakunamatata is a generic word and the word “TATA” is fully coalesced in the word hakunamatata. It does not cause any deception or confusion. There is only partial phonetic overlap with the word “TATA” in Hakunamatata. The appellant cannot prevent adoption by others of names that naturally have alphabets TATA embedded in them.",
+                        "reference": "28."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 39,
+                        "content": "We believe the appellant has a good prima facie case to seek injunction, as far as website www.tatabonus.com, crypto products by the name of $TATA, or any other product of respondent No.1 being sold on the website www.hakunamatata.finance under the name TATA is concerned, if not for anything else, but just to avoid any confusion likely to be caused in the mind of the public in India, who might be deceived to believe that the respondents’ website in question and products sold therein are the TATA group’s own website or have an association with TATA group. Not granting ad-interim injunction can cause irreparable harm to the goodwill enjoyed by the appellant’s trademark. The appellant is known for the quality of its goods and services. Any dubious and inferior products sold through the respondents’ website, using the appellant’s trademark, can seriously damage its credibility.",
+                        "reference": "29."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 40,
+                        "content": "For the foregoing reasons, the present appeal is allowed in the above terms. We set aside the order dated 26.10.2021 dismissing the appellant’s IA No. 8000/2021, and grant ex-parte ad-interim injunctions restraining the respondents, their partners or proprietors from manufacturing, selling, offering for sale, supplying, advertising or unauthorisedly using the appellant’s well-known trademark TATA, or any other deceptively similar mark thereto as part of the name of their digital token/cryptocurrency TATA Coin/$TATA or as part of their corporate name/domain name and websites ‘www.tatabonus.com’/social media pages amounting to infringement/passing  off. Further, respondent Nos.1 and 3 are directed to immediately take down the website parked on the domain ‘www.tatabonus.com’ and to put the said domain on hold till the pendency of the application, with an exception, that use of domain name ‘www.hakunamatata.finance’ by respondent No.1 is not prohibited, at this stage. Further, respondent No.4 is directed to delist the TATA Coin/$TATA and/or any other crypto-assets bearing the mark “TATA” or other deceptively similar mark thereto, from the networks/platforms operated by respondent No.4 including Binance Smart Chain and Binance community.  31  Pending applications being CM APPL. Nos.13107-08/2022 stand disposed of.",
+                        "reference": "30."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "S 349/2022",
+            "title": "STERLITE TECHNOLOGIES LIMITED VS ANUPAM SINGH & ORS.",
+            "date": "08/09/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/12-09-2022//PMS08092022S3492022_171834.pdf&ID=237630011_9",
+            "document_path": "data\\judgments\\DHC Judgments\\237630011_9.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 2,
+                        "content": "This is an application filed on behalf of Defendant No. 2 seeking condonation of delay of 27 days in filing the reply to the injunction application IA No. 9305/2022 filed on behalf of the Plaintiff. For the reasons stated in the application, the delay is condoned. I.A. 14613/2022 is disposed of.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 1,
+                        "paragraph_number": 3,
+                        "content": "The present suit has been filed on behalf of Plaintiff – Sterlite Technologies Ltd. (hereinafter, ‘Sterlite’) seeking permanent, mandatory injunction and damages against breach of confidence and misappropriation of confidential information and trade secrets against Defendant No.1 –  Anupam Singh, Defendant No.2 – Akhil Garg and Defendant No. 3 – HFCL Ltd. (hereinafter, ‘HFCL’). Defendant No.1 and Defendant No. 2 are ex-employees of Sterlite who resigned on 3rd August 2020, and 1st May 2020 respectively and subsequently joined HFCL.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 4,
+                        "content": "On 27th February, 2020, HFCL filed Indian Patent Application Nos. 202121014389 and 202121008259 (hereinafter, impugned applications) which were published on 11th March 2022. Defendant Nos. 1 and 2 were listed as the inventors in the impugned applications.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 5,
+                        "content": "The Plaintiff’s grievance is that the specification of the said patent applications incorporates its proprietary information, to which Defendant Nos. 1 and 2 had complete access to during their course of employment with Plaintiff company.",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 6,
+                        "content": "It is submitted by the Plaintiff that the terms of employment, appointment letter and Confidentiality Letter/ Non-Disclosure Agreements (NDAs) signed by Defendant Nos. 1 and 2 contain standard clauses to safeguard the confidential and proprietary information of the Plaintiff. The NDAs specifically obligated the Defendant Nos. 1 and 2 to not share or disclose any confidential information of the Plaintiff with any person including any competitors. Thus, in addition to their contractual obligations, Defendant Nos. 1 and 2 also owed a duty in common law to the Plaintiff to maintain confidentiality and to not misuse Plaintiff's proprietary information. The relevant paragraphs of the terms of employment signed by Defendant Nos. 1 state as under:  “16. Intellectual Property:",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 7,
+                        "content": "1  To the extent permitted by Applicable Law, any and all intellectual property including but not limited to inventions, discoveries, improvements,  copyrightable material, trademark ideas, designs and concepts (hereinafter collectively referred to as 'IP'), which you may make or conceive, either solely or jointly with others, during the Term of your employment with the Company, whether in the Company's premises or using the Company's property, or otherwise, shall be deemed to be the exclusive property of the Company and you hereby waive and/or assign any and all right, title, interest and/or ownership in the same in favour of the Company.”",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 8,
+                        "content": "The relevant part of the Confidentiality Letter signed by Defendant Nos. 2 state as under:  “2. You understand that the Company continues to be the sole and exclusive owner and has a universal worldwide right in perpetuity of all the results and proceeds of your services, work and labour during the course of your employment with the Company, in connection with your employment with the Company. You agree that all the intellectual property rights in any product, work, software (including the source and object code and documentation}, technical manuals, business research, development or any other work that has been or may be created / developed / made by you, either jointly or independently, during your employment with the Company (\"Inventions\") shall be and remain vested with the Company in accordance with the terms of this letter and such other documentation that you may have executed with the Company. You further acknowledge that the Inventions which have been developed by you during your employment with the Company and which may be protectable, either as patents, designs, copyrights or otherwise intellectual property, are \"works made for hire\" and that you shall not claim any right over the same. You hereby agree to assign to the Company or its designee, your entire right, title, and interest in and to the Inventions which you have developed during  your employment with the Company. You also waive. and agree never to assert any moral rights, or the equivalent thereof, against the Company with respect to the Inventions. You agree to waive any right to and refrain from raising any objection or claims pursuant to Section 19(4) of the Copyright Act, 1957. All copyrightable works, including software, and all Inventions which you have made during the course of your employment and all patent and copyright applications filed by you within a year after Employment Cessation Date will be disclosed by you.”",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 9,
+                        "content": "In this background it is noticed that the suit is not numbered as a commercial suit. Ld. counsel for both parties submit that the suit relates to confidential information and thus may not have been numbered as a Commercial suit as it may strictly not constitute a ‘commercial dispute’ as it relates to trade secrets and confidential information.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 10,
+                        "content": "In terms of the order dated 14th December, 2015 passed in CS(OS) 2265/2014 titled Sanofi Winthrop Industrie & Anr. v. Kirti B. Maheshwari & Anr., disputes of this nature relating to trade secrets and confidential information ought to be treated as `commercial disputes’. The relevant part of the order is as follows:  “12. It is the stand of the plaintiffs that the Agreement dated 12.10.2011 envisaged that any information shared by them with Astron was for the purpose of rendering services that were entrusted to them, and that the performance of the services would remain their exclusive property and that Astron was under any obligation to assign to the plaintiffs, any intellectual property right or interest as a result of the performance of services, on receiving payment.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 11,
+                        "content": "In fact, the descriptive heading of the Agreement dated 12.10.2011 itself is self-explanatory  as it has been titled as a “Development Services Agreement”, which would mean that the disputes arising from the said document would fall within the definition of a “commercial dispute”, as specified under Section 2(1)(c)(xvi) & (xviii) of the Ordinance, namely, technology development agreements and agreement for provision of services.",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 12,
+                        "content": "Having examined the various articles incorporated in the Development Services Agreement, particularly Article 2, which lays down the scope of the agreement and refers to performance of services by the predecessor-in-title of the defendants, Article 4 that elaborates the performance of the services, Article 5 which specifies the remuneration for the services that may be rendered by Astron, and Article 6 that deals with intellectual property and refers to patent applications and trademarks relating to the said product and the limited licences granted by the plaintiffs to Astron for its Background IP, the results of the development agreement and the proprietary rights therein, there is no manner of doubt that the dispute between the parties squarely falls within the definition of a “Commercial Dispute” as elaborated in Section 2(1)(c)(ix) and (xvi) to (xviii) of the Ordinance.”",
+                        "reference": "14."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 13,
+                        "content": "Considering the nature of the litigation, i.e., one involving trade secrets and confidential information as also subject-matter disclosed in patent applications, the present suit involves a `commercial dispute’ under the Commercial Courts Act. The definition of `commercial dispute’ under Section 2 (c) of the CCA, 2015 reads:  “(xvii) intellectual property rights relating to registered and unregistered trademarks, copyright, patent, design, domain names, geographical indications and semiconductor integrated circuits;”",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 14,
+                        "content": "The above would include disputes relating to intellectual property as  also disputes relating to breach of confidential information, trade secrecy research and development, subject-matter of patents or pending patent applications etc., The definition of `intellectual property’ under Section 2(c)(xvii) ought to be read broadly to include the broader subject matter related to intellectual property and not restricted to the specific species of intellectual property rights specified therein. The definition is not restrictive in nature. The suit thus ought to be numbered as a commercial suit.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 15,
+                        "content": "Accordingly, let the Registry renumber this suit as a commercial suit. List before the Joint Registrar on 15th September, 2022 i.e., the date fixed.",
+                        "reference": "12."
+                    }
+                ]
+            }
+        }
+    ]
+}

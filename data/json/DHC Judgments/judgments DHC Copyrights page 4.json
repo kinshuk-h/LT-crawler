@@ -1,0 +1,465 @@
+{
+    "meta": {
+        "directory": "data\\judgments\\DHC Judgments",
+        "request": {
+            "query": "Copyrights",
+            "page": 4,
+            "court": "DHC",
+            "start_page": 1,
+            "req_pages": 5,
+            "req_total": null,
+            "start_date": null,
+            "end_date": null
+        },
+        "response": {
+            "entry_start": 31,
+            "entry_end": 40,
+            "entry_total": 522,
+            "page": 4,
+            "page_total": 52,
+            "page_previous": 3,
+            "page_next": 5,
+            "page_processed": 4,
+            "saved_total": 36,
+            "generated_at": "2023-01-05T23:10:13"
+        },
+        "filters": {
+            "sent_count": {
+                "min_sents": "2",
+                "min_words": "20",
+                "tokenizer_path": null
+            }
+        }
+    },
+    "data": [
+        {
+            "case_number": "SC 659/2021",
+            "title": "ASHIM GUJRAL & ORS. VS MR KUVAM GUJRAL & ORS.",
+            "date": "28/02/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/ABL/judgement/01-03-2022//ABL28022022SC6592021_174600.pdf&ID=1920598884_0",
+            "document_path": "data\\judgments\\DHC Judgments\\1920598884_0.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 1,
+                        "content": "By way of the present judgment, I propose to decide the application filed by the plaintiffs under Order XXXIX Rules 1 and 2 of the Code of Civil Procedure, 1908 (CPC) for grant of interim injunction pending the disposal of the suit and the application filed on behalf of the defendant No.1 under Order XXXIX Rule 4 of the CPC seeking vacation of the ex parte ad  interim injunction granted on 16th December, 2021, in favour of the plaintiffs.",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 2,
+                        "content": "The plaintiffs have filed the present suit seeking permanent injunction against the defendants from infringing/passing off, inter alia, the trademarks, copyright of the plaintiffs and other ancillary reliefs. In the suit, it has been pleaded that:",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 3,
+                        "content": "1  The mark ‘MOTI MAHAL’ was coined and adopted by late Sh. Kundan Lal Gujral, grandfather of plaintiffs No.1 and 2 and father-in-law of plaintiff No.3, when he opened a restaurant under the distinctive trademark ‘MOTI MAHAL’ in Peshawar in the year 1920 and subsequently, in 1947 in Delhi.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 4,
+                        "content": "2  An application for registration of the mark ‘MOTI MAHAL’ in Class-29 was filed by late Sh. Kundan Lal Gujral on 28th August, 1992 seeking registration since 1947.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 5,
+                        "content": "3  Sh. Kundan Lal Gujral expired on 18th December, 1997 leaving behind plaintiffs No.1, 2 and 3 as his only Class I legal heirs. The only son of Sh. Kundan Lal Gujral, Mr. Nand Lal Gujral had predeceased him.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 6,
+                        "content": "4  Upon demise of Sh. Kundan Lal Gujral, all rights in the trademark ‘MOTI MAHAL’ devolved upon the plaintiffs No. 1 to 3.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 7,
+                        "content": "5  Plaintiff No.4, being a company incorporated by plaintiff No.2 in 2004, on a routine check conducted on the internet in March, 2021 came across a restaurant using the mark, ‘MOTI MAHAL DELUX’ located in Noida, being operated by defendant No.3 and consequently, a cease and desist notice dated 24th March, 2021 was issued to defendant No.3 by plaintiffs No.1 and 4. It emerged that the franchise  was given to defendant No.3 by defendant No.1, being the son of plaintiff No.1.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 8,
+                        "content": "6  It also came to notice of plaintiff No.1 that defendant No.1 had approached an existing franchisee of the plaintiffs in Mathura to enter into a franchise agreement with defendant No.2, in which defendant No.1 is the director, in place of the plaintiffs. This was done by defendant No.1 on the basis of a forged ‘No Objection Certificate’ granted by the plaintiff No.1 in favour of defendant No.2.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 9,
+                        "content": "7  A cease and desist notice was issued on behalf of the plaintiffs to defendant No.1 on 12th April, 2021. The said notice was replied by the defendant No. 1, wherein it was claimed that defendant No.1 is the owner of trademark ‘MOTI MAHAL’.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 11,
+                        "content": "The suit came up for hearing before the Court on 16th December, 2021, when, finding a prima facie case in favour of the plaintiffs, this Court was pleased to pass an ex parte ad interim injunction order restraining the defendants from using the trademarks ‘MOTI MAHAL’, ‘MOTI MAHAL DELUX’, ‘MOTIMAHAL CAFÉ’ and MOTI MAHAL (stylised), formative marks or any other marks deceptively similar to the plaintiff’s registered marks.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 12,
+                        "content": "Though written statement has not been filed by the defendant No.1 till date, reply was filed on behalf of defendant No.1 to the application filed on behalf of the plaintiff under Order XXXIX Rules 1 and 2 of the CPC and an application was also filed under Order XXXIX Rule 4 being I.A.678/2022  for vacation of the ex parte ad interim order granted by this Court on 16th December, 2021. Notice was issued by this Court on the application filed on behalf of defendant No. 1 under Order XXXIX Rule 4 of the CPC on 14th January, 2022.",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 13,
+                        "content": "Senior counsel appearing on behalf of the plaintiffs has made the following submissions:  (i)  Upon the death of Sh. Kundan Lal Gujral, the trademark ‘MOTI MAHAL’ devolved upon the plaintiffs, being the only Class I legal heirs of late Sh. Kundan Lal Gujral on account of the fact that his son Mr. Nand Lal Gujral had predeceased him.   (ii)  After the said trademark devolved upon the Class I heirs of Mr. Kundan Lal Gujral, it became their absolute property and the children of plaintiffs No.1 and 2 have no right by birth in the said trademarks.  (iii)  Subsequently, plaintiffs have also applied for and obtained several other registrations for ‘MOTI MAHAL’ and MOTI MAHAL formative marks in their name, as detailed in paragraph 5 of the plaint.  (iv)  After expiry of Sh. Kundan Lal Gujral, the plaintiffs have been running the business since 1997 and have exponentially expanded the business in the last 25 years acquiring goodwill and reputation. The plaintiffs now have over 100 franchises and company owned restaurants all over the world. Therefore, all goodwill and reputation in the trademark ‘MOTI MAHAL’ vests with the plaintiffs alone.  (v)  Defendant No.1, being the son of plaintiff No.1 was carrying on business under the trademark ‘MOTI MAHAL’ in a partnership with plaintiff No.1 under the firm ‘Moti Mahal Deluxe Hospitality’, (hereinafter Partnership Firm) from 12th May, 2017.  (vi)  Defendant No.1 is a director in defendant No.2 company, which does not have ‘MOTI MAHAL’ as part of its name and was only permitted to give out franchises under the brand ‘INDI GRILL’.  (vii)  Defendant No.1 and 2 started giving out franchises in respect of the marks ‘MOTI MAHAL and ‘MOTI MAHAL DELUX’ and also started transferring franchises from the Partnership Firm to the defendant No.2, without permission of any of the plaintiffs including his father, plaintiff no. 1.  (viii)  Defendant No.1 was mindful of the fact that any permission/permitted use has to be with consent of the registered proprietor in a written agreement and hence, defendant No.1 forged signatures of plaintiff No.1 on ‘No Objection Certificate’ issued to a third party for change of franchisor from the Partnership Firm to defendant No.2.  (ix)  Not being a Class I legal heir of late Sh. Kundan Lal Gujral, defendant No.1 has no rights whatsoever over the mark ‘MOTI MAHAL’ under the laws of inheritance. Merely being a descendant of late Sh. Kundan Lal Gujral does not entitle defendant No.1 to any rights over the mark ‘MOTI MAHAL’.  (x)  Reliance is also placed on Sections 8 and 9 of the Hindu Succession Act, 1956 to contend that the intellectual property inherited by the plaintiffs was acquired as a self-acquired property of the deceased Sh. Kundan Lal Gujral and not as a coparcenary property and therefore, defendant No.1 cannot have any rights in the same.  (xi)  Just because plaintiff No.1 is a shareholder in defendant No.1 company, defendant No.2 is not entitled to use the trademark owned by plaintiff No.1.  (xii)  Reliance is placed on Section 28 as well as Section 29 of the Trademarks Act, 1999 to contend that since there is no written agreement permitting defendants No.1 and 2 to use the aforesaid marks, defendant No.1 has committed infringement.  (xiii)  Reliance is placed on the judgments of Uttam vs Saubhag, MANU/SC/0256/2017; Commissioner of Wealth Tax, Kanpur & Ors. vs. Chander Sen, AIR 1986 SC 1753; judgment dated 07.12.2017 in CS (COMM) 1285 of 2016 titled as M/s MU Eating Point & Anr. vs. Capt. Aman & Ors; Midas Hygiene vs. Sudhir Bhatia, 2004 3 SCC 90.",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 14,
+                        "content": "Per contra, senior counsel appearing on behalf of the defendant No.1 has advanced the following submissions:  (i)  It is not disputed that the mark ‘MOTI MAHAL’ was coined and adopted by late Sh. Kundan Lal Gujral, who also applied for registration of the said trademark on 28th August, 1992 vide Application No. 580007.  (ii)  Sh. Kundan Lal Gujral died intestate on 18th December, 1997 and on that day defendant No.1 was a minor.  (iii)  Reliance was placed on Section 10 (Rule 3) and Sections 19 read with Section 6 of the Hindu Succession Act, 1956 (Old Act) to contend that the marks in question devolved on all the legal heirs in the branch of pre-deceased son of late Sh. Kundan Lal Gujral jointly.  (iv)  Reliance was also placed on Section 100 of the Trademarks Act, 1958 (Old Act), the corresponding provision to which is Section 133 in the Trademarks Act, 1999, (New Act) read with Rule 64 of the Trademarks Rules, 1965 (Old Rules), the corresponding provision to  which is Rule 55 in the Trade and Merchandise Marks Rules, 2017 (New Rules), to contend that the Trademarks Laws also recognise the same principle of successorship as envisaged in the Hindu Succession Act, 1956.  (v)  The Trademarks registry imposed a condition at the time of grant of registration that the mark ‘MOTI MAHAL’ shall be used by Joint Proprietors, which includes all legal heirs of Kundan Lal Gujral. In this regard reliance was placed on Section 24 of the Trademarks Act, 1958, (Old Act), the corresponding provision to which is Section 24 in the Trademarks Act, 1999 (New Act). Therefore, defendant No.1 is a co-owner of the mark ‘MOTI MAHAL’ in its various combinations.  (vi)  The property inherited by the defendant No. 1 was held in trust for him by his father, plaintiff No.1, as defendant No.1 was a minor when Mr. Kundan Lal Gujral died.  (vii)  The present suit has been filed on account of a matrimonial dispute between plaintiff No.1 and his wife, who is the mother of defendant No.1.  (viii)  Plaintiffs cannot have any objection to defendant No.2 using the mark ‘MOTI MAHAL’ as plaintiff No.1 is a 50% shareholder in the said company.  (ix)  Plaintiffs are not entitled to grant of interim injunction on account of acquiescence as defendant No.2 with the knowledge of plaintiff No.1, has granted franchise of ‘MOTI MAHAL’ on various dates. Reliance in this regard was placed on Section 33 of the Trademarks Act, 1999.  (x)  Defendant No. 1 has filed rectification application on 27th July, 2021 and on 10th August, 2021 and the plaintiffs No.1 to 3 have also filed Counter Statement on 3rd December, 2021.  (xi)  Reliance is placed on the judgments of Vineeta Sharma vs. Rakesh Sharma and Ors. (2020) 9 SCC 1, Jaggi Ayurvedic Pharmacy vs. Jaggi Ayurvedic Research Foundation 2009 SCC OnLine Del 3626, Krishna Sweets Pvt. Ltd. vs. M. Murali 2017 SCC OnLine Mad. 4405 and SRF Foundation & Anr. Vs. Ram Education Trust 2015 SCC OnLine Del 9479.",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 16,
+                        "content": "The first issue to be considered in the present case is whether defendant No.1 is entitled to any rights in the trademark ‘MOTI MAHAL’ on account of his being a great grandson of late Sh. Kundan Lal Gujral. It is an admitted position between the parties that the late Sh. Kundan Lal Gujral coined and adopted the mark ‘MOTI MAHAL’ and started using the same since 1947 in Delhi. It is also an admitted position that it was late Sh. Kundan Lal Gujral who filed the application for registration of the trademark ‘MOTI MAHAL’ on 28th August, 1992. Sh. Kundan Lal Gujral died intestate on 18th December, 1997. His son, Mr. Nand Lal Gujral had already predeceased him on 08th March, 1990. Therefore, it would have to be determined as to who would be the legal heirs of late Sh. Kundan Lal Gujral who would be entitled to the property in the aforesaid mark.",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 17,
+                        "content": "At this stage, for ease of reference relevant provisions of the Hindu Succession Act, 1956, (Old Act), relied upon by the plaintiffs have been reproduced below:  “8. The property of a male Hindu dying intestate shall devolve according to the provisions of this Chapter—  (a)  firstly, upon the heirs, being the relatives specified in class I of the Schedule;  [Section 8]  Son; daughter; widow; mother; son of a pre-deceased son; daughter of a pre-deceased son; son of a pre-deceased daughter; daughter of a pre-deceased daughter; widow of a pre-deceased son; son of a pre-deceased son of a pre-deceased son; daughter of a pre-deceased son of a pre-deceased son; widow of a predeceased son of a pre-deceased son.  xxx  xxx  xxx",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 18,
+                        "content": "Among the heirs specified in the Schedule, those in class I shall take simultaneously and to the exclusion of all other heirs; those in the first entry in class II shall be preferred to those in the second entry; those in the second entry shall be preferred to those in the third entry; and so on in succession.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 19,
+                        "content": "The property of an intestate shall be divided among the heirs in class I of the Schedule in accordance with the following rules:—  …  Rule 3.— The heirs in the branch of each pre-deceased son or each pre-deceased daughter of the intestate shall take between them one share.”",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 9,
+                        "paragraph_number": 20,
+                        "content": "In view of the fact that Sh. Kundan Lal Gujral died intestate, reference has to be made to Section 8 of the Hindu Succession Act, which lays down the general rules of succession in case of a Hindu male dying intestate. In terms of Section 8 read with the Schedule to the Act, the only Class-I legal heirs of late Sh. Kundan Lal Gujral would be plaintiffs No.1 and 2 (sons of predeceased son) and plaintiff No.3 (widow of predeceased  son). Defendant No.1, who being the son of plaintiff No.1, would not fall in the category of Class-I heirs. As per Section 9 of the Hindu Succession Act, Class-I heirs would be entitled to simultaneously succeed to the properties to the exclusion of all other legal heirs. In terms of Section 10 (Rule 3) of the Hindu Succession Act, all the Class-I heirs would be entitled to an equal share in the property of the deceased. Therefore, applying the principles of Sections 8, 9 and 10 as discussed above, the plaintiffs would equally inherit the properties of Late Shri Kundan Lal Gujral including the trademark ‘MOTI MAHAL’, to the exclusion of defendant no. 1.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 21,
+                        "content": "On behalf of the defendant No.1, it has been contended that the properties of late Sh. Kundan Lal Gujral, including the trademark would devolve upon all legal heirs in the branch of the predeceased son in terms of Section 19 read with Section 6 of the Hindu Succession Act.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 10,
+                        "paragraph_number": 22,
+                        "content": "To appreciate the aforesaid contention of the defendant, one would have to refer to the provisions of Section 6 of the Hindu Succession Act, as it stood in 1997, (prior to the amendment in 2005) and Section 19 of the Hindu Succession Act which are set out below:  “6. When a male Hindu dies after the commencement of this Act, having at the time of his death an interest in a Mitakshara coparcenary property, his interest in the property shall devolve by survivorship upon the surviving members of the coparcenary and not in accordance with this Act:  Provided that, if the deceased had left surviving him a female relative specified in Class I of the Schedule or a male relative, specified in that class who claims, through such female relative, the interest of the deceased in Mitakshara Coparcenary property shall devolve by testamentary or intestate succession, as the case may be, under this act and not by survivorship.  Explanation 1. -For the purposes of this section, the interest of a Hindu Mitakshara coparcener shall be deemed to be the share in the property that would have been allotted to him if a partition of the property had taken place immediately before his death, irrespective of whether he was entitled to claim partition or not.  Explanation 2. -Nothing contained in the proviso to this section shall be construed as enabling a person who has separated himself from the coparcenary before the death of the deceased or any of his heirs to claim on intestacy a share in the interest referred to therein.”  xxx  xxx  xxx",
+                        "reference": "12."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 23,
+                        "content": "If two or more heirs succeed together to the property of an intestate, they shall take the property,—  (a)  save as otherwise expressly provided in this Act, per capita and not per stirpes; and  (b)  as tenants-in-common and not as joint tenants.”",
+                        "reference": "19."
+                    },
+                    {
+                        "page": 11,
+                        "paragraph_number": 24,
+                        "content": "It is clear from the above that Section 6 would only be attracted, if at the time of death of Sh. Kundan Lal Gujral, he had interest in a Mitakshara coparcenary property. It is only in that event that the deceased’s interest in the property would devolve by survivorship upon all the surviving members of the coparcenary, subject to the proviso to Section 6. It is not even the case of the defendant No.1 that the trademark was a coparcenary property of late Sh. Kundan Lal Gujral or that Late Sh. Kundan Lal Gujral had constituted a Hindu Undivided Family (HUF), which existed at the time of his death. Therefore, reliance placed on Section 6 is misplaced. Similarly, reliance placed on Section 19 is also misplaced as Section 19 only provides that if ‘two or more heirs’ succeeds together to the property of an intestate, they shall take the property per capita and not per stripes and would be tenants in common and not as joint tenants. In the context of the present  case, the term ‘two or more heirs’, would be plaintiffs No.1, 2 and 3 as they are the ones who were the Class-I heirs who succeeded to the property of late Sh. Kundan Lal Gujral in terms of Section 8. Therefore, Section 19 does not create any right in favour of defendant no.1. In this regard, reference may be made to the judgment of the Supreme Court in Commissioner of Wealth tax, Kanpur & Ors vs. Chander Sen (supra), where the Supreme Court, while approving the findings of the Andhra Pradesh High Court, observed that property which devolved on a Hindu under Section 8 of the Hindu Succession Act would not be a HUF property in his hand vis-a-vis his own son. Therefore, the property which devolved upon Class-I legal heirs under Section 8 will constitute absolute properties of such Class-I heirs and their sons would not have any right by birth in such properties. Therefore, defendant No.1, not being a Class-I heir would not get any interest by birth in the property of late Sh. Kundan Lal Gujral. In view of the above, there is no merit in the submission of the defendant that the trademarks were held in trust for him by his father as he was a minor when Sh. Kundan Lal Gujral died.",
+                        "reference": "13."
+                    },
+                    {
+                        "page": 12,
+                        "paragraph_number": 25,
+                        "content": "Even if it is assumed that the trademark was an ancestral/coparcenary property of late Sh. Kundan Lal Gujral, since late Sh. Kundan Lal Gujral had left behind a female Class-I heir, being plaintiff no. 3, in view of the proviso to Section 6, the interest of late Sh. Kundan Lal Gujral in the coparcenary property would devolve by intestate succession and not by survivorship. In that event also plaintiffs No.1 to 3 would inherit the said property as tenants in common and their children would not have any right by birth in such properties. In this regard reference may be made to the  observations of the Supreme Court in Uttam vs. Saubhag (supra) which are set out below:  “20. The law, therefore, insofar as it applies to joint family property governed by the Mitakshara School, prior to the amendment of 2005, could therefore be summarised as follows:  (i)  When a male Hindu dies after the commencement of the Hindu Succession Act, 1956, having at the time of his death an interest in Mitakshara coparcenary property, his interest in the property will devolve by survivorship upon the surviving members of the coparcenary (vide Section 6).  (ii)  To proposition (i), an exception is contained in Section 30 Explanation of the Act, making it clear that notwithstanding anything contained in the Act, the interest of a male Hindu in Mitakshara coparcenary property is property that can be disposed of by him by will or other testamentary disposition.  (iii)  A second exception engrafted on proposition (i) is contained in the proviso to Section 6, which states that if such a male Hindu had died leaving behind a female relative specified in Class I of the Schedule or a male relative specified in that class who claims through such female relative surviving him, then the interest of the deceased in the coparcenary property would devolve by testamentary or intestate succession, and not by survivorship.  (iv)  In order to determine the share of the Hindu male coparcener who is governed by Section 6 proviso, a partition is effected by operation of law immediately before his death. In this partition, all the coparceners and the male Hindu's widow get a share in the joint family property.  (v)  On the application of Section 8 of the Act, either by reason of the death of a male Hindu leaving self-acquired property or by the application of Section 6 proviso, such property would devolve only by intestacy and not survivorship.  (vi)  On a conjoint reading of Sections 4, 8 and 19 of the Act, after joint family property has been distributed in accordance with Section 8 on principles of intestacy, the joint family  property ceases to be joint family property in the hands of the various persons who have succeeded to it as they hold the property as tenants-in-common and not as joint tenants.”",
+                        "reference": "14."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 26,
+                        "content": "Next, it has been contended on behalf of the defendant that Section 24 Trademarks Act, 1958, recognizes the same principle of joint ownership as envisaged in the Hindu Succession Act. In view of the fact that the defendant had no right in the aforesaid trademark under the succession laws, Sections 24 cannot come to the aid of the defendant no. 1. Similarly, Section 100 read with Rule 64 cannot be invoked by the defendant No. 1 in the present case as the defendant No.1 is not ‘successor in interest’ of late Sh. Kundan Lal Gujral.",
+                        "reference": "15."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 27,
+                        "content": "It is further contended on behalf of the defendant no. 1 that in the registration granted in respect of application filed by plaintiffs No. 1 to 3, the Trademark Registry has imposed a condition that the mark shall be used by joint proprietors and that would include the defendant No. 1 as well. I do not agree. The aforesaid condition imposed by the Trademark Registry is in respect of joint usage by the plaintiffs No.1 to 3 as it is the said plaintiffs who had applied to be substituted in place of late Sh. Kundan Lal Gujral upon his death. The said condition imposed by the Trademark Registry cannot inure to the benefit of the defendant No. 1.",
+                        "reference": "16."
+                    },
+                    {
+                        "page": 14,
+                        "paragraph_number": 28,
+                        "content": "Therefore, the position that emerges from above discussion is that plaintiffs No.1 to 3 are the sole registered owners of the wordmark ‘MOTI MAHAL’. Further, since the plaintiffs No.1 to 3 continued the business of late Sh. Kundan Lal Gujral after his demise in 1997, they made several other applications for registration of trademarks in respect of ‘MOTI MAHAL’ and other formative marks and obtained various registrations in their name,  details of which are given in paragraph 5 of the plaint. It is also not disputed that the plaintiffs developed the business ever since the demise of late Sh. Kundan Lal Gujral and the business has expanded exponentially in the said period, which is borne out by the sales and advertisement figures filed on behalf of the plaintiffs, supported by CA certificates. Plaintiffs have claimed that from 7 restaurants alone in 1997, plaintiffs have now more than 100 restaurants owned by the company as well as franchise. Therefore, over a period of time, plaintiffs have acquired tremendous goodwill and reputation in respect of the aforesaid marks. Any unauthorised user of the aforesaid mark by defendants in respect of similar services of running restaurants/cafes and granting franchises in respect of restaurants/cafes, would cause the public to believe that the same are connected with the plaintiff.",
+                        "reference": "17."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 29,
+                        "content": "Defendant No.1 was only a minor at the time of death of late Sh. Kundan Lal Gujral. He attained majority in 2012. Defendant No.1 was initiated in the family business by plaintiff No.1 by way of the Partnership Firm, in which defendant No.1 and plaintiff No.1 were partners. The said firm gave franchises in favour of third parties in respect of the restaurants bearing the name ‘MOTI MAHAL’ and its variations. But this was a permissive user authorized by plaintiff No.1, who is one of the registered owners of the mark.",
+                        "reference": "18."
+                    },
+                    {
+                        "page": 15,
+                        "paragraph_number": 30,
+                        "content": "The dispute arose when defendant No.1 started siphoning off business from the Partnership Firm to defendant No.2 company in which defendant No.1 is a director. Significantly, this company does not have ‘MOTI MAHAL’ as a part of its name, as it was not permitted to give franchises under the brand of ‘MOTI MAHAL’. Defendant No.1 started giving out  franchises from defendant No.2 company as well as transferring franchises from the Partnership Firm to defendant No.2 company without the permission of any of the plaintiffs. In terms of Section 29 read with Section 2(c) of the Trademarks Act, a permitted use can only be with a consent of the registered proprietor in writing. It is the case of the plaintiffs that the plaintiffs have not given any permission in writing to defendant No.1 or 2 to use the mark “MOTI MAHAL’ and that defendant no. 1 has forged the signatures of plaintiff No.1 on the ‘No Objection Certificate' issued to a third party for change of franchisor from the Partnership Firm to defendant No.2.",
+                        "reference": "19."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 31,
+                        "content": "Much emphasis has been laid by the defendant No.1 on the fact that plaintiff No.1 himself is a 50% shareholder in defendant No.2 company.  That may be so, but just because plaintiff No.1 is a 50% shareholder in defendant No.2 would not entitle defendant No.2 to use the trademarks that are registered in the name of plaintiff No.1 unless the plaintiff No.1 has authorized or permitted the defendant No.2 to do so. The aforesaid argument of the defendant No.1 is in the teeth of the basic principles of corporate law that a company has an existence independent of its shareholders.",
+                        "reference": "20."
+                    },
+                    {
+                        "page": 16,
+                        "paragraph_number": 32,
+                        "content": "A grievance is made by the defendant No.1 that plaintiff No.4 company which is owned by plaintiff No.2 is also using the trademark ‘MOTI MAHAL’ and formative marks and handing out franchises of restaurants bearing the name ‘MOTI MAHAL’. It has specifically been stated by the plaintiffs that plaintiff No.4 has been permitted the user of the aforesaid marks by the plaintiffs No.1 to 3. In any event, the user of the  impugned mark by plaintiff No.4 would not create any right in favour of defendant No.1 & 2 to use the said mark.",
+                        "reference": "21."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 33,
+                        "content": "Next, it is submitted on behalf of the defendant that the plaintiffs have made false statements in the plaint and there is gross concealment. It is further submitted that the plaintiffs were aware of the user of the marks by the defendant for a long time and there was an acquiescence on the part of the plaintiffs. The first franchise agreement pertaining to ‘MOTI MAHAL’ was granted by the Partnership Firm on 28th September, 2017.",
+                        "reference": "22."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 34,
+                        "content": "In para 39 of the application filed on behalf of the defendant under Order XXXIX Rule 4, the defendant No.1 has given details in respect of four franchisee agreements executed by the Partnership Firm which were all executed in 2017 to contend that there was acquiescence on part of the plaintiffs to the user of the trademarks by defendant No.1. The plaintiffs in the present suit have not made any grievance with regard to the aforesaid franchisee agreements as the same were entered into by the Partnership Firm in which plaintiff No.1 was one of the partners. The Partnership Firm has not been impleaded as a defendant in the suit.",
+                        "reference": "23."
+                    },
+                    {
+                        "page": 17,
+                        "paragraph_number": 35,
+                        "content": "The grievance of the plaintiff is with regard to various franchises granted by defendant No.1 through defendant No.2 and the franchises that have been transferred by defendant No. 1 from the Partnership Firm to defendant No.2. It is the case of the plaintiffs that defendant No.2 was not authorized or permitted to grant franchises in the name of ‘MOTI MAHAL’.  There is nothing to suggest that there has been any acquiescence on the part of the plaintiffs to the aforesaid franchises given by the defendant No.1 through defendant No.2. In fact, it is the case of the plaintiffs that defendant No.1 has forged the signatures of plaintiff No.1 on the ‘No Objection  Certificate’ issued to a third party for change of franchisor from the Partnership Firm to defendant No.2. Further, it has been stated in the plaint that on a routine check conducted on the internet in March, 2021 the plaintiffs came to know about the infringement of their mark by the defendants and immediately thereafter the plaintiffs filed the present suit. Therefore, it cannot be said that there was any delay or acquiescence on part of the plaintiffs. In any event, where adoption of a mark has been dishonest, mere delay in bringing the action cannot come in the way of grant of injunction. In this regard, reference be made to Midas Hygiene Industries Pvt. Ltd. vs. Sudhir Bhatia & Ors. 2004 (3) SCC 90 and Hindustan Pencils (P) Ltd. Vs. India Stationary Products Co., AIR 1990 Del 19.",
+                        "reference": "24."
+                    },
+                    {
+                        "page": 18,
+                        "paragraph_number": 36,
+                        "content": "Counsel for the plaintiffs has correctly placed reliance on the judgment of this Court in M/s MU Eating Point & Anr. Vs. Capt. Aman & Ors (supra) as in the said case also plaintiffs were the registered owners of the trademark ‘Tunde Kabab’ and had a statutory right to exclusive use of the same. In that case, the defendant could not produce any evidence in support of his contention of being legal heirs of the original owner of the said brand, whereas in the present case defendant No.1 could not establish any rights in the trademark under the laws of inheritance. In my opinion, this would not make any difference.  In view of the fact that the plaintiffs are the registered proprietors of the trademark ‘MOTI MAHAL’, they alone have the statutory right to exclusive use the said mark.",
+                        "reference": "25."
+                    },
+                    {
+                        "page": 18,
+                        "paragraph_number": 37,
+                        "content": "Even if the origin of the present dispute is on account of matrimonial discord between plaintiff No.1 and his wife as contended on behalf of defendant No.1, that would not change the legal position that defendant No.1 has no right over the trademarks ‘MOTI MAHAL’ and its variations in  terms of the inheritance laws as well as the provisions of the Trademarks Act.",
+                        "reference": "26."
+                    },
+                    {
+                        "page": 19,
+                        "paragraph_number": 38,
+                        "content": "Now I proposed to deal with the judgments cited on behalf of the defendants.  (i)  In Jaggi Ayurvedic Pharmacy vs. Jaggi Ayurvedic Research Foundation (supra), the decision has no relevance to the present case as in the said case disputes were between two brothers so there was no distinction between Class-I and Class-II heirs. Further, the mark ‘Jaggi’ was the surname of the parties, unlike ‘MOTI MAHAL’ which is a totally invented name.  (ii)  The judgment of the Supreme Court in Vineeta Sharma vs. Rakesh Sharma and Ors. (supra) deals with Section 6 of the Hindu Succession Act and its amendment in 2005. I have already held that Section 6 is not applicable to the present case and in the event of Section 6 is to be considered, it would have to be the pre-amended Section 6, as it existed prior to the amendment of 2005.  (iii)  The judgments in the case of SRF Foundation and Anr. (supra) and Krishna Sweets (supra) are not applicable in the present case as in the said cases, the defendants were running independent business which was not objected by the plaintiffs. In the present case, defendant No.1 has never done independent business or used the mark ‘MOTI MAHAL’ independently and as soon as he started franchising the mark independently, it was immediately objected to by the plaintiffs.",
+                        "reference": "27."
+                    },
+                    {
+                        "page": 19,
+                        "paragraph_number": 39,
+                        "content": "Therefore, none of the aforesaid cases cited on behalf of the defendant No. 1 are applicable in the facts and circumstances of the present case.",
+                        "reference": "28."
+                    },
+                    {
+                        "page": 20,
+                        "paragraph_number": 40,
+                        "content": "Keeping in view of the aforesaid, I am of the opinion that a prima facie case of infringement of trademarks and passing off is made out in favour of the plaintiffs and the balance of convenience also is in favour of the plaintiffs and against the defendant. Further, irreparable harm and injury would be caused to the plaintiffs if interim injunction restraining the defendants from using the registered trademarks of the plaintiffs is not passed.",
+                        "reference": "29."
+                    },
+                    {
+                        "page": 20,
+                        "paragraph_number": 41,
+                        "content": "Accordingly, the order dated 16th December, 2021 is confirmed till the disposal of the present suit. I.A.16755/2021 under Order XXXIX Rules 1 and 2 of the CPC is allowed and I.A. No. 678/2022under Order XXXIX Rule 4 of the CPC is dismissed.",
+                        "reference": "30."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "COC 4/2021",
+            "title": "THE POLO/LAUREN COMPANY L P VS SANDEEP ARORA  & ANR.",
+            "date": "01/02/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/ABL/judgement/05-02-2022//ABL01022022COC42021_001500.pdf&ID=1920598884_1",
+            "document_path": "data\\judgments\\DHC Judgments\\1920598884_1.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 1,
+                        "content": "This rectification petition has been filed under Section 50 of the Copyright Act, 1957 (hereinafter ‘the Act’) seeking removal of the registration made in the Register of Copyright in respect of impugned artwork of the respondent no.1, namely, ‘SPORTS POLO’ under No. A136709/2021, obtained by the respondent no.1 in the year 2021.",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 1,
+                        "paragraph_number": 2,
+                        "content": "It is the case of the petitioner that (i) the petitioner is the registered proprietor and user of the mark ‘POLO SPORT’ since the year 1967 along  with a device mark of a ‘horse with a person riding it while flinging his club to hit a ball in the sport of polo’; (ii) the trademarks of the petitioner are formative in nature and the petitioner has created various combinations and versions of the same; (iii) the formative marks of the petitioner are registered as trademarks in India under the Trade Marks Act, 1999 in respect of various goods and services inter alia clothing, textiles, foot-wear, soaps, perfumes etc., details of which have been provided by the petitioner; (iv)the trademark of the petitioner is a “well-known” mark, as recognized by this Court in its judgment dated 19th December, 2011 in CS(OS) 1763/2005 titled as The Polo/Lauren Company L.P. Vs. Rohit S. Bajaj and Ors. and the aforesaid trademarks have acquired immense good will and reputation over the years; (v) the said formative marks are capable of distinguishing goods of the petitioner with those of the others; (vi) the artistic work adopted by the respondent no.1 in the impugned copyright registration is an infringement of the petitioner’s literary and artistic copyright as the respondent no.1 has substantially reproduced in material form many aspects of the petitioner’s registered marks; (vii) the respondent no.1 has also misappropriated the words ‘Polo’ and ‘Sport’ in their entirety and the only distinguishing feature is that the respondent no.1 has added four horses with riders who are playing the game of polo, as compared to the petitioner’s mark having one horse with a rider playing polo; (viii) the work of the respondent no.1 is not an original literary/artistic work in respect of Section 13 (1) (a) of the Act; (ix) the Registry failed to act in terms of Section 45 of the Act, as a careful search of the Register of Trademarks would have clearly indicated the similarity between the petitioner’s trademarks, in respect of which the copyright also subsists in the respondents’ artistic  work; and, (x) since the work of the respondents is an unpublished copyright, no prejudice would be caused to the respondents if the said mark is removed from the Register of Copyrights. Accordingly, the counsel for the petitioner submitted that the Registration Certificate granted in favour of the respondent no.1 should be cancelled.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 3,
+                        "content": "A reply has been filed on behalf of respondent no.1 wherein it is stated that (i) the said respondent has been using the words ‘ARRAS SPORTS POLO’ since the year 2020 in their perfumery business; (ii) their copyrighted mark is substantially different from that of the petitioner’s marks; and, (iii) even in respect of logo, the respondent is using four horses with riders on them, who are not playing the game of polo and therefore, the same is very different from the registered trademarks of the petitioner.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 5,
+                        "content": "In order to determine whether the logo of the respondent no.1 is a substantive reproduction of the trademarks of the petitioner, it would be apposite to refer to the two competing marks/logos, as set out below:  PETITIONER’S MARKS  RESPONDENT’S LOGO",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 6,
+                        "content": "A perusal of the above reveals that the logo of the respondent no.1 is an imitation of the registered trademarks of the petitioner, hence, the petitioner is ‘a person aggrieved’ for the purposes of Section 50 of the Act and is entitled to maintain the present petition. Section 50 of the Act is set out below:  “50. Rectification of Register by Appellate Board.-The Appellate Board on application of the registrar of Copyrights or of any person aggrieved, shall order the rectification of the Register of Copyrights by- (a)  the making of any wrongly omitted to the register, or  (b)  the expunging of any entry wrongly made in, or remaining on, the register,  or  (c)  the correction of any error or defect in the register.”",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 7,
+                        "content": "In order to satisfy the conditions of Section 13 (1) (a) of the Act, an artistic work would have to satisfy the test of originality. Section 13(1) (a) of the Act is set out hereinbelow for ease of reference:  “13. Works in which copyright subsists.— (1) Subject to the provisions of this section and the other provisions of this Act, copyright shall subsist throughout India in the following classes of works, that is to say,—  It is clear from a comparison of the competing marks/logos that the respondent no.1 has used four horses with riders, tilted in a manner very similar to the logo of ‘horse with a person riding it while flinging his club to hit a ball in the sport of polo’, which is a registered trademark of the petitioner. While comparing the two marks, the qualitative differences have to be examined and not the quantitative difference. So, the respondent no.1 using four horses as against the petitioner using one would not, in my mind, make a qualitative difference. Not only the horses, the respondent no.1 has also used the word marks of the petitioner i.e. SPORTS and POLO. The differences between the logo of the respondent no.1 and the trademarks of the petitioner pointed out by the counsel for the respondent no.1 are minor differences and not significant enough to make the logo, which is subject matter of the impugned copyright, an original artistic work eligible to be registered as a copyright.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 8,
+                        "content": "When seeking registration under the Act in respect of artistic work, the application has to include the statement to the fact that the said artistic work is used or is capable of being used in relation to any goods and services and has to be accompanied by a certificate from the Registry of Trademarks referred to in Section 3 of the Act to the effect that no trademark identical and/or deceptively similar to such artistic work has been registered under the Trademarks Act. This stems from the proviso to Section 45 (1) of the Act, reproduced hereinafter:  “45. Entries in Register of Copyrights.— (1) The author or publisher of, or the owner of or other person interested in the copyright in, any  work may make an application in the prescribed form accompanied by the prescribed fee to the Registrar of Copyrights for entering particulars of the work in the Register of Copyrights:  [Provided that in respect of an artistic work which is used or is capable of being used in [relation to any goods or services], the application shall include a statement to that effect and shall be accompanied by a certificate from the Registrar of Trade Marks referred to in [section 3 of the Trade Marks Act, 1999 (47 of 1999)], to the effect that no trade mark identical with or deceptively similar to such artistic work has been registered under that Act in the name of, or that no application has been made under that Act for such registration by, any person other than the applicant.]  (2)  On receipt of an application in respect of any work under subsection (1), the Registrar of Copyrights may, after holding such inquiry as he may deem fit, enter the particulars of the work in the Register of Copyrights.”",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 9,
+                        "content": "Clearly, the respondent no.2 has failed to conduct this exercise in the present case before issuing the certificate in favour of respondent no.1. If the respondent no.2 had checked the records of the Register of Trademarks, it would have emerged that trademarks that are identical/deceptively similar to the logo of the respondent no.1 have been granted registration in favour of the petitioner.",
+                        "reference": "9."
+                    },
+                    {
+                        "page": 6,
+                        "paragraph_number": 10,
+                        "content": "This Court in Marico Ltd. Vs. Mrs. Jagjit Kaur, 2018 SCC OnLine Del 8488 while dealing with the issue of rectification of copyright had observed as under:  “5. The question that arises in this case is as to whether the Respondent's impugned copyright registration is an “entry wrongly made in or remaining on the Copyright Register”. Any entry made of a work which is not an original work would be an entry wrongly made in the Register. A perusal of the Respondent's registration shows that the Respondent claims the “NIHAR UTTAM” label extracted above to be  an ‘artistic work’ published for the first time in 2002. Copyright registration can only be granted to original artistic works. Registration of copyright cannot be granted to works which are a reproduction or imitation of other original works. If any person has obtained registration of copyright of a work which is not an original work under Section 13 of the Copyright Act, such a registration or entry made in the register would be an entry wrongly made.",
+                        "reference": "10."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 11,
+                        "content": "A perusal of the labels extracted hereinabove shows that the comparative features of the two labels are so similar that “NIHAL UTTAM” label can safely be termed as colourful imitation or substantive reproduction. Colour scheme between the two labels is the same. The manner in which the coconut tree is arranged is the same, the arrangement of two broken coconuts is similar. Due to the long user in the market, the Appellant's label was quite extensively used and hence the Respondent had access to the Appellant's label. It is the settled position in law that when two labels or artistic works are compared, the broad features are to be compared and not by putting the two labels side by side.”",
+                        "reference": "6."
+                    },
+                    {
+                        "page": 7,
+                        "paragraph_number": 12,
+                        "content": "The above observations are squarely applicable to the facts and circumstances of the present case. The registered trademarks of the petitioner i.e. ‘POLO SPORT’ and ‘horse with a person riding it while flinging his club to hit a ball in the sport of polo’ have been widely used in the market for a variety of products since 1967. The judgment of this Court in The Polo/Lauren Company L.P (supra) unequivocally records that the petitioner’s marks are well-known in the market and the products of the petitioner enjoy high reputation and goodwill. Additionally, the petitioner has also filed documents containing advertisements and promotional material of the petitioner along with news articles detailing the list of stores operated by the petitioner in India. The aforesaid documents clearly establish that the petitioner’s trademarks have been in the market since 1967 and owing to their popularity, have been substantially reproduced by the  respondent no.1 in its logo. The logo of the respondent no.1 which is subject matter of the impugned copyright contains the words SPORTS and POLO and the image of four horses with riders. The arrangement of the tilted horses as well as the colour scheme of the aforesaid logo leaves no doubt in my mind that the respondent no.1 has dishonestly and in bad faith copied the registered trademarks of the petitioner. The artistic works in the logo of the respondent no.1 is almost an imitation of the trademarks of the petitioner and is not an original artistic work for the purposes of registration under the Act and deserves to be expunged from the Register of Copyrights.",
+                        "reference": "11."
+                    },
+                    {
+                        "page": 8,
+                        "paragraph_number": 13,
+                        "content": "Accordingly, the present petition is allowed. The respondent no.2 is directed to cancel the impugned copyright registration for the artwork titled ‘SPORTS POLO’ under No. A-136709/2021 from the Register of Copyrights within eight weeks.",
+                        "reference": "12."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "SC 485/2020",
+            "title": "STAR INDIA PVT LTD & ANR. VS AFILMYWAP.TOP & ORS.",
+            "date": "17/01/2022",
+            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/SKT/judgement/18-01-2022//SKT17012022SC4852020_002027.pdf&ID=1920598884_2",
+            "document_path": "data\\judgments\\DHC Judgments\\1920598884_2.pdf",
+            "paragraphs": {
+                "adobe_api": [
+                    {
+                        "page": 1,
+                        "paragraph_number": 1,
+                        "content": "The plaintiffs have filed the instant suit for injunction and damages on the ground that their exclusive rights to the original content in the cinematograph film \"Laxmii\" (formerly known as Laxmi Bomb) are likely to be violated.",
+                        "reference": "1."
+                    },
+                    {
+                        "page": 1,
+                        "paragraph_number": 2,
+                        "content": "According to the plaintiffs, release of the film \"Laxmii\" has been postponed multiple times due to Covid-19 pandemic in India and was finally released on 9th November 2020 on Disney+ Hotstar. Film has been co- produced by the plaintiffs, Cape of Good Films LLP (defendant No.51), Tusshar Entertainment House and Shabinaa Entertainment. However, the Intellectual Property Rights in the film are jointly held only by the plaintiffs and defendant No.51. Consequently, defendant No.51 and plaintiffs have the exclusive rights as enumerated under Section 14( d) of the Copyright Act, 1957Act.",
+                        "reference": "2."
+                    },
+                    {
+                        "page": 2,
+                        "paragraph_number": 3,
+                        "content": "He has further submitted that the rogue websites, which are arrayed as defendant Nos.1 to 50, have, in the past, infringed their statutory rights i.e. copyrights in the cinematograph films produced on earlier occasions. The past infringements have been tabulated by the plaintiffs at page 177 of the plaintiffs' documents folder. The various 'exclusive rights' that, inter alia, would be deemed to have been infringed/violated by the defendant Nos.1 to 50 are:  “a. The right of making a copy of the Film including the storing of it in any medium by electronic or other means; b. The right of communicating the Film to the public.”  Therefore, any hosting, streaming, reproducing, distributing, making available to the public, and/or communicating to the public of the film, or facilitating the same, without authorisation of the plaintiffs, by any means on  any platform including internet and mobile would be illegal and amount to violation of the plaintiffs' copyright protected under the Act.",
+                        "reference": "3."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 4,
+                        "content": "This Court was informed that defendant Nos.52 and 53 are the domain name registrars [in short \"DNRs\"] while defendant nos. 54 to 62 are the Internet Service Providers [in short \"ISPs\"] and that the Department of Telecommunication [in short \"DOT\"] and the Ministry of Electronics and Information Technology [in short \"MEITY\"] have also been arrayed as defendant Nos.63 and 64 respectively. It is to be noted, defendant no. 65 is Mr. Ashok Kumar i.e. the John Doe defendant(s).",
+                        "reference": "4."
+                    },
+                    {
+                        "page": 3,
+                        "paragraph_number": 5,
+                        "content": "Learned counsel for defendant No.53 as well as learned counsel for defendant Nos.63 and 64 have appeared and submitted that they have complied with the directions passed by this Court vide order dated 03.11.2020. They have further submitted that defendant Nos. 53, 63 and 64 have no objection to the decree of permanent injunction being passed against them, subject to the plaintiffs giving up the claim for damages and costs. Learned counsel for defendant No.53 further submitted that he has no objection if prayer clause (i), (iii) and (iv) are allowed and prayer clause ( ii) is allowed to the extent as under:  “ii. Pass an order and decree directing the Defendant  No. 52 and 53, its directors, partners, proprietors, officers, affiliates, servants, employees, and all others in capacity of principal or agent acting for and, on its behalf, or anyone claiming through, by or under it, to suspend the domain name registration of domain names of Defendants No. 1 by Defendant No. 52 (Public Domain Registrar) and Defendants No. 2 by Defendant No. 53 (GoDaddy) and as already identified by the Plaintiffs in the instant suit in Memo of Parties.”",
+                        "reference": "5."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 7,
+                        "content": "In response to the aforesaid, learned counsel for plaintiffs on instructions had submitted that plaintiffs shall not press for damages and costs against defendants and further prays that prayer clause (i) to (iv) (clause (ii) to the extent as prayed by learned counsel for defendant No.53) be allowed. However, submitted that plaintiffs shall invite a judgment on this aspect.",
+                        "reference": "7."
+                    },
+                    {
+                        "page": 4,
+                        "paragraph_number": 8,
+                        "content": "Today, learned counsel appearing on behalf of plaintiffs has submitted that in view of concession put forth by counsel representing defendant Nos.53, 63 and 64, the present suit be decreed in terms of Prayer Clause (i) to (iv) (clause ii to the extent as prayed by learned counsel for defendant No.53) and plaintiffs give up their claims with regard to prayers mentioned prayer clause from (v) to (viii).",
+                        "reference": "8."
+                    },
+                    {
+                        "page": 5,
+                        "paragraph_number": 10,
+                        "content": "In view of the above, the present suit is decreed in terms of Prayer Clause mentioned in prayer clause (i), (iii) and (iv) of present suit are allowed and prayer clause ii of present is allowed to the extent as under which shall form part of the decree:  “(ii.) Pass an order and decree directing the Defendant No. 52 and 53, its directors, partners, proprietors, officers, affiliates, servants, employees, and all others in capacity of principal or agent acting for and, on its behalf, or anyone claiming through, by or under it, to suspend the domain name registration of domain names of Defendants No. 1 by Defendant No. 52 (Public Domain Registrar) and Defendants No. 2 by Defendant No. 53 (GoDaddy) and as already identified by the Plaintiffs in the instant suit in Memo of Parties.”",
+                        "reference": "10."
+                    }
+                ]
+            }
+        },
+        {
+            "case_number": "CS(COMM) 625/2021",
+            "title": "VS",
+            "date": "24/12/2021",
+            "document_href": "https://delhihighcourt.nic.in/writereaddata/OrderSAN_PDF/svn/2021/1640356675551_20303_2021.pdf",
+            "document_path": null
+        },
+        {
+            "case_number": "CS(COMM) 716/2021",
+            "title": "VS",
+            "date": "24/12/2021",
+            "document_href": "https://delhihighcourt.nic.in/writereaddata/OrderSAN_PDF/svn/2021/1640360703073_38179_2021.pdf",
+            "document_path": null
+        },
+        {
+            "case_number": "CS(COMM) 369/2019",
+            "title": "VS",
+            "date": "17/12/2021",
+            "document_href": "https://delhihighcourt.nic.in/writereaddata/OrderSAN_PDF/ppk/2021/1639735578705_42451_2021.pdf",
+            "document_path": null
+        },
+        {
+            "case_number": "CS(COMM) 594/2019",
+            "title": "VS",
+            "date": "17/12/2021",
+            "document_href": "https://delhihighcourt.nic.in/writereaddata/OrderSAN_PDF/ppk/2021/1639735578815_18681_2021.pdf",
+            "document_path": null
+        },
+        {
+            "case_number": "CS(COMM) 659/2021",
+            "title": "VS",
+            "date": "16/12/2021",
+            "document_href": "https://delhihighcourt.nic.in/writereaddata/OrderSAN_PDF/ykh/2021/1639724028514_24362_2021.pdf",
+            "document_path": null
+        },
+        {
+            "case_number": "CS(COMM) 655/2021",
+            "title": "VS",
+            "date": "15/12/2021",
+            "document_href": "https://delhihighcourt.nic.in/writereaddata/OrderSAN_PDF/svn/2021/1639572881229_59488_2021.pdf",
+            "document_path": null
+        }
+    ]
+}

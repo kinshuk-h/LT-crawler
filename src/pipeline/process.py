@@ -121,7 +121,17 @@ def process(prog, args, judgment_batches, data_indexes, **_):
                 batch['merger_requests'] = utils.merge_dicts(batch['merger_requests'], merger_requests)
                 judgment_indexes = unique_judgment_indexes
 
-            if (indexes := batch.get('indexes', None)) is not None:
+                print("done")
+
+            logger.info(
+                "de-duplication, step 3: total: %d, unique: %d (pruned: %s)",
+                len(judgments), len(judgment_indexes),
+                len(judgments) - len(judgment_indexes)
+            )
+
+            # Check for any pruned results:
+            if len(judgment_indexes) < len(judgments):
+                indexes = batch.get('indexes')
                 # Delete files which are redundant.
                 for file in utils.filter_by_index(batch['judgments'], indexes, inverse=True):
                     os.remove(file)
@@ -138,11 +148,7 @@ def process(prog, args, judgment_batches, data_indexes, **_):
                 }
 
                 if args.save_json:
-                    unique_judgments = list(utils.filter_by_index(judgments, judgment_indexes))
-                    logger.info(
-                        "de-duplication, step 3: total: %d, unique: %d (pruned: %s)",
-                        len(judgments), len(unique_judgments), len(judgments) - len(unique_judgments)
-                    )
+                    judgments = list(utils.filter_by_index(judgments, judgment_indexes))
                     print("    updating filtered results to JSON ... ", end='', flush=True)
                     data['data'] = judgments
                     utils.fs.write_json(batch['json'], data)

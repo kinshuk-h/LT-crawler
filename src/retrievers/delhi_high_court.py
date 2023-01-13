@@ -1,4 +1,5 @@
 import re
+from urllib.parse import urlparse, urlunparse
 
 import bs4
 import aiohttp
@@ -11,7 +12,8 @@ logger = root_logger.getChild(__name__.rsplit('.', maxsplit=1)[-1])
 
 class DHCJudgmentRetriever(JudgmentRetriever):
     """ Aids in retrieval of judgment documents from the Delhi High Court's website. """
-    BASE_URL             = "http://dhcappl.nic.in:8080/FreeText"
+    BASE_NETLOC          = "dhcappl.nic.in"
+    BASE_URL             = f"http://{BASE_NETLOC}/FreeText"
     FREE_TEXT_SEARCH_URL = f"{BASE_URL}/GetSearchResult.do"
     SCRIPT_URL_REGEX     = re.compile(r"(?ui)window\.open\('([^']+)',")
 
@@ -68,4 +70,8 @@ class DHCJudgmentRetriever(JudgmentRetriever):
                 content = await response.text()
                 if match := cls.SCRIPT_URL_REGEX.search(content):
                     url = match[1]
+            # Change netloc to fix broken URLs from the webpage
+            parsed_url = urlparse(url)
+            parsed_url = parsed_url._replace(netloc=cls.BASE_NETLOC)
+            url = urlunparse(parsed_url)
         return url

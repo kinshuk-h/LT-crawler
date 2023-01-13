@@ -12,6 +12,17 @@ class SentenceCountFilter(Filter):
 
     def __init__(self) -> None:
         super().__init__()
+
+        try:
+            nltk.data.find("tokenizers/punkt.zip")
+        except LookupError:
+            nltk.download("punkt")
+
+        try:
+            nltk.data.find("corpora/stopwords")
+        except LookupError:
+            nltk.download("stopwords")
+
         self.tokenizer = nltk.data.load("tokenizers/punkt/english.pickle")
         self.stopwords = { *nltk.corpus.stopwords.words("english") }
 

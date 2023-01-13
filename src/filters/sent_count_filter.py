@@ -14,7 +14,7 @@ class SentenceCountFilter(Filter):
         super().__init__()
 
         try:
-            nltk.data.find("tokenizers/punkt.zip")
+            nltk.data.find("tokenizers/punkt")
         except LookupError:
             nltk.download("punkt")
 

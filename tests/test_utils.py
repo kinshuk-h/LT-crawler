@@ -4,9 +4,21 @@ Test suite for utility functions.
 
 import collections
 
-# import pytest
+import pytest
 
 from src import utils
+
+constrain_test_data = [
+    ( "hello", 10, "hello     " ),
+    ( "hello world this is a somewhat long string", 10, "hell...ing" )
+]
+
+@pytest.mark.parametrize("string, length, final_string", constrain_test_data)
+def test_constrain(string, length, final_string):
+    new_string = utils.constrain(string, length)
+    assert len(new_string) == length
+    assert new_string == final_string
+
 
 # pylint: disable-next=redefined-outer-name,missing-function-docstring
 def test_merge_dicts():

@@ -12,9 +12,9 @@ from .progress import ProgressBar, IndeterminateProgressCycle, ProgressBarManage
 def constrain(string, width=30):
     """ Constrain the length of a given string to the specified width. """
     if len(string) > width:
-        half_len = len(string) >> 1
-        oth_half_len = len(string) - half_len
-        string = string[:half_len-1] + "..." + string[oth_half_len-2:]
+        half_len = width >> 1
+        oth_half_len = width - half_len
+        string = string[:half_len-1] + "..." + string[-oth_half_len+2:]
     return f"{string:{width}}"
 
 def log_time(logger: logging.Logger, level = logging.INFO):

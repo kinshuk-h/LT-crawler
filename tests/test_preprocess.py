@@ -41,7 +41,7 @@ judgment_index_test_data = [
         ({
             'case_number': 'SC 188/2022',
             # pylint: disable-next=line-too-long
-            'document_href': 'http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/12-10-2022//PMS10102022SC1882022_124159.pdf&ID=1921559389_1'
+            'document_href': 'http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/PMS/judgement/12-10-2022//PMS10102022SC1882022_124159.pdf&ID=1921559389_1'
         }, "SC"), {
             'json': os.path.join("tests", "data", "json", "SC Judgments", "judgments SC sample page 1.json"),
             'index': 0
@@ -51,7 +51,7 @@ judgment_index_test_data = [
         ({
             'case_number': 'SC 316/2021',
             # pylint: disable-next=line-too-long
-            'document_href': 'http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/04-10-2022//PMS27092022SC3162021_150037.pdf&ID=1921559389_5'
+            'document_href': 'http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/PMS/judgement/04-10-2022//PMS27092022SC3162021_150037.pdf&ID=1921559389_5'
         }, "SC"), {
             'json': os.path.join("tests", "data", "json", "SC Judgments", "judgments SC sample page 1.json"),
             'index': 1
@@ -61,7 +61,7 @@ judgment_index_test_data = [
         ({
             'case_number': 'SC 420/1969',
             # pylint: disable-next=line-too-long
-            'document_href': 'http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/04-10-2022//PMS27092022SC3162021_156937.pdf&ID=1921559389_5'
+            'document_href': 'http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/PMS/judgement/04-10-2022//PMS27092022SC3162021_156937.pdf&ID=1921559389_5'
         }, "SC"), None
     )
 ]

@@ -36,7 +36,7 @@
             "case_number": "SC 612/2021",
             "title": "COLGATE PALMOLIVE COMPANY & ANR. VS JOHN DOES & ANR.",
             "date": "26/09/2022",
-            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/27-09-2022//PMS26092022SC6122021_181940.pdf&ID=1143135753_5",
+            "document_href": "http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/PMS/judgement/27-09-2022//PMS26092022SC6122021_181940.pdf&ID=1143135753_5",
             "document_path": "data\\judgments\\DHC Judgments\\1143135753_5.pdf",
             "paragraphs": {
                 "adobe_api": [
@@ -155,7 +155,7 @@
             "case_number": "SC 427/2022",
             "title": "FDC LIMITED VS NILRISE PHARMACEUTICALS PVT. LTD. AND ANR.",
             "date": "23/09/2022",
-            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/NAC/judgement/23-09-2022//NAC23092022SC4272022_182331.pdf&ID=1143135753_7",
+            "document_href": "http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/NAC/judgement/23-09-2022//NAC23092022SC4272022_182331.pdf&ID=1143135753_7",
             "document_path": "data\\judgments\\DHC Judgments\\1143135753_7.pdf",
             "paragraphs": {
                 "adobe_api": [
@@ -413,9 +413,9 @@
                 "22/09/2022"
             ],
             "document_href": [
-                "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/YVA/judgement/22-09-2022//YVA22092022CW79462018_161915.pdf&ID=1143135753_9",
-                "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/YVA/judgement/22-09-2022//YVA22092022CW90902020_162130.pdf&ID=563298999_1",
-                "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/YVA/judgement/22-09-2022//YVA22092022CW81902018_162017.pdf&ID=563298999_2"
+                "http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/YVA/judgement/22-09-2022//YVA22092022CW79462018_161915.pdf&ID=1143135753_9",
+                "http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/YVA/judgement/22-09-2022//YVA22092022CW90902020_162130.pdf&ID=563298999_1",
+                "http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/YVA/judgement/22-09-2022//YVA22092022CW81902018_162017.pdf&ID=563298999_2"
             ],
             "document_path": "data\\judgments\\DHC Judgments\\1143135753_9.pdf",
             "paragraphs": {

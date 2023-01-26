@@ -45,8 +45,8 @@
                 "12/10/2022"
             ],
             "document_href": [
-                "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/NAC/judgement/12-10-2022//NAC12102022WO762021_183759.pdf&ID=1718298583_0",
-                "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/NAC/judgement/12-10-2022//NAC12102022WO552021_183727.pdf&ID=1718298583_1"
+                "http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/NAC/judgement/12-10-2022//NAC12102022WO762021_183759.pdf&ID=1718298583_0",
+                "http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/NAC/judgement/12-10-2022//NAC12102022WO552021_183727.pdf&ID=1718298583_1"
             ],
             "document_path": "data\\judgments\\DHC Judgments\\1718298583_0.pdf",
             "paragraphs": {
@@ -316,7 +316,7 @@
             "case_number": "SC 271/2022",
             "title": "BASF SE VS GSP CROP SCIENCE PRIVATE LIMITED",
             "date": "07/10/2022",
-            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/10-10-2022//PMS07102022SC2712022_172336.pdf&ID=1718298583_2",
+            "document_href": "http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/PMS/judgement/10-10-2022//PMS07102022SC2712022_172336.pdf&ID=1718298583_2",
             "document_path": "data\\judgments\\DHC Judgments\\1718298583_2.pdf",
             "paragraphs": {
                 "adobe_api": [
@@ -405,7 +405,7 @@
             "case_number": "OMPICOMM 190/2022",
             "title": "DR REDDYS LABORATORIES LIMITED THROUGH AUTHORIZED SIGNATORY MR GOPALA KRISHNA GANGAVELLI VS ALPHA SCIENCES PTE LIMITED",
             "date": "07/10/2022",
-            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PRJ/judgement/11-10-2022//PRJ07102022OMPICOMM1902022_204331.pdf&ID=1718298583_3",
+            "document_href": "http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/PRJ/judgement/11-10-2022//PRJ07102022OMPICOMM1902022_204331.pdf&ID=1718298583_3",
             "document_path": "data\\judgments\\DHC Judgments\\1718298583_3.pdf",
             "paragraphs": {
                 "adobe_api": [
@@ -626,7 +626,7 @@
             "case_number": "SC 183/2022",
             "title": "SANDVIK INTELLECTUAL PROPERTY AB & ANR. VS SAI DEEPA ROCK DRILLS PRIVATE LIMITED & ANR.",
             "date": "22/09/2022",
-            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/JIS/judgement/27-09-2022//JIS22092022SC1832022_160958.pdf&ID=1718298583_4",
+            "document_href": "http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/JIS/judgement/27-09-2022//JIS22092022SC1832022_160958.pdf&ID=1718298583_4",
             "document_path": "data\\judgments\\DHC Judgments\\1718298583_4.pdf",
             "paragraphs": {
                 "adobe_api": [
@@ -661,7 +661,7 @@
             "case_number": "CAP 2/2022",
             "title": "OTSUKA PHARMACEUTICAL CO LTD VS THE CONTROLLER OF PATENTS",
             "date": "22/09/2022",
-            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/JIS/judgement/07-10-2022//JIS22092022CAP22022_210353.pdf&ID=1718298583_5",
+            "document_href": "http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/JIS/judgement/07-10-2022//JIS22092022CAP22022_210353.pdf&ID=1718298583_5",
             "document_path": "data\\judgments\\DHC Judgments\\1718298583_5.pdf",
             "paragraphs": {
                 "adobe_api": [
@@ -798,7 +798,7 @@
             "case_number": "SC 349/2022",
             "title": "FMC CORPORATION & ORS. VS NATCO PHARMA LIMITED",
             "date": "19/09/2022",
-            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/JIS/judgement/20-09-2022//JIS19092022SC3492022_205751.pdf&ID=1718298583_6",
+            "document_href": "http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/JIS/judgement/20-09-2022//JIS19092022SC3492022_205751.pdf&ID=1718298583_6",
             "document_path": "data\\judgments\\DHC Judgments\\1718298583_6.pdf",
             "paragraphs": {
                 "adobe_api": [
@@ -1121,7 +1121,7 @@
             "case_number": "SC 19/2022",
             "title": "STERLITE TECHNOLOGIES LIMITED VS HFCL LIMITED",
             "date": "14/09/2022",
-            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/15-09-2022//PMS14092022SC192022_150835.pdf&ID=1718298583_7",
+            "document_href": "http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/PMS/judgement/15-09-2022//PMS14092022SC192022_150835.pdf&ID=1718298583_7",
             "document_path": "data\\judgments\\DHC Judgments\\1718298583_7.pdf",
             "paragraphs": {
                 "adobe_api": [
@@ -1618,7 +1618,7 @@
             "case_number": "WO 15/2021",
             "title": "HARYANA PESTICIDES MANUFACTURES ASSOCIATION VS WILLOWOOD CHEMICALS PRIVATE LIMITED",
             "date": "12/09/2022",
-            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/YKH/judgement/12-09-2022//YKH12092022WO152021_131920.pdf&ID=1718298583_8",
+            "document_href": "http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/YKH/judgement/12-09-2022//YKH12092022WO152021_131920.pdf&ID=1718298583_8",
             "document_path": "data\\judgments\\DHC Judgments\\1718298583_8.pdf",
             "paragraphs": {
                 "adobe_api": [

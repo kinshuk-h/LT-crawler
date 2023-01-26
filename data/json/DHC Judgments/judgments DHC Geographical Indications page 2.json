@@ -46,8 +46,8 @@
                 "20/05/2020"
             ],
             "document_href": [
-                "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/VIB/judgement/20-05-2020//VIB20052020CW17762016_154120.pdf&ID=2042634318_0",
-                "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/VIB/judgement/20-05-2020//VIB20052020CW35562017_154244.pdf&ID=2042634318_1"
+                "http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/VIB/judgement/20-05-2020//VIB20052020CW17762016_154120.pdf&ID=2042634318_0",
+                "http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/VIB/judgement/20-05-2020//VIB20052020CW35562017_154244.pdf&ID=2042634318_1"
             ],
             "document_path": "data\\judgments\\DHC Judgments\\2042634318_0.pdf",
             "paragraphs": {
@@ -383,7 +383,7 @@
             "case_number": "CW 12105/2019",
             "title": "PHARMACYCLICS LLC VS UNION OF INDIA AND ORS.",
             "date": "20/11/2019",
-            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PMS/judgement/16-12-2019//PMS20112019CW121052019.pdf&ID=2042634318_2",
+            "document_href": "http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/PMS/judgement/16-12-2019//PMS20112019CW121052019.pdf&ID=2042634318_2",
             "document_path": "data\\judgments\\DHC Judgments\\2042634318_2.pdf",
             "paragraphs": {
                 "adobe_api": [
@@ -712,7 +712,7 @@
             "case_number": "CW 5571/2019",
             "title": "MYLAN LABORATORIES LIMITED VS UNION OF INDIA & ORS",
             "date": "08/07/2019",
-            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/JRM/judgement/08-07-2019//JRM08072019CW55712019.pdf&ID=2042634318_3",
+            "document_href": "http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/JRM/judgement/08-07-2019//JRM08072019CW55712019.pdf&ID=2042634318_3",
             "document_path": "data\\judgments\\DHC Judgments\\2042634318_3.pdf",
             "paragraphs": {
                 "adobe_api": [
@@ -1179,7 +1179,7 @@
             "case_number": "S 893/2015",
             "title": "FDC LIMITED VS DOCSUGGEST HEALTHCARE SERVICES PVT. LTD. & ANR.",
             "date": "03/01/2017",
-            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/VSA/judgement/03-01-2017/VSA03012017S8932015.pdf&ID=2042634318_4",
+            "document_href": "http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/VSA/judgement/03-01-2017/VSA03012017S8932015.pdf&ID=2042634318_4",
             "document_path": "data\\judgments\\DHC Judgments\\2042634318_4.pdf",
             "paragraphs": {
                 "adobe_api": [
@@ -1670,7 +1670,7 @@
             "case_number": "S 1416/2009",
             "title": "SUBHASHINI MALIK VS S.K. GANDHI & ORS",
             "date": "06/09/2016",
-            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/SKN/judgement/07-09-2016/SKN06092016S14162009.pdf&ID=2042634318_5",
+            "document_href": "http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/SKN/judgement/07-09-2016/SKN06092016S14162009.pdf&ID=2042634318_5",
             "document_path": "data\\judgments\\DHC Judgments\\2042634318_5.pdf",
             "paragraphs": {
                 "adobe_api": [
@@ -2671,7 +2671,7 @@
             "case_number": "FAOOS 50/2016",
             "title": "HINDPAL SINGH JABBAL & ORS VS JASBIR SINGH & ORS",
             "date": "22/08/2016",
-            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/BDA/judgement/01-09-2016/BDA22082016FAOOS502016.pdf&ID=2042634318_6",
+            "document_href": "http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/BDA/judgement/01-09-2016/BDA22082016FAOOS502016.pdf&ID=2042634318_6",
             "document_path": "data\\judgments\\DHC Judgments\\2042634318_6.pdf",
             "paragraphs": {
                 "adobe_api": [
@@ -2784,7 +2784,7 @@
             "case_number": "S 2934/2011",
             "title": "J.C. BAMFORD EXCAVATORS LIMITED & ANR VS BULL MACHINES PVT LTD",
             "date": "01/04/2016",
-            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/MAN/judgement/05-01-2016/MAN04012016S29342011.pdf&ID=2042634318_7",
+            "document_href": "http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/MAN/judgement/05-01-2016/MAN04012016S29342011.pdf&ID=2042634318_7",
             "document_path": "data\\judgments\\DHC Judgments\\2042634318_7.pdf",
             "paragraphs": {
                 "adobe_api": [
@@ -2939,7 +2939,7 @@
             "case_number": "OI 16/2015",
             "title": "ASCOT ESTATES PVT. LTD. VS BON VIVANT LIFE STYLE PVT. LTD.",
             "date": "12/10/2015",
-            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/PNJ/judgement/10-12-2015/PNJ10122015OI162015.pdf&ID=2042634318_8",
+            "document_href": "http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/PNJ/judgement/10-12-2015/PNJ10122015OI162015.pdf&ID=2042634318_8",
             "document_path": "data\\judgments\\DHC Judgments\\2042634318_8.pdf",
             "paragraphs": {
                 "adobe_api": [
@@ -3190,7 +3190,7 @@
             "case_number": "S 1960/2006",
             "title": "JIVA INSTITUTE OF VEDIC SCIENCE & CULTURE & ORS VS THE INDIAN HOTELS COMPANY LIMITED & ANR",
             "date": "12/04/2015",
-            "document_href": "http://dhcappl.nic.in:8080/FreeText/download.do?FILENAME=dhc/MAN/judgement/05-12-2015/MAN04122015S19602006.pdf&ID=2042634318_9",
+            "document_href": "http://dhcappl.nic.in/FreeText/download.do?FILENAME=dhc/MAN/judgement/05-12-2015/MAN04122015S19602006.pdf&ID=2042634318_9",
             "document_path": "data\\judgments\\DHC Judgments\\2042634318_9.pdf",
             "paragraphs": {
                 "adobe_api": [

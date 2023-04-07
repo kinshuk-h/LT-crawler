@@ -5,6 +5,7 @@ SampleJudgments
 docs/**
 data/judgments/**
 PDFServicesSDKSamples/**
+tmp/**
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

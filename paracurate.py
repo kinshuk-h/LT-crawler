@@ -88,7 +88,7 @@ def main():
 
     args = parser.parse_args()
 
-    if not any(query for query in args.queries) and args.court != 'SC':
+    if not any(query for query in args.queries) and 'SC' not in args.courts:
         print(parser.prog, ": error: specify at least one query", sep='',
               file=sys.stderr, flush=True)
         sys.exit(1)
